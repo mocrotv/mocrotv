@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,|PT| Eleven Sports 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/48637
+#EXTINF:0,|PT| Eleven Sports 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/48638
+#EXTINF:0,|PT| Eleven Sports 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/48639
+#EXTINF:0,|PT| Eleven Sports 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/48640
+#EXTINF:0,|PT| Eleven Sports 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/48641
+#EXTINF:0,|PT| Eleven Sports 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/48642
+
+#EXTINF:0,|PT| ELEVEN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439371
+#EXTINF:0,|PT| ELEVEN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439372
+#EXTINF:0,|PT| ELEVEN SPORTS  3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439373
+#EXTINF:0,|PT| ELEVEN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439374
+#EXTINF:0,|PT| ELEVEN SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439375
+#EXTINF:0,|PT| ELEVEN SPORTS 6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439376
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",ElevenSport1 Poland
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="LIVE STREAMING",ElevenSport2 Poland
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+#EXTINF:0,|PT| FIGHT NETWORK HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439380
+#EXTINF:0,|PT| A BOLA TV HD 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439379
+#EXTINF:0,|PT| BTV 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439378
+#EXTINF:0,|PT| SPORTING TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439377
