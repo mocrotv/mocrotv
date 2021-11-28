@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,|NIGERIA| ABN
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51800
+#EXTINF:0,|NIGERIA| AIT INTER
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51801
+#EXTINF:0,|NIGERIA| BET BLACK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51802
+#EXTINF:0,|NIGERIA| CHANNELS TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51803
+#EXTINF:0,|NIGERIA| EMMANUEL TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51804
+#EXTINF:0,|NIGERIA| GOD CHANNEL
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51805
+#EXTINF:0,|NIGERIA| GOSPEL
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51806
+#EXTINF:0,|NIGERIA| LOVE WORLD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51807
+#EXTINF:0,|NIGERIA| MORE GRACE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51808
+#EXTINF:0,|NIGERIA| RAVE TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51809
+#EXTINF:0,|NIGERIA| ROK TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51810
+#EXTINF:0,|NIGERIA| TVC
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51811
+#EXTINF:0,|NIGERIA| TVC NEWS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51812
+#EXTINF:0,|NIGERIA| VOX
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51813
+#EXTINF:0,|NIGERIA| VOX AFRICA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51814
