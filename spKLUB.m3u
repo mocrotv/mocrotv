@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,CRO (HD) -Sport Klub 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37147
+#EXTINF:0,CRO (HD) -Sport Klub 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37149
+#EXTINF:0,CRO (HD) -Sport Klub 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37150
+#EXTINF:0,CRO (HD) -Sport Klub 4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37151
+#EXTINF:0,CRO (HD) -Sport Klub 5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37152
+#EXTINF:0,CRO (HD) -Sport Klub 6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37153
+#EXTINF:0,CRO (HD) -Sport Klub 7 HD  [Live During Events Only]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37154
+#EXTINF:0,CRO (HD) -Sport Klub 8 HD  [Live During Events Only]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37155
+#EXTINF:0,CRO (HD) -Sport Klub 9 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37156
+#EXTINF:0,CRO (HD) -Sport Klub 10 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37148
+#EXTINF:0,CRO (HD) -Sportklub 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37157
+#EXTINF:0,CRO (HD) -Sportklub 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37158
+#EXTINF:0,CRO (HD) -Sportklub 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37159
+#EXTINF:0,CRO (HD) -Sportklub 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37160
+#EXTINF:0,CRO (HD) -Sportklub 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37161
+#EXTINF:0,CRO (HD) -Sportklub 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37162
+#EXTINF:0,CRO (HD) -Sportklub Golf
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37163
+#EXTINF:0,CRO (HD) -Fight Channel
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/37054
