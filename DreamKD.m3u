@@ -1,0 +1,625 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,Rudaw TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467659
+#EXTINF:0,K24 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467794
+#EXTINF:0,K4U TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467661
+#EXTINF:0,Kurdsat TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467803
+#EXTINF:0,Kurdistan TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467660
+#EXTINF:0,Kurdsat News HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467802
+#EXTINF:0,Gali Kurdistan TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467791
+#EXTINF:0,NRT 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467689
+#EXTINF:0,Iraqia Kurdish TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467792
+#EXTINF:0,KIRKUK TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467782
+#EXTINF:0,TRT 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467688
+#EXTINF:0,MMN News HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467753
+#EXTINF:0,Zagros TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467686
+#EXTINF:0,Waar TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467687
+#EXTINF:0,Speda TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467698
+#EXTINF:0,Payam TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467808
+#EXTINF:0,NRT 2 HD Sorani
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467690
+#EXTINF:0,KurdMax manji HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467798
+#EXTINF:0,KurdMax Show HD Sorani
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467799
+#EXTINF:0,KurdMax Showrmanji HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467800
+#EXTINF:0,KurdMax Sorani HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467801
+#EXTINF:0,Net TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467805
+#EXTINF:0,AVA Entertainment
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467787
+#EXTINF:0,AVA TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467788
+#EXTINF:0,Biaban Music HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467701
+#EXTINF:0,Biaban Sport HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467702
+#EXTINF:0,Korek TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467797
+#EXTINF:0,Clip TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467664
+#EXTINF:0,MMN Clip HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467749
+#EXTINF:0,Sima TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467669
+#EXTINF:0,Dasinya Music 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467681
+#EXTINF:0,NewMax Music HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467760
+#EXTINF:0,Krd Show HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467743
+#EXTINF:0,Heva HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467708
+#EXTINF:0,MMN Classic Musical
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467748
+#EXTINF:0,iMovies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467710
+#EXTINF:0,Biaban Family HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467699
+#EXTINF:0,Biaban Movies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467700
+#EXTINF:0,Niga Family HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467761
+#EXTINF:0,Niga Movies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467763
+#EXTINF:0,MMN Movies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467752
+#EXTINF:0,MMN Show HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467755
+#EXTINF:0,Movies 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467730
+#EXTINF:0,Movies 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467731
+#EXTINF:0,NewLine 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467757
+#EXTINF:0,NewLine 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467758
+#EXTINF:0,Hawler TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467662
+#EXTINF:0,Havrang
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467663
+#EXTINF:0,Cihan HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467665
+#EXTINF:0,Binin
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467666
+#EXTINF:0,Zhayala TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467667
+#EXTINF:0,Zed TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467668
+#EXTINF:0,Bask
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467670
+#EXTINF:0,UTV Duhok
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467671
+#EXTINF:0,Badinan
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467672
+#EXTINF:0,Soz TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467673
+#EXTINF:0,KOG HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467674
+#EXTINF:0,Halabja TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467675
+#EXTINF:0,Sema TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467676
+#EXTINF:0,Niber TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467677
+#EXTINF:0,Amed TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467678
+#EXTINF:0,Kani TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467679
+#EXTINF:0,Dasinya HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467680
+#EXTINF:0,Dasinya Sport
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467682
+#EXTINF:0,Dasinya Kids
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467683
+#EXTINF:0,Berfrin TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467684
+#EXTINF:0,Zarok TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467685
+#EXTINF:0,NRT 3 Kids HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467691
+#EXTINF:0,NRT 4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467692
+#EXTINF:0,Duhok TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467693
+#EXTINF:0,Tishk TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467694
+#EXTINF:0,RONAHI TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467695
+#EXTINF:0,Sterk TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467696
+#EXTINF:0,Sahar TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467697
+#EXTINF:0,Delal TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467703
+#EXTINF:0,Derwaze TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467704
+#EXTINF:0,Duhok Sports HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467705
+#EXTINF:0,Ezid Xan TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467706
+#EXTINF:0,Helhelok TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467707
+#EXTINF:0,iBaby HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467709
+#EXTINF:0,Ishtar HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467711
+#EXTINF:0,JoJo MaMa HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467712
+#EXTINF:0,Judy HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467713
+#EXTINF:0,KaziwaTV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467714
+#EXTINF:0,Badini Movies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467715
+#EXTINF:0,Badini Series HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467716
+#EXTINF:0,Bollywood HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467717
+#EXTINF:0,Camping HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467718
+#EXTINF:0,Cartoon 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467719
+#EXTINF:0,Cartoon 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467720
+#EXTINF:0,Cinema 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467721
+#EXTINF:0,Cinema 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467722
+#EXTINF:0,Cinema 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467723
+#EXTINF:0,Cinema HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467724
+#EXTINF:0,Documentary HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467725
+#EXTINF:0,Explore
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467726
+#EXTINF:0,Fishing HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467727
+#EXTINF:0,Krdrdistan Nature HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467728
+#EXTINF:0,Laurel Hardy
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467729
+#EXTINF:0,MR. Bean HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467732
+#EXTINF:0,Pink Panther HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467733
+#EXTINF:0,Shaun The Sheep HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467734
+#EXTINF:0,Tatlises HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467735
+#EXTINF:0,Tom & Jerry HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467736
+#EXTINF:0,Wild Life HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467737
+#EXTINF:0,WWE HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467738
+#EXTINF:0,KRTV TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467739
+#EXTINF:0,Parwardayi TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467740
+#EXTINF:0,Krd One TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467741
+#EXTINF:0,Krd Show Doc HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467742
+#EXTINF:0,Krd Show Kids
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467744
+#EXTINF:0,Krd Show Movies
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467745
+#EXTINF:0,Krd TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467746
+#EXTINF:0,Minara HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467747
+#EXTINF:0,MMN Documentary HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467750
+#EXTINF:0,MMN Kids HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467751
+#EXTINF:0,MMN Quran HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467754
+#EXTINF:0,MMN Sport HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467756
+#EXTINF:0,NewMax Kids HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467759
+#EXTINF:0,Niga Kids HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467762
+#EXTINF:0,Niroj TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467764
+#EXTINF:0,Nubar
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467765
+#EXTINF:0,One HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467766
+#EXTINF:0,Paewadayi Duhok TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467767
+#EXTINF:0,Qellat HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467768
+#EXTINF:0,Rasan HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467769
+#EXTINF:0,Reng Document HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467770
+#EXTINF:0,Reng Sport HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467771
+#EXTINF:0,Reng TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467772
+#EXTINF:0,Shaista TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467773
+#EXTINF:0,Speda Drama HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467774
+#EXTINF:0,Srusht HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467775
+#EXTINF:0,Bollywood
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467776
+#EXTINF:0,Cinema 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467777
+#EXTINF:0,Amozhgary HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467778
+#EXTINF:0,JoJo MaMa
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467779
+#EXTINF:0,MINBIJ TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467780
+#EXTINF:0,CAN TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467781
+#EXTINF:0,PAYAM
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467783
+#EXTINF:0,4Kurd
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467784
+#EXTINF:0,Amozhgary TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467785
+#EXTINF:0,Aryen TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467786
+#EXTINF:0,Bangawaz TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467789
+#EXTINF:0,Cira TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467790
+#EXTINF:0,Jin HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467793
+#EXTINF:0,Kirkuk TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467795
+#EXTINF:0,Komal TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467796
+#EXTINF:0,Med Music TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467804
+#EXTINF:0,Neu TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467806
+#EXTINF:0,Parwardayi TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467807
+#EXTINF:0,Rojava HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467809
+#EXTINF:0,Lalish TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467810
+#EXTINF:0,Pesh Marga TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467811
+#EXTINF:0,KrdCinema Action 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467812
+#EXTINF:0,KrdCinema Action 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467813
+#EXTINF:0,KrdCinema Action 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467814
+#EXTINF:0,KrdCinema Action 4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467815
+#EXTINF:0,KrdCinema Action 5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467816
+#EXTINF:0,KrdCinema Action 6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467817
+#EXTINF:0,KrdCinema Action 7 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467818
+#EXTINF:0,KrdCinema Action 8 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467819
+#EXTINF:0,KrdCinema Action 9 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467820
+#EXTINF:0,Krd Cinema Action 10 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467821
+#EXTINF:0,KrdCinema Action 11 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467822
+#EXTINF:0,KrdCinema Action 12 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467823
+#EXTINF:0,KrdCinema Action 13 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467824
+#EXTINF:0,KrdCinema Action 14 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467825
+#EXTINF:0,KrdCinema Action 15 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467826
+#EXTINF:0,KrdCinema Action 16 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467827
+#EXTINF:0,KrdCinema Action 17 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467828
+#EXTINF:0,KrdCinema Animation 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467829
+#EXTINF:0,KrdCinema Animation 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467830
+#EXTINF:0,KrdCinema Animation 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467831
+#EXTINF:0,KrdCinema Animation 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467832
+#EXTINF:0,KrdCinema Animation 4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467833
+#EXTINF:0,KrdCinema Animation 5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467834
+#EXTINF:0,KrdCinema Animation 6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467835
+#EXTINF:0,KrdCinema Animation 7 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467836
+#EXTINF:0,KrdCinema Animation 8 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467837
+#EXTINF:0,KrdCinema Animation 9 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467838
+#EXTINF:0,KrdCinema Animation 10 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467839
+#EXTINF:0,KrdCinema Animation 11 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467840
+#EXTINF:0,KrdCinema Animation 12 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467841
+#EXTINF:0,KrdCinema Biography 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467842
+#EXTINF:0,KrdCinema Biography 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467843
+#EXTINF:0,KrdCinema Biography 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467844
+#EXTINF:0,KrdCinema Biography 4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467845
+#EXTINF:0,KrdCinema Biography 5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467846
+#EXTINF:0,KrdCinema Biography 6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467847
+#EXTINF:0,KrdCinema Biography 7 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467848
+#EXTINF:0,KrdCinema Biography 8 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467849
+#EXTINF:0,KrdCinema Biography 9 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467850
+#EXTINF:0,KrdCinema Biography 10 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467851
+#EXTINF:0,KrdCinema Biography 11 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467852
+#EXTINF:0,KrdCinema Biography 12 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467853
+#EXTINF:0,KrdCinema Comedy 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467854
+#EXTINF:0,KrdCinema Comedy 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467855
+#EXTINF:0,KrdCinema Comedy 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467856
+#EXTINF:0,KrdCinema Comedy 4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467857
+#EXTINF:0,KrdCinema Comedy 5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467858
+#EXTINF:0,KrdCinema Comedy 6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467859
+#EXTINF:0,KrdCinema Comedy 7 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467860
+#EXTINF:0,KrdCinema Comedy 8 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467861
+#EXTINF:0,KrdCinema Comedy 9 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467862
+#EXTINF:0,KrdCinema Comedy 10 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467863
+#EXTINF:0,KrdCinema Comedy 11 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467864
+#EXTINF:0,KrdCinema Comedy 12 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/467865
