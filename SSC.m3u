@@ -1,0 +1,158 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] الهلال X أبها [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match  بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0, ♢ (وقت المباراة)
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
+#EXTINF:0, (وقت المباراة) FHD
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
+#EXTINF:0, (وقت المباراة) HD
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_5.m3u8
+#EXTINF:0, (وقت المباراة) SD
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_7.m3u8
+#EXTINF:0, (وقت المباراة) LOW
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_1.m3u8
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] بوهانغ ستيلرز X الهلال [/color]
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/index.m3u8
+#EXTINF:0,بث المباراة 1 FHD
+https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/index_1.m3u8
+#EXTINF:0,بث المباراة 1 HD
+https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/index_2.m3u8
+#EXTINF:0,بث المباراة 1 SD
+https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/index_3.m3u8
+#EXTINF:0,بث المباراة 1 LOW
+https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/index_4.m3u8
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] ♢ العراق✘ سوريا ♢ [/color]
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://d1rua0vw3t0w31.cloudfront.net/out/v1/c2d5e0e9c0d1440f8df6b46db25cfd7e/index.m3u8
+#EXTINF:0,بث المباراة 1 FHD
+https://d1rua0vw3t0w31.cloudfront.net/out/v1/c2d5e0e9c0d1440f8df6b46db25cfd7e/index_1.m3u8
+#EXTINF:0,بث المباراة 1 HD
+https://d1rua0vw3t0w31.cloudfront.net/out/v1/c2d5e0e9c0d1440f8df6b46db25cfd7e/index_2.m3u8
+#EXTINF:0,بث المباراة 1 SD
+https://d1rua0vw3t0w31.cloudfront.net/out/v1/c2d5e0e9c0d1440f8df6b46db25cfd7e/index_3.m3u8
+#EXTINF:0,بث المباراة 1 LOW
+https://d1rua0vw3t0w31.cloudfront.net/out/v1/c2d5e0e9c0d1440f8df6b46db25cfd7e/index_4.m3u8
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] السيرفر الأول[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,SSC SPORTS HD 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295622
+#EXTINF:0,|SPO| SSC1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457300
+#EXTINF:0,SSC SPORTS HD 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295621
+#EXTINF:0,|SPO| SSC2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457301
+#EXTINF:0,SSC SPORTS HD 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295620
+#EXTINF:0,|SPO| SSC3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457302
+#EXTINF:0,SSC SPORTS HD 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295619
+#EXTINF:0,|SPO| SSC4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457303
+#EXTINF:0,SSC SPORTS HD 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295618
+#EXTINF:0,|SPO| SSC5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457304
+#EXTINF:0,SSC SPORTS HD 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295617
+#EXTINF:0,|SPO| SSC6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457305
+#EXTINF:0,SSC SPORTS HD 7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295616
+#EXTINF:0,|SPO| SSC7 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457306
+#EXTINF:0,AD ASIA LIVE event 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/435792
+#EXTINF:0,AD ASIA LIVE event 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/435791
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] السيرفر الثاني[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1,VIP AR: SSC 1 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80206
+#EXTINF:-1,VIP AR: SSC 2 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80234
+#EXTINF:-1,VIP AR: SSC 3 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80235
+#EXTINF:-1,VIP AR: SSC 4 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80236
+#EXTINF:-1,VIP AR: SSC 5 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80237
+#EXTINF:-1,VIP AR: SSC 6 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80238
+#EXTINF:-1,VIP AR: SSC 7 HD
+http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/80239
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] VPN السيرفر الثالث [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC SPORT 1
+http://xcchui2.mrnova.online/live/60817_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC Sports 2
+http://xcchui2.mrnova.online/live/60818_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC Sports 3
+http://xcchui2.mrnova.online/live/60819_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3CJ0qCE" group-title="SSC SPORT",SSC Sports 4
+http://xcchui2.mrnova.online/live/60820_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3BK1btC" group-title="SSC SPORT",SSC SPORT 5 FHD
+http://xcchui2.mrnova.online/live/60821_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3h01k4g" group-title="SSC SPORT",SSC SPORT 6 FHD
+http://xcchui2.mrnova.online/live/60822_.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2YAXDvF" group-title="SSC SPORT",SSC SPORT 7 FHD
+http://xcchui2.mrnova.online/live/60823_.m3u8?token=
+
+
