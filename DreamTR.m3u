@@ -1,0 +1,404 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,|TR| ATV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33801
+#EXTINF:0,|TR| A HABER
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33802
+#EXTINF:0,|TR| KANAL D
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33803
+#EXTINF:0,|TR| STAR TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33804
+#EXTINF:0,|TR| SHOW TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33805
+#EXTINF:0,|TR| TRT 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33806
+#EXTINF:0,|TR| TRT AVAZ
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33807
+#EXTINF:0,|TR| TRT BELGESEL
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33808
+#EXTINF:0,|TR| TRT COCUK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33809
+#EXTINF:0,|TR| TRT DIYANET
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33810
+#EXTINF:0,|TR| TRT HABER
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33811
+#EXTINF:0,|TR| TRT MUZIK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33812
+#EXTINF:0,|TR| TRT SPOR
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33813
+#EXTINF:0,|TR| TRT WORLD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33814
+#EXTINF:0,|TR| TURKMAX GURME
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33815
+#EXTINF:0,|TR| HABERTURK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33816
+#EXTINF:0,|TR| EURONEWS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33817
+#EXTINF:0,|TR| BLOOMBERG
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33818
+#EXTINF:0,|TR| CNN TURK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33819
+#EXTINF:0,|TR| KANAL 24
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33820
+#EXTINF:0,|TR| KANAL 7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33821
+#EXTINF:0,|TR| A2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33822
+#EXTINF:0,|TR| TLC SD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33823
+#EXTINF:0,|TR| TV4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33824
+#EXTINF:0,|TR| TV8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33825
+#EXTINF:0,|TR| TV8.5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33826
+#EXTINF:0,|TR| TVEM
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33827
+#EXTINF:0,|TR| TVNET
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33828
+#EXTINF:0,|TR| ULKE TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33829
+#EXTINF:0,|TR| YABAN TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33831
+#EXTINF:0,|TR| 24 TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33834
+#EXTINF:0,|TR| 360 TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33835
+#EXTINF:0,|TR| BENGU TURK TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33836
+#EXTINF:0,|TR| BEYAZ TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33837
+#EXTINF:0,|TR| FOX CRIME TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33838
+#EXTINF:0,|TR| FOX LIFE TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33839
+#EXTINF:0,|TR| FOX TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33840
+#EXTINF:0,|TR| FX
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33841
+#EXTINF:0,|TR| TGRT HABER
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33842
+#EXTINF:0,|TR| SONY COCUK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33843
+#EXTINF:0,|TR| SONY TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33844
+#EXTINF:0,|TR| NTV HABER
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33845
+#EXTINF:0,|TR| NUMBER1 TURK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33846
+#EXTINF:0,|TR| POWERTURK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33847
+#EXTINF:0,|TR| TLC
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33849
+#EXTINF:0,|TR| BABY TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33850
+#EXTINF:0,|TR| BOOMERANG
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33851
+#EXTINF:0,|TR| CARTON NETWORK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33852
+#EXTINF:0,|TR| DISNEY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33853
+#EXTINF:0,|TR| DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33854
+#EXTINF:0,|TR| DISNEY XD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33855
+#EXTINF:0,|TR| NICKELODEON
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33856
+#EXTINF:0,|TR| NICKJR
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33857
+#EXTINF:0,|TR| MINIKA COCUK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33858
+#EXTINF:0,|TR| MINIKA GO
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33859
+#EXTINF:0,|TR| NATIONAL GEO
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33860
+#EXTINF:0,|TR| NATIONAL GEO PEOPLE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33861
+#EXTINF:0,|TR| NATIONAL GEO WILD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33862
+#EXTINF:0,|TR| ANIMAL PLANET TR
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33863
+#EXTINF:0,|TR| DISCOVERY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33864
+#EXTINF:0,|TR| DISCOVERY SHOWCASE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33865
+#EXTINF:0,|TR| DISCOVERY SIENCE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33866
+#EXTINF:0,|TR| DTX
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33867
+#EXTINF:0,|TR| HISTORY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33868
+#EXTINF:0,|TR| HISTORY VIASAT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33869
+#EXTINF:0,|TR| beIN BOX OFFICE 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33870
+#EXTINF:0,|TR| beIN BOX OFFICE 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33871
+#EXTINF:0,|TR| beIN BOX OFFICE 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33872
+#EXTINF:0,|TR| BEIN MOVIE Turk HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33915
+#EXTINF:0,|TR| BEIN MOVIES COMEDY HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33916
+#EXTINF:0,|TR| BEIN MOVIES FESTIVAL HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33917
+#EXTINF:0,|TR| BEIN MOVIES PREMIER HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33918
+#EXTINF:0,|TR| BEINMOVIES ACTION
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33919
+#EXTINF:0,|TR| BEINMOVIES ACTION HD2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33920
+#EXTINF:0,|TR| BEINMOVIES FAMILY HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33921
+#EXTINF:0,|TR| BEINMOVIES PREMIER HD2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33922
+#EXTINF:0,|TR| BEINMOVIES STARS HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33923
+#EXTINF:0,|TR| CAPTAIN MOVIES 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33873
+#EXTINF:0,|TR| CAPTAIN MOVIES 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33874
+#EXTINF:0,|TR| CAPTAIN MOVIES 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33875
+#EXTINF:0,|TR| CAPTAIN MOVIES 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33876
+#EXTINF:0,|TR| CAPTAIN MOVIES 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33877
+#EXTINF:0,|TR| FILMBOX- AILE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33878
+#EXTINF:0,|TR| FILMBOX- AKSIYON
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33879
+#EXTINF:0,|TR| FILMBOX- AKSIYON 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33880
+#EXTINF:0,|TR| FILMBOX- ANIMASYON
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33881
+#EXTINF:0,|TR| FILMBOX- BILIMKURGU
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33882
+#EXTINF:0,|TR| FILMBOX- DRAM
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33883
+#EXTINF:0,|TR| FILMBOX- FANTASTIK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33884
+#EXTINF:0,|TR| FILMBOX- GERMANY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33885
+#EXTINF:0,|TR| SINEMA TV YERLI HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33886
+#EXTINF:0,|TR| SINEMA TV KOMEDI 2HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33887
+#EXTINF:0,|TR| SINEMA TV AILE HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33888
+#EXTINF:0,|TR|  SINEMA TV ACTION HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33889
+#EXTINF:0,|TR| FILMBOX- YESILCAM
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33890
+#EXTINF:0,|TR| FILMBOX- ADRENALIN
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33891
+#EXTINF:0,|TR| SINEMA TV 1002 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33830
+#EXTINF:0,|TR| SINEMA TV 1001 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33832
+#EXTINF:0,|TR| SINEMA  TV  HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33833
+#EXTINF:0,|TR| SineMax Comedy HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33909
+#EXTINF:0,|TR| SineMax Drama HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33910
+#EXTINF:0,|TR| SineMax Family HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33911
+#EXTINF:0,|TR| SineMax Fear HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33912
+#EXTINF:0,|TR| SineMax Nostalgia HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33913
+#EXTINF:0,|TR| SineMax Turk HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33914
+#EXTINF:0,|TR| MOVIESMART TURK HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33907
+#EXTINF:0,|TR| MOVIESMART PLATIN HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33924
+#EXTINF:0,|TR| MOVIESMART PREMIUM HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33925
+#EXTINF:0,|TR| MOVIESMART PREMIUM HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33926
+#EXTINF:0,|TR| MOVIESMART PLATIN HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33927
+#EXTINF:0,|TR| MOVIESMART GOLD HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33928
+#EXTINF:0,|TR| MOVIESMART FEST HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33929
+#EXTINF:0,|TR| MOVIESMART FAMILY HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33930
+#EXTINF:0,|TR| MagicBox Loca 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33931
+#EXTINF:0,|TR| MagicBox Loca 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33932
+#EXTINF:0,|TR| MagicBox Loca 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33933
+#EXTINF:0,|TR| MaGicBoX  Yerli HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33908
+#EXTINF:0,|TR| MaGicBoX Western HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33934
+#EXTINF:0,|TR| beIN HABER
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33894
+#EXTINF:0,|TR| beINSPORT1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33899
+#EXTINF:0,|TR| BEIN SPORT 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33895
+#EXTINF:0,|TR| beINSPORT2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33900
+#EXTINF:0,|TR| BEIN SPORT 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33896
+#EXTINF:0,|TR| beINSPORT3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33901
+#EXTINF:0,|TR| BEIN SPORT 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33897
+#EXTINF:0,|TR| BEIN SPORT 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33898
+#EXTINF:0,|TR| EUROSPORT-1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33892
+#EXTINF:0,|TR| EUROSPORT-2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33893
+#EXTINF:0,|TR| A SPOR
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33902
+#EXTINF:0,|TR| SMART SPOR-1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33903
+#EXTINF:0,|TR| S-SPORT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33904
+#EXTINF:0,|TR| NBA TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33905
+#EXTINF:0,|TR| NTV SPOR
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33906
