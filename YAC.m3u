@@ -5,67 +5,67 @@ https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,SPO: beIN Sports Premium 1 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/1
+http://91.239.130.57:25461/sportway/sportway_android/1
 #EXTINF:0,SPO: beIN Sports Premium 2 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/2
+http://91.239.130.57:25461/sportway/sportway_android/2
 #EXTINF:0,SPO: beIN Sports Premium 3 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/3
+http://91.239.130.57:25461/sportway/sportway_android/3
 #EXTINF:0,SPO: beIN Sports 1 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/4
+http://91.239.130.57:25461/sportway/sportway_android/4
 #EXTINF:0,SPO: beIN Sports 2 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/5
+http://91.239.130.57:25461/sportway/sportway_android/5
 #EXTINF:0,SPO: beIN Sports 3 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/6
+http://91.239.130.57:25461/sportway/sportway_android/6
 #EXTINF:0,SPO: beIN Sports 4 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/7
+http://91.239.130.57:25461/sportway/sportway_android/7
 #EXTINF:0,SPO: beIN Sports 5 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/8
+http://91.239.130.57:25461/sportway/sportway_android/8
 #EXTINF:0,SPO: beIN Sports Pre 1 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/9
+http://91.239.130.57:25461/sportway/sportway_android/9
 #EXTINF:0,SPO: beIN Sports Pre 2 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/10
+http://91.239.130.57:25461/sportway/sportway_android/10
 #EXTINF:0,SPO: beIN Sports Pre 3 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/11
+http://91.239.130.57:25461/sportway/sportway_android/11
 #EXTINF:0,SPO: beIN Sports 1 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/12
+http://91.239.130.57:25461/sportway/sportway_android/12
 #EXTINF:0,SPO: beIN Sports 2 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/13
+http://91.239.130.57:25461/sportway/sportway_android/13
 #EXTINF:0,SPO: beIN Sports 3 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/14
+http://91.239.130.57:25461/sportway/sportway_android/14
 #EXTINF:0,SPO: beIN Sports 4 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/15
+http://91.239.130.57:25461/sportway/sportway_android/15
 #EXTINF:0,SPO: beIN Sports 5 SD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/16
+http://91.239.130.57:25461/sportway/sportway_android/16
 #EXTINF:0,SPORTS-ON-TIME-1
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/17
+http://91.239.130.57:25461/sportway/sportway_android/17
 #EXTINF:0,SPORTS-ON-TIME-2
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/18
+http://91.239.130.57:25461/sportway/sportway_android/18
 #EXTINF:0,SPORTS-ON-TIME-3
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/19
+http://91.239.130.57:25461/sportway/sportway_android/19
 #EXTINF:0,beIN Sport XTRA 1 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/20
+http://91.239.130.57:25461/sportway/sportway_android/20
 #EXTINF:0,beIN Sport XTRA 2 HD
 #EXTVLCOPT:http-user-agent=Lavf/58.12.100
-http://91.239.130.57:25461/sportway_ios/sportway_android/21
+http://91.239.130.57:25461/sportway/sportway_android/21
 
 
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//1192a86c980b980f4cc95ca116aac011.png" group-title="بين سبور BEIN SPORT" tvg-name="Bein Sports HD 4",Bein Sports HD 4
