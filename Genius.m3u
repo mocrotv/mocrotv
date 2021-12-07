@@ -47,23 +47,23 @@ http://1.banglokora.xyz/live/0103088447/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports 4 LOW
 http://1.banglokora.xyz/live/131326625/index.m3u8
 #EXTINF:0 tvg-id="bein5hd.jsc" group-title=" AdrarTV",beIN Sports 5 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
+http://1.banglokora.xyz/live/610303030/index.m3u8
 #EXTINF:0 tvg-id="bein5hd.jsc" group-title=" AdrarTV",beIN Sports 5 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/115451004/index.m3u8
+http://1.banglokora.xyz/live/115451004/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports 5 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/181818444/index.m3u8
+http://1.banglokora.xyz/live/181818444/index.m3u8
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title=" AdrarTV",beIN Sports 6 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
+http://1.banglokora.xyz/live/1515000000/index.m3u8
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title=" AdrarTV",beIN Sports 6 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/788550011/index.m3u8
+http://1.banglokora.xyz/live/788550011/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports 6 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/9883322/index.m3u8
+http://1.banglokora.xyz/live/9883322/index.m3u8
 #EXTINF:0 tvg-id="bein7hd.jsc" group-title=" AdrarTV",beIN Sports 7 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/791001144/index.m3u8
+http://1.banglokora.xyz/live/791001144/index.m3u8
 #EXTINF:0 tvg-id="bein7hd.jsc" group-title=" AdrarTV",beIN Sports 7 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/100666696/index.m3u8
+http://1.banglokora.xyz/live/100666696/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports 7 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/130306224/index.m3u8
+http://1.banglokora.xyz/live/130306224/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports Xtra 1 HD
 http://1.banglokora.xyz/live/996256440/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports Xtra 2 HD
@@ -141,23 +141,23 @@ http://b.banourahga.xyz/live/0103088447/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports 4 LOW
 http://b.banourahga.xyz/live/131326625/index.m3u8
 #EXTINF:0 tvg-id="bein5hd.jsc" group-title=" AdrarTV",beIN Sports 5 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/610303030/index.m3u8
+http://b.banourahga.xyz/live/610303030/index.m3u8
 #EXTINF:0 tvg-id="bein5hd.jsc" group-title=" AdrarTV",beIN Sports 5 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/115451004/index.m3u8
+http://b.banourahga.xyz/live/115451004/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports 5 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/181818444/index.m3u8
+http://b.banourahga.xyz/live/181818444/index.m3u8
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title=" AdrarTV",beIN Sports 6 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
+http://b.banourahga.xyz/live/1515000000/index.m3u8
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title=" AdrarTV",beIN Sports 6 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/788550011/index.m3u8
+http://b.banourahga.xyz/live/788550011/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports 6 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/9883322/index.m3u8
+http://b.banourahga.xyz/live/9883322/index.m3u8
 #EXTINF:0 tvg-id="bein7hd.jsc" group-title=" AdrarTV",beIN Sports 7 HD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/791001144/index.m3u8
+http://b.banourahga.xyz/live/791001144/index.m3u8
 #EXTINF:0 tvg-id="bein7hd.jsc" group-title=" AdrarTV",beIN Sports 7 SD
-http://55.banrhfour.xyz.global.prod.fastly.net/live/100666696/index.m3u8
+http://b.banourahga.xyz/live/100666696/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports 7 LOW
-http://55.banrhfour.xyz.global.prod.fastly.net/live/130306224/index.m3u8
+http://b.banourahga.xyz/live/130306224/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports Xtra 1 HD
 http://b.banourahga.xyz/live/996256440/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Sports Xtra 2 HD
