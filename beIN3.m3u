@@ -6,6 +6,71 @@ https://i.imgur.com/5Wiki1T.jpg
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
+#EXTINF:0,#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/1
+#EXTINF:0,beIN Sports 1 Premium HD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/2
+#EXTINF:0,beIN Sport 2 Premium HD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/3
+#EXTINF:0,beIN Sports 3 Premium HD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/4
+#EXTINF:0,beIN Sports 1 Premium SD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/12
+#EXTINF:0,beIN Sports 2 Premium SD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/13
+#EXTINF:0,beIN Sports 3 Premium SD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/14
+#EXTINF:0,beIN Sports 1 HD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/5
+#EXTINF:0,beIN Sports 2 HD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/6
+#EXTINF:0,beIN Sports 3 HD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/7
+#EXTINF:0,beIN Sports 4 HD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/8
+#EXTINF:0,beIN Sport HD 5
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/9
+#EXTINF:0,beIN Sport HD 6
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/10
+#EXTINF:0,beIN Sport HD 7
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/11
+#EXTINF:0,beIN Sports 1 SD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/15
+#EXTINF:0,beIN Sports 2 SD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/16
+#EXTINF:0,beIN Sports 3 SD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/17
+#EXTINF:0,beIN Sports 4 SD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/18
+#EXTINF:0,beIN Sport 5  SD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/19
+#EXTINF:0,beIN Sport 6 SD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/20
+#EXTINF:0,beIN Sport 7 SD
+#EXTVLCOPT:http-user-agent=Ayatv
+http://154.53.32.57:25461/Ayatv/beinsport/21
+
+
+
 #EXTINF:-1,beIN Sports 1 PREMIUM HD
 http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8
 #EXTINF:-1,beIN Sports 2 PREMIUM HD
