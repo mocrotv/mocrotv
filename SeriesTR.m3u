@@ -409,6 +409,9 @@ https://cdn.alarab.com/h264/168480_480p.mp4/index-v1-a1.m3u8?/AdrarTVseries/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Y730lK" group-title="مسلسل التركي القضاء",الحلقةS01E10
 https://cdn.alarab.com/h264/168572_480p.mp4/index-v1-a1.m3u8?/AdrarTVseries/
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Y730lK" group-title="مسلسل التركي القضاء",الحلقةS01E12
+https://cdn.alarab.com/h264/168872_480p.mp4/index-v1-a1.m3u8?/ss/
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢ المسلسل التركي : سرنا نحن الإثنان (منتهي) ♢ [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
@@ -1475,6 +1478,9 @@ https://cdn.alarab.com/h264/168223_480p.mp4/index-v1-a1.m3u8?/AdrarTVseries/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gBe3uO" group-title="مسلسل التركي أخوتي",الحلقةS01E28
 https://cdn.alarab.com/h264/168479_480p.mp4/index-v1-a1.m3u8?/ss/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3gBe3uO" group-title="مسلسل التركي أخوتي",الحلقةS01E31
+https://cdn.alarab.com/h264/168863_480p.mp4/index-v1-a1.m3u8?/ss/
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢ المسلسل التركي : المحارب 5 (منتهي) ♢ [/color]
 https://i.imgur.com/5Wiki1T.jpg
