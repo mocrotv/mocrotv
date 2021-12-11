@@ -8,55 +8,34 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red]♢ مصر ✘ أنغولا ♢ [/color]
-https://i.imgur.com/5Wiki1T.jpg
+
 
 #EXTINF:0, ♢  (وقت المباراة)
-https://d35yg02wxo963n.cloudfront.net/out/v1/a4a404a54d5643eab148d5e9d0b2b48f/index.m3u8
+
 #EXTINF:0, ♢  (وقت المباراة) FHD
-https://d35yg02wxo963n.cloudfront.net/out/v1/a4a404a54d5643eab148d5e9d0b2b48f/index_1.m3u8
+
 #EXTINF:0, ♢  (وقت المباراة) HD
-https://d35yg02wxo963n.cloudfront.net/out/v1/a4a404a54d5643eab148d5e9d0b2b48f/index_2.m3u8
+
 #EXTINF:0, ♢  (وقت المباراة) SD
-https://d35yg02wxo963n.cloudfront.net/out/v1/a4a404a54d5643eab148d5e9d0b2b48f/index_3.m3u8
+
 #EXTINF:0, ♢  (وقت المباراة) LOW
-https://d35yg02wxo963n.cloudfront.net/out/v1/a4a404a54d5643eab148d5e9d0b2b48f/index_4.m3u8
+
 
 
 
 #EXTINF:0,ON  Sport
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/3615
 #EXTINF:0,|AR| ONTIME SPORTS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/236760
 #EXTINF:0,|AR| ONTIME SPORTS2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/236761
 #EXTINF:0,|AR| ONTIME SPORTS3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/226605
 #EXTINF:0,|AR| ONTIME SPORTS3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/226606
 
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow] تعمل بالـ VPN[/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ON TIME SPORT SD
-http://xcchui2.mrnova.online/live/60100_.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ON TIME SPORT HD
-http://xcchui2.mrnova.online/live/60101_.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ON TIME SPORT FHD H265
-http://xcchui2.mrnova.online/live/60102_.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ON TIME SPORT 2 SD
-http://xcchui2.mrnova.online/live/60103_.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ON TIME SPORT 2 HD
-http://xcchui2.mrnova.online/live/60104_.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ON TIME SPORT 2 FHD H265
-http://xcchui2.mrnova.online/live/60105_.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ON TIME SPORT 3 SD
-http://xcchui2.mrnova.online/live/60106_.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="رياضية SPORT",ON TIME SPORT 3 HD
-http://xcchui2.mrnova.online/live/60107_.m3u8?token=
