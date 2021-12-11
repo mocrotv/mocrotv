@@ -4,86 +4,72 @@ https://i.imgur.com/5Wiki1T.jpg
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 1
-http://93.157.62.180/Supersport1/index.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 2
-http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 3
-http://93.157.62.180/Supersport3/index.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 4
-http://93.157.62.180/Supersport4/index.m3u8
-#EXTINF:-1 group-title="LIVE STREAMING",Super Sports 5
-http://93.157.62.180/Supersport5/index.m3u8
-
-#EXTINF:0,ALB -Super Sport News HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65737
-#EXTINF:0,ALB -SuperSport 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65688
-#EXTINF:0,ALB -Super Sport 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65689
-#EXTINF:0,ALB -SuperSport 1 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65690
-#EXTINF:0,ALB -SuperSport 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65691
-#EXTINF:0,ALB -Super Sport 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65738
-#EXTINF:0,ALB -Super Sport 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65692
-#EXTINF:0,ALB -SuperSport 2 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65693
-#EXTINF:0,ALB -SuperSport 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65694
-#EXTINF:0,ALB -Super Sport 3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65739
-#EXTINF:0,ALB -Super Sport 3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65695
-#EXTINF:0,ALB -SuperSport 3 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65696
-#EXTINF:0,ALB -SuperSport 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65697
-#EXTINF:0,ALB -Super Sport 4 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65740
-#EXTINF:0,ALB -Super Sport 4 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65698
-#EXTINF:0,ALB -SuperSport 4 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65699
-#EXTINF:0,ALB -SuperSport 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65700
-#EXTINF:0,ALB -Super Sport 5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65741
-#EXTINF:0,ALB -Super Sport 5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65701
-#EXTINF:0,ALB -SuperSport 5 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65702
-#EXTINF:0,ALB -SuperSport 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65703
-#EXTINF:0,ALB -Super Sport Kosova 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65704
-#EXTINF:0,ALB -Super Sport Kosova 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65705
-#EXTINF:0,ALB -SS-1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
-http://armada123.ddns.net:2082/DM_Snappyarr/adfsgbhgsvdfv/65709
+#EXTINF:0,|ALB| Super Sport 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439533
+#EXTINF:0,|ALB| Super Sport 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439534
+#EXTINF:0,|ALB| Super Sport 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439535
+#EXTINF:0,|ALB| Super Sport 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439536
+#EXTINF:0,|ALB| Super Sport 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439537
+#EXTINF:0,|ALB| Super Sport 4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439538
+#EXTINF:0,|ALB| Super Sport 4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439539
+#EXTINF:0,|ALB| Super Sport 5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439540
+#EXTINF:0,|ALB| Super Sport 5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439541
+#EXTINF:0,|ALB| Super Sport Kosova 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439542
+#EXTINF:0,|ALB| Super Sport News HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439543
+#EXTINF:0,|ALB| Supersonic TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439544
+#EXTINF:0,|ALB| SuperSport 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439545
+#EXTINF:0,|ALB| SuperSport 1 SD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439546
+#EXTINF:0,|ALB| SuperSport 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439547
+#EXTINF:0,|ALB| SuperSport 2 SD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439548
+#EXTINF:0,|ALB| SuperSport 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439549
+#EXTINF:0,|ALB| SuperSport 3 SD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439550
+#EXTINF:0,|ALB| SuperSport 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439551
+#EXTINF:0,|ALB| SuperSport 4 SD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439552
+#EXTINF:0,|ALB| SuperSport 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439553
+#EXTINF:0,|ALB| SuperSport 5 SD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439554
+#EXTINF:0,|ALB| SuperSport 6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439555
