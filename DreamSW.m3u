@@ -1,0 +1,737 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,|SW|SVT Kunskapskanalen HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242863
+#EXTINF:0,|SW|SVT Kunskapskanalen SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242864
+#EXTINF:0,|SW|SVT1 HD (B
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242868
+#EXTINF:0,|SW|SVT1 HD (B) SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242865
+#EXTINF:0,|SW|SVT1 HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242866
+#EXTINF:0,|SW|SVT1 SkAne SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242869
+#EXTINF:0,|SW|SVT1 Syd SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242867
+#EXTINF:0,|SW|SVT2 HD (B)
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242873
+#EXTINF:0,|SW|SVT2 HD (B) SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242870
+#EXTINF:0,|SW|SVT2 HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242871
+#EXTINF:0,|SW|SVT2 SkAne SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242872
+#EXTINF:0,|SW|SVT24/B HD (B) SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242874
+#EXTINF:0,|SW|SVT24/B HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242875
+#EXTINF:0,|SW|TV10 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242876
+#EXTINF:0,|SW|TV10 HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242877
+#EXTINF:0,|SW|TV10 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242878
+#EXTINF:0,|SW|TV12 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242879
+#EXTINF:0,|SW|TV12 HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242880
+#EXTINF:0,|SW|TV12 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242881
+#EXTINF:0,|SW|TV3 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242882
+#EXTINF:0,|SW|TV3 HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242883
+#EXTINF:0,|SW|TV3 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242884
+#EXTINF:0,|SW|TV4 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242885
+#EXTINF:0,|SW|TV4 HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242886
+#EXTINF:0,|SW|TV6 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242887
+#EXTINF:0,|SW|TV6 HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242888
+#EXTINF:0,|SW|TV6 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242889
+#EXTINF:0,|SW|TV8 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242890
+#EXTINF:0,|SW|TV8 HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242891
+#EXTINF:0,|SW|Sjuan HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242919
+#EXTINF:0,|SW|Sjuan FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242918
+#EXTINF:0,|SW|Motorvision TV SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242917
+#EXTINF:0,|SW|Motorvision TV FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242916
+#EXTINF:0,|SW|Mezzo Live HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242915
+#EXTINF:0,|SW|Kanal 9 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242914
+#EXTINF:0,|SW|Kanal 9 HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242913
+#EXTINF:0,|SW|Kanal 9 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242912
+#EXTINF:0,|SW|Kanal 5 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242911
+#EXTINF:0,|SW|Kanal 5 HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242910
+#EXTINF:0,|SW|Kanal 5 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242909
+#EXTINF:0,|SW|Kanal 11 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242908
+#EXTINF:0,|SW|Kanal 11 HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242907
+#EXTINF:0,|SW|Kanal 11 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242906
+#EXTINF:0,|SW|Kanal 10 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242905
+#EXTINF:0,|SW|Aftonbladet TV HD SE [Live During Events Only]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242904
+#EXTINF:0,|SW|GINX eSports TV SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242903
+#EXTINF:0,|SW|GINX eSports TV FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242902
+#EXTINF:0,|SW|FUEL TV FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242901
+#EXTINF:0,|SW|Dagens Industri TV HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242900
+#EXTINF:0,|SW|CNN International SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242899
+#EXTINF:0,|SW| GodareTV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242898
+#EXTINF:0,|SW|Bloomberg TV HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242897
+#EXTINF:0,|SW|BBC World News SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242896
+#EXTINF:0,|SW|ATG Swedish Horse Racing SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242895
+#EXTINF:0,|SW|ATG Live SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242894
+#EXTINF:0,|SW|ATG Live HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242893
+#EXTINF:0,|SW|Al Jazeera FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242892
+#EXTINF:0,##### KIDS #####
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242920
+#EXTINF:0,|SW|Boomerang SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242921
+#EXTINF:0,|SW|Boomerang SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242922
+#EXTINF:0,|SW|Cartoon Network SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242923
+#EXTINF:0,|SW|Cartoon Network SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242924
+#EXTINF:0,|SW|Discovery Channel FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242926
+#EXTINF:0,|SW|Discovery Channel HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242927
+#EXTINF:0,|SW|Discovery Channel SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242928
+#EXTINF:0,|SW|Disney Channel SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242925
+#EXTINF:0,|SW|Disney Channel SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242929
+#EXTINF:0,|SW|Disney Junior SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242930
+#EXTINF:0,|SW|Disney Junior SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242931
+#EXTINF:0,|SW|Nick Jr  FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242932
+#EXTINF:0,|SW|Nick Jr SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242933
+#EXTINF:0,|SW|Nickelodeon FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242934
+#EXTINF:0,|SW|Nickelodeon SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242935
+#EXTINF:0,|SW|NickToons SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242936
+#EXTINF:0,##### DOCUMENTARY #####
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242937
+#EXTINF:0,|SW| History HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242942
+#EXTINF:0,|SW| National Geographic HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242957
+#EXTINF:0,|SW| National Geographic Wild HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242958
+#EXTINF:0,|SW| Viasat Explorer HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242959
+#EXTINF:0,|SW| Viasat History HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242960
+#EXTINF:0,|SW| Viasat Nature HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242961
+#EXTINF:0,|SW|Animal Planet FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242938
+#EXTINF:0,|SW|Animal Planet SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242939
+#EXTINF:0,|SW|BBC Earth FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242940
+#EXTINF:0,|SW|BBC Earth SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242941
+#EXTINF:0,|SW|Discovery Science SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242947
+#EXTINF:0,|SW|Discovery Science SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242948
+#EXTINF:0,|SW|Discovery World SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242949
+#EXTINF:0,|SW|H2 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242943
+#EXTINF:0,|SW|History EU FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242944
+#EXTINF:0,|SW|History SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242945
+#EXTINF:0,|SW|Horse Country TV SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242946
+#EXTINF:0,|SW|Investigation Discovery SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242950
+#EXTINF:0,|SW|Investigation Discovery SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242951
+#EXTINF:0,|SW|National Geographic FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242952
+#EXTINF:0,|SW|National Geographic SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242953
+#EXTINF:0,|SW|National Geographic Wild FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242954
+#EXTINF:0,|SW|National Geographic Wild SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242955
+#EXTINF:0,|SW|Nautical Channel FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242956
+#EXTINF:0,|SW|Viasat Explorer FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242962
+#EXTINF:0,|SW|Viasat Explorer SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242963
+#EXTINF:0,|SW|Viasat History FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242964
+#EXTINF:0,|SW|Viasat History SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242965
+#EXTINF:0,|SW|Viasat Nature FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242966
+#EXTINF:0,|SW|Viasat Nature SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242967
+#EXTINF:0,##### SPORTS #####
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242968
+#EXTINF:0,|SW| DISCOVERY + 1 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280391
+#EXTINF:0,|SW| DISCOVERY + 2 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280392
+#EXTINF:0,|SW| DISCOVERY  + 3 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280393
+#EXTINF:0,|SW| DISCOVERY + 4 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280394
+#EXTINF:0,|SW| DISCOVERY + 5 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280395
+#EXTINF:0,|SW| DISCOVERY + 6 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280396
+#EXTINF:0,|SW| DISCOVERY + 7 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280397
+#EXTINF:0,|SW| DISCOVERY + 8 FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280398
+#EXTINF:0,|SW|  ViaPlay Extra 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280399
+#EXTINF:0,|SW|  ViaPlay Extra 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280400
+#EXTINF:0,|SW|  ViaPlay Extra 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280401
+#EXTINF:0,|SW|  ViaPlay Extra 4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280402
+#EXTINF:0,|SW|  ViaPlay Extra 5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280403
+#EXTINF:0,|SW|  ViaPlay Extra 6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280404
+#EXTINF:0,|SW|  ViaPlay Extra 7 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280405
+#EXTINF:0,|SW|  ViaPlay Extra 8 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280406
+#EXTINF:0,|SW|  ViaPlay Extra 9 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280407
+#EXTINF:0,|SW|  ViaPlay Extra 10 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280408
+#EXTINF:0,|SW|  ViaPlay Extra 11 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280409
+#EXTINF:0,|SW|  ViaPlay Extra 12 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280410
+#EXTINF:0,|SW|  ViaPlay Extra 13 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280411
+#EXTINF:0,|SW|  ViaPlay Extra 14 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280412
+#EXTINF:0,|SW|  ViaPlay Extra 15 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/280413
+#EXTINF:0,|SW|C More Fotboll FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242969
+#EXTINF:0,|SW|C More Fotboll HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242970
+#EXTINF:0,|SW|C More Fotboll SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242971
+#EXTINF:0,|SW|C More Golf FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242972
+#EXTINF:0,|SW|C More Golf SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242973
+#EXTINF:0,|SW|C More Hockey FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242974
+#EXTINF:0,|SW|C More Hockey SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242975
+#EXTINF:0,|SW|C More Live 2 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242976
+#EXTINF:0,|SW|C More Live 2 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242977
+#EXTINF:0,|SW|C More Live 3 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242978
+#EXTINF:0,|SW|C More Live 3 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242979
+#EXTINF:0,|SW|C More Live 4 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242980
+#EXTINF:0,|SW|C More Live 4 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242981
+#EXTINF:0,|SW|C More Live 5 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242982
+#EXTINF:0,|SW|C More Live 5 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242983
+#EXTINF:0,|SW|C More Live FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242984
+#EXTINF:0,|SW|C More Live SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242985
+#EXTINF:0,|SW|TV3 Sport SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243016
+#EXTINF:0,|SW|TV3 Sport FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243015
+#EXTINF:0,|SW|Fight Network FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243014
+#EXTINF:0,|SW|Viasat Sport Ultra FHD SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243013
+#EXTINF:0,|SW|Viasat Sport Ultra 4K SE [Only On 4K Devices]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243012
+#EXTINF:0,|SW|Viasat Sport SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243011
+#EXTINF:0,|SW| V Sport Premium HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243089
+#EXTINF:0,|SW|Viasat Sport Premium SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243010
+#EXTINF:0,|SW|Viasat Sport Premium HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243009
+#EXTINF:0,|SW|Viasat Sport Premium FHD SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243008
+#EXTINF:0,|SW|Viasat Sport Premium FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243007
+#EXTINF:0,|SW|Viasat Sport FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243086
+#EXTINF:0,|SW|Viasat Sport FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243006
+#EXTINF:0,|SW| V Sport 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243090
+#EXTINF:0,|SW|Viasat Motor SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243005
+#EXTINF:0,|SW| V Sport Motor HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243087
+#EXTINF:0,|SW|Viasat Motor HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243004
+#EXTINF:0,|SW|Viasat Motor FHD SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243003
+#EXTINF:0,|SW|Viasat Hockey SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243002
+#EXTINF:0,|SW|Viasat Hockey FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243001
+#EXTINF:0,|SW|Viasat Golf SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243000
+#EXTINF:0,|SW|Viasat Golf FHD SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242999
+#EXTINF:0,|SW|Viasat Fotboll SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242998
+#EXTINF:0,|SW|Viasat Fotboll FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242997
+#EXTINF:0,|SW|Sportkanalen SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242996
+#EXTINF:0,|SW|Sportkanalen HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242995
+#EXTINF:0,|SW|Sportkanalen FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242994
+#EXTINF:0,|SW|SportExpressen TV HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242993
+#EXTINF:0,|SW|NFL Network FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242992
+#EXTINF:0,|SW|Extreme Sports HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242991
+#EXTINF:0,|SW|EuroSport 2 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242990
+#EXTINF:0,|SW|EuroSport 2 FHD SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242989
+#EXTINF:0,|SW|EuroSport 1 SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242988
+#EXTINF:0,|SW|EuroSport 1 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242987
+#EXTINF:0,|SW|ESport TV HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242986
+#EXTINF:0,##### CINEMA #####
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243017
+#EXTINF:0,|SW| V Film Action HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243034
+#EXTINF:0,|SW| V Film Family
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243035
+#EXTINF:0,|SW| V Film Hits HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243036
+#EXTINF:0,|SW| V Series HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243037
+#EXTINF:0,|SW|C More First FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243026
+#EXTINF:0,|SW|C More First SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243027
+#EXTINF:0,|SW|C More Hits FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243028
+#EXTINF:0,|SW|C More Hits SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243029
+#EXTINF:0,|SW|C More Series FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243030
+#EXTINF:0,|SW|C More Series SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243031
+#EXTINF:0,|SW|C More Stars FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243032
+#EXTINF:0,|SW|C More Stars SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243033
+#EXTINF:0,|SW|Paramount Network FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243038
+#EXTINF:0,|SW|Paramount Network SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243039
+#EXTINF:0,|SW|TV4 Film (B) SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243050
+#EXTINF:0,|SW|TV4 Film SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243051
+#EXTINF:0,|SW|TV4 Guld (B) SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243052
+#EXTINF:0,|SW|TV4 Guld SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243053
+#EXTINF:0,|SW|Viasat Film Action FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243040
+#EXTINF:0,|SW|Viasat Film Action SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243041
+#EXTINF:0,|SW|Viasat Film Family HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243042
+#EXTINF:0,|SW|Viasat Film Family SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243043
+#EXTINF:0,|SW|Viasat Film Hits FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243044
+#EXTINF:0,|SW|Viasat Film Hits SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243045
+#EXTINF:0,|SW|Viasat Film Premiere FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243046
+#EXTINF:0,|SW| V Film Premiere HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243088
+#EXTINF:0,|SW|Viasat Film Premiere SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243047
+#EXTINF:0,|SW|Viasat Series FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243048
+#EXTINF:0,|SW|Viasat Series SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243049
+#EXTINF:0,##### ENTERTAINMENT #####
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243054
+#EXTINF:0,|SW| E! Entertainment HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243066
+#EXTINF:0,|SW|Axess TV SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243063
+#EXTINF:0,|SW|BBC Brit FHD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243064
+#EXTINF:0,|SW|BBC Brit SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243065
+#EXTINF:0,|SW|E Entertainment US HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243067
+#EXTINF:0,|SW|Expressen TV HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243068
+#EXTINF:0,|SW|Expressen TV SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243069
+#EXTINF:0,|SW|Fashion  SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243070
+#EXTINF:0,|SW|Outdoor Channel FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243071
+#EXTINF:0,|SW|SF-Kanalen SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243072
+#EXTINF:0,|SW|TLC FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243055
+#EXTINF:0,|SW|TLC HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243056
+#EXTINF:0,|SW|Trace Urban FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243057
+#EXTINF:0,|SW|Travel Channel FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243058
+#EXTINF:0,|SW|TV Malmo SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243059
+#EXTINF:0,|SW|TV4 Blekinge SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243060
+#EXTINF:0,|SW|TV4 Fakta (B) SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243061
+#EXTINF:0,|SW|TV4 Fakta SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243062
+#EXTINF:0,|SW|Vision Sverige HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243073
+#EXTINF:0,##### MUSIC #####
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243074
+#EXTINF:0,|SW| MTV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243081
+#EXTINF:0,|SW| MTV Hits
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243082
+#EXTINF:0,|SW|Barnmusik TV FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243085
+#EXTINF:0,|SW|MTV Base SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243075
+#EXTINF:0,|SW|MTV Dance SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243076
+#EXTINF:0,|SW|MTV HD SE [Multi-Sub]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243077
+#EXTINF:0,|SW|MTV Hits SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243078
+#EXTINF:0,|SW|MTV Live FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243079
+#EXTINF:0,|SW|MTV Rocks SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243080
+#EXTINF:0,|SW|VH1 Classic SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243083
+#EXTINF:0,|SW|VH1 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243084
