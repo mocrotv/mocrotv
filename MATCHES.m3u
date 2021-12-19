@@ -6,7 +6,7 @@ https://i.imgur.com/5Wiki1T.jpg
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
-https://d3vqub7wusapmr.cloudfront.net/out/v1/9e8150aade7848829a1dd90260766132/index.m3u8
+https://yalla1.s3.us-west-2.amazonaws.com/stream1/live.m3u8
 #EXTINF:0,بث المباراة 1 FHD
 https://d3vqub7wusapmr.cloudfront.net/out/v1/9e8150aade7848829a1dd90260766132/index_1.m3u8
 #EXTINF:0,بث المباراة 1 HD
@@ -34,7 +34,7 @@ https://d3kty3byhi95wm.cloudfront.net/out/v1/800af9eecdc74b9fbce44259500790ce/in
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 3
-https://d8mk9ontgt3ju.cloudfront.net/out/v1/315f3ee0daa043338bfa5bfcce8f2f33/index.m3u8
+https://d3kty3byhi95wm.cloudfront.net/out/v1/800af9eecdc74b9fbce44259500790ce/index.m3u8
 #EXTINF:0,بث المباراة 3 FHD
 https://d8mk9ontgt3ju.cloudfront.net/out/v1/315f3ee0daa043338bfa5bfcce8f2f33/index_1.m3u8
 #EXTINF:0,بث المباراة 3 HD
