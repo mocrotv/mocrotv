@@ -6,145 +6,117 @@ https://i.imgur.com/5Wiki1T.jpg
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:0,#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/1
-#EXTINF:0,beIN Sports 1 Premium HD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/2
-#EXTINF:0,beIN Sport 2 Premium HD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/3
-#EXTINF:0,beIN Sports 3 Premium HD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/4
-#EXTINF:0,beIN Sports 1 Premium SD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/12
-#EXTINF:0,beIN Sports 2 Premium SD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/13
-#EXTINF:0,beIN Sports 3 Premium SD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/14
-#EXTINF:0,beIN Sports 1 HD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/5
-#EXTINF:0,beIN Sports 2 HD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/6
-#EXTINF:0,beIN Sports 3 HD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/7
-#EXTINF:0,beIN Sports 4 HD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/8
-#EXTINF:0,beIN Sport HD 5
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/9
-#EXTINF:0,beIN Sport HD 6
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/10
-#EXTINF:0,beIN Sport HD 7
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/11
-#EXTINF:0,beIN Sports 1 SD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/15
-#EXTINF:0,beIN Sports 2 SD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/16
-#EXTINF:0,beIN Sports 3 SD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/17
-#EXTINF:0,beIN Sports 4 SD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/18
-#EXTINF:0,beIN Sport 5  SD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/19
-#EXTINF:0,beIN Sport 6 SD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/20
-#EXTINF:0,beIN Sport 7 SD
-#EXTVLCOPT:http-user-agent=Ayatv
-http://154.53.32.57:25461/Ayatv/beinsport/21
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT PREMIUM 1
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/61143.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT PREMIUM 2
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/61144.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT PREMIUM 3
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/61145.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT 1
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/47275.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT 2
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/47279.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT 3
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/47277.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT 4
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/138.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT 5
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/7478.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT 6
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/140.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT 7
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/141.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN NEWS
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/5275.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT XTRA 1
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/47292.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",BEIN SPORT XTRA 2
+http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/47293.m3u8
+
+
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 1 PREMIUM HD
+http://bestsave.ltd:2052/live/55667788/88776655/90295.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 1 PREMIUM SD
+http://bestsave.ltd:2052/live/55667788/88776655/90284.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 2 PREMIUM HD
+http://bestsave.ltd:2052/live/55667788/88776655/90294.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 2 PREMIUM SD
+http://bestsave.ltd:2052/live/55667788/88776655/90283.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 3 PREMIUM HD
+http://bestsave.ltd:2052/live/55667788/88776655/90293.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 3 PREMIUM SD
+http://bestsave.ltd:2052/live/55667788/88776655/90282.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 1 HD
+http://bestsave.ltd:2052/live/55667788/88776655/90292.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 1 SD
+http://bestsave.ltd:2052/live/55667788/88776655/90281.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 2 HD
+http://bestsave.ltd:2052/live/55667788/88776655/90291.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 2 SD
+http://bestsave.ltd:2052/live/55667788/88776655/90280.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 3 HD
+http://bestsave.ltd:2052/live/55667788/88776655/90290.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 3 SD
+http://bestsave.ltd:2052/live/55667788/88776655/90279.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 4 HD
+http://bestsave.ltd:2052/live/55667788/88776655/90289.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 4 SD
+http://bestsave.ltd:2052/live/55667788/88776655/90278.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 5 HD
+http://bestsave.ltd:2052/live/55667788/88776655/90288.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 5 SD
+http://bestsave.ltd:2052/live/55667788/88776655/90277.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 6 HD
+http://bestsave.ltd:2052/live/55667788/88776655/90287.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 6 SD
+http://bestsave.ltd:2052/live/55667788/88776655/90276.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 7 HD
+http://bestsave.ltd:2052/live/55667788/88776655/90286.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports 7 SD
+http://bestsave.ltd:2052/live/55667788/88776655/90275.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports Xtra 1 HD
+http://bestsave.ltd:2052/live/55667788/88776655/115178.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports Xtra 1 SD
+http://bestsave.ltd:2052/live/55667788/88776655/115181.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports Xtra 2 HD
+http://bestsave.ltd:2052/live/55667788/88776655/115179.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports Xtra 2 SD
+http://bestsave.ltd:2052/live/55667788/88776655/115183.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",beIN Sports News
+http://bestsave.ltd:2052/live/55667788/88776655/16001.m3u8
 
 
 
-#EXTINF:-1,beIN Sports 1 PREMIUM HD
-http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8
-#EXTINF:-1,beIN Sports 2 PREMIUM HD
-http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8
-#EXTINF:-1,beIN Sports 3 PREMIUM HD
-http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="1 بين سبور BEIN SPORT", beIN Sports Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="1 بين سبور BEIN SPORT", beIN La Liga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8?mvk
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3HD
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/TaHm3Dl.png",[$]BEIN SPORTS HD
+http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
+http://23.88.39.74/live/918454578001/index.m3u8?olty
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+http://23.88.39.74/live/69854211/index.m3u8?olty
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
+http://23.88.39.74/live/1515000000/index.m3u8?
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
+http://93.152.174.144:4000/play/bein7/index.m3u8
 
-#EXTINF:-1,beIN Sports 1 HD
-http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
-#EXTINF:-1,beIN Sports 2 HD
-http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
-#EXTINF:-1,beIN Sports 3 HD
-http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
-#EXTINF:-1,beIN Sports 4 HD
-http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8
-#EXTINF:-1,beIN Sports 5 HD
-http://45.94.31.45/beinm16505/tracks-v1a1/mono.m3u8
-#EXTINF:-1,beIN Sports 6 HD
-http://45.94.31.45/beinm16506/tracks-v1a1/mono.m3u8
-#EXTINF:-1,beIN Sports 7 HD
-http://45.94.31.45/beinm16507/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,AR: Bein Sport 1HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6872
-#EXTINF:-1,AR: Bein Sport 2HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6871
-#EXTINF:-1,AR: Bein Sport 3HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6870
-#EXTINF:-1,AR: Bein Sport 4HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6869
-#EXTINF:-1,AR: Bein Sport 5HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6868
-#EXTINF:-1,AR: Bein Sport 6HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6867
-#EXTINF:-1,AR: Bein Sport 7HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6866
-#EXTINF:-1,AR: Bein Sport 8HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6865
-#EXTINF:-1,AR: Bein Sport 9HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6864
-#EXTINF:-1,AR: Bein Sport 10HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/6863
-#EXTINF:-1,AR: Bein Sport 11HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2745
-#EXTINF:-1,AR: Bein Sport 12HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2746
-#EXTINF:-1,US: Bein Sports USA HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/5391
-#EXTINF:-1,FR: BEINSPORT 1HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/14140
-#EXTINF:-1,FR: BEINSPORT 2HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/347
-#EXTINF:-1,FR: BEINSPORT 3HD
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/346
-#EXTINF:-1,FR: BEINSPORT MAX 4
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2515
-#EXTINF:-1,FR: BEINSPORT MAX 5
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2516
-#EXTINF:-1,FR: BEINSPORT MAX 6
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2517
-#EXTINF:-1,FR: BEINSPORT MAX 7
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2518
-#EXTINF:-1,FR: BEINSPORT MAX 8
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2519
-#EXTINF:-1,FR: BEINSPORT MAX 9
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2520
-#EXTINF:-1,FR: BEINSPORT MAX 10
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/2521
-#EXTINF:-1,TR: Bein Sport HD1
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/4110
-#EXTINF:-1,TR: Bein Sport HD2
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/4111
-#EXTINF:-1,TR: Bein Sport HD3
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/4112
-#EXTINF:-1,TR: Bein Sport HD4
-http://worldiptv.me:8080/arsenal14biskra/qsmd2QzN6F/4113
+#EXTINF:-1 group-title="" tvg-logo="",Bein Sports 1 HD FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",Bein Sports 2 HD FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="",Bein Sports 3 HD FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
