@@ -9,7 +9,7 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] النصر X الهلال [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] الفتح X الهلال [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match  بث المباراة [/color]
@@ -33,18 +33,17 @@ https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_1.m
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
-https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/index.m3u8
+
 #EXTINF:0,بث المباراة 1 FHD
-https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/index_1.m3u8
+
 #EXTINF:0,بث المباراة 1 HD
-https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/index_2.m3u8
+
 #EXTINF:0,بث المباراة 1 SD
-https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/index_3.m3u8
+
 #EXTINF:0,بث المباراة 1 LOW
-https://d2uu8npu7tnt27.cloudfront.net/out/v1/00534526345940a48705b863419c41af/index_4.m3u8
+
 
 
 
