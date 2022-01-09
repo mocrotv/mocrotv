@@ -21,3 +21,13 @@ http://b.banourahga.xyz/live/51514003371/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 2 Low
 http://b.banourahga.xyz/live/9982225541/index.m3u8
 
+
+
+#EXTINF:-1,Bein Max 1 HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/95
+#EXTINF:-1,Bein Max 2 HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/94
+#EXTINF:-1,Bein Max 1 SD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
+#EXTINF:-1,Bein Max 2 SD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
