@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:0,POLSAT SPORT http://103.194.169.171:8282/PL:POLSAT_SPORT_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,POLSAT SPORT 
+http://103.194.169.171:8282/PL:POLSAT_SPORT_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
 #EXTINF:0,CANAL_SPORT http://103.194.169.171:8282/PL:CANAL_SPORT_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
@@ -11,7 +15,8 @@
 
 #EXTINF:0,Arenasport 2 http://103.194.169.171:8282/Arena_Sport_2_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
-#EXTINF:0,Sport 3 Srb FHD http://103.194.169.171:8282/Arena_Sport_3_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0,Sport 3 Srb 
+FHD http://103.194.169.171:8282/Arena_Sport_3_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
 #EXTINF:0,Arenasport 3 http://103.194.169.171:8282/Arena_Sport_3_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
@@ -47,13 +52,17 @@
 
 #EXTINF:0,Sport Klub 2 SRB HD http://103.194.169.171:8282/Sport_Klub_2_SRB/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
-#EXTINF:0,Sport Klub 3 SRB HD http://103.194.169.171:8282/Sport_Klub_3_SRB/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0,Sport Klub 3 SRB HD 
+http://103.194.169.171:8282/Sport_Klub_3_SRB/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
-#EXTINF:0,Sport_Klub_3_FHD http://103.194.169.171:8282/Sport_Klub_3_FHD_SRB/HRV/SLO_VIP/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0,Sport_Klub_3_FHD 
+http://103.194.169.171:8282/Sport_Klub_3_FHD_SRB/HRV/SLO_VIP/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
-#EXTINF:0,Sport Klub 3 SRB HD http://103.194.169.171:8282/Sport_Klub_HD_3_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0,Sport Klub 3 SRB HD 
+http://103.194.169.171:8282/Sport_Klub_HD_3_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
-#EXTINF:0,Sport Klub 4 SRB HD http://103.194.169.171:8282/Sport_Klub_4_SR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0,Sport Klub 4 SRB HD 
+http://103.194.169.171:8282/Sport_Klub_4_SR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
 #EXTINF:0,Sport Klub 5 SRB HD http://103.194.169.171:8282/Sport_Klub_5_SR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 
