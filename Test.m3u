@@ -2,68 +2,148 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:0,POLSAT SPORT 
-http://103.194.169.171:8282/PL:POLSAT_SPORT_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 ,HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 ,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 ,HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1 ,HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1 ,RTL CRO
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:0,CANAL_SPORT http://103.194.169.171:8282/PL:CANAL_SPORT_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport 1 Srb FHD http://103.194.169.171:8282/Arena_Sport_1_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Arenasport 1 http://103.194.169.171:8282/Arena_Sport_1_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport 2 Srb FHD http://103.194.169.171:8282/Arena_Sport_2_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Arenasport 2 http://103.194.169.171:8282/Arena_Sport_2_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport 3 Srb 
-FHD http://103.194.169.171:8282/Arena_Sport_3_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Arenasport 3 http://103.194.169.171:8282/Arena_Sport_3_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport 4 Srb FHD http://103.194.169.171:8282/Arena_Sport_4_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Arenasport 4 http://103.194.169.171:8282/Arena_Sport_4_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport 5 Srb FHD http://103.194.169.171:8282/Arena_Sport_5_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Arenasport 5 http://103.194.169.171:8282/Arena_Sport_5_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport 1 HR HD http://103.194.169.171:8282/Arena_Sport_1_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport 2 HR HD http://103.194.169.171:8282/Arena_Sport_2_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport 3 HR HD http://103.194.169.171:8282/Arena_Sport_3_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport 4 HR HD http://103.194.169.171:8282/Arena_Sport_4_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport 5 HR HD http://103.194.169.171:8282/Arena_Sport_5_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport 6 HR HD h ttp://103.194.169.171:8282/Arena_Sport_6_HR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport Klub 1 SRB HD http://103.194.169.171:8282/Sport_Klub_1_SRB/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport Klub 1 FHD http://103.194.169.171:8282/Sport_Klub_1_FHD_VIP/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport Klub 1 SRB HD http://103.194.169.171:8282/Sport_Klub_HD_1_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport Klub 2 SRB HD http://103.194.169.171:8282/Sport_Klub_HD_2_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport_Klub_2_FHD http://103.194.169.171:8282/Sport_Klub_2_FHD_SRB/HRV/SLO_VIP/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport Klub 2 SRB HD http://103.194.169.171:8282/Sport_Klub_2_SRB/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport Klub 3 SRB HD 
-http://103.194.169.171:8282/Sport_Klub_3_SRB/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport_Klub_3_FHD 
-http://103.194.169.171:8282/Sport_Klub_3_FHD_SRB/HRV/SLO_VIP/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport Klub 3 SRB HD 
-http://103.194.169.171:8282/Sport_Klub_HD_3_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport Klub 4 SRB HD 
-http://103.194.169.171:8282/Sport_Klub_4_SR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport Klub 5 SRB HD http://103.194.169.171:8282/Sport_Klub_5_SR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-
-#EXTINF:0,Sport Klub 6 SRB HD http://103.194.169.171:8282/Sport_Klub_6_SR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1,SPORT KLUB 1 HD HR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/625227.m3u8
+#EXTINF:-1,SPORT KLUB HD 2 HR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/7088.m3u8
+#EXTINF:-1, SPORT KLUB HD 3 HR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/7087.m3u8
+#EXTINF:-1,SPORT KLUB FHD 1 RS
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/53164.m3u8
+#EXTINF:-1,SPORT KLUB FHD 2 RS
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5444.m3u8
+#EXTINF:-1,SPORT KLUB HD 3 RS
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5443.m3u8
+#EXTINF:-1,BT SPORT 1 FHD UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683858.m3u8
+#EXTINF:-1,BT SPORT 1 HD UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683859.m3u8
+#EXTINF:-1,BT SPORT 1 UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683860.m3u8
+#EXTINF:-1,BT SPORT 2 FHD UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683861.m3u8
+#EXTINF:-1,BT SPORT 2 HD UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683862.m3u8
+#EXTINF:-1,BT SPORT 3 FHD UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683865.m3u8
+#EXTINF:-1,BT SPORT 3 HD UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683866.m3u8
+#EXTINF:-1,BT SPORT ESPN FHD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692291.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682993.m3u8
+#EXTINF:-1,SKY SPORTS MIX FHD UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683003.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/684434.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/671299.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692259.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692261.m3u8
+#EXTINF:-1,SKY SPORTS F1 FHD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692269.m3u8
+#EXTINF:-1,SKY SPORTS F1 HD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692270.m3u8
+#EXTINF:-1,SKY SPORTS ACTION FHD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692271.m3u8
+#EXTINF:-1,SKY SPORTS ACTION HD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692272.m3u8
+#EXTINF:-1,SKY SPORTS ARENA FHD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692794.m3u8
+#EXTINF:-1,SKY SPORTS ARENA HD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692795.m3u8
+#EXTINF:-1,SKY SPORTS MIX FHD VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692275.m3u8
+#EXTINF:-1,SKY SPORTS MIX VIP UK
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/692278.m3u8
+#EXTINF:-1,RMC SPORT 1 FHD FR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682956.m3u8
+#EXTINF:-1,RMC SPORT 1 HD FR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/625226.m3u8
+#EXTINF:-1,RMC SPORT 2 FHD FR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682957.m3u8
+#EXTINF:-1,RMC SPORT 2 HD FR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682955.m3u8
+#EXTINF:-1,RMC SPORT 3 FHD FR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682958.m3u8
+#EXTINF:-1,RMC SPORT 3 HD FR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/625233.m3u8
+#EXTINF:-1,BEIN SPORTS GLOBAL FHD AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/688155.m3u8
+#EXTINF:-1,BEIN SPORTS 1 [HEVC] FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/678748.m3u8
+#EXTINF:-1,BEIN SPORTS 1 FHD AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682932.m3u8
+#EXTINF:-1,BEIN SPORTS 2 [HEVC] FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5481.m3u8
+#EXTINF:-1,BEIN SPORTS 2 FHD AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682933.m3u8
+#EXTINF:-1,BEIN SPORTS 3 [HEVC] FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5480.m3u8
+#EXTINF:-1,BEIN SPORTS 3 FHD AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682934.m3u8
+#EXTINF:-1,BEIN SPORTS 4 [HEVC] FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5479.m3u8
+#EXTINF:-1,BEIN SPORTS 5 [HEVC] FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682935.m3u8
+#EXTINF:-1,BEIN SPORTS 5 FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5478.m3u8
+#EXTINF:-1,BEIN SPORTS 6 [HEVC] FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/54777.m3u8
+#EXTINF:-1,BEIN SPORTS 7 [HEVC] FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683135.m3u8
+#EXTINF:-1,BEIN SPORTS 7 FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5476.m3u8
+#EXTINF:-1,BEIN SPORTS PREMIUM 1 FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/53432.m3u8
+#EXTINF:-1,BEIN SPORTS PREMIUM 1 HD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/688156.m3u8
+#EXTINF:-1,BEIN SPORTS PREMIUM 2 FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/688157.m3u8
+#EXTINF:-1,BEIN SPORTS PREMIUM 2 HD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5474.m3u8
+#EXTINF:-1,BEIN SPORTS PREMIUM 3 FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/5473.m3u8
+#EXTINF:-1,BEIN SPORTS PREMIUM 3 HD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/691817.m3u8
+#EXTINF:-1,BEIN SPORTS ENGLISH 1 FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/689287.m3u8
+#EXTINF:-1,BEIN SPORTS ENGLISH 2 FHD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/689288.m3u8
+#EXTINF:-1,BEIN SPORTS ENGLISH 3 HD VIP AR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/689289.m3u8
+#EXTINF:-1,BEIN SPORTS FHD US
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682942.m3u8
+#EXTINF:-1,BEIN SPORTS LA LIGA HD VIP US
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/687794.m3u8
+#EXTINF:-1,BEIN SPORTS ESPANOL HD VIP US
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/678747.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD FR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682943.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD FR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682944.m3u8
+#EXTINF:-1,BEIN SPORTS 3 SD FR
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/682945.m3u8
+#EXTINF:-1,TENNIS CHANNEL FHD VIP US
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/683506.m3u8
+#EXTINF:-1,TENNIS CHANNEL HD VIP US
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/684767.m3u8
+#EXTINF:-1,SUPERSPORT TENNIS HD VIP AF
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/678027.m3u8
+#EXTINF:-1,SUPERTENNIS HD IT
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/686282.m3u8
+#EXTINF:-1,SUPERTENNIS FHD IT
+http://my34.xyz:8080/live/hiyk4qx9i5/df5ztup5ss/686281.m3u8
