@@ -1,11 +1,60 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5931200,AVERAGE-BANDWIDTH=5711200,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=60.000
-live_720p60.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3643200,AVERAGE-BANDWIDTH=3511200,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30.000
-live_720p30.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1856800,AVERAGE-BANDWIDTH=1790800,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=640x480,FRAME-RATE=30.000
-live_480p30.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=998800,AVERAGE-BANDWIDTH=965800,CODECS="avc1.4d400d,mp4a.40.2",RESOLUTION=320x240,FRAME-RATE=30.000
-live_240p30.m3u8 
+#EXTINF:0,POLSAT SPORT http://103.194.169.171:8282/PL:POLSAT_SPORT_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,CANAL_SPORT http://103.194.169.171:8282/PL:CANAL_SPORT_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport 1 Srb FHD http://103.194.169.171:8282/Arena_Sport_1_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Arenasport 1 http://103.194.169.171:8282/Arena_Sport_1_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport 2 Srb FHD http://103.194.169.171:8282/Arena_Sport_2_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Arenasport 2 http://103.194.169.171:8282/Arena_Sport_2_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport 3 Srb FHD http://103.194.169.171:8282/Arena_Sport_3_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Arenasport 3 http://103.194.169.171:8282/Arena_Sport_3_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport 4 Srb FHD http://103.194.169.171:8282/Arena_Sport_4_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Arenasport 4 http://103.194.169.171:8282/Arena_Sport_4_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport 5 Srb FHD http://103.194.169.171:8282/Arena_Sport_5_Srb_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Arenasport 5 http://103.194.169.171:8282/Arena_Sport_5_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport 1 HR HD http://103.194.169.171:8282/Arena_Sport_1_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport 2 HR HD http://103.194.169.171:8282/Arena_Sport_2_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport 3 HR HD http://103.194.169.171:8282/Arena_Sport_3_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport 4 HR HD http://103.194.169.171:8282/Arena_Sport_4_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport 5 HR HD http://103.194.169.171:8282/Arena_Sport_5_HR_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport 6 HR HD h ttp://103.194.169.171:8282/Arena_Sport_6_HR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport Klub 1 SRB HD http://103.194.169.171:8282/Sport_Klub_1_SRB/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport Klub 1 FHD http://103.194.169.171:8282/Sport_Klub_1_FHD_VIP/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport Klub 1 SRB HD http://103.194.169.171:8282/Sport_Klub_HD_1_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport Klub 2 SRB HD http://103.194.169.171:8282/Sport_Klub_HD_2_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport_Klub_2_FHD http://103.194.169.171:8282/Sport_Klub_2_FHD_SRB/HRV/SLO_VIP/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport Klub 2 SRB HD http://103.194.169.171:8282/Sport_Klub_2_SRB/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport Klub 3 SRB HD http://103.194.169.171:8282/Sport_Klub_3_SRB/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport_Klub_3_FHD http://103.194.169.171:8282/Sport_Klub_3_FHD_SRB/HRV/SLO_VIP/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport Klub 3 SRB HD http://103.194.169.171:8282/Sport_Klub_HD_3_Srb/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport Klub 4 SRB HD http://103.194.169.171:8282/Sport_Klub_4_SR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport Klub 5 SRB HD http://103.194.169.171:8282/Sport_Klub_5_SR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+
+#EXTINF:0,Sport Klub 6 SRB HD http://103.194.169.171:8282/Sport_Klub_6_SR/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
