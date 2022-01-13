@@ -10,7 +10,7 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] الفتح X الهلال [/color]
-https://i.imgur.com/5Wiki1T.jpg
+
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match  بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
@@ -53,45 +53,48 @@ https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_1.m
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] SSC SPORTS[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:0,SSC SPORTS HD 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295622
-#EXTINF:0,|SPO| SSC1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457300
-#EXTINF:0,SSC SPORTS HD 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295621
-#EXTINF:0,|SPO| SSC2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457301
-#EXTINF:0,SSC SPORTS HD 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295620
-#EXTINF:0,|SPO| SSC3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457302
-#EXTINF:0,SSC SPORTS HD 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295619
-#EXTINF:0,|SPO| SSC4 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457303
-#EXTINF:0,SSC SPORTS HD 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295618
-#EXTINF:0,|SPO| SSC5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457304
-#EXTINF:0,SSC SPORTS HD 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295617
-#EXTINF:0,|SPO| SSC6 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/457305
+#EXTINF:0,|SPO| SSC7 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/842
 #EXTINF:0,SSC SPORTS HD 7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/295616
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/841
+#EXTINF:0,|SPO| SSC6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/840
+#EXTINF:0,SSC SPORTS HD 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/839
+#EXTINF:0,|SPO| SSC5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/838
+#EXTINF:0,SSC SPORTS HD 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/837
+#EXTINF:0,|SPO| SSC4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/836
+#EXTINF:0,SSC SPORTS HD 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/835
+#EXTINF:0,|SPO| SSC3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/834
+#EXTINF:0,SSC SPORTS HD 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/833
+#EXTINF:0,|SPO| SSC2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/832
+#EXTINF:0,SSC SPORTS HD 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/831
+#EXTINF:0,|SPO| SSC1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/830
+#EXTINF:0,SSC SPORTS HD 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/829
 
 
 
