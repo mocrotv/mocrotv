@@ -8,18 +8,24 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 1 HD
-http://b.banourahga.xyz/live/9962564400/index.m3u8
+http://b.banourahga.xyz/live/99625/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 1 SD
-http://b.banourahga.xyz/live/500025550/index.m3u8
+http://b.banourahga.xyz/live/50002/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 1 Low
-http://b.banourahga.xyz/live/770002540/index.m3u8
+http://b.banourahga.xyz/live/77000/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 2 HD
-http://b.banourahga.xyz/live/88002555210/index.m3u8
+http://b.banourahga.xyz/live/88002/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 2 SD
-http://b.banourahga.xyz/live/515140033710/index.m3u8
+http://b.banourahga.xyz/live/515140/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 2 Low
-http://b.banourahga.xyz/live/99822255410/index.m3u8
+http://b.banourahga.xyz/live/99822/index.m3u8
+
+
+#EXTINF:-1, SPORTS MAX 1
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
+#EXTINF:-1, SPORTS MAX 2
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
 
 
 
@@ -34,9 +40,15 @@ http://yazansportpro.xyz:25461/livesport__ios/livesport_android/93
 
 
 
-#EXTINF:-1,beIN SPORTS MAX 1 4K
+#####################################################
+#####################################################
+###########           BEIN 4K            ############
+#####################################################
+#####################################################
+
+#EXTINF:-1,beIN SPORTS 4K
 http://yassooo.com:8080/Manaf/Manaf123/120006
-#EXTINF:-1,beIN SPORTS MAX 2 4K 
+#EXTINF:-1,beIN SPORTS 4K 
 http://yassooo.com:8080/Manaf/Manaf123/120005
 
 #EXTINF:-1,BEIN SPORTS MAX 1 4K 
@@ -52,10 +64,7 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
 #EXTINF:-1,BEIN SPORTS MAX 2 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
 
-#EXTINF:-1,Bein Sport Max 1 4K
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290286
-#EXTINF:-1,Bein Sport Max 2 4K
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290287
+
 
 #####################################################
 #####################################################
@@ -72,10 +81,6 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120674
 #EXTINF:-1,BEIN SPORTS MAX 2 FHD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
 
-#EXTINF:-1,Bein Sport Max 1 FHD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290288
-#EXTINF:-1,Bein Sport Max 2 FHD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290289
 
 #####################################################
 #####################################################
@@ -101,19 +106,8 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120806
 #EXTINF:-1,BEIN SPORTS MAX HD2
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120805
 
-#EXTINF:-1,beIN SPORTS MAX HD1 
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7841
-#EXTINF:-1,beIN SPORTS MAX HD2 
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7842
-#EXTINF:-1,BEIN SPORTS Max HD1
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7824
-#EXTINF:-1,BEIN SPORTS Max HD2
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7825
 
-#EXTINF:-1,Bein Sport Max 1 HD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290290
-#EXTINF:-1,Bein Sport Max 2 HD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290291
+
 
 #####################################################
 #####################################################
@@ -138,17 +132,3 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120679
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
 #EXTINF:-1,BEIN SPORTS MAX 2 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
-
-#EXTINF:-1,BEIN SPORTS Max 1 SD
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7820
-#EXTINF:-1,BEIN SPORTS Max 2 SD
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7821
-#EXTINF:-1,beIN SPORTS MAX SD 1 
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7839
-#EXTINF:-1,beIN SPORTS MAX SD 2 
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7840
-
-#EXTINF:-1,Bein Sport Max 1 SD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290292
-#EXTINF:-1,Bein Sport Max 2 SD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290293
