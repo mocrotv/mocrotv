@@ -42,17 +42,17 @@ https://masterstreaming.s3.eu-west-2.amazonaws.com/galaxy1/live_240p30.m3u8|Refe
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 3
-https://yallastream.s3.eu-central-1.amazonaws.com/yalla1/live.m3u8|Referer=https://kora9stream.online/
+https://daddystream.s3.eu-central-1.amazonaws.com/iphone1/live.m3u8|Referer=https://kora9stream.online/
 #EXTINF:0,بث المباراة 3 FHD
-https://yallastream.s3.eu-central-1.amazonaws.com/yalla1/live_1080p60.m3u8|Referer=https://kora9stream.online/
+https://daddystream.s3.eu-central-1.amazonaws.com/iphone1/live_1080p60.m3u8|Referer=https://kora9stream.online/
 #EXTINF:0,بث المباراة 3 HD+
-https://yallastream.s3.eu-central-1.amazonaws.com/yalla1/live_720p60.m3u8|Referer=https://kora9stream.online/
+https://daddystream.s3.eu-central-1.amazonaws.com/iphone1/live_720p60.m3u8|Referer=https://kora9stream.online/
 #EXTINF:0,بث المباراة 3 HD
-https://yallastream.s3.eu-central-1.amazonaws.com/yalla1/live_720p30.m3u8|Referer=https://kora9stream.online/
+https://daddystream.s3.eu-central-1.amazonaws.com/iphone1/live_720p30.m3u8|Referer=https://kora9stream.online/
 #EXTINF:0,بث المباراة 3 SD
-https://yallastream.s3.eu-central-1.amazonaws.com/yalla1/live_480p30.m3u8|Referer=https://kora9stream.online/
+https://daddystream.s3.eu-central-1.amazonaws.com/iphone1/live_480p30.m3u8|Referer=https://kora9stream.online/
 #EXTINF:0,بث المباراة 3 LOW
-https://yallastream.s3.eu-central-1.amazonaws.com/yalla1/live_240p30.m3u8|Referer=https://kora9stream.online/
+https://daddystream.s3.eu-central-1.amazonaws.com/iphone1/live_240p30.m3u8|Referer=https://kora9stream.online/
 
 
 
@@ -71,4 +71,21 @@ https://soundfree.s3.eu-central-1.amazonaws.com/ninas1/live_720p30.m3u8|Referer=
 https://soundfree.s3.eu-central-1.amazonaws.com/ninas1/live_480p30.m3u8|Referer=https://kora9stream.online/
 #EXTINF:0,بث المباراة 4 LOW
 https://soundfree.s3.eu-central-1.amazonaws.com/ninas1/live_240p30.m3u8|Referer=https://kora9stream.online/
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 5 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 5
+https://yallalive.s3.eu-central-1.amazonaws.com/1/live.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 5 FHD
+https://yallalive.s3.eu-central-1.amazonaws.com/1/live_1080p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 5 HD+
+https://yallalive.s3.eu-central-1.amazonaws.com/1/live_720p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 5 HD
+https://yallalive.s3.eu-central-1.amazonaws.com/1/live_720p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 5 SD
+https://yallalive.s3.eu-central-1.amazonaws.com/1/live_480p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 5 LOW
+https://yallalive.s3.eu-central-1.amazonaws.com/1/live_240p30.m3u8|Referer=https://kora9stream.online/
 
