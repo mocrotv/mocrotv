@@ -6,426 +6,250 @@ https://i.imgur.com/5Wiki1T.jpg
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:0,##### GENERAL #####
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/239914
-#EXTINF:0,|DK| DR 1 DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58121
-#EXTINF:0,|DK|DR 1 FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58122
-#EXTINF:0,|DK|DR 1 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58123
-#EXTINF:0,|DK|DR 2 DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58124
-#EXTINF:0,|DK|DR 2 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58125
-#EXTINF:0,|DK|TV2 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58185
-#EXTINF:0,|DK|TV2 DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58182
-#EXTINF:0,|DK|TV2 News HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58187
-#EXTINF:0,|DK|TV2 Charlie HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58181
-#EXTINF:0,|DK|TV2 Fri HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58183
-#EXTINF:0,|DK|TV2 Zulu HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58191
-#EXTINF:0,|DK|TV2 Lorry HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58186
-#EXTINF:0,|DK|TV2 stjylland HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58179
-#EXTINF:0,|DK|TV2 Bornholm HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58180
-#EXTINF:0,|DK|TV2 Fyn HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58184
-#EXTINF:0,|DK|TV2 Nord HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58188
-#EXTINF:0,|DK|TV Syd HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58178
-#EXTINF:0,|DK|TV Aarhus HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58176
-#EXTINF:0,|DK|TV Midtvest HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58177
-#EXTINF:0,|DK|TV3  DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58194
-#EXTINF:0,|DK|TV3 DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58197
-#EXTINF:0,|DK|TV3  FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58195
-#EXTINF:0,|DK|TV3 FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58198
-#EXTINF:0,|DK|TV3  HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58196
-#EXTINF:0,|DK| TV3 + HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58193
-#EXTINF:0,|DK|TV3 Max (B) DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58199
-#EXTINF:0,|DK|TV3 Max DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58200
-#EXTINF:0,|DK|TV3 Max FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58201
-#EXTINF:0,|DK| TV3+ DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58192
-#EXTINF:0,|DK|TV3 Puls DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58202
-#EXTINF:0,|DK|TV3 Puls HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58203
-#EXTINF:0,|DK|Xee FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58224
-#EXTINF:0,|DK|MTV HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58158
-#EXTINF:0,|DK|DK 4 DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58119
-#EXTINF:0,##### ENTERTAINMENT #####
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/239915
-#EXTINF:0,|DK|SF-Kanalen DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58169
-#EXTINF:0,|DK|Paramount Network FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58168
-#EXTINF:0,|DK|TLC DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58173
-#EXTINF:0,|DK|6 Eren FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58088
-#EXTINF:0,|DK|6 Eren HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58089
-#EXTINF:0,|DK|E Entertainment US HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58128
-#EXTINF:0,|DK|Canal 9 FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58101
-#EXTINF:0,|DK|Canal 9 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58102
-#EXTINF:0,|DK|Kanal 4 FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58139
-#EXTINF:0,|DK|Kanal 4 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58140
-#EXTINF:0,|DK|Kanal 5 FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58141
-#EXTINF:0,|DK|Kanal 5 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58142
-#EXTINF:0,##### DOCUMENTARY #####
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/239916
-#EXTINF:0,|DK|BBC Brit FHD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58091
-#EXTINF:0,|DK|BBC Earth FHD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58092
-#EXTINF:0,|DK|BBC Earth HD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58093
-#EXTINF:0,|DK|H2 FHD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58134
-#EXTINF:0,|DK|H2 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58135
-#EXTINF:0,|DK|History FHD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58136
-#EXTINF:0,|DK|Discovery Channel FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58111
-#EXTINF:0,|DK|Discovery Channel HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58112
-#EXTINF:0,|DK|Discovery Science DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58113
-#EXTINF:0,|DK|Discovery Science HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58114
-#EXTINF:0,|DK|Discovery World DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58115
-#EXTINF:0,|DK|Animal Planet FHD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58090
-#EXTINF:0,|DK|National Geographic DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58160
-#EXTINF:0,|DK|National Geographic FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58161
-#EXTINF:0,|DK|National Geographic Wild FHD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58162
-#EXTINF:0,|DK|National Geographic Wild HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58163
-#EXTINF:0,|DK|Viasat Explorer FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58210
-#EXTINF:0,|DK|Viasat History FHD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58217
-#EXTINF:0,|DK|Viasat Nature DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58218
-#EXTINF:0,|DK|Investigation Discovery DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58137
-#EXTINF:0,|DK|Investigation Discovery FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58138
-#EXTINF:0,|DK|Travel Channel FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58174
-#EXTINF:0,|DK|Travel Channel HD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58175
-#EXTINF:0,###### KIDS ######
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/239917
-#EXTINF:0,|DK|DR Ramasjang DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58126
-#EXTINF:0,|DK|DR Ramasjang FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58127
-#EXTINF:0,|DK|Disney Channel HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58116
-#EXTINF:0,|DK|Disney Junior DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58117
-#EXTINF:0,|DK|Disney XD DK [Multi-Audio]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58118
-#EXTINF:0,|DK|Boomerang DK [Multi-Audio]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58094
-#EXTINF:0,|DK|Nick Jr DK [Multi-Audio]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58164
-#EXTINF:0,|DK|Nickelodeon DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58165
-#EXTINF:0,|DK|Nickelodeon FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58166
-#EXTINF:0,|DK|NickToons DK [Multi-Audio]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58167
-#EXTINF:0,|DK|Cartoon Network DK [Multi-Audio]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58103
-#EXTINF:0,|DK|MovieTime Tom og Jerry FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58157
-#EXTINF:0,|DK|MovieTime Kids FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58156
-#EXTINF:0,###### CINEMA ######
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/239918
-#EXTINF:0,|DK|C More First FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58095
-#EXTINF:0,|DK|C More Hits FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58097
-#EXTINF:0,|DK|C More Series FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58098
-#EXTINF:0,|DK|C More Series HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58099
-#EXTINF:0,|DK|C More Stars FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58100
-#EXTINF:0,|DK|Viasat Film Action FHD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58211
-#EXTINF:0,|DK|Viasat Film Family DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58212
-#EXTINF:0,|DK|Viasat Film Hits HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58213
-#EXTINF:0,|DK|Viasat Film Premiere FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58214
-#EXTINF:0,|DK|Viasat Film Premiere HD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58215
-#EXTINF:0,|DK|Viasat Series HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58220
-#EXTINF:0,|DK|Viasat Series HD DK [Multi-Sub]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58221
-#EXTINF:0,|DK|Danske Klassikker 1 DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58104
-#EXTINF:0,|DK|Danske Klassikker 2 DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58105
-#EXTINF:0,|DK|Danske Klassikker 3 DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58106
-#EXTINF:0,|DK|Danske Klassikker 4 DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58107
-#EXTINF:0,|DK|Danske Klassikker 5 DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58108
-#EXTINF:0,|DK|Movie Time 1 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58143
-#EXTINF:0,|DK|Movie Time 2 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58145
-#EXTINF:0,|DK|Movie Time 3 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58146
-#EXTINF:0,|DK|Movie Time 4 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58147
-#EXTINF:0,|DK|Movie Time 5 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58148
-#EXTINF:0,|DK|Movie Time 6 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58149
-#EXTINF:0,|DK|Movie Time 7 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58150
-#EXTINF:0,|DK|Movie Time 8 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58151
-#EXTINF:0,|DK|Movie Time 9 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58152
-#EXTINF:0,|DK|Movie Time 10 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58144
-#EXTINF:0,|DK|Movie Time MARVEL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58153
-#EXTINF:0,|DK|MovieTime Comedy FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58154
-#EXTINF:0,|DK|MovieTime Danish FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58155
-#EXTINF:0,##### MUSIC #####
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/239919
-#EXTINF:0,|DK|MTV Live FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58159
-#EXTINF:0,|DK|VH1 Classic DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58208
-#EXTINF:0,|DK|DK Radio | DR Ramasjang
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58120
-#EXTINF:0,##### SPORTS ####
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/239920
-#EXTINF:0,|DK|EuroSport 1 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58130
-#EXTINF:0,|DK|EuroSport 1 HD DK [Multi-Audio]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58131
-#EXTINF:0,|DK|EuroSport 2 FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58132
-#EXTINF:0,|DK|EuroSport 2 HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58133
-#EXTINF:0,|DK|Dantoto Racing Live FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58109
-#EXTINF:0,|DK|Dantoto Racing Live HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58110
-#EXTINF:0,|DK|TV3 Sport DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58205
-#EXTINF:0,|DK|TV3 Sport FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58206
-#EXTINF:0,|DK|TV3 Sport HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58207
-#EXTINF:0,|DK|TV2 Sport DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58189
-#EXTINF:0,|DK|TV2 Sport HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58190
-#EXTINF:0,|DK| TV2 Sport X HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58204
-#EXTINF:0,|DK|C More Golf FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58096
-#EXTINF:0,|DK|Viasat Golf FHD DK [Multi-Audio]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58216
-#EXTINF:0,|DK|ViaPlay PPV Live FHD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58209
-#EXTINF:0,|DK|ESport TV HD DK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58129
-#EXTINF:0,|DK|Strive Sport 1 FHD DK [Live During Events Only]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58170
-#EXTINF:0,|DK|Strive Sport 2 FHD DK [Live During Events Only]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58171
-#EXTINF:0,|DK|Strive Sport 3 FHD DK [Live During Events Only]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/58172
+#EXTINF:-1,DK: DR1
+http://aumaletv.com:25461/omohack651651@/omo4478663/11166
+#EXTINF:-1,DK: DR2
+http://aumaletv.com:25461/omohack651651@/omo4478663/11167
+#EXTINF:-1,DK: TV3
+http://aumaletv.com:25461/omohack651651@/omo4478663/11168
+#EXTINF:-1,DK: TV3 Puls
+http://aumaletv.com:25461/omohack651651@/omo4478663/11169
+#EXTINF:-1,DK: TV3+ HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11170
+#EXTINF:-1,DK: TV3 MAX HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11171
+#EXTINF:-1,DK: DK4 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11172
+#EXTINF:-1,DK: KANAL 5 FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11174
+#EXTINF:-1,DK: 6 EREN HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11175
+#EXTINF:-1,DK: CANAL 9 FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11176
+#EXTINF:-1,DK: TV2 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11177
+#EXTINF:-1,DK: TV2 ZULU HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11178
+#EXTINF:-1,DK: TV2 Charlie
+http://aumaletv.com:25461/omohack651651@/omo4478663/11179
+#EXTINF:-1,DK: TV2 News
+http://aumaletv.com:25461/omohack651651@/omo4478663/11180
+#EXTINF:-1,DK: TV2 Fyn
+http://aumaletv.com:25461/omohack651651@/omo4478663/11181
+#EXTINF:-1,DK: TV Syd+
+http://aumaletv.com:25461/omohack651651@/omo4478663/11182
+#EXTINF:-1,DK: TV2 Bornholm
+http://aumaletv.com:25461/omohack651651@/omo4478663/11183
+#EXTINF:-1,DK: TV3 SPORT FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11185
+#EXTINF:-1,DK: Viasat Golf HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11186
+#EXTINF:-1,DK: Discovery Channel FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11187
+#EXTINF:-1,DK: Discovery Science FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11188
+#EXTINF:-1,DK: Investigation Discovery
+http://aumaletv.com:25461/omohack651651@/omo4478663/11189
+#EXTINF:-1,DK: NAT GEO WILD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11190
+#EXTINF:-1,DK: NATIONAL GEOGRAPHIC HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11191
+#EXTINF:-1,DK: HISTORY HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11193
+#EXTINF:-1,DK: H2 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11194
+#EXTINF:-1,DK: Viasat Film Family
+http://aumaletv.com:25461/omohack651651@/omo4478663/11195
+#EXTINF:-1,DK: DR K HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11196
+#EXTINF:-1,DK: DR ULTRA HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/11197
+#EXTINF:-1,DK: KVF
+http://aumaletv.com:25461/omohack651651@/omo4478663/11198
+#EXTINF:-1,TV2 tjylland DK
+http://aumaletv.com:25461/omohack651651@/omo4478663/11199
+#EXTINF:-1,TV2 BORNHOLM DK
+http://aumaletv.com:25461/omohack651651@/omo4478663/11200
+#EXTINF:-1,DK: TV2 LORRY
+http://aumaletv.com:25461/omohack651651@/omo4478663/11201
+#EXTINF:-1,DK: KKR TV
+http://aumaletv.com:25461/omohack651651@/omo4478663/11203
+#EXTINF:-1,DK: TV Storbyen
+http://aumaletv.com:25461/omohack651651@/omo4478663/11205
+
+
+
+#EXTINF:-1,DK: 6eren FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4554
+#EXTINF:-1,DK: ANIMAL PLANET FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/42298
+#EXTINF:-1,DK ANIMAL PLANET FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273393
+#EXTINF:-1,DK: BBC Brit FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/64459
+#EXTINF:-1,DK BBC Brit FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273995
+#EXTINF:-1,DK: BBC Earth HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/163492
+#EXTINF:-1,DK BBC Earth HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273657
+#EXTINF:-1,DK: Boomerang HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/20340
+#EXTINF:-1,DK: Canal 9 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4555
+#EXTINF:-1,DK: Cartoon Network HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4550
+#EXTINF:-1,DK Cartoon Network HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279044
+#EXTINF:-1,DK: Danske Klassikker 4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/64462
+#EXTINF:-1,DK: Danske Klassikker 5 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/64463
+#EXTINF:-1,DK: Discovery Science HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280550
+#EXTINF:-1,DK Discovery Science HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282890
+#EXTINF:-1,DK: Discovery World FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4576
+#EXTINF:-1,DK Discovery World FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273711
+#EXTINF:-1,DK: Disney Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/13582
+#EXTINF:-1,DK Disney Channel HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274558
+#EXTINF:-1,DK: Disney Junior HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/62142
+#EXTINF:-1,DK Disney Junior HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274577
+#EXTINF:-1,DK: DK 4 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4548
+#EXTINF:-1,DK: DR 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4543
+#EXTINF:-1,DK: DR 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4545
+#EXTINF:-1,DK: DR Ramasjang HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10448
+#EXTINF:-1,DK: EUROSPORT 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4582
+#EXTINF:-1,DK EUROSPORT 1 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273595
+#EXTINF:-1,DK: EUROSPORT 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4583
+#EXTINF:-1,DK EUROSPORT 2 HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273596
+#EXTINF:-1,DK: History 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157296
+#EXTINF:-1,DK History 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279154
+#EXTINF:-1,DK: History FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/62159
+#EXTINF:-1,DK History FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274238
+#EXTINF:-1,DK: Investigation Discovery HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/13584
+#EXTINF:-1,DK Investigation Discovery HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273754
+#EXTINF:-1,DK: Kanal 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4551
+#EXTINF:-1,DK: Kanal 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10451
+#EXTINF:-1,DK: Kanal Hovedstaden HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/191942
+#EXTINF:-1,DK: KKR TV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157173
+#EXTINF:-1,DK: KVF HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/191915
+#EXTINF:-1,DK: Mezzo HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/64429
+#EXTINF:-1,DK: MTV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/23239
+#EXTINF:-1,DK MTV HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279138
+#EXTINF:-1,DK: MTV Live FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/266688
+#EXTINF:-1,DK MTV Live FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279137
+#EXTINF:-1,DK: NAT GEO HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4575
+#EXTINF:-1,DK NAT GEO HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274102
+#EXTINF:-1,DK: NAT GEO Wild HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/13581
+#EXTINF:-1,DK NAT GEO Wild HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274119
+#EXTINF:-1,DK: Nick Junior HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/31985
+#EXTINF:-1,DK Nick Junior HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274467
+#EXTINF:-1,DK: nickelodeon HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4574
+#EXTINF:-1,DK nickelodeon HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/274933
+#EXTINF:-1,DK: Nicktoons HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/146689
+#EXTINF:-1,DK Nicktoons HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279214
+#EXTINF:-1,DK: Paramount Network HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10437
+#EXTINF:-1,DK: RTL Passion HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/64435
+#EXTINF:-1,DK: TLC HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/20351
+#EXTINF:-1,DK: Travel Channel FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/90451
+#EXTINF:-1,DK Travel Channel FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282947
+#EXTINF:-1,DK: TV2 Bornholm FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4566
+#EXTINF:-1,DK: TV2 Charlie HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4567
+#EXTINF:-1,DK: TV2 Fri HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4563
+#EXTINF:-1,DK: TV2 Fyn HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/81720
+#EXTINF:-1,DK: TV2 Lorry HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4564
+#EXTINF:-1,DK: TV2 News HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4560
+#EXTINF:-1,DK: TV2 Nord HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279677
+#EXTINF:-1,DK: TV2 Ostjylland HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/62137
+#EXTINF:-1,DK: TV2 Sport HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4578
+#EXTINF:-1,DK: TV2 Syd HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280537
+#EXTINF:-1,DK: TV2 Zulu HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/6176
+#EXTINF:-1,DK: TV3 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281264
+#EXTINF:-1,DK: TV3 Max HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10434
+#EXTINF:-1,DK: TV3 Puls HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290265
+#EXTINF:-1,DK: TV3 Sport FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4580
+#EXTINF:-1,DK: TV3+ HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4568
+#EXTINF:-1,DK: Viasat Explore HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/187632
+#EXTINF:-1,DK: Viasat Film Action HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290266
+#EXTINF:-1,DK: Viasat Film Family HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290268
+#EXTINF:-1,DK: Viasat Film Hits HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280260
+#EXTINF:-1,DK: Viasat Film Premiere HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290267
+#EXTINF:-1,DK: Viasat History HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/283089
+#EXTINF:-1,DK Viasat History HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290091
+#EXTINF:-1,DK: Viasat Nature HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/23244
+#EXTINF:-1,DK: Viasat Sport Extra HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/280259
+#EXTINF:-1,DK: Viasat Sport FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/290272
+#EXTINF:-1,DK: Viasat Sport Golf HD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/84031
