@@ -2,48 +2,144 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:0,|NIGERIA| ABN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51800
-#EXTINF:0,|NIGERIA| AIT INTER
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51801
-#EXTINF:0,|NIGERIA| BET BLACK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51802
-#EXTINF:0,|NIGERIA| CHANNELS TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51803
-#EXTINF:0,|NIGERIA| EMMANUEL TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51804
-#EXTINF:0,|NIGERIA| GOD CHANNEL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51805
-#EXTINF:0,|NIGERIA| GOSPEL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51806
-#EXTINF:0,|NIGERIA| LOVE WORLD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51807
-#EXTINF:0,|NIGERIA| MORE GRACE
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51808
-#EXTINF:0,|NIGERIA| RAVE TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51809
-#EXTINF:0,|NIGERIA| ROK TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51810
-#EXTINF:0,|NIGERIA| TVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51811
-#EXTINF:0,|NIGERIA| TVC NEWS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51812
-#EXTINF:0,|NIGERIA| VOX
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51813
-#EXTINF:0,|NIGERIA| VOX AFRICA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51814
+#EXTINF:-1,AF: (Nigeria) ABN
+http://aumaletv.com:25461/omohack651651@/omo4478663/50358
+#EXTINF:-1,AF: (Nigeria) ACBN HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/50359
+#EXTINF:-1,AF: (Nigeria) ACBN International
+http://aumaletv.com:25461/omohack651651@/omo4478663/50360
+#EXTINF:-1,AF: (Nigeria) Bride TV
+http://aumaletv.com:25461/omohack651651@/omo4478663/50361
+#EXTINF:-1,AF: (Nigeria) Channels 24 HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/50362
+#EXTINF:-1,AF: (Nigeria) Channels TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/50363
+#EXTINF:-1,AF: (Nigeria) Dove TV
+http://aumaletv.com:25461/omohack651651@/omo4478663/50364
+#EXTINF:-1,AF: (Nigeria) Dunamis TV
+http://aumaletv.com:25461/omohack651651@/omo4478663/50365
+#EXTINF:-1,AF: (Nigeria) Ebru TV
+http://aumaletv.com:25461/omohack651651@/omo4478663/50366
+#EXTINF:-1,AF: (Nigeria) Emmanuel TV
+http://aumaletv.com:25461/omohack651651@/omo4478663/50367
+#EXTINF:-1,AF: (Nigeria) God TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/50368
+#EXTINF:-1,AF: (Nigeria) KingsWord TV FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/50369
+#EXTINF:-1,AF: (Nigeria) Lagos TV
+http://aumaletv.com:25461/omohack651651@/omo4478663/50370
+#EXTINF:-1,AF: (Nigeria) Light TV
+http://aumaletv.com:25461/omohack651651@/omo4478663/50371
+#EXTINF:-1,AF: (Nigeria) LoveWorld Plus
+http://aumaletv.com:25461/omohack651651@/omo4478663/50372
+#EXTINF:-1,AF: (Nigeria) Quest TV
+http://aumaletv.com:25461/omohack651651@/omo4478663/50373
+#EXTINF:-1,AF: (Nigeria) Rave TV
+http://aumaletv.com:25461/omohack651651@/omo4478663/50374
+#EXTINF:-1,AF: (Nigeria) Rok UK
+http://aumaletv.com:25461/omohack651651@/omo4478663/50375
+#EXTINF:-1,AF: (Nigeria) Salvation TV
+http://aumaletv.com:25461/omohack651651@/omo4478663/50376
+#EXTINF:-1,AF: (Nigeria) TV Continental HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/50377
+#EXTINF:-1,AF: (Nigeria) TVC HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/50378
+#EXTINF:-1,AF: (Nigeria) TVC News
+http://aumaletv.com:25461/omohack651651@/omo4478663/50379
+
+
+#EXTINF:-1,## |NG| NIGERIA ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2514
+#EXTINF:-1,|NG| TVC NEWS NIGERIA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2459
+#EXTINF:-1,|NG| LUMEN CHRISTI
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2460
+#EXTINF:-1,|NG| WAPTV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2461
+#EXTINF:-1,|NG| AREWA 24
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2462
+#EXTINF:-1,|NG| EBONY LIFE TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2463
+#EXTINF:-1,|NG| EBRU AFRICA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2466
+#EXTINF:-1,|NG| SALVATION TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2467
+#EXTINF:-1,|NG| NTA NEWS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2470
+#EXTINF:-1,|NG| NTA HAUSSA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2471
+#EXTINF:-1,|NG| DUNAMIS TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2472
+#EXTINF:-1,|NG| BETTER LIFE TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/138212
+#EXTINF:-1,|NG| NU SMILES TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/138211
+#EXTINF:-1,|NG| LOVE WORLD SAT TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2474
+#EXTINF:-1,|NG| TV CONTINENTAL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2475
+#EXTINF:-1,|NG| MORE GRACE TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2477
+#EXTINF:-1,|NG| BIAFRA TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2479
+#EXTINF:-1,|NG| LIFETV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2480
+#EXTINF:-1,|NG| AFRICAN ENTERTAIMENT TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2483
+#EXTINF:-1,|NG| NEW BEGINNING TV NETWORK
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2485
+#EXTINF:-1,|NG| KINGS WORD INFO TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2486
+#EXTINF:-1,|NG| LIGHT TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2487
+#EXTINF:-1,|NG| HOPE CHANNEL AFRICA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2488
+#EXTINF:-1,|NG| ET
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2490
+#EXTINF:-1,|NG| EMCI TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2491
+#EXTINF:-1,|NG| COMEDY CHANNEL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2492
+#EXTINF:-1,|NG| BRIDE TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2493
+#EXTINF:-1,|NG| FUSION PLUS TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2494
+#EXTINF:-1,|NG| LAGOS TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2495
+#EXTINF:-1,|NG| HI-IMPACTS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2496
+#EXTINF:-1,|NG| TELE SAHEL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2497
+#EXTINF:-1,|NG| A+ IVOIRE
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2498
+#EXTINF:-1,|NG| A  HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2499
+#EXTINF:-1,|NG| CHANNELS 24
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2500
+#EXTINF:-1,|NG| CHANNELS TELEVISION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2501
+#EXTINF:-1,|NG| NOLLYWOOD TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2503
+#EXTINF:-1,|NG| EMMANUEL TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2504
+#EXTINF:-1,|NG| LOVE WORLD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2505
+#EXTINF:-1,|NG| TVC NEWS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2506
+#EXTINF:-1,|NG| TVC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2507
+#EXTINF:-1,|NG| VOX
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2508
+#EXTINF:-1,|NG| ABN
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2509
+#EXTINF:-1,|NG| BET BLACK
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2510
+#EXTINF:-1,|NG| ROK TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2511
+#EXTINF:-1,|NG| AIT
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2512
+#EXTINF:-1,|NG| VOX AFRICA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/2513
+
+
+
