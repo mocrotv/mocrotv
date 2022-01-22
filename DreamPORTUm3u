@@ -6,360 +6,933 @@ https://i.imgur.com/5Wiki1T.jpg
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:0,|PT| RTP 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48584
-#EXTINF:0,|PT| RTP 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48585
-#EXTINF:0,|PT| RTP 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48586
-#EXTINF:0,|PT| RTP Africa
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48587
-#EXTINF:0,|PT| RTP Memoria
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48588
-#EXTINF:0,|PT| TVI
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48589
-#EXTINF:0,|PT| Tvi 24
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48590
-#EXTINF:0,|PT| TVI Reality
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48591
-#EXTINF:0,|PT| TVI FICCAO
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/273732
-#EXTINF:0,|PT| TCV CABO
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/274557
-#EXTINF:0,|PT| Sic HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48592
-#EXTINF:0,|PT| SIC Radical
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48593
-#EXTINF:0,|PT| SIC NOTICIAS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48594
-#EXTINF:0,|PT| SIC Mulher
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48595
-#EXTINF:0,|PT| CMTV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48596
-#EXTINF:0,|PT| SYFY
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48598
-#EXTINF:0,|PT| AXN HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48599
-#EXTINF:0,|PT| E ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48600
-#EXTINF:0,|PT| AXN WHITE HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48601
-#EXTINF:0,|PT| AXN BLACK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48602
-#EXTINF:0,|PT| FOX HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48603
-#EXTINF:0,|PT| FOX COMEDY
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48604
-#EXTINF:0,|PT| A Bola TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48605
-#EXTINF:0,|PT| BENFICA TV 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48606
-#EXTINF:0,|PT| Canal NOS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48607
-#EXTINF:0,|PT| Canal Q
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48608
-#EXTINF:0,|PT| Cano Nova
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48609
-#EXTINF:0,|PT| Porto Canal
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48610
-#EXTINF:0,|PT| RTP Acores
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48611
-#EXTINF:0,|PT| RTP Madeira
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48612
-#EXTINF:0,|PT| FOX CRIME
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48613
-#EXTINF:0,|PT| Fox Life HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48614
-#EXTINF:0,|PT| Sport TV 1 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48616
-#EXTINF:0,|PT| TVCine 1 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48617
-#EXTINF:0,|PT| TVCine 2 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48618
-#EXTINF:0,|PT| TVCine 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48619
-#EXTINF:0,|PT| TVCine 3 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48620
-#EXTINF:0,|PT| TVCine 4 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48621
-#EXTINF:0,|PT| TVCine 4 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48622
-#EXTINF:0,|PT| FOX MOVIES
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48623
-#EXTINF:0,|PT| CINE MUNDO
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48624
-#EXTINF:0,|PT| Hollywood FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48625
-#EXTINF:0,|PT| TV Series FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48626
-#EXTINF:0,|PT| TVI FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48627
-#EXTINF:0,|PT| SPORT TV +   HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48629
-#EXTINF:0,|PT| Sport TV 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48630
-#EXTINF:0,|PT| Sport TV 2 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48631
-#EXTINF:0,|PT| Sport TV 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48632
-#EXTINF:0,|PT| Sport TV 3 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48633
-#EXTINF:0,|PT| Sport TV 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48634
-#EXTINF:0,|PT| Sport TV 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48635
-#EXTINF:0,|PT| Sport TV 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48636
-#EXTINF:0,|PT| Eleven Sports 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48637
-#EXTINF:0,|PT| Eleven Sports 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48638
-#EXTINF:0,|PT| Eleven Sports 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48639
-#EXTINF:0,|PT| Eleven Sports 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48640
-#EXTINF:0,|PT| Eleven Sports 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48641
-#EXTINF:0,|PT| Eleven Sports 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48642
-#EXTINF:0,|PT| Eurosport 1 FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48643
-#EXTINF:0,|PT| EUROSPORT 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48644
-#EXTINF:0,|PT| EUROSPORT 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48645
-#EXTINF:0,|PT| Eurosport
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48646
-#EXTINF:0,|PT| Kombat Sport
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48647
-#EXTINF:0,|PT| Real Madrid TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48648
-#EXTINF:0,|PT| MOTORS TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48649
-#EXTINF:0,|PT| Sporting TV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48650
-#EXTINF:0,|PT| NBA TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48651
-#EXTINF:0,|PT| Motorvision
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48652
-#EXTINF:0,|PT| Toros TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48653
-#EXTINF:0,|PT| PFC HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48654
-#EXTINF:0,|PT| MTV Dance
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48655
-#EXTINF:0,|PT| MTV Hits
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48656
-#EXTINF:0,|PT| MTV Portugal
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48657
-#EXTINF:0,|PT| MTV Rocks
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48658
-#EXTINF:0,|PT| VH1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48659
-#EXTINF:0,|PT| VH1 Classic
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48660
-#EXTINF:0,|PT| MCM Pop
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48661
-#EXTINF:0,|PT| Afro Music
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48662
-#EXTINF:0,|PT| Trace Urban
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48663
-#EXTINF:0,|PT| 24 Kitchen FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48665
-#EXTINF:0,|PT| TLC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48666
-#EXTINF:0,|PT| Cacavision
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48667
-#EXTINF:0,|PT| Historia
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48668
-#EXTINF:0,|PT| Caca e Pesca
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48669
-#EXTINF:0,|PT| DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48670
-#EXTINF:0,|PT| Travel Channel FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48671
-#EXTINF:0,|PT| NAT GEO HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48672
-#EXTINF:0,|PT| Nat Geo Wild
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48673
-#EXTINF:0,|PT| Mezzo
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48674
-#EXTINF:0,|PT| Discovery FHD Showcase
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48675
-#EXTINF:0,|PT| ODISSEIA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48676
-#EXTINF:0,|PT| TV FAtima
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48677
-#EXTINF:0,|PT| NICKELODEON
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48679
-#EXTINF:0,|PT| Canal Panda HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48680
-#EXTINF:0,|PT| Disney Channel
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48681
-#EXTINF:0,|PT| Disney Junior
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48682
-#EXTINF:0,|PT| DISNEY JUNIOR (test)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48683
-#EXTINF:0,|PT| Biggs
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48684
-#EXTINF:0,|PT| Bloomberg
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48685
-#EXTINF:0,|PT| Cartoon Network
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48686
-#EXTINF:0,|PT| Jim Jam
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48687
-#EXTINF:0,|PT| TV Globo HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48689
-#EXTINF:0,|PT| TV Globo
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48690
-#EXTINF:0,|PT| TV Globo Premium
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48691
-#EXTINF:0,|PT| TV RECORD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48692
-#EXTINF:0,|PT| Euronews
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48693
-#EXTINF:0,|PT| TVE Internacional
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48694
-#EXTINF:0,|PT| TVE 24h
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48695
-#EXTINF:0,|PT| RTP INFORMACAO
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/48696
-#EXTINF:0,|PT| TV Boxoffice 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240226
-#EXTINF:0,|PT| TV Boxoffice 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240227
-#EXTINF:0,|PT| TV Boxoffice 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240228
-#EXTINF:0,|PT| TV Boxoffice 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240229
-#EXTINF:0,|PT| TV Boxoffice 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240230
-#EXTINF:0,|PT| TV Boxoffice 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240231
-#EXTINF:0,|PT| TV Boxoffice 7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240232
-#EXTINF:0,|PT| TV Boxoffice 8
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240233
-#EXTINF:0,|PT| TV Boxoffice 9
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240234
-#EXTINF:0,|PT| TV Boxoffice 10
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/240235
+#EXTINF:-1,## |PT-NOS| PORTUGAL ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287300
+#EXTINF:-1,|PT-NOS| RTP 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287299
+#EXTINF:-1,|PT-NOS| RTP 2 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287298
+#EXTINF:-1,|PT-NOS| RTP 3 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287297
+#EXTINF:-1,|PT-NOS| RTP ACORES
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287296
+#EXTINF:-1,|PT-NOS| RTP MADEIRA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287295
+#EXTINF:-1,|PT-NOS| RTP MEMORIA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287294
+#EXTINF:-1,|PT-NOS| RTP AFRICA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287293
+#EXTINF:-1,|PT-NOS| SIC HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287292
+#EXTINF:-1,|PT-NOS| SIC NOTICIAS HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287291
+#EXTINF:-1,|PT-NOS| TVI HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287290
+#EXTINF:-1,|PT-NOS| TVI
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287289
+#EXTINF:-1,|PT-NOS| TVI 24 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287288
+#EXTINF:-1,|PT-NOS| TVI REALITY HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287287
+#EXTINF:-1,|PT-NOS| TVI REALITY CAMARA 1
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287286
+#EXTINF:-1,|PT-NOS| TVI REALITY CAMARA 2
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287285
+#EXTINF:-1,|PT-NOS| TVI REALITY CAMARA 3
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287284
+#EXTINF:-1,|PT-NOS| TVI REALITY CAMARA 4
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287283
+#EXTINF:-1,|PT-NOS| CMTV HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287282
+#EXTINF:-1,|PT-NOS| CMTV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287281
+#EXTINF:-1,|PT-NOS| PORTO CANAL HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287280
+#EXTINF:-1,|PT-NOS| CACA E PESCA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287279
+#EXTINF:-1,|PT-NOS| ARTV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287278
+#EXTINF:-1,## |PT-NOS| DESPORTO ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287277
+#EXTINF:-1,|PT-NOS| ELEVEN SPORTS 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287276
+#EXTINF:-1,|PT-NOS| ELEVEN SPORTS 2 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287275
+#EXTINF:-1,|PT-NOS| ELEVEN SPORTS 3 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287274
+#EXTINF:-1,|PT-NOS| ELEVEN SPORTS 4 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287273
+#EXTINF:-1,|PT-NOS| ELEVEN SPORTS 5 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287272
+#EXTINF:-1,|PT-NOS| ELEVEN SPORTS 6 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287271
+#EXTINF:-1,|PT-NOS| SPORT TV + HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287270
+#EXTINF:-1,|PT-NOS| SPORT TV 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287269
+#EXTINF:-1,|PT-NOS| SPORT TV 2 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287268
+#EXTINF:-1,|PT-NOS| SPORT TV 3 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287267
+#EXTINF:-1,|PT-NOS| SPORT TV 4 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287266
+#EXTINF:-1,|PT-NOS| CANAL 11 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287265
+#EXTINF:-1,|PT-NOS| A BOLA TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287264
+#EXTINF:-1,|PT-NOS| BENFICA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287263
+#EXTINF:-1,|PT-NOS| MOTORVISION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287262
+#EXTINF:-1,|PT-NOS| PFC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287261
+#EXTINF:-1,|PT-NOS| SPORTING TV HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287260
+#EXTINF:-1,|PT-NOS| SPORTING TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287259
+#EXTINF:-1,|PT-NOS| FUEL TV HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287258
+#EXTINF:-1,|PT-NOS| FUEL TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287257
+#EXTINF:-1,|PT-NOS| SPORT TV NBA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287256
+#EXTINF:-1,##|PT-NOS| CULTURA ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287255
+#EXTINF:-1,|PT-NOS| ID INVESTIGATION DISCOVERY HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287254
+#EXTINF:-1,|PT-NOS| CRIME+INVESTIGATION ASTRA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287253
+#EXTINF:-1,|PT-NOS| DISCOVERY HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287252
+#EXTINF:-1,|PT-NOS| DISCOVERY CHANNEL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287251
+#EXTINF:-1,|PT-NOS| NATIONAL GEOGRAPHIC HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287250
+#EXTINF:-1,|PT-NOS| NATIONAL GEOGRAPHIC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287249
+#EXTINF:-1,|PT-NOS| NATIONAL GEOGRAPHIC WILD HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287248
+#EXTINF:-1,|PT-NOS| NATIONAL GEOGRAPHIC WILD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287247
+#EXTINF:-1,|PT-NOS| ODISSEIA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287246
+#EXTINF:-1,|PT-NOS| HISTORIA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287245
+#EXTINF:-1,|PT-NOS| CASA E COZINHA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287244
+#EXTINF:-1,## |PT-NOS| CINEMA ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287243
+#EXTINF:-1,|PT-NOS| FOX HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287242
+#EXTINF:-1,|PT-NOS| FOX LIFE HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287241
+#EXTINF:-1,|PT-NOS| FOX CRIME HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287240
+#EXTINF:-1,|PT-NOS| FOX COMEDY HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287239
+#EXTINF:-1,|PT-NOS| FOX COMEDY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287238
+#EXTINF:-1,|PT-NOS| FOX MOVIES HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287237
+#EXTINF:-1,|PT-NOS| FOX MOVIES
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287236
+#EXTINF:-1,|PT-NOS| HOLLYWOOD HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287235
+#EXTINF:-1,|PT-NOS| TVCINE ACTION HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287234
+#EXTINF:-1,|PT-NOS| TVCINE EDITION HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287233
+#EXTINF:-1,|PT-NOS| TVCINE EMOTION HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287232
+#EXTINF:-1,|PT-NOS| TVCINE TOP HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287231
+#EXTINF:-1,|PT-NOS| AXN HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287230
+#EXTINF:-1,|PT-NOS| AXN MOVIES HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287229
+#EXTINF:-1,|PT-NOS| AXN WHITE HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287228
+#EXTINF:-1,|PT-NOS| CINEMUNDO HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287227
+#EXTINF:-1,|PT-NOS| CINEMUNDO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287226
+#EXTINF:-1,|PT-NOS| NOS STUDIOS HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287225
+#EXTINF:-1,## |PT-NOS| INFANTIL ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287224
+#EXTINF:-1,|PT-NOS| BABY TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287223
+#EXTINF:-1,|PT-NOS| NICKELODEON
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287222
+#EXTINF:-1,|PT-NOS| NICK JR
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287221
+#EXTINF:-1,|PT-NOS| DISNEY CHANNEL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287220
+#EXTINF:-1,|PT-NOS| DISNEY JUNIOR
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287219
+#EXTINF:-1,|PT-NOS| PANDA BIGGS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287218
+#EXTINF:-1,|PT-NOS| CANAL PANDA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287217
+#EXTINF:-1,|PT-NOS| CARTOON NETWORK
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287216
+#EXTINF:-1,## |PT-NOS| MUSICA ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287215
+#EXTINF:-1,|PT-NOS| MTV PORTUGAL HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287214
+#EXTINF:-1,|PT-NOS| MTV PORTUGAL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287213
+#EXTINF:-1,|PT-NOS| AFRO MUSIC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287212
+#EXTINF:-1,|PT-NOS| TRACE TOCA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287211
+#EXTINF:-1,## |PT-NOS| INTRETINIMENTO ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287210
+#EXTINF:-1,|PT-NOS| CBS REALITY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287209
+#EXTINF:-1,|PT-NOS| BLAZE HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287208
+#EXTINF:-1,|PT-NOS| 24 KITCHEN HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287207
+#EXTINF:-1,|PT-NOS| AMC HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287206
+#EXTINF:-1,|PT-NOS| SIC CARAS HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287205
+#EXTINF:-1,|PT-NOS| SIC K
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287204
+#EXTINF:-1,|PT-NOS| SIC MULHER HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287203
+#EXTINF:-1,|PT-NOS| TRAVEL CHANNEL HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287202
+#EXTINF:-1,|PT-NOS| TLC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287201
+#EXTINF:-1,|PT-NOS| SYFY HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287200
+#EXTINF:-1,|PT-NOS| SIC RADICAL HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287199
+#EXTINF:-1,|PT-NOS| TVE 24H
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287198
+#EXTINF:-1,|PT-NOS| CANAL Q
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287197
+#EXTINF:-1,|PT-NOS| EURONEWS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287196
+#EXTINF:-1,|PT-NOS| FTV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287195
+#EXTINF:-1,|PT-NOS| TVI FICCAO HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287194
+#EXTINF:-1,|PT-NOS| TVI FICCAO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287193
+#EXTINF:-1,|PT-NOS| DOG TV FHD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287192
+#EXTINF:-1,|PT-NOS| GLOBO HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287191
+#EXTINF:-1,|PT-NOS| GLOBO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287190
+#EXTINF:-1,|PT-NOS| GLOBO NOW HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287189
+#EXTINF:-1,|PT-NOS| GLOBO NOW
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287188
+#EXTINF:-1,|PT-NOS| CACA E PESCA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287187
+#EXTINF:-1,|PT-NOS| CACAVISION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287186
+#EXTINF:-1,|PT-NOS| E! ENTERTAINMENT
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287185
+#EXTINF:-1,|PT-NOS| TV RECORD HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287184
+#EXTINF:-1,|PT-NOS| TV RECORD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287183
+#EXTINF:-1,|PT-NOS| E! HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287182
+#EXTINF:-1,## |PT-NOS| INTERNATIONAL ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287181
+#EXTINF:-1,|PT-NOS| TV GALICIA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287180
+#EXTINF:-1,|PT-NOS| TVEI
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287179
+#EXTINF:-1,|PT-NOS| TOROS TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287178
+#EXTINF:-1,|PT-NOS| CUBAVISION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287177
+#EXTINF:-1,|PT-NOS| M6
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287176
+#EXTINF:-1,|PT-NOS| FRANCE 24
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287175
+#EXTINF:-1,|PT-NOS| MCM TOP
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287174
+#EXTINF:-1,|PT-NOS| TRACE URBAN HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287173
+#EXTINF:-1,|PT-NOS| TRACE URBAN
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287172
+#EXTINF:-1,|PT-NOS| MEZZO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287171
+#EXTINF:-1,|PT-NOS| MEZZO LIVE HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287170
+#EXTINF:-1,|PT-NOS| TV5 MONDE
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287169
+#EXTINF:-1,|PT-NOS| CNN
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287168
+#EXTINF:-1,|PT-NOS| BLOOMBERG
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287167
+#EXTINF:-1,|PT-NOS| CNBC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287166
+#EXTINF:-1,|PT-NOS| CNBC EUROPE
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287165
+#EXTINF:-1,|PT-NOS| BBC ENTERTAINMENT
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287164
+#EXTINF:-1,|PT-NOS| BBC WORLD NEWS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287163
+#EXTINF:-1,|PT-NOS| SKY NEWS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287162
+#EXTINF:-1,|PT-NOS| GINX
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287161
+#EXTINF:-1,|PT-NOS| FIGHT NETWORK HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287160
+#EXTINF:-1,|PT-NOS| RTL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287159
+#EXTINF:-1,|PT-NOS| SUPER RTL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287158
+#EXTINF:-1,|PT-NOS| BVN
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287157
+#EXTINF:-1,|PT-NOS| I CONCERTS FHD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287156
+#EXTINF:-1,|PT-NOS| CHANNEL 1
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287155
+#EXTINF:-1,|PT-NOS| TVR INTERNATIONAL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287154
+#EXTINF:-1,|PT-NOS| AL JAZEERA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287153
+#EXTINF:-1,|PT-NOS| NHK WORLD JAPAN
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287152
+#EXTINF:-1,|PT-NOS| KBS WORLD HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287151
+#EXTINF:-1,|PT-NOS| CCTV4
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287150
+#EXTINF:-1,## |PT-SD| PORTUGAL ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286521
+#EXTINF:-1,|PT-SD| RTP 1
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286376
+#EXTINF:-1,|PT-SD| RTP 2
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286375
+#EXTINF:-1,|PT-SD| RTP 3
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286374
+#EXTINF:-1,|PT-SD| TVI 24
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286354
+#EXTINF:-1,|PT-SD| TVI FICCAO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286353
+#EXTINF:-1,|PT-SD| TVI
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286352
+#EXTINF:-1,|PT-SD| TVI REALITY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286351
+#EXTINF:-1,|PT-SD| SIC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286372
+#EXTINF:-1,|PT-SD| SIC MULHER
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286371
+#EXTINF:-1,|PT-SD| SIC NOTICIAS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286370
+#EXTINF:-1,|PT-SD| SIC RADICAL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286369
+#EXTINF:-1,|PT-SD| AMC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286413
+#EXTINF:-1,|PT-SD| SYFY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286361
+#EXTINF:-1,|PT-SD| TLC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286360
+#EXTINF:-1,|PT-SD| GLOBO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286387
+#EXTINF:-1,|PT-SD| CACA E PESCA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286407
+#EXTINF:-1,|PT-SD| RTP MEMORIA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286373
+#EXTINF:-1,|PT-SD| MTV PORTUGAL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286384
+#EXTINF:-1,|PT-SD| PORTO CANAL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286377
+#EXTINF:-1,## |PT-SD| INFANTIL ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286498
+#EXTINF:-1,|PT-SD| DISNEY JUNIOR
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286400
+#EXTINF:-1,|PT-SD| NICK JR
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286381
+#EXTINF:-1,|PT-SD| NICKELODEAN
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286380
+#EXTINF:-1,|PT-SD| BABY TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286409
+#EXTINF:-1,|PT-SD| CANAL PANDA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286405
+#EXTINF:-1,|PT-SD| PANDA BIGGS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286378
+#EXTINF:-1,## |PT-SD| DESPORTO ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286419
+#EXTINF:-1,|PT-SD| ELEVEN SPORTS 1
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286399
+#EXTINF:-1,|PT-SD| ELEVEN SPORTS 2
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286398
+#EXTINF:-1,|PT-SD| ELEVEN SPORTS 3
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286397
+#EXTINF:-1,|PT-SD| ELEVEN SPORTS 4
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286396
+#EXTINF:-1,|PT-SD| TV RECORD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286359
+#EXTINF:-1,|PT-SD| ELEVEN SPORTS 5
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286395
+#EXTINF:-1,|PT-SD| EUROSPORT 1
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286394
+#EXTINF:-1,|PT-SD| EUROSPORT 2
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286393
+#EXTINF:-1,|PT-SD| SPORT TV +
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286368
+#EXTINF:-1,|PT-SD| SPORT TV 1
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286367
+#EXTINF:-1,|PT-SD| SPORT TV 2
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286366
+#EXTINF:-1,|PT-SD| SPORT TV 3
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286365
+#EXTINF:-1,|PT-SD| SPORT TV 4
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286364
+#EXTINF:-1,|PT-SD| SPORT TV 5
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286363
+#EXTINF:-1,|PT-SD| SPORT TV 6
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286350
+#EXTINF:-1,|PT-SD| SPORTING TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286362
+#EXTINF:-1,|PT-SD| BENFICA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286408
+#EXTINF:-1,|PT-SD| A BOLA TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286414
+#EXTINF:-1,|PT-SD| CMTV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286403
+#EXTINF:-1,|PT-SD| CANAL 11
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286406
+#EXTINF:-1,## |PT-SD| CULTURA ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286418
+#EXTINF:-1,|PT-SD| 24 KITCHEN
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286415
+#EXTINF:-1,|PT-SD| DISCOVERY CHANNEL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286402
+#EXTINF:-1,|PT-SD| NATIONAL GEOGRAFIC WILD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286383
+#EXTINF:-1,|PT-SD| NATIONAL GEOGRAPHIC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286382
+#EXTINF:-1,## |PT-SD| FILMES ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286416
+#EXTINF:-1,|PT-SD| HISTORIA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286386
+#EXTINF:-1,|PT-SD| TVCINE ACTION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286358
+#EXTINF:-1,|PT-SD| TVCINE TOP
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286355
+#EXTINF:-1,|PT-SD| AXN
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286412
+#EXTINF:-1,|PT-SD| AXN MOVIES
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286411
+#EXTINF:-1,|PT-SD| AXN WHITE
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286410
+#EXTINF:-1,|PT-SD| FOX COMEDY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286392
+#EXTINF:-1,|PT-SD| FOX CRIME
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286391
+#EXTINF:-1,|PT-SD| FOX LIFE
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286390
+#EXTINF:-1,|PT-SD| FOX
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286389
+#EXTINF:-1,|PT-SD| FOX MOVIES
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286388
+#EXTINF:-1,## |PT| PORTUGAL HD ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8136
+#EXTINF:-1,|PT| RTP 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8134
+#EXTINF:-1,|PT| RTP 2 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8133
+#EXTINF:-1,|PT| RTP 3 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8130
+#EXTINF:-1,|PT| RTP MEMORIA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8126
+#EXTINF:-1,|PT| RTP MADEIRA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8127
+#EXTINF:-1,|PT| RTP AFRICA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8128
+#EXTINF:-1,|PT| RTP ACORES
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8129
+#EXTINF:-1,|PT| CANAL Q
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8119
+#EXTINF:-1,|PT| SIC K
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8120
+#EXTINF:-1,|PT| SIC CARAS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8121
+#EXTINF:-1,|PT| SIC RADICAL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8122
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8123
+#EXTINF:-1,|PT| SIC MULHER
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8124
+#EXTINF:-1,|PT| SIC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8125
+#EXTINF:-1,|PT| TCV CABO RADIO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8107
+#EXTINF:-1,|PT| KURIAKOS TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8108
+#EXTINF:-1,|PT| ZAP VIVA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8109
+#EXTINF:-1,|PT| PORTO CANAL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8118
+#EXTINF:-1,|PT| TV RECORD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8110
+#EXTINF:-1,|PT| TVI REALITY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8111
+#EXTINF:-1,|PT| MCS EXTREME
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8112
+#EXTINF:-1,|PT| TVI FICCAO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8113
+#EXTINF:-1,|PT| TVE 24H
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8116
+#EXTINF:-1,|PT| RTP INTERNATIONAL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/47624
+#EXTINF:-1,|PT| CACA E PESCA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/62623
+#EXTINF:-1,|PT| TVI MOSAICO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74187
+#EXTINF:-1,|PT| TV RECORD NEWS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74188
+#EXTINF:-1,|PT| TV GLOBO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74189
+#EXTINF:-1,|PT| TV GLOBO NOW
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74190
+#EXTINF:-1,|PT| TVI REALITY HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74193
+#EXTINF:-1,|PT| TVI
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8115
+#EXTINF:-1,## |PT| INFANTIL ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8106
+#EXTINF:-1,|PT| BABY TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8105
+#EXTINF:-1,|PT| NICK JR.
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8097
+#EXTINF:-1,|PT| NICKELODEON
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8098
+#EXTINF:-1,|PT| BIGGS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8099
+#EXTINF:-1,|PT| JIM JAM
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8100
+#EXTINF:-1,|PT| CARTOON NETWORK
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8101
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8102
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8103
+#EXTINF:-1,|PT| CANAL PANDA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8104
+#EXTINF:-1,|PT| BOOMERANG
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74191
+#EXTINF:-1,|PT| BOOMERANG HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74201
+#EXTINF:-1,|PT| POP KIDS CAILLOU
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/138462
+#EXTINF:-1,|PT| POP KIDS ZIG AND SHARKO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/287624
+#EXTINF:-1,|PT| POP KIDS PJ MASKS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/222708
+#EXTINF:-1,|PT|  POP KIDS PEPPA PIG
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/208252
+#EXTINF:-1,|PT| POP KIDS BEN E HOLLY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/200842
+#EXTINF:-1,|PT| POP KIDS MASHA E O URSO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/198177
+#EXTINF:-1,## |PT| ENTRETENIMENTO ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8096
+#EXTINF:-1,|PT| E! ENTERTAINMENT
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8095
+#EXTINF:-1,## |PT| FILMES ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8094
+#EXTINF:-1,|PT| NOS STUDIOS HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8075
+#EXTINF:-1,|PT| NOS STUDIO HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8076
+#EXTINF:-1,|PT| SYFY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8077
+#EXTINF:-1,|PT| FOX LIFE HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8078
+#EXTINF:-1,|PT| FOX CRIME HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8079
+#EXTINF:-1,|PT| FOX COMEDY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8080
+#EXTINF:-1,|PT| FOX MOVIES
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8081
+#EXTINF:-1,|PT| FOX HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8082
+#EXTINF:-1,|PT| TVCINE ACTION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8083
+#EXTINF:-1,|PT| TVCINE ACTION HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8085
+#EXTINF:-1,|PT| TVCINE EMOTION HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8086
+#EXTINF:-1,|PT| TVCINE EDITION HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8087
+#EXTINF:-1,|PT| TVCINE TOP HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8088
+#EXTINF:-1,|PT| AXN MOVIES HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8089
+#EXTINF:-1,|PT| AXN WHITE HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8090
+#EXTINF:-1,|PT| AXN HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8091
+#EXTINF:-1,|PT| AMC HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8093
+#EXTINF:-1,|PT| TV SERIES HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8045
+#EXTINF:-1,|PT| TV SERIES
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8044
+#EXTINF:-1,|PT| HOLLYWOOD HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8048
+#EXTINF:-1,|PT| HOLLYWOOD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8047
+#EXTINF:-1,|PT| CINEMUNDO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8046
+#EXTINF:-1,|PT| POP MOVIES CHRISTMAS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286047
+#EXTINF:-1,|PT| POP MOVIES ACTION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/289079
+#EXTINF:-1,|PT| POP MOVIES COMEDY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/289077
+#EXTINF:-1,|PT| POP MOVIES ROMANCE
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/289080
+#EXTINF:-1,|PT| POP MOVIES DRAMA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/289085
+#EXTINF:-1,|PT| POP MOVIES CRIME
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/289083
+#EXTINF:-1,|PT| POP MOVIES HORROR
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/289082
+#EXTINF:-1,|PT| POP MOVIES WESTERN
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/289081
+#EXTINF:-1,|PT| POP MOVIES ANIMATION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/289078
+#EXTINF:-1,|PT| POP MOVIES DOCUMENTARY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/289084
+#EXTINF:-1,## |PT| INTERNACIONAIS ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8074
+#EXTINF:-1,|PT| GLOBO HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8073
+#EXTINF:-1,|PT| GLOBO PREMIUM
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8072
+#EXTINF:-1,|PT| FOX NEWS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8059
+#EXTINF:-1,|PT| CANACAO NOVA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8060
+#EXTINF:-1,|PT| FTV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8061
+#EXTINF:-1,|PT| BLOOMBERG
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8062
+#EXTINF:-1,|PT| CBS REALITY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8063
+#EXTINF:-1,|PT| BBC WORLD NEWS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8064
+#EXTINF:-1,|PT| TV5 MONDE
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8065
+#EXTINF:-1,|PT| EURONEWS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8066
+#EXTINF:-1,|PT| CNBC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8068
+#EXTINF:-1,|PT| SKY NEWS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8069
+#EXTINF:-1,|PT| CNN
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8070
+#EXTINF:-1,|PT| TV GALICIA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8071
+#EXTINF:-1,## |PT| MUSICA ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8058
+#EXTINF:-1,|PT| MEZZO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8050
+#EXTINF:-1,|PT| MCM POP
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8051
+#EXTINF:-1,|PT| MTV PORTUGAL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8052
+#EXTINF:-1,|PT| AFRO MUSIC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8053
+#EXTINF:-1,|PT| VH1 CLASSIC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8054
+#EXTINF:-1,|PT| VH1
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8055
+#EXTINF:-1,|PT| TRACE TOCA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8056
+#EXTINF:-1,|PT| TRACE URBAN
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8057
+#EXTINF:-1,|PT| POP MUSIC AFRO
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/255212
+#EXTINF:-1,|PT| POP MUSIC HOUSE
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/254834
+#EXTINF:-1,## |PT| DESPORTO ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8032
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8009
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8008
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8007
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8006
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8005
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8004
+#EXTINF:-1,|PT| NBA TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8010
+#EXTINF:-1,|PT| SPORT TV + HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286647
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8019
+#EXTINF:-1,|PT| SPORT TV 1 HD NOS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8018
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8016
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8014
+#EXTINF:-1,|PT| SPORT TV 4
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8012
+#EXTINF:-1,|PT| SPORT TV 5
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8011
+#EXTINF:-1,|PT| SPORT TV 6 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/229314
+#EXTINF:-1,|PT| TOROS TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8021
+#EXTINF:-1,|PT| CMTV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8022
+#EXTINF:-1,|PT| BENFICA TV HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286643
+#EXTINF:-1,|PT| PFC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8023
+#EXTINF:-1,|PT| EUROSPORT 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8026
+#EXTINF:-1,|PT| EUROSPORT 1
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8025
+#EXTINF:-1,|PT| EUROSPORT 2
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8024
+#EXTINF:-1,|PT| FUEL TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8027
+#EXTINF:-1,|PT| SPORTING TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8028
+#EXTINF:-1,|PT| KOMBAT SPORT
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8029
+#EXTINF:-1,|PT| A BOLA TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8030
+#EXTINF:-1,|PT| REAL MADRID TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8002
+#EXTINF:-1,|PT| CANAL 11 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286642
+#EXTINF:-1,|PT| CANAL 11
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8001
+#EXTINF:-1,|PT| MOTORVISION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8003
+#EXTINF:-1,|PT| BTV 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8031
+#EXTINF:-1,## |PT| CULTURA ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8043
+#EXTINF:-1,|PT| POP DOCU RELAXATION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/229318
+#EXTINF:-1,|PT| POP DOCUMENTÁRIOS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/209121
+#EXTINF:-1,|PT| NAT GEO GEOGRAPHIC HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8040
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286644
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC WILD HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286645
+#EXTINF:-1,|PT| INVESTIGATION DISCOVERY HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286646
+#EXTINF:-1,|PT| NAT GEO WILD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8039
+#EXTINF:-1,|PT| DISCOVERY CHANNEL
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8042
+#EXTINF:-1,|PT| CRIME INVESTIGATION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8038
+#EXTINF:-1,|PT| TLC
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8033
+#EXTINF:-1,|PT| HISTORIA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8034
+#EXTINF:-1,|PT| 24 KITCHEN HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8035
+#EXTINF:-1,|PT| ODISSEIA
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8036
+#EXTINF:-1,|PT| TRAVEL CHANNEL HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/8037
+#EXTINF:-1,|PT| BLAZE HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286648
+#EXTINF:-1,|PT| TVI 24 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286649
+#EXTINF:-1,## |PT-4K| PORTUGAL 4K ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4542
+#EXTINF:-1,|PT-8K| SPORT TV 1
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286613
+#EXTINF:-1,|PT-8K| BENFICA 8K
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286612
+#EXTINF:-1,|PT-4K|  RTP 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4541
+#EXTINF:-1,|PT-4K|  RTP 2 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4540
+#EXTINF:-1,|PT-4K|  RTP 3 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4539
+#EXTINF:-1,|PT-4K|  SIC HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4538
+#EXTINF:-1,|PT-4K|  SIC MULHER HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4537
+#EXTINF:-1,|PT-4K|  SIC NOTICIAS HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4536
+#EXTINF:-1,|PT-4K|  SIC RADICAL HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4535
+#EXTINF:-1,|PT-4K|  SIC CARAS HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4534
+#EXTINF:-1,|PT-4K|  TVI FICCAO HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4533
+#EXTINF:-1,|PT-4K|  TVI HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4532
+#EXTINF:-1,|PT-4K| CNN HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4531
+#EXTINF:-1,|PT-4K|  PORTO CANAL HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4530
+#EXTINF:-1,|PT-4K|  GLOBO PORTUGAL HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4529
+#EXTINF:-1,|PT-4K|  ZAP VIVA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4528
+#EXTINF:-1,|PT-4K|  E! ENTERTAINMENT HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4527
+#EXTINF:-1,|PT-4K| SAUDE HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74202
+#EXTINF:-1,|PT-4K| TVI 24
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286625
+#EXTINF:-1,|PT-4K| TVI REALITY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286624
+#EXTINF:-1,|PT-4K| TV GLOBO NOW HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74200
+#EXTINF:-1,|PT-4K| TV GLOBO HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74199
+#EXTINF:-1,|PT-4K| TV RECORD NEWS HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74198
+#EXTINF:-1,|PT-4K| TV RECORD HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74197
+#EXTINF:-1,|PT-4K| CACA E PESCA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74196
+#EXTINF:-1,|PT-4K| TVI MOSAICO HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74192
+#EXTINF:-1,## |PT-4K|  FILMES ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4526
+#EXTINF:-1,|PT-4K|  AMC HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4525
+#EXTINF:-1,|PT-4K|  AXN HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4524
+#EXTINF:-1,|PT-4K|  AXN WHITE HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4523
+#EXTINF:-1,|PT-4K|  AXN MOVIES HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4522
+#EXTINF:-1,|PT-4K|  TV CINE TOP HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4521
+#EXTINF:-1,|PT-4K|  TV CINE EDITION HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4520
+#EXTINF:-1,|PT-4K|  TV CINE EMOTION HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4519
+#EXTINF:-1,|PT-4K|  TV CINE ACTION HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4518
+#EXTINF:-1,|PT-4K| FOX COMEDY
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286622
+#EXTINF:-1,|PT-4K| NOS STUDIOS
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286620
+#EXTINF:-1,|PT-4K| TVCINE ACTION
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286616
+#EXTINF:-1,|PT-4K|  FOX HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4517
+#EXTINF:-1,|PT-4K|  FOX MOVIES HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4516
+#EXTINF:-1,|PT-4K|  FOX CRIME HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4515
+#EXTINF:-1,|PT-4K|  FOX LIFE HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4514
+#EXTINF:-1,|PT-4K|  SYFY HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4513
+#EXTINF:-1,|PT-4K|  BLAZE TV HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4512
+#EXTINF:-1,|PT-4K|  NOS STUDIO HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4511
+#EXTINF:-1,## |PT-4K|  SERIES ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4510
+#EXTINF:-1,|PT-4K| HOLLYWOOD HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4509
+#EXTINF:-1,|PT-4K|  CINEMUNDO HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4508
+#EXTINF:-1,## |PT-4K|  CULTURA ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4507
+#EXTINF:-1,|PT-4K|  NATIONAL GEOGRAPHIC HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4506
+#EXTINF:-1,|PT-4K|  NAT GEO WILD HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4505
+#EXTINF:-1,|PT-4K|  ID INVESTIGATION DISCOVERY HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4504
+#EXTINF:-1,|PT-4K|  TRAVEL CHANNEL HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4503
+#EXTINF:-1,|PT-4K|  HISTORIA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4502
+#EXTINF:-1,|PT-4K|  FINE LIVING NETWORK HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4501
+#EXTINF:-1,|PT-4K|  DOG TV HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4500
+#EXTINF:-1,|PT-4K|  ODISSEIA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4499
+#EXTINF:-1,|PT-4K|  24 KITCHEN HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4498
+#EXTINF:-1,|PT-4K|  CASA E COZINHA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4497
+#EXTINF:-1,## |PT-4K|  DESPORTO ##
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4496
+#EXTINF:-1,|PT-4K|  BTV 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4495
+#EXTINF:-1,|PT-4K|  A BOLA TV HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4494
+#EXTINF:-1,|PT-4K| SPORTING TV HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4493
+#EXTINF:-1,|PT-4K|  EUROSPORT 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4492
+#EXTINF:-1,|PT-4K| BENFICA TV
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286623
+#EXTINF:-1,|PT-4K| SPORT TV +
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286619
+#EXTINF:-1,|PT-4K|  SPORT TV   HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4491
+#EXTINF:-1,|PT-4K|  SPORT TV 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4490
+#EXTINF:-1,|PT-4K|  SPORT TV 2 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4489
+#EXTINF:-1,|PT-4K|  SPORT TV 3 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4488
+#EXTINF:-1,|PT-4K| SPORT TV 4 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74194
+#EXTINF:-1,|PT-4K| SPORT TV 5 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/74195
+#EXTINF:-1,|PT-4K| SPORT TV 6 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/286618
+#EXTINF:-1,|PT-4K|  SPORT TV NBA HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4487
+#EXTINF:-1,|PT-4K|  ELEVEN SPORTS 1 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4486
+#EXTINF:-1,|PT-4K|  ELEVEN SPORTS 2 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4485
+#EXTINF:-1,|PT-4K|  ELEVEN SPORTS  3 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4484
+#EXTINF:-1,|PT-4K|  ELEVEN SPORTS 4 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4483
+#EXTINF:-1,|PT-4K|  ELEVEN SPORTS 5 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4482
+#EXTINF:-1,|PT-4K|  ELEVEN SPORTS 6 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4481
+#EXTINF:-1,|PT-4K|  FIGHT NETWORK HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4480
+#EXTINF:-1,|PT-4K|  CANAL 11 HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4479
+#EXTINF:-1,|PT-4K|  CMTV HD
+http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4478
+
+
+
+
+
+
+
+
+
+
