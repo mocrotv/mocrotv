@@ -7,19 +7,57 @@ https://i.imgur.com/5Wiki1T.jpg
 https://i.imgur.com/5Wiki1T.jpg
 
 
-#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 1 HD
-http://b.banourahga.xyz/live/996251/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 1 SD
-http://b.banourahga.xyz/live/500021/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 1 Low
-http://b.banourahga.xyz/live/770001/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 2 HD
-http://b.banourahga.xyz/live/88001/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 2 SD
-http://b.banourahga.xyz/live/515141/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 2 Low
-http://b.banourahga.xyz/live/99821/index.m3u8
+#EXTINF:0,beIN SPORTS MAX 1 4K CAF 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3009
+#EXTINF:0,beIN SPORTS MAX 2 4K CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3010
+#EXTINF:0,beIN SPORTS MAX 3 4K CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3011
+#EXTINF:0,beIN SPORTS MAX 4 4K CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3012
+#EXTINF:0,beIN SPORTS MAX 5 4K CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3013
+#EXTINF:0,beIN SPORTS MAX 6 4K CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3014
+
+#EXTINF:0,beIN-SPORTS MAX HD 1 CAN 2020
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3020
+#EXTINF:0,beIN-SPORTS MAX HD 2 CAN 2020
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3022
+#EXTINF:0,beIN-SPORTS MAX HD 3 CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3024
+#EXTINF:0,beIN SPORTS MAX HD 4 CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3027
+#EXTINF:0,beIN SPORTS MAX HD 5 CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3028
+#EXTINF:0,beIN SPORTS MAX HD 6 CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3029
+#EXTINF:0,beIN SPORTS MAX 1 SD CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3015
+#EXTINF:0,beIN SPORTS MAX 2 SD CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3016
+#EXTINF:0,beIN SPORTS MAX 3 SD CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3017
+#EXTINF:0,beIN SPORTS MAX 4 SD CAN 2021
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3018
+
 
 
 #EXTINF:-1, SPORTS MAX 1
@@ -132,3 +170,26 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120679
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
 #EXTINF:-1,BEIN SPORTS MAX 2 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 1 HD
+
+#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 1 SD
+
+#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 1 Low
+
+
+#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 2 HD
+
+#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 2 SD
+
+#EXTINF:0 tvg-id="ext" group-title=" AdrarTV",beIN Max 2 Low
+
+
+
+
+
+
+
