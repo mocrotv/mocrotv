@@ -262,13 +262,14 @@ https://alltubedownload.net/download?url=https://www.youtube.com/watch?v=Z4C82ey
 
 
 #EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST 11111111
-https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
+https://www.youtube.com/watch?v=w_Ma8oQLmSM|Referer=https://www.youtube.com/
+
+#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST test
+https://plugin.video.youtube/play/?video_id=0Y-IRcUJi6o
+
 
 #EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST 11111111
 plugin://plugin.video.youtube/play/?video_id=0Y-IRcUJi6o&ab_channel=beINSPORTS
-
-#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST 11111111
-plugin://plugin.video.youtube/play/?video_id=0Y-IRcUJi6o
 
 #EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST 11111111
 plugin://plugin.video.youtube/play/?video_id=V0I5eglJMRI&ab_channel=RT
@@ -289,69 +290,15 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643012757/ei/N
 #EXTINF:30,beIN SPORTS - beIN SPORTS new
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643013295/ei/TxDuYcr7GMLQWsqcnuAI/ip/105.71.17.194/id/0Y-IRcUJi6o.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ma/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbsSPX1HBLGBXXa-OrEBtHj7PeMMddnaknGPzLjcFyycCIQDU6aBPLJZyqQQ6st1hv-LUJiuGOoQMorAv2opERv8VTw%3D%3D/file/index.m3u8
 
-#EXTINF:0,beIN SPORTS caching
-#EXTVLCOPT:network-caching=1000
-https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
-
-
-#EXTINF:0,beIN SPORTS caching
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
-
-#EXTINF:0,beIN SPORTS caching
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
-
-#EXTINF:0,beIN SPORTS caching
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS|Referer=https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
-
-#EXTINF:0,beIN SPORTS caching
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS|Referer=https://www.youtube.com/
-
-
-#EXTINF:0,beIN SPORTS nnnn
-xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC91d0FBQUIlMmJMQ0FBQUFBQUFCQUFGd2RzT2dpQUFBTkFQYWk0MUFuM3dCZkhDY2xoaXMzb1RFSmUzUnJPY3pZJTJmdkhMaDdrV05Pak42cmZqWkdVSnlUTiUyYm5LMlBoOFhNT0tkRHp6UG5Ed0FNT3ptdTk5d2NkTURMUnR3bE4zZ0xGVDBBZm1jRG1IcVd4MkZ6MTEzdlhCZFZnbW9obnEyN2pLV3ZZS0tHOEJ3ZFolMmJuNHNwRTh3QUc2dmlZbSUyZkNFZElXeUxVa1FOSUNTQ09yQm8xcmFiJTJiMm9YUVBOcEwlMmJGcWw5bXhZVHclMmJmZmpWRklTVnhOVVJzRWZ3aDZrS1c3QUFBQSRodHRwLXJlZmZlcmVyPWh0dHA6Ly9saW5rcHJvdGVjdC54bXR2cGxheWVyLmNvbQ%3d%3d
-
-#EXTINF:0,beIN SPORTS nnnnn;
-xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC91d0FBQUIlMmJMQ0FBQUFBQUFCQUFGd2NFT2dpQUFBTkFQYWt4RU1UcDRhZUxTTURXYVNqZENNVEV6VzlibSUyZlBqZTY0SyUyYm1nZVdCSkhJSjVTVEp1aGlreFdFaVN3emVzOGFOcE1GbFNVS0xhM2VmRzdsRk5NSEZ3NiUyYjkwZVpweW5uenVHeUUyJTJiUlA0ZkpMZ3ZMWkNkdXZITzlpMUhweXBNZXFzMURYYU1xOFZlYWhwUjBMenFHWTlnSEFLMUVhUnZlSUFZRXV6VndsYWVBVkxvR1NEdllnVGFHdGdmWEVTVmoyck9QbE1teU5WOVIwJTJiUHYyJTJmciUyYkg2bEFENHk3QUFBQSRodHRwLXJlZmZlcmVyPWh0dHA6Ly9saW5rcHJvdGVjdC54bXR2cGxheWVyLmNvbQ%3d%3d
-
-#EXTINF:0,beIN SPORTS rw
-https://raw.githubusercontent.com/mocrotv/Mocrotv/mocrotv-patch-03/bb.m3u
-
-#EXTINF:0,beIN SPORTS mm
-xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC9wd0FBQUIlMmJMQ0FBQUFBQUFCQUFGd1VjT2drQVVBTkFURWZ5VUdWbXdvSVFXTWNJRUJIWk1VVXFDTVF6TmNIamZ5M1dYVUF2bXdNaThWMXpNREMlMmJFY3BtTk0waDFLZ1BFJTJmZHp2TmVKNE1VMmRnN3BIRVlIbEQzTDYwbWZQbXV0T2hxeGNqNnlScVJyZ1JLOXZvZGhzJTJiNFNSSkFNYTk0JTJiVHR6V0UxYWxoRGlZem1hS0JpUlVEVTZTMEhGcUZtNElKMFY0TW5hSlRlS2g3eEF1SW9rcWl1OXk2MzVxSGI5diUyYkExMzV5WFNuQUFBQSRodHRwLXJlZmZlcmVyPWh0dHA6Ly9saW5rcHJvdGVjdC54bXR2cGxheWVyLmNvbQ%3d%3d
-
-#EXTINF:0,beIN SPORTS mmm
-xmtv://aHR0cGhvc3Q6Ly8kaHR0cC1yYXc9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29tOjgwODAvcHJvdGVjdC96d0FBQUIlMmJMQ0FBQUFBQUFCQUFGd2R0dWdqQVlBT0FISW1UVSUyZnJUbHdvdEJGb2VjYWh1VjlxN1E0Z0U1bUtqYkRBJTJiJTJmN3hzZjM0ZGpvdkZSdjduajB6TXEzQmpjUmVKaTdxViUyZkdSMm1NS1NzZG1xc3F3dlNSbTNpbWVuNm5FSmxaYiUyZlNIQVRFWWdKMXlORTFISDZLSk1jblVrYjFIcXZaM3Fja1NqJTJma3puSzczNjJYbHhUQkZ4R3E3VE1aM3piVkFnWTZSQjN6QXhaWUh4d2x2a0ZSNDJQVEd0S2FsdEVRTGF2bUxSdllvcTUzZ25pblBOMCUyYjVxNDUlMmY1WlpYczdnM1Nwc2g4dlZLeWo1WFA4RHBvako4ODhBQUFBJTNkJGh0dHAtcmVmZmVyZXI9aHR0cDovL2xpbmtwcm90ZWN0LnhtdHZwbGF5ZXIuY29t
-
-#EXTINF:0,beIN SPORTS nn
-https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
-
-
-
-#EXTINF:0,useref
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews|Referer=https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
 
 
 
 
 
-#EXTINF:0,ref
-https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews|Referer=https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
 
 
-https://youtu.be/w_Ma8oQLmSM
-<iframe width="727" height="409" src="https://www.youtube.com/embed/w_Ma8oQLmSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-referer: https://www.youtube.com/
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-referer: https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
 
 
-user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 
 
 
