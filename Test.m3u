@@ -294,6 +294,24 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643013295/ei/T
 https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
 
 
+#EXTINF:0,beIN SPORTS caching
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
+
+#EXTINF:0,beIN SPORTS caching
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
+
+#EXTINF:0,beIN SPORTS caching
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS|Referer=https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
+
+#EXTINF:0,beIN SPORTS caching
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS|Referer=https://www.youtube.com/
+
+
+
 #EXTINF:0,beIN SPORTS nn
 https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
 
@@ -314,7 +332,8 @@ https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews|Referer=https://w
 https://youtu.be/w_Ma8oQLmSM
 <iframe width="727" height="409" src="https://www.youtube.com/embed/w_Ma8oQLmSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+referer: https://www.youtube.com/
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 referer: https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
 
 
