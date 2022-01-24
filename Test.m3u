@@ -276,6 +276,57 @@ plugin://plugin.video.youtube/play/?video_id=V0I5eglJMRI&ab_channel=RT
 
 
 
+#EXTINF:0,useref
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews|Referer=https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
+
+#EXTINF:0,useref
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://www.youtube.com/watch?v=w_Ma8oQLmSM|Referer=https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
+
+#EXTINF:0,useref
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://youtu.be/w_Ma8oQLmSM|Referer=https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
+
+
+#EXTINF:0,useref
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://www.youtube.com/embed/w_Ma8oQLmSM|Referer=https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
+
+#EXTINF:0,useref
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://www.youtube.com/embed/w_Ma8oQLmSM
+
+
+
+
+
+#EXTINF:0,ref
+https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews|Referer=https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
+
+
+https://youtu.be/w_Ma8oQLmSM
+<iframe width="727" height="409" src="https://www.youtube.com/embed/w_Ma8oQLmSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+referer: https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews
+
+
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/dHXCjTk.png",[$]TESTT
 https://vvxfjutmnxwtwbgm.wzcdn654.net/hls/8ih71v.m3u8?s=nqtdGgCH-ngdwUM_wvEyBg&e=1642406546|Referer=https://wigistream.to/embed/8ih71v
 #EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/dHXCjTk.png",[$]TESTT
