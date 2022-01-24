@@ -261,19 +261,17 @@ https://alltubedownload.net/download?url=https://www.youtube.com/watch?v=Z4C82ey
 
 
 
-#EXTINF:-1 group-title="Documentary" tvg-id="51529" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E [Option-1](NORD VPN REQUIRED)
-https://ustv247.tv/ae-live-stream/|weballdig
-#EXTINF:-1 group-title="Documentary" tvg-id="51529" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E [Option-1](NORD VPN REQUIRED) [Alternate]
-https://ustvgo.tv/ae-networks-live-streaming-free/|weballdig
-#EXTINF:-1 group-title="Documentary" tvg-id="51529" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E [Option-2] 
-http://123tvnow.com/watch/ae/|weballdig
-#EXTINF:-1 group-title="Documentary" tvg-id="51529" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E [Option-3] [Advance MODE]
-https://www.ustream.to/stream.php?id=ae-tv-usa|weballdig
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
 
+#EXTINF:-1,[COLOR=white][B]TOMORROWLAND RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=0Y-IRcUJi6o&ab_channel=beINSPORTS
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=0Y-IRcUJi6o
 
-
-
+#EXTINF:-1,[COLOR=white][B]RT NEWS LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=V0I5eglJMRI&ab_channel=RT
 
 
 
