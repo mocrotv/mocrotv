@@ -285,6 +285,15 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643012757/ei/N
 #EXTINF:0,beIN SPORTS n
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643012757/ei/NQ7uYavDHpKR1wa79IOQBA/ip/105.71.17.194/id/0Y-IRcUJi6o.2/source/yt_live_broadcast/requiressl/yes/tx/24027693/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ma/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAK8hMfEPTg-TeLMw_5f_EHCuLUlG72N9hbYTXB6gUVWmAiEA73jqXtW1NZhpCF2-pyRGS_9z3pD2gPEQ-6wdIDKcB2g%3D/file/index.m3u8
 
+
+#EXTINF:30,beIN SPORTS - beIN SPORTS new
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643013295/ei/TxDuYcr7GMLQWsqcnuAI/ip/105.71.17.194/id/0Y-IRcUJi6o.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ma/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbsSPX1HBLGBXXa-OrEBtHj7PeMMddnaknGPzLjcFyycCIQDU6aBPLJZyqQQ6st1hv-LUJiuGOoQMorAv2opERv8VTw%3D%3D/file/index.m3u8
+
+#EXTINF:0,beIN SPORTS caching
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
+
+
 #EXTINF:0,beIN SPORTS nn
 https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
 
