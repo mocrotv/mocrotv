@@ -243,26 +243,6 @@ https://live-ak.vimeocdn.com/exp=1643047595~acl=%2F14c5dff4-f36b-4e26-8e73-94777
 
 
 
-referer: https://kora9stream.online/
-#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",YALLA nor
-https://edge-4.volume.com/live-hls/amlst:yallahd-sd-a427925a0419e38379c92bcfa9069037f8f8d316add2ae39136f16b57f9eeea6_trns_h264/playlist.m3u8
-#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",YALLA ref
-https://edge-4.volume.com/live-hls/amlst:yallahd-sd-a427925a0419e38379c92bcfa9069037f8f8d316add2ae39136f16b57f9eeea6_trns_h264/playlist.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",YALLA nor
-https://edge-4.volume.com/live-hls/amlst:yallahd-sd-a427925a0419e38379c92bcfa9069037f8f8d316add2ae39136f16b57f9eeea6_trns_h264/chunklist_w1209669969_b448000_t64RlBTOjI1LjA=.m3u8
-#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",YALLA nor
-https://edge-4.volume.com/live-hls/amlst:yallahd-sd-a427925a0419e38379c92bcfa9069037f8f8d316add2ae39136f16b57f9eeea6_trns_h264/chunklist_w1209669969_b1148000_t64RlBTOjI1LjA=.m3u8
-https://edge-4.volume.com/live-hls/amlst:yallahd-sd-a427925a0419e38379c92bcfa9069037f8f8d316add2ae39136f16b57f9eeea6_trns_h264/chunklist_w1209669969_b3096000_t64RlBTOjI1LjA=.m3u8
-https://edge-4.volume.com/live-hls/amlst:yallahd-sd-a427925a0419e38379c92bcfa9069037f8f8d316add2ae39136f16b57f9eeea6_trns_h264/chunklist_w1209669969_b5128000_t64RlBTOjI1LjA=.m3u8
-
-
-#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",YALLA nor
-https://vsd136.mycdn.me/dash/stream_2258672290385/stream.manifest/sig/TGqtNVZfbA8/expires/1643130169738/srcIp/185.189.113.57/clientType/0/srcAg/CHROME/mid/4200529206865/stream-lowest.hd
-#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",YALLA ref
-https://vsd136.mycdn.me/dash/stream_2258672290385/stream.manifest/sig/TGqtNVZfbA8/expires/1643130169738/srcIp/185.189.113.57/clientType/0/srcAg/CHROME/mid/4200529206865/stream-high.hdr|Referer=https://games.ok.ru/
-#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",YALLA nor
-https://vsd136.mycdn.me/dash/stream_2258672290385/stream.manifest/sig/TGqtNVZfbA8/expires/1643130169738/srcIp/185.189.113.57/clientType/0/srcAg/CHROME/mid/4200529206865/stream-low.hdr
-Referer: https://games.ok.ru/
 
 
 
