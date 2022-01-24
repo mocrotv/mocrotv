@@ -261,16 +261,16 @@ https://alltubedownload.net/download?url=https://www.youtube.com/watch?v=Z4C82ey
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST 11111111
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
 
-#EXTINF:-1,[COLOR=white][B]TOMORROWLAND RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST 11111111
 plugin://plugin.video.youtube/play/?video_id=0Y-IRcUJi6o&ab_channel=beINSPORTS
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST 11111111
 plugin://plugin.video.youtube/play/?video_id=0Y-IRcUJi6o
 
-#EXTINF:-1,[COLOR=white][B]RT NEWS LIVE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST 11111111
 plugin://plugin.video.youtube/play/?video_id=V0I5eglJMRI&ab_channel=RT
 
 
