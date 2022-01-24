@@ -240,22 +240,23 @@ https://soundfree.s3.eu-central-1.amazonaws.com/ninas1/live.m3u8|Referer=https:/
 #EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST S
 https://cdn.videocdn.click/cdn/premium31/chunks.m3u8|Referer=https://widevine.licenses4.me/
 
-#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TESTT
-http://cdn.videocdn.click/cdn/premium31/chunks.m3u8|Referer=https://widevine.licenses4.me/
 
 
 
-#EXTINF:0,IN| TEST -S U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
-http://cdn.videocdn.click/cdn/premium31/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST 1
+https://alltubedownload.net/download?url=https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
 
-#EXTINF:0,IN| TEST U S
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
-https://cdn.videocdn.click/cdn/premium31/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST 2
+https://alltubedownload.net/download?url=https://www.youtube.com/watch?v=0Y-IRcUJi6o
+
+#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST 3
+https://alltubedownload.net/download?url=https://www.youtube.com/watch?v=0Y-IRcUJi6o&index=1
 
 
-
-
+#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST S
+https://alltubedownload.net/download?url=https://www.youtube.com/watch?v=aqz-KE-bpKQ&index=1
+#EXTINF:0 group-title="[WL]ADULT 2[+18]" tvg-logo="https://i.imgur.com/12jI9fq.png",TEST S
+https://alltubedownload.net/download?url=https://www.youtube.com/watch?v=Z4C82eyhwgU&list=RDCMUCSMOQeBJ2RAnuFungnQOxLg&index=3
 
 
 
