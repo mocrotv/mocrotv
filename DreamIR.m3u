@@ -1,316 +1,121 @@
 #EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,|Iran|- Maah
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296300
-#EXTINF:0,|Iran|- Hod Farsi
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296298
-#EXTINF:0,|Iran|- GEM Junior
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296297
-#EXTINF:0,|Iran|- Gem Classic
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296296
-#EXTINF:0,|Iran|- Maah TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296295
-#EXTINF:0,|Iran|- Gem Food
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296294
-#EXTINF:0,|Iran|- Persiana Cinema HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296293
-#EXTINF:0,|Iran|- Gem Series
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296292
-#EXTINF:0,|Iran|- Persiana Family HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296291
-#EXTINF:0,|Iran|- Gem Life
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296290
-#EXTINF:0,|Iran|- Rubix TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296289
-#EXTINF:0,|Iran|- ITN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296288
-#EXTINF:0,|Iran|- VOA PERSIAN IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296287
-#EXTINF:0,|Iran|- Manoto 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296285
-#EXTINF:0,|Iran|- Iran International HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296284
-#EXTINF:0,|Iran|- Iran International TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296283
-#EXTINF:0,|Iran|- BBC Persian
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296282
-#EXTINF:0,|Iran|- Varzesh
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296281
-#EXTINF:0,|Iran|- Varzesh (1000)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296280
-#EXTINF:0,|Iran|- TV 3 (1000)
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296279
-#EXTINF:0,|Iran|- TM TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296278
-#EXTINF:0,|Iran|- Salamat
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296275
-#EXTINF:0,|Iran|- Mostanad
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296274
-#EXTINF:0,|Iran|- Klick Sat
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296273
-#EXTINF:0,|Iran|- Ofogh
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296270
-#EXTINF:0,|Iran|- Nasim
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296269
-#EXTINF:0,|Iran|- Irib Shoma
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296268
-#EXTINF:0,|Iran|- Irib Sahand
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296267
-#EXTINF:0,|Iran|- IRIB NASIM IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296266
-#EXTINF:0,|Iran|- IRIB Quran
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296265
-#EXTINF:0,|Iran|- Irib Quran TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296263
-#EXTINF:0,|Iran|- Gem Series HD IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296262
-#EXTINF:0,|Iran|- MBC Persia HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/484636
-#EXTINF:0,|IR| PMC HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/485447
-#EXTINF:0,|IR| PMC ROYAL HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/485448
-#EXTINF:0,|IR| IRIB VARZESH IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296261
-#EXTINF:0,|IR|  IRIB Zagros TV (Kermanshah) IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296258
-#EXTINF:0,|IR|  IRIB Varzesh IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296257
-#EXTINF:0,|IR|  IRIB TV5 IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296256
-#EXTINF:0,|IR|  IRIB TV 5 HD IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296255
-#EXTINF:0,|IR|  IRIB TV 4 HD IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296254
-#EXTINF:0,|IR|  IRIB TV3 IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296253
-#EXTINF:0,|IR|  IRIB TV 3 HD IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296252
-#EXTINF:0,|IR|  IRIB TV2 IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296251
-#EXTINF:0,|IR|  IRIB TV 2 HD IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296250
-#EXTINF:0,|IR|  IRIB TV 1 IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296249
-#EXTINF:0,|IR|  IRIB TV 1 HD IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296248
-#EXTINF:0,|IR|  IRIB Tabarestan TV (Mazandaran) IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296247
-#EXTINF:0,|IR|  IRIB Taban TV (Yazd) IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296246
-#EXTINF:0,|IR|  IRIB Shoma IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296245
-#EXTINF:0,|IR|  IRIB Salamat IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296244
-#EXTINF:0,|IR|  IRIB Sahand TV (Tabriz) IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296238
-#EXTINF:0,|IR|  IRIB  SABZ TV (Golestan) IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296237
-#EXTINF:0,|IR|  IRIB Sabalan TV (Ardabil) IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296236
-#EXTINF:0,|IR|  IRIB Quran IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296235
-#EXTINF:0,|IR|  IRIB Qazvin TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296234
-#EXTINF:0,|IR|  IRIB Ofogh IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296233
-#EXTINF:0,|IR|  IRIB Nasim IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296231
-#EXTINF:0,|IR|  IRIB Namayesh IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296230
-#EXTINF:0,|IR|  IRIB Mostanad HD IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296229
-#EXTINF:0,|IR|  IRIB Mahabad TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296228
-#EXTINF:0,|IR|  IRIB Khozestan TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296227
-#EXTINF:0,|IR|  IRIB Khorasan Razavi TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296226
-#EXTINF:0,|IR|  IRIB Khalij-e Fars TV (Hormozgan) IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296225
-#EXTINF:0,|IR|  IRIB Kerman TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296224
-#EXTINF:0,|IR|  IRIB Isfahan TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296223
-#EXTINF:0,|IR|  IRIB Imam Reza TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296222
-#EXTINF:0,|IR|  IRIB Ilam TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296221
-#EXTINF:0,|IR|  IRIB Hispan TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296220
-#EXTINF:0,|IR|  IRIB Hamoon TV (Sistan and Baluchestan) IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296219
-#EXTINF:0,|IR|  IRIB Boushehr IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296218
-#EXTINF:0,|IR|  IRIB Baran TV (Guilan) IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296217
-#EXTINF:0,|IR|  IRIB Azarbajan Gharbi TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296216
-#EXTINF:0,|IR|  IRIB Atrak TV (Khorasan Shomali) IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296215
-#EXTINF:0,|IR|  IRIB Alborz TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296213
-#EXTINF:0,|IR|  IRIB Aflak TV (Lorestan) IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296212
-#EXTINF:0,|IR|  IRIB Abadan TV IR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296211
-#EXTINF:0,|IRAN|  Varzesh 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296202
-#EXTINF:0,|IRAN|  RUBIX HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296165
-#EXTINF:0,|IRAN|  RUBIX
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296164
-#EXTINF:0,|IRAN|  RIVER HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296156
-#EXTINF:0,|IRAN|  RIVER
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296155
-#EXTINF:0,|IRAN|  MTC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296108
-#EXTINF:0,|IRAN|  GEM USA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296054
-#EXTINF:0,|IRAN|  GEM TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296052
-#EXTINF:0,|IRAN|  GEM TRAVEL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296051
-#EXTINF:0,|IRAN|  GEM SERIES
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296049
-#EXTINF:0,|IRAN|  GEM PROPERTY
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296048
-#EXTINF:0,|IRAN|  GEM NATURE
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296047
-#EXTINF:0,|IRAN|  GEM LIFE+
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296046
-#EXTINF:0,|IRAN|  GEM LATINO
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296045
-#EXTINF:0,|IRAN|  GEM KIDS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296044
-#EXTINF:0,|IRAN|  GEM JUNIOR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296043
-#EXTINF:0,|IRAN|  GEM FOOD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296042
-#EXTINF:0,|IRAN|  GEM FIT
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296041
-#EXTINF:0,|IRAN|  GEM FILM
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296040
-#EXTINF:0,|IRAN|  GEM DRAMA PLUS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296039
-#EXTINF:0,|IRAN|  GEM DRAMA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296038
-#EXTINF:0,|IRAN|  GEM COMEDY
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296037
-#EXTINF:0,|IRAN|  GEM CLASSIC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296036
-#EXTINF:0,|IRAN|  GEM BOLLYWOOD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296035
-#EXTINF:0,|IRAN|  GEM AZ
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296034
-#EXTINF:0,|IRAN|  GEM ARABIA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296033
-#EXTINF:0,|IRAN|  AZADI
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/296014
+#EXTINF:-1,IR: Alborz TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60149
+#EXTINF:-1,IR: Andisheh TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60150
+#EXTINF:-1,IR: AVA Family HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60151
+#EXTINF:-1,IR: Channel One HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60152
+#EXTINF:-1,IR: EBC 1 TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60153
+#EXTINF:-1,IR: Ganj e Hozour TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60154
+#EXTINF:-1,IR: GEM Academy HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60155
+#EXTINF:-1,IR: GEM Arabic HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60156
+#EXTINF:-1,IR: GEM AZ HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60157
+#EXTINF:-1,IR: GEM Bollywood HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60158
+#EXTINF:-1,IR: GEM Classic HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60159
+#EXTINF:-1,IR: GEM Comedy HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60160
+#EXTINF:-1,IR: GEM Film HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60161
+#EXTINF:-1,IR: GEM Junior HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60162
+#EXTINF:-1,IR GEM Junior HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60163
+#EXTINF:-1,IR: GEM Kids HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60164
+#EXTINF:-1,IR: GEM Latino HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60165
+#EXTINF:-1,IR: GEM Life HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60166
+#EXTINF:-1,IR: GEM Mifa+ FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60167
+#EXTINF:-1,IR: GEM River HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60168
+#EXTINF:-1,IR: GEM River+ FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60169
+#EXTINF:-1,IR: GEM Rubix HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60170
+#EXTINF:-1,IR: GEM Rubix+ FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60171
+#EXTINF:-1,IR: GEM Series HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60172
+#EXTINF:-1,IR: GEM Series+ HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60173
+#EXTINF:-1,IR: GEM Travel HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60174
+#EXTINF:-1,IR GEM Travel HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60175
+#EXTINF:-1,IR: GEM TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60176
+#EXTINF:-1,IR: GEM TV+ HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60177
+#EXTINF:-1,IR: Health Media HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60178
+#EXTINF:-1,IR: Iran International FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60179
+#EXTINF:-1,IR: IRIB Kermanshah HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60180
+#EXTINF:-1,IR: IRIB Namayesh
+http://aumaletv.com:25461/omohack651651@/omo4478663/60181
+#EXTINF:-1,IR: ITN HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60182
+#EXTINF:-1,IR: LoveWorld Persia FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60183
+#EXTINF:-1,IR: manoto HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60184
+#EXTINF:-1,IR: Mihan TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60185
+#EXTINF:-1,IR: Nasim HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60186
+#EXTINF:-1,IR: Navahang TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60187
+#EXTINF:-1,IR: Omid TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60188
+#EXTINF:-1,IR: Oxir TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60189
+#EXTINF:-1,IR: Parnian TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60190
+#EXTINF:-1,IR: Pars TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60191
+#EXTINF:-1,IR: Parsiland TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60192
+#EXTINF:-1,IR: PBC Tapesh HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60193
+#EXTINF:-1,IR: Persiana Junior HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60194
+#EXTINF:-1,IR Persiana Junior HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60195
+#EXTINF:-1,IR: Persiana Plus HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60196
+#EXTINF:-1,IR: Radio Farda HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60197
+#EXTINF:-1,IR: Radio Javan TV FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60198
+#EXTINF:-1,IR: Rangarang TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60199
+#EXTINF:-1,IR: Sahand TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60200
+#EXTINF:-1,IR: Sahar Urdu HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60201
+#EXTINF:-1,IR: Salamat TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60202
+#EXTINF:-1,IR: Tamasha HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60203
+#EXTINF:-1,IR: Varzesh TV Farsi 3 FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60204
+#EXTINF:-1,IR: Varzesh TV HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60205
+#EXTINF:-1,IR: VOA TV Persian FHD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60206
+#EXTINF:-1,IR: YourTime HD
+http://aumaletv.com:25461/omohack651651@/omo4478663/60207
