@@ -5,18 +5,39 @@ https://i.imgur.com/5Wiki1T.jpg
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
+
+
+
+#EXTINF:0,بث المباراة 1
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 FHD
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live_1080p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 HD+
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live_720p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 HD
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live_720p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 SD
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live_480p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 LOW
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live_240p30.m3u8|Referer=https://kora9stream.online/
+
+
+
+
+
+
 #EXTINF:0,بث المباراة 1
 http://194.67.196.19:80/hls/103.m3u8
-#EXTINF:0,بث المباراة 1 FHD
-https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
-#EXTINF:0,بث المباراة 1 HD+
+#EXTINF:0,بث المباراة 1
 https://5f7ebd8ed1895.streamlock.net/afcon-primary/afcon-primary/playlist.m3u8
-#EXTINF:0,بث المباراة 1 HD
-https://soundfree.s3.eu-central-1.amazonaws.com/ninas1/live_720p30.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 SD
-https://soundfree.s3.eu-central-1.amazonaws.com/ninas1/live_480p30.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 LOW
-https://soundfree.s3.eu-central-1.amazonaws.com/ninas1/live_240p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1
+https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
+
+
+
+
+
+
 
 
 
