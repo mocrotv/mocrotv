@@ -62,7 +62,7 @@ http://cdn.videocdn.click/cdn/premium56/chunks.m3u8|Referer=https://widevine.lic
 http://cdn.videocdn.click/cdn/premium60/chunks.m3u8|Referer=https://widevine.licenses4.me/
 
 #EXTINF:0 group-title="[AL]BEIN SPORTS 2" tvg-logo="https://i.imgur.com/h4K6ytQ.png",BEIN SPORTS PREMIUM 1HD
-http://cdn.videocdn.click/cdn/premium98/chunks.m3u8|Referer=https://widevine.licenses4.me/
+http://cdn.videocdn.click/cdn/premium98/tracks-v1a1/mono.m3u8|Referer=https://widevine.licenses4.me/
 #EXTINF:0 group-title="[AL]BEIN SPORTS 2" tvg-logo="https://i.imgur.com/mZw4eBB.png",BEIN SPORTS PREMIUM 2HD
 http://cdn.videocdn.click/cdn/premium99/chunks.m3u8|Referer=https://widevine.licenses4.me/
 #EXTINF:0 group-title="[AL]BEIN SPORTS 2" tvg-logo="https://i.imgur.com/y8FmVgm.png",BEIN SPORTS PREMIUM 3HD
@@ -84,7 +84,7 @@ http://cdn.videocdn.click/cdn/premium97/chunks.m3u8|Referer=https://widevine.lic
 
 
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BEIN SPORTS 1 EN
-http://cdn.videocdn.click/cdn/premium61/chunks.m3u8|Referer=https://widevine.licenses4.me/
+http://cdn.videocdn.click/cdn/premium61/tracks-v1a1/mono.m3u8|Referer=https://widevine.licenses4.me/
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BEIN SPORTS 2 EN
 http://cdn.videocdn.click/cdn/premium90/chunks.m3u8|Referer=https://widevine.licenses4.me/
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BEIN SPORTS 3 EN
@@ -92,7 +92,7 @@ http://cdn.videocdn.click/cdn/premium46/chunks.m3u8|Referer=https://widevine.lic
 
 
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BEIN SPORTS 1 TR
-http://cdn.videocdn.click/cdn/premium62/chunks.m3u8|Referer=https://widevine.licenses4.me/
+http://cdn.videocdn.click/cdn/premium62/tracks-v1a1/mono.m3u8|Referer=https://widevine.licenses4.me/
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BEIN SPORTS 3 TR
 http://cdn.videocdn.click/cdn/premium63/chunks.m3u8|Referer=https://widevine.licenses4.me/
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BEIN SPORTS 3 TR
