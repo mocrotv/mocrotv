@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 FHD
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live_1080p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 HD+
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live_720p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 HD
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live_720p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 SD
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live_480p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 LOW
+https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live_240p30.m3u8|Referer=https://kora9stream.online/
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] SSC SPORTS[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 1 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 1 4k
+#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
+http://blackfiretv.live:80/cuXZCSr2rK/Jdn60Ljwhc/796
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 2 4k" tvg-logo="https://sport.al-mar4K.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="",SSC SPORT 2 4k
+#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
+http://blackfiretv.live:80/cuXZCSr2rK/Jdn60Ljwhc/797
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 3 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 3 4k
+#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
+http://blackfiretv.live:80/cuXZCSr2rK/Jdn60Ljwhc/798
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 4 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 4 4k
+#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
+http://blackfiretv.live:80/cuXZCSr2rK/Jdn60Ljwhc/799
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 5 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 5 4k
+#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
+http://blackfiretv.live:80/cuXZCSr2rK/Jdn60Ljwhc/800
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 6 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 6 4k
+#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
+http://blackfiretv.live:80/cuXZCSr2rK/Jdn60Ljwhc/801
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 7 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 7 4k
+#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
+http://blackfiretv.live:80/cuXZCSr2rK/Jdn60Ljwhc/802
+#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
+#EXTINF:-1 tvg-id="" tvg-name="ASIA 1  أبو ظبي " tvg-logo="" group-title="",ASIA 1  أبو ظبي 
+#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
+http://blackfiretv.live:80/cuXZCSr2rK/Jdn60Ljwhc/1159
+#EXTINF:-1 tvg-id="" tvg-name="ASIA 2 أبو ظبي" tvg-logo="" group-title="",ASIA 2 أبو ظبي
+#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
+http://blackfiretv.live:80/cuXZCSr2rK/Jdn60Ljwhc/1160
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] SSC SPORTS[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,|SPO| SSC1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/830
+#EXTINF:0,SSC SPORTS HD 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/829
+#EXTINF:0,|SPO| SSC2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/832
+#EXTINF:0,SSC SPORTS HD 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/831
+#EXTINF:0,|SPO| SSC3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/834
+#EXTINF:0,SSC SPORTS HD 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/833
+#EXTINF:0,|SPO| SSC4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/836
+#EXTINF:0,SSC SPORTS HD 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/835
+#EXTINF:0,|SPO| SSC5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/838
+#EXTINF:0,SSC SPORTS HD 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/837
+#EXTINF:0,|SPO| SSC6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/840
+#EXTINF:0,SSC SPORTS HD 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/839
+#EXTINF:0,|SPO| SSC7 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/842
+#EXTINF:0,SSC SPORTS HD 7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/841
+
+
+
+
+#EXTINF:-1,TR: Spor Smart FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1750
+#EXTINF:-1,TR: Spor Smart 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/50121
+
+
+
+
+
