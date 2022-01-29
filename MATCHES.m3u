@@ -6,6 +6,39 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
+#EXTINF:0,بث المباراة 
+http://cdn1.cyclingnews.live/hls/M1.m3u8
+
+#EXTINF:0,Africa Cup of Nations
+http://194.67.196.19:80/hls/103.m3u8
+
+
+#EXTINF:0,Africa Cup of Nations
+https://5f7ebd8ed1895.streamlock.net/afcon-primary/afcon-primary/playlist.m3u8
+#EXTINF:0, Africa Cup of Nations
+https://5f7ebd8ed1895.streamlock.net/afcon-secondary/afcon-secondary/playlist.m3u8
+
+
+
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="",[$]BEIN MAX 1
+http://cdn.videocdn.click/cdn/premium373/chunks.m3u8|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0,Africa Cup of Nations
+http://194.67.196.19:80/hls/108.m3u8
+#EXTINF:0,Africa Cup of Nations
+http://194.67.196.19:80/hls/102.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
@@ -55,25 +88,7 @@ https://suncoinmoon.s3.eu-central-1.amazonaws.com/apple1/live_240p30.m3u8|Refere
 
 
 
-#EXTINF:0,Africa Cup of Nations
-http://194.67.196.19:80/hls/102.m3u8
 
-
-#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="",[$]BEIN MAX 1
-http://cdn.videocdn.click/cdn/premium373/chunks.m3u8|Referer=https://widevine.licenses4.me/
-
-#EXTINF:0,Africa Cup of Nations
-http://194.67.196.19:80/hls/108.m3u8
-#EXTINF:0,Africa Cup of Nations
-http://194.67.196.19:80/hls/103.m3u8
-
-#EXTINF:0,Africa Cup of Nations
-https://5f7ebd8ed1895.streamlock.net/afcon-primary/afcon-primary/playlist.m3u8
-#EXTINF:0, Africa Cup of Nations
-https://5f7ebd8ed1895.streamlock.net/afcon-secondary/afcon-secondary/playlist.m3u8
-
-#EXTINF:0,بث المباراة 1
-http://cdn1.cyclingnews.live/hls/M1.m3u8
 
 
 
