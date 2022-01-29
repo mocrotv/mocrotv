@@ -7,6 +7,22 @@ https://i.imgur.com/5Wiki1T.jpg
 https://i.imgur.com/5Wiki1T.jpg
 
 
+
+#EXTINF:-1,CANAL+ SPORT 1
+http://vu-ott.com:8080/mag00:1A:79:5E:56:E7/qFHThnPJNv/101771?play_token=ShcDwVw8gP
+#EXTINF:-1,CANAL+ SPORT 2
+http://vu-ott.com:8080/mag00:1A:79:5E:56:E7/qFHThnPJNv/101772?play_token=ShcDwVw8gP
+#EXTINF:-1,CANAL+ SPORT 3
+http://vu-ott.com:8080/mag00:1A:79:5E:56:E7/qFHThnPJNv/101773?play_token=ShcDwVw8gP
+#EXTINF:-1,CANAL+ SPORT 4
+http://vu-ott.com:8080/mag00:1A:79:5E:56:E7/qFHThnPJNv/101774?play_token=ShcDwVw8gP
+#EXTINF:-1,CANAL+ SPORT 5
+http://vu-ott.com:8080/mag00:1A:79:5E:56:E7/qFHThnPJNv/101775?play_token=ShcDwVw8gP
+
+
+
+
+
 #EXTINF:-1,AF: (Angola) Afro Music Channel HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1536
 #EXTINF:-1,AF (Angola) Afro Music Channel HD
@@ -334,12 +350,8 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/14549
 
 
 
-#EXTINF:-1,CANAL+ SPORT 1
-http://vu-ott.com:8080/mag00:1A:79:5E:56:E7/qFHThnPJNv/101771?play_token=ShcDwVw8gP
 
-#EXTINF:0,CANAL+ SPORT 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-J610F Build/PPR1.180610.011)
-http://vu-ott.com:8080/mag00:1A:79:5E:56:E7/qFHThnPJNv/101771?play_token=ShcDwVw8gP
+
 
 
 
