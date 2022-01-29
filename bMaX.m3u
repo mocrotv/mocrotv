@@ -61,19 +61,26 @@ http://dreamsat.cc:8080/BN_HEVC/njGjsEcx/3018
 
 
 #EXTINF:-1, SPORTS MAX 1
+#EXTVLCOPT:http-user-agent=live_sport1986
 http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
+
 #EXTINF:-1, SPORTS MAX 2
+#EXTVLCOPT:http-user-agent=live_sport1986
 http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
 
 
 
 #EXTINF:-1,Bein Max 1 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
 http://yazansportpro.xyz:25461/livesport__ios/livesport_android/95
 #EXTINF:-1,Bein Max 2 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
 http://yazansportpro.xyz:25461/livesport__ios/livesport_android/94
 #EXTINF:-1,Bein Max 1 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
 http://yazansportpro.xyz:25461/livesport__ios/livesport_android/92
 #EXTINF:-1,Bein Max 2 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
 http://yazansportpro.xyz:25461/livesport__ios/livesport_android/93
 
 
