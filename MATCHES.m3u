@@ -97,6 +97,30 @@ https://yesterdayitsyourturntobehurt.s3.eu-west-2.amazonaws.com/cocaine1/live_24
 
 
 
+https://samelivestreamgame.s3.eu-central-1.amazonaws.com/game1/live.m3u8
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://samelivestreamgame.s3.eu-central-1.amazonaws.com/game1/live.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 FHD
+https://samelivestreamgame.s3.eu-central-1.amazonaws.com/game1/live_1080p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 HD+
+https://samelivestreamgame.s3.eu-central-1.amazonaws.com/game1/live_720p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 HD
+https://samelivestreamgame.s3.eu-central-1.amazonaws.com/game1/live_720p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 SD
+https://samelivestreamgame.s3.eu-central-1.amazonaws.com/game1/live_480p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 LOW
+https://samelivestreamgame.s3.eu-central-1.amazonaws.com/game1/live_240p30.m3u8|Referer=https://kora9stream.online/
+
+
+
 
 
 #EXTINF:0,بث المباراة 
