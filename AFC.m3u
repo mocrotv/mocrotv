@@ -3,9 +3,6 @@
 https://i.imgur.com/5Wiki1T.jpg
 
 
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live.m3u8
-
-https://thecaravanisgoingandthedogsarebarking.s3.eu-west-2.amazonaws.com/hold1/live.m3u8
 
 
 
@@ -32,64 +29,6 @@ https://thelionwaswalkinglookingsad.s3.eu-central-1.amazonaws.com/poal1/live_240
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-
-#EXTINF:0,بث المباراة 1
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 FHD
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live_1080p60.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 HD+
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live_720p60.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 HD
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live_720p30.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 SD
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live_480p30.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 LOW
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live_240p30.m3u8|Referer=https://kora9stream.online/
-
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 2
-https://preens3.s3.eu-central-1.amazonaws.com/like1/live.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 2 FHD
-https://preens3.s3.eu-central-1.amazonaws.com/like1/live_1080p60.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 2 HD+
-https://preens3.s3.eu-central-1.amazonaws.com/like1/live_720p60.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 2 HD
-https://preens3.s3.eu-central-1.amazonaws.com/like1/live_720p30.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 2 SD
-https://preens3.s3.eu-central-1.amazonaws.com/like1/live_480p30.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 2 LOW
-https://preens3.s3.eu-central-1.amazonaws.com/like1/live_240p30.m3u8|Referer=https://kora9stream.online/
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 1
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 FHD
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live_1080p60.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 HD+
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live_720p60.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 HD
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live_720p30.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 SD
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live_480p30.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 LOW
-https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live_240p30.m3u8|Referer=https://kora9stream.online/
-
 
 
 
@@ -98,104 +37,11 @@ https://yourscreamingisrapturous.s3.eu-central-1.amazonaws.com/banana1/live_240p
 https://i.imgur.com/5Wiki1T.jpg
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 1 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 1 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live:80/k9R2RmkDWX/w2GaR58DNG/796
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 2 4k" tvg-logo="https://sport.al-mar4K.com/wp-content/uploads/2021/07/60f87d385ae76.jpg" group-title="",SSC SPORT 2 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live:80/k9R2RmkDWX/w2GaR58DNG/797
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 3 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 3 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live:80/k9R2RmkDWX/w2GaR58DNG/798
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 4 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 4 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live:80/k9R2RmkDWX/w2GaR58DNG/799
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 5 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 5 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live:80/k9R2RmkDWX/w2GaR58DNG/800
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 6 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 6 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live:80/k9R2RmkDWX/w2GaR58DNG/801
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORT 7 4k" tvg-logo="https://sport.al-marsd.com/wp-content/uploads/2021/07/60f87d385ae76-645x505.jpg" group-title="",SSC SPORT 7 4k
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live:80/k9R2RmkDWX/w2GaR58DNG/802
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-#EXTINF:-1 tvg-id="" tvg-name="ASIA 1  أبو ظبي " tvg-logo="" group-title="",ASIA 1  أبو ظبي 
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live:80/k9R2RmkDWX/w2GaR58DNG/1159
-#EXTINF:-1 tvg-id="" tvg-name="ASIA 2 أبو ظبي" tvg-logo="" group-title="",ASIA 2 أبو ظبي
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live:80/k9R2RmkDWX/w2GaR58DNG/1160
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] SSC SPORTS[/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,|SPO| SSC1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/830
-#EXTINF:0,SSC SPORTS HD 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/829
-#EXTINF:0,|SPO| SSC2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/832
-#EXTINF:0,SSC SPORTS HD 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/831
-#EXTINF:0,|SPO| SSC3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/834
-#EXTINF:0,SSC SPORTS HD 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/833
-#EXTINF:0,|SPO| SSC4 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/836
-#EXTINF:0,SSC SPORTS HD 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/835
-#EXTINF:0,|SPO| SSC5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/838
-#EXTINF:0,SSC SPORTS HD 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/837
-#EXTINF:0,|SPO| SSC6 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/840
-#EXTINF:0,SSC SPORTS HD 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/839
 #EXTINF:0,|SPO| SSC7 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
 http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/842
 #EXTINF:0,SSC SPORTS HD 7
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
 http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/841
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",TR: SPOR SMART HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwUkOgjAAAMAHGWIrS%2bmBA2pRqIDKKjegIFoMS4oSwuOdKQXwp2Fqx0AgE6RHb4S9v4lLyLmYbTpVzZN56gRcARubtbZ3zxARlv9APe%2bbY7E30TYo0xyrfrCg8DKeY%2fy4GcZ6o3M2O90CP5eyygVddwrEgBW1hCFjkqIxJGFV1iUEoFLXWqXJury%2bunYI693C38Rtkp9j6cFyTXlG6DeKCE2Gg%2fkmMTqZ9s%2f4A%2fVTAlW7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",TR: SPOR SMART  HD+
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwWEPQkAYAOAf1CyHzt0HH6SVHCGVO19ab0cMxZrdND%2b%2b5xEllJEKxZvNyep3C0gpvieJg2A7KX9OVN5l7jpEFxYdB%2f%2b94ixt8A2dXy73B3LV9zIG1y5UBT6pCy7C2YMDSx1ngXGI6D622vYeQdLCYliI6hIqjSIpNQtLW6Mbk2i2jqyqwiU2iblIrpRYxx8vhy4fi4CI%2fjM8Uj55Md3lU%2bjVadMbs2LZ0%2fkDTp8d1rsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0 tvg-id="ext" group-title="WORLD SPORTS",TR: SPOR SMART 2  HD+
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwcEOQzAAANAvktHSzsFBxpZJBNUwu7Eqa2OrYSvx8Xsv3yChPLvpg3jqmZJNknHof%2f3pJcJ01LSI%2bbIN03IO%2bqFh5VseAMBcRq1Il%2bu6wu6%2btBEAGglpKtKht3DyMvO8HQRFewZkfqhIqPQz7cC2XJM13HAtxgwbMWy4Djwa2LRszlGL4BHuUzdXFba%2bfVImnOJY6Vqe%2fKK6EFpT5YtGsZgNl%2buahN4fa8B3nrsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-
-
-
-#EXTINF:-1,TR: Spor Smart FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1750
-#EXTINF:-1,TR: Spor Smart 2 FHD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/50121
-
-#EXTINF:0,AD Sports Asia 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwd0SQkAYANAHakwsy7cXLiLJXzHMmtxpf6bRmqJBGQ%2ffOXmff9kC9SgZMysM45V0fhkFN2%2b1M6qLQmC6V488lXNyxsrp47loD68W%2f1TFImbXpI4z4flCFg3C6eRkwTtcXHerjmV08iVXMzaaNKMbNqVpGcA1DgJplmiRBgzpmm7BnSNyt8Dmmw6kOaQ9CpfhMy230KTJuhMDoX7VGRf7qXaNGCEpFQTuHx16cPK7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:0,AD Sports Asia 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwdsOgiAAANAvciKQwwcfshWGWnTT7C0jc8oqSgyZH985gnsZ7erVKJqGgaHXmXYPo93lbUoTueYHwxT3ejWT5ARYqY9bFj%2bq3UY%2b4zyIE8VG%2bwJRSstWf6PCxnSftt0vDKfal0xtCvteIB2UHzLNUI2wR4QjyB06%2bH6FDrlB4ABMKgGDChNfTMZwUyDXBBdozwN%2f%2bhTx2vVxP2RCSu8VfRI1l8tf5H7DP%2fCXTQK7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-
 
 
