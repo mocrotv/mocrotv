@@ -3,7 +3,50 @@
 https://i.imgur.com/5Wiki1T.jpg
 
 
-https://guysstreamlive.s3.eu-central-1.amazonaws.com/goal/live.m3u8
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://senioramamacita.s3.eu-central-1.amazonaws.com/busa1/live.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 FHD
+https://senioramamacita.s3.eu-central-1.amazonaws.com/busa1/live_1080p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 HD+
+https://senioramamacita.s3.eu-central-1.amazonaws.com/busa1/live_720p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 HD
+https://senioramamacita.s3.eu-central-1.amazonaws.com/busa1/live_720p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 SD
+https://senioramamacita.s3.eu-central-1.amazonaws.com/busa1/live_480p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 LOW
+https://senioramamacita.s3.eu-central-1.amazonaws.com/busa1/live_240p30.m3u8|Referer=https://kora9stream.online/
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 FHD
+https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live_1080p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 HD+
+https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live_720p60.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 HD
+https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live_720p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 SD
+https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live_480p30.m3u8|Referer=https://kora9stream.online/
+#EXTINF:0,بث المباراة 1 LOW
+https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live_240p30.m3u8|Referer=https://kora9stream.online/
+
 
 
 
@@ -32,22 +75,7 @@ https://mazdacar.s3.eu-central-1.amazonaws.com/car1/live_240p30.m3u8|Referer=htt
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
 
-
-#EXTINF:0,بث المباراة 1
-https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 FHD
-https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live_1080p60.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 HD+
-https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live_720p60.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 HD
-https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live_720p30.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 SD
-https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live_480p30.m3u8|Referer=https://kora9stream.online/
-#EXTINF:0,بث المباراة 1 LOW
-https://myvotebucket.s3.us-east-2.amazonaws.com/high1/live_240p30.m3u8|Referer=https://kora9stream.online/
 
 
 
@@ -120,72 +148,5 @@ https://pipelive.s3.eu-west-2.amazonaws.com/kele1/live_720p30.m3u8|Referer=https
 https://pipelive.s3.eu-west-2.amazonaws.com/kele1/live_480p30.m3u8|Referer=https://kora9stream.online/
 #EXTINF:0,بث المباراة 1 LOW
 https://pipelive.s3.eu-west-2.amazonaws.com/kele1/live_240p30.m3u8|Referer=https://kora9stream.online/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
