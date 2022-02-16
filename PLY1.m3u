@@ -4,75 +4,48 @@ https://i.imgur.com/5Wiki1T.jpg
 
 https://github.com/gratis2022/canales/blob/main/2022.m3u
 
-#EXTINF:1,-SUPER BOWL 2022-
 
-#EXTINF:-1 tvg-logo="https://www.telecomasia.net/upload/sprint.editor/1d4/1d4a3023b599d060b25a1714f866095f.png" group-title="SUPER BOWL 2022",•●★-- SUPER BOWL 2022 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 group-title="SUPER BOWL 2022" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV
-https://panel.streamingmedia.com.co:3104/live/supergdc.m3u8
-#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="SUPER BOWL 2022",ESPN 2 | AR 
-http://45.6.4.50:50601/ESPN2/index.m3u8
-#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="SUPER BOWL 2022",ESPN 2 | AR 
-http://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
-#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="SUPER BOWL 2022",ESPN 2 | PY
-http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/doblaje/images/7/78/Azteca_uno_logo_2018.png/revision/latest?cb=20180101101047&path-prefix=es" group-title="SUPER BOWL 2022",AZTECA UNO | MX
-https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/az13_15x
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png" group-title="SUPER BOWL 2022",TSN 1 | US
-http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SUPER BOWL 2022" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV | UK
-http://45.148.26.176/hls/M1.m3u8
-#EXTINF:-1 group-title="SUPER BOWL 2022" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV | UK
-http://45.134.21.199/hls/S1.m3u8
 
-#EXTINF:1,-PPV EVENTOS-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- PPV EVENTOS--★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV EVENTOS | CL
-https://panel.streamingmedia.com.co:3104/live/supergdc.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png",PPV TNT SPORTS CHILE
-https://akamai2-br.cdn.booyah.live/hls/1500005/108814783.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 1 (LA LIGA - SERIE A - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 1 (FUTBOL - NBA - UFC) | UK
 http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 2 (FUTBOL - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 2 (FUTBOL - NBA - UFC) | UK
 http://77.247.109.101/hls/A2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 3 (LIGUE 1 - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 3 (FUTBOL - NBA - UFC) | UK
 http://77.247.109.101/hls/A3.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 4 (LIGUE 1 - NBA  | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 4 (FUTBOL - NBA - UFC) | UK
 http://77.247.109.101/hls/A4.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 5 (PREMIER LEAGUE - NBA - UFC) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 5 (FUTBOL - NBA - UFC) | UK
 http://45.148.26.176/hls/M1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 6 (PREMIER LEAGUE - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 6 (FUTBOL - NBA - UFC) | UK
 http://45.148.26.176/hls/M2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 7 (FUTBOL - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 7 (FUTBOL - NBA - UFC) | UK
 http://45.148.26.176/hls/M4.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 8 (SERIE A - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 8 (FUTBOL - NBA - UFC) | UK
 http://cdn2.cyclingnews.live/hls/P1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 9 (FUTBOL - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 9 (FUTBOL - NBA - UFC) | UK
 http://cdn2.cyclingnews.live/hls/P2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 10 (LIGUE 1 - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 10 (FUTBOL - NBA - UFC) | UK
 http://cdn2.cyclingnews.live/hls/P3.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 11 (LA LIGA - NBA - UFC) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 11 (FUTBOL - NBA - UFC) | UK
 http://cdn4.cyclingnews.live/hls/Q1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 12 (BUNDESLIGA - LIGUE 1 - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 12 (FUTBOL - NBA - UFC) | UK
 http://cdn4.cyclingnews.live/hls/Q2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 13 (BUNDESLIGA - NBA - UFC) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 13 (FUTBOL - NBA - UFC) | UK
 http://45.134.21.199/hls/S1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 14 (BUNDESLIGA - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 14 (FUTBOL - NBA - UFC) | UK
 http://45.134.21.199/hls/S2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 15 (BUNDESLIGA - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 15 (FUTBOL - NBA - UFC) | UK
 http://45.134.21.199/hls/S3.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 16 (BUNDESLIGA - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 16 (FUTBOL - NBA - UFC) | UK
 http://45.134.21.199/hls/S4.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 17 (FUTBOL - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 17 (FUTBOL - NBA - UFC) | UK
 http://45.134.21.199/hls/S5.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 18 (LA LIGA - SERIE A - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 18 (FUTBOL - NBA - UFC) | UK
 http://77.247.109.249/hls/T1.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 19 (BUNDESLIGA - NBA) | UK
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 19 (FUTBOL - NBA - UFC) | UK
 http://77.247.109.249/hls/T2.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 20 (PREMIER LEAGUE) | EN
-https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/ssp/chunks.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 20 (FUTBOL - NBA - UFC) | UK
+http://185.53.89.183/hls/bt3.m3u8
 
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 1 | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/nbatv/chunks.m3u8
@@ -119,22 +92,13 @@ https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/heat/chunks.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 22 | EN
 https://d3fxkq5ndp4ipd.cloudfront.net:443/hls/abc/chunks.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 23 | EN
-http://d15xyumcalkui.cloudfront.net:80/flash1/_definst_/n2/chunklist.m3u8
-
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 1 | LAT
-http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 2 | LAT
-http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nEnHs1bJGFs1umV3n_gExMs/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 3 | LAT
-http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nG7DDXLTq-zdh9SMJVuPY-8/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 4 | LAT
-http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nN7GNDziSu0V5daNwopeU8c/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 5 | LAT
-http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nHenuh8R2ANPee8i_PgMBeM/.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 6 | ES
-http://209.126.119.148:20102/live/037d432c2cda4a5c87de4e135a33bcdc/ba9fd9388a254bdc88b5f07a7ee1d3e2/388.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/pe5zfGi.png",PPV MEGA 7 | ES
-http://209.126.119.148:20102/live/ad4663ecb0744e6abf09adabdd11e349/95d37d4f67014df99df372f4108131c6/358.m3u8
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/knicks/chunks.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 24 | EN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/bucks/chunks.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 25 | EN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/nuggets/chunks.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 26 | EN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/timberwolves/chunks.m3u8
 
 #EXTINF:1,-JUEGOS BEIJING 2022-
 
@@ -146,6 +110,8 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_37351.png" group-title="JUEGOS BEIJING 2022",EUROSPORT 2
 http://185.38.151.41:15001/live/5D4FZBLept/gnJ1X4dXDi/90.m3u8 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" group-title="JUEGOS BEIJING 2022",Tvri Sports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:1,-PREMIUM-
 
@@ -1036,21 +1002,21 @@ https://kslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anxcx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTE LATINO",•●★-- DEPORTE LATINO --★●•
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTE LATINO",Claro Sports 2 YOUTUBE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6gF6dn.png" group-title="DEPORTE LATINO",Claro Sports 2 YOUTUBE
 https://www.youtube.com/embed/J9kiqQqDx9U?autoplay=1  
 #EXTINF:-1  tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTE LATINO",Claro Sports 
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTE LATINO",TNT SPORTS ARGENTINA BN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE LATINO",TNT SPORTS ARGENTINA BN
 http://45.6.4.50:50601/TNTSports/index.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTE LATINO",TNT SPORTS ARGENTINA SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKvGgYT.png" group-title="DEPORTE LATINO",TNT SPORTS ARGENTINA SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PUwllGN.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
 http://45.161.115.174:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PUwllGN.png" group-title="DEPORTE LATINO",TNT SPORTS 2 CHILE
 http://45.236.175.103:9600/play/a03h
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYutPGw.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://45.161.115.174:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYutPGw.png" group-title="DEPORTE LATINO",TNT SPORTS 3 CHILE
 http://45.236.175.103:9600/play/a010
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="DEPORTE LATINO",TyC Sports FHD
@@ -1101,12 +1067,28 @@ https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
 https://unlimited10-cl.dps.live/teletrak/teletrak.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Valparaiso-Sporting-en-vivo-Online.png" group-title="DEPORTE LATINO",Valparaiso Sporting 
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE LATINO",PLUTO TV DEPORTES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE LATINO",PLUTO TV PELEAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE LATINO",PLUTO TV VELOCIDAD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE LATINO",COMBATE AMÉRICAS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE LATINO",ALL ELITE WRESTLING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bea8e3-f5b3-42e7-a4e7-081bf207b1bc&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE LATINO",LUCHA LIBRE AAA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE LATINO",LUCHA LIBRE AAA 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL.png" group-title="DEPORTE LATINO",DAZN F1
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Directv_LA_logo.svg/2560px-Directv_LA_logo.svg.png" group-title="DEPORTE LATINO",DIRECT TV SPORTS ME
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nD4VvPwM3eNQq6qXgWCFHho/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Directv_LA_logo.svg/2560px-Directv_LA_logo.svg.png" group-title="DEPORTE LATINO",DIRECT TV SPORTS 
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png/revision/latest/scale-to-width-down/2953?cb=20180913094220" group-title="DEPORTE LATINO",BEIN SPORTS Ñ ME
+http://209.126.119.148:20102/live/037d432c2cda4a5c87de4e135a33bcdc/ba9fd9388a254bdc88b5f07a7ee1d3e2/388.m3u8
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTE LATINO",BEIN SPORTS XTRA Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTE LATINO",BEIN SPORTS XTRA Ñ
@@ -1123,63 +1105,67 @@ http://154.62.74.29:1935/live/barza/chunklist.m3u8
 http://154.62.74.29:1935/live/gol/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTE LATINO" tvg-logo="https://medias.unifrance.org/medias/4/67/148228/format_hd/tv3-tv-de-catalunya.png",Esport 3 Tv
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b4128000_DVR.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="DEPORTE LATINO",FOX SPORTS | AR BN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.pngg" group-title="DEPORTE LATINO",FOX SPORTS | AR BN
 http://45.6.4.50:50601/FOXSPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="DEPORTE LATINO",FOX SPORTS | AR SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | AR SA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="DEPORTE LATINO",FOX SPORTS | AR FTA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | AR FTA
 http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports/SA_Live_WebVTT_FTA/FoxSports.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="DEPORTE LATINO",FOX SPORTS | AR SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | AR SA
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" group-title="DEPORTE LATINO",FOX SPORTS | MX MDP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CF5il5c.png" group-title="DEPORTE LATINO",FOX SPORTS | MX MDP
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR BN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR BN
 http://45.6.4.50:50601/FOX_SPORTS_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR FTA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR FTA
 http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports2HD/SA_Live_WebVTT_FTA/FoxSports2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | AR SA
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | MX CF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | MX CF
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | MX MDP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t2Wn2rO.png" group-title="DEPORTE LATINO",FOX SPORTS 2 | MX MDP
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR BN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR BN
 http://45.6.4.50:50601/FOX_SPORTS_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR FTA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR FTA
 http://edge2.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR SA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | AR SA
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | MX MDP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VxIZXH9.png" group-title="DEPORTE LATINO",FOX SPORTS 3 | MX MDP
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1  tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTE LATINO",ESPN | AR BN
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN | AR BN
 http://45.6.4.50:50601/ESPN/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTE LATINO",ESPN | AR SPL
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN | AR SPL
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
-#EXTINF:-1  tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTE LATINO",ESPN | AR SA
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN | AR SA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1  tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTE LATINO",ESPN | AR SA
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1  tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTE LATINO",ESPN | PY
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
-#EXTINF:-1  tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTE LATINO",ESPN | ME
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MFhpD4D.png" group-title="DEPORTE LATINO",ESPN | ME
 http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nEnHs1bJGFs1umV3n_gExMs/.m3u8
-#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="DEPORTE LATINO",ESPN 2 | AR BN
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 | AR BN
 http://45.6.4.50:50601/ESPN2/index.m3u8
-#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="DEPORTE LATINO",ESPN 2 | AR SA
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 | AR SA
 http://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
-#EXTINF:-1  tvg-logo="https://laligapro.live/wp-content/uploads/2021/07/Espn2-en-vivo.png" group-title="DEPORTE LATINO",ESPN 2 | PY
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 | PY
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTE LATINO",ESPN 3 | AR BN
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jq1s4to.png" group-title="DEPORTE LATINO",ESPN 2 | MX
+http://209.126.119.148:20102/live/ad4663ecb0744e6abf09adabdd11e349/95d37d4f67014df99df372f4108131c6/358.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR BN
 http://45.6.4.50:50601/ESPN3/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" group-title="DEPORTE LATINO",ESPN 4 | AR SA
+#EXTINF:-1  tvg-logo="https://i.imgur.com/iFqCpKj.png" group-title="DEPORTE LATINO",ESPN 3 | AR ME
+http://megaservers.xyz:8080/play/V7eKaMMZkyDi-YMDjc02nG7DDXLTq-zdh9SMJVuPY-8/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9nJy7y.png" group-title="DEPORTE LATINO",ESPN 4 | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_957.png" group-title="DEPORTE LATINO",ESPN EXTRA | AR SA
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
@@ -1242,6 +1228,8 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="DEPORTE INTERNACIONAL",ABU DHABI SPORTS 3 | AR
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/arryadia-logo-F2FAC7054A-seeklogo.com.png" group-title="DEPORTE INTERNACIONAL",ARRYADIA TV | AR
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 
 BASKETBALL 
 
@@ -1312,6 +1300,16 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thebridgepe.co.za/wp-content/uploads/2019/11/totalsports_logo.png" group-title="DEPORTE INTERNACIONAL",TOTAL SPORTS | US
 http://cdn1.bmstudiopk.com:1935/totalsports/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE INTERNACIONAL",IMPACT WRESTLING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE INTERNACIONAL",PRO WRESTLING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE INTERNACIONAL",BELLATOR MMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE INTERNACIONAL",PLUTO TV FIGHT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="DEPORTE INTERNACIONAL",GLORY KICKBOXING TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 
 GOLF
 
@@ -1368,6 +1366,8 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w192207
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="DEPORTE INTERNACIONAL",All Sports | BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" group-title="DEPORTE INTERNACIONAL",Tvri Sports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 MOTOR
 
@@ -1395,43 +1395,6 @@ https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
 https://hdtv.prod2.ioio.tv/broker/manifests/de245a96-516c-413d-81e9-419c05bbc6a7/1080/4423680.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://sck.pm/eNUJ",MotorCyclist | US
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
-
-#EXTINF:1,-PLUTO TV-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="PLUTO TV",•●★-- PLUTO TV --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",PLUTO TV FILM STREAM
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea359e533cb0007215c71/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba83c802-56b5-11eb-8bd3-bb18f43a3d77&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fce1a11-6571-494b-befd-e33c841f6807&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",PLUTO TV DEPORTES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",PLUTO TV PELEAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",PLUTO TV VELOCIDAD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",COMBATE AMÉRICAS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",ALL ELITE WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bea8e3-f5b3-42e7-a4e7-081bf207b1bc&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",LUCHA LIBRE AAA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",LUCHA LIBRE AAA 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",MLS TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",IMPACT WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",PRO WRESTLING
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",BELLATOR MMA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",PLUTO TV FIGHT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",GLORY KICKBOXING TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",MLB CHANNEL
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="PLUTO TV",PLUTO TV FÚTBOL PARA FANS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 
 #EXTINF:1,-CINE-
 
@@ -1471,6 +1434,8 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 https://stmv.panel.mivideo.pro/evastream/evastream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/479_Retro_TV_Palmares.png"  group-title="CINE",Retro TV Palmares | CR
 http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="CINE",PLUTO TV FILM STREAM
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea359e533cb0007215c71/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba83c802-56b5-11eb-8bd3-bb18f43a3d77&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fce1a11-6571-494b-befd-e33c841f6807&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png"  group-title="CINE",CINE.AR | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1055_Mega_Cine_TV.png"  group-title="CINE",Mega Cine TV * | DO
@@ -1540,6 +1505,8 @@ https://spt-comedias-1-us.lg.wurl.tv/playlist.m3u8
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="ENTRETENIMIENTO",SONY COMPETENCIAS
 https://spt-competencias-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.univers.la/ViacomCBS/Streaming/PlutoTV.png" group-title="ENTRETENIMIENTO",PLUTO TV TELESERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="ENTRETENIMIENTO",Estrella Tv
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tvn_Logo.svg/1200px-Tvn_Logo.svg.png" group-title="ENTRETENIMIENTO",TVN HD PANAMA
@@ -1825,6 +1792,8 @@ https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 https://janus-tv-ply.senado.cl/playlist/stream_hls.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/CDTV2015.png/revision/latest?cb=20180208152447" group-title="CHILE", Canal Diputados | CL
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/908_Convencion_Constitucional.png" group-title="CHILE", Convencion Constitucional Señal 07 | CL
+https://mdstrm.com/live-stream-playlist/60d476c14157440829d03cd7.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/908_Convencion_Constitucional.png" group-title="CHILE", Convencion Constitucional | CL
 https://mdstrm.com/live-stream-playlist/60d1f10fdacfa008348d71d2.m3u8?PlaylistM3UCL
 
