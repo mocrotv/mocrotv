@@ -3,89 +3,78 @@
 https://i.imgur.com/5Wiki1T.jpg
 
 
-#EXTINF:-1,SPO: beIN Sports Premium 1 HD
-http://66.23.235.46:25461/live__sport/live_sport/1
-#EXTINF:-1,SPO: beIN Sports Premium 2 HD
-http://66.23.235.46:25461/live__sport/live_sport/2
-#EXTINF:-1,SPO: beIN Sports Premium 3 HD
-http://66.23.235.46:25461/live__sport/live_sport/3
-#EXTINF:-1,SPO: beIN Sports 1 HD
-http://66.23.235.46:25461/live__sport/live_sport/4
-#EXTINF:-1,SPO: beIN Sports 2 HD
-http://66.23.235.46:25461/live__sport/live_sport/5
-#EXTINF:-1,SPO: beIN Sports Pre 1 SD
-http://66.23.235.46:25461/live__sport/live_sport/6
-#EXTINF:-1,SPO: beIN Sports Pre 2 SD
-http://66.23.235.46:25461/live__sport/live_sport/7
-#EXTINF:-1,SPO: beIN Sports Pre 3 SD
-http://66.23.235.46:25461/live__sport/live_sport/8
-#EXTINF:-1,SPO: beIN Sports 1 SD
-http://66.23.235.46:25461/live__sport/live_sport/9
-#EXTINF:-1,SPO: beIN Sports 2 SD
-http://66.23.235.46:25461/live__sport/live_sport/10
-#EXTINF:-1,Bein Sport Max 1 SD
-http://66.23.235.46:25461/live__sport/live_sport/11
-#EXTINF:-1,Bein Sport Max 2 SD
-http://66.23.235.46:25461/live__sport/live_sport/12
-#EXTINF:-1,Bein Sport Max 1 HD
-http://66.23.235.46:25461/live__sport/live_sport/13
-#EXTINF:-1,Bein Sport Max 2 HD
-http://66.23.235.46:25461/live__sport/live_sport/14
-
-
 #EXTINF:0,SPO: beIN Sports Premium 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/13
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/2
 #EXTINF:0,SPO: beIN Sports Premium 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/14
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/3
 #EXTINF:0,SPO: beIN Sports Premium 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/15
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/4
 #EXTINF:0,SPO: beIN Sports 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/16
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/5
 #EXTINF:0,SPO: beIN Sports 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/17
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/6
 #EXTINF:0,SPO: beIN Sports 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/18
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/7
 #EXTINF:0,SPO: beIN Sports 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/19
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/8
 #EXTINF:0,SPO: beIN Sports 5 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/20
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/9
 #EXTINF:0,SPO: beIN Sports Pre 1 SD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/26
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/12
 #EXTINF:0,SPO: beIN Sports Pre 2 SD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/27
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/13
 #EXTINF:0,SPO: beIN Sports Pre 3 SD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/28
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/14
 #EXTINF:0,SPO: beIN Sports 1 SD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/29
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/15
 #EXTINF:0,SPO: beIN Sports 2 SD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/30
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/16
 #EXTINF:0,SPO: beIN Sports 3 SD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/31
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/17
 #EXTINF:0,SPO: beIN Sports 4 SD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/32
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/18
 #EXTINF:0,SPO: beIN Sports 5 SD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/33
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/19
+#EXTINF:0,SPORTS-ON-TIME-1
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/22
+#EXTINF:0,SPORTS-ON-TIME-2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/23
+#EXTINF:0,SPORTS-ON-TIME-3
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/24
 #EXTINF:0,beIN Sport XTRA 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/56
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/25
 #EXTINF:0,beIN Sport XTRA 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; )
-http://174.138.184.166:25461/livesport_ios/livesport_android/57
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/26
+#EXTINF:0,ad extra
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/35
+#EXTINF:0,bein1111 premium
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/36
+#EXTINF:0,bein boyah live
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.222.76:8080/qwq/qeeqwqe/37
+
 
 
