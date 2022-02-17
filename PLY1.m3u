@@ -2,26 +2,15 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:-1,•✧✧•-Welcome to Adrar TV -•✧✧• 
-https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1,•✧✧•-NEDERLAND-•✧✧• 
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/42718
+#EXTINF:-1,|NL| COVID-19 LIVE WORLD MAP/COUNT
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/45233
+#EXTINF:-1,|NL|  NPO 1 ᴴᴰ⁺
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26525
+#EXTINF:-1,|NL| NPO 2 ᴴᴰ⁺
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26526
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EGkfx66.png" group-title="LISTA GRATUITA",•●★-- 100% GRATIS --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="LISTA GRATUITA",ULTIMA ACTUALIZACION 16/02/2022
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://idescargar.com/wp-content/uploads/2019/04/Wiseplay.png" group-title="LISTA GRATUITA",WISEPLAY REPRODUCTOR RECOMENDADO
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Y8ABPk.jpg" group-title="LISTA GRATUITA",RECHAZO A LA NUEVA CONSTITUCION
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-#EXTINF:1,-PPV EVENTOS-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- PPV EVENTOS--★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://static.wikia.nocookie.net/proevolutionsoccer/images/6/66/UEFA_Champions_League.png/revision/latest?cb=20151212150543&path-prefix=es",PPV CHAMPIONS LEAGUE
-https://panel.streamingmedia.com.co:3104/live/champions.m3u8
-#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/VKvGgYT.png",PPV TNT SPORTS CHILE
-https://akamai2-br.cdn.booyah.live/hls/1500005/108814783.m3u8
 
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 1 (FUTBOL - NBA - UFC) | UK
 http://77.247.109.101/hls/A1.m3u8
