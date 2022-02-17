@@ -711,6 +711,41 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCA
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwcEOQzAAANAvktHSzsFBxpZJBNUwu7Eqa2OrYSvx8Xsv3yChPLvpg3jqmZJNknHof%2f3pJcJ01LSI%2bbIN03IO%2bqFh5VseAMBcRq1Il%2bu6wu6%2btBEAGglpKtKht3DyMvO8HQRFewZkfqhIqPQz7cC2XJM13HAtxgwbMWy4Djwa2LRszlGL4BHuUzdXFba%2bfVImnOJY6Vqe%2fKK6EFpT5YtGsZgNl%2buahN4fa8B3nrsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 
 
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NoticierosTelevisa/live?&quality=480p
+
+
+
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/beINSPORTS/live?&quality=480p
+
+
+
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=0Y-IRcUJi6o
+
+
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MX prueba",televisa 4 Guadalajara you
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/televisaguadalajara/live&quality=480p
+
+
+https://www.youtube.com/watch?v=IT2pWSWneTc&ab_channel=%D8%B3%D9%83%D8%A7%D9%8A%D9%86%D9%8A%D9%88%D8%B2%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9
+
+JAZ
+https://www.youtube.com/watch?v=eJ6ZMd4sVrI&ab_channel=AlJazeeraChannel%D9%82%D9%86%D8%A7%D8%A9%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9
+
+
+
+https://www.youtube.com/watch?v=0Y-IRcUJi6o&ab_channel=beINSPORTS
+HD
+https://www.youtube.com/watch?v=cH1aRyPNqzA
 
 
 #EXTINF:0,CHA 
