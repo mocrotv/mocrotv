@@ -4,17 +4,14 @@
 https://i.imgur.com/5Wiki1T.jpg
 
 
-#EXTINF:0, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="" - [color yellow]#EXTVLCOPT:network-caching=1000
-https://i.imgur.com/5Wiki1T.jpg
-#EXTINF:0,#EXTVLCOPT:network-caching=1000
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/42718
-#EXTINF:0,|NL| COVID-19 LIVE WORLD MAP/COUNT
+
+#EXTINF:0,PPV 1 (FUTBOL - NBA - UFC) | UK
 #EXTVLCOPT:network-caching=1000
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/45233
-#EXTINF:0,|NL|  NPO 1 #EXTVLCOPT:network-caching=1000
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26525
-#EXTINF:0,|NL| NPO 2 #EXTVLCOPT:network-caching=1000
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26526
+https://raw.githubusercontent.com/gratis2022/canales/main/2022.m3u
+
+
+
+
 #EXTINF:0,PPV 1 (FUTBOL - NBA - UFC) | UK
 #EXTVLCOPT:network-caching=1000
 http://77.247.109.101/hls/A1.m3u8
