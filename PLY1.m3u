@@ -1,10 +1,33 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 https://github.com/gratis2022/canales/blob/main/2022.m3u
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EGkfx66.png" group-title="LISTA GRATUITA",•●★-- 100% GRATIS --★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFPrMmL.png" group-title="LISTA GRATUITA",ULTIMA ACTUALIZACION 16/02/2022
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://idescargar.com/wp-content/uploads/2019/04/Wiseplay.png" group-title="LISTA GRATUITA",WISEPLAY REPRODUCTOR RECOMENDADO
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Y8ABPk.jpg" group-title="LISTA GRATUITA",RECHAZO A LA NUEVA CONSTITUCION
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:1,-PPV EVENTOS-
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bZO5X5.png" group-title="PPV EVENTOS",•●★-- PPV EVENTOS--★●•
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://static.wikia.nocookie.net/proevolutionsoccer/images/6/66/UEFA_Champions_League.png/revision/latest?cb=20151212150543&path-prefix=es",PPV CHAMPIONS LEAGUE
+https://panel.streamingmedia.com.co:3104/live/champions.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/VKvGgYT.png",PPV TNT SPORTS CHILE
+https://akamai2-br.cdn.booyah.live/hls/1500005/108814783.m3u8
 
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 1 (FUTBOL - NBA - UFC) | UK
 http://77.247.109.101/hls/A1.m3u8
@@ -45,6 +68,8 @@ http://77.247.109.249/hls/T1.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 19 (FUTBOL - NBA - UFC) | UK
 http://77.247.109.249/hls/T2.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 20 (FUTBOL - NBA - UFC) | UK
+http://185.53.89.183/hls/bt2.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://i.imgur.com/JjLS5PD.png",PPV 21 (FUTBOL - NBA - UFC) | UK
 http://185.53.89.183/hls/bt3.m3u8
 
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 1 | EN
@@ -99,6 +124,12 @@ https://d1eqmybbugbqy9.cloudfront.net:443/hls/bucks/chunks.m3u8
 https://d1eqmybbugbqy9.cloudfront.net:443/hls/nuggets/chunks.m3u8
 #EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 26 | EN
 https://d1eqmybbugbqy9.cloudfront.net:443/hls/timberwolves/chunks.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 27 | EN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/celtics/chunks.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 28 | EN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/grizzlies/chunks.m3u8
+#EXTINF:-1 group-title="PPV EVENTOS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png",PPV NBA 29 | EN
+https://d1eqmybbugbqy9.cloudfront.net:443/hls/suns/chunks.m3u8
 
 #EXTINF:1,-JUEGOS BEIJING 2022-
 
@@ -1267,7 +1298,7 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/combatgo.png",COMBAT GO | US
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=726
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network | US
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="DEPORTE INTERNACIONAL",Fight Network | US
 https://bit.ly/FightNetwork?/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="DEPORTE INTERNACIONAL" tvg-logo="https://www.nicepng.com/png/full/43-439776_fightchannel-logo-fight-channel-world-hd.png",Channel Fight | US
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
@@ -1792,10 +1823,16 @@ https://v2.tustreaming.cl/tendenciastv/tracks-v1a1/mono.m3u8
 https://janus-tv-ply.senado.cl/playlist/stream_hls.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/CDTV2015.png/revision/latest?cb=20180208152447" group-title="CHILE", Canal Diputados | CL
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/908_Convencion_Constitucional.png" group-title="CHILE", Convencion Constitucional Señal 07 | CL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWPmw4y.png" group-title="CHILE",Convencion Constitucional Señal 02 | CL
+https://mdstrm.com/live-stream-playlist/60d47401e89f67082ee80ecd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWPmw4y.png" group-title="CHILE",Convencion Constitucional Señal 03 | CL
+https://mdstrm.com/live-stream-playlist/60d474bea654210826d3ffe3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWPmw4y.png" group-title="CHILE",Convencion Constitucional Señal 07 | CL
 https://mdstrm.com/live-stream-playlist/60d476c14157440829d03cd7.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/908_Convencion_Constitucional.png" group-title="CHILE", Convencion Constitucional | CL
-https://mdstrm.com/live-stream-playlist/60d1f10fdacfa008348d71d2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWPmw4y.png" group-title="CHILE",Convencion Constitucional Señal 09 | CL
+https://mdstrm.com/live-stream-playlist/611137fef4b9b20830d1d606.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWPmw4y.png" group-title="CHILE",Convencion Constitucional | CL
+https://mdstrm.com/live-stream-playlist/60d1f10fdacfa008348d71d2.m3u8
 
 #EXTINF:1,-ARGENTINA-
 
@@ -3354,3 +3391,4 @@ https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="950" tvg-name="MCRT Cristiana" tvg-logo="https://www.m3u.cl/logo/950_MCRT_Cristiana.png" group-title="RELIGIOSOS", MCRT Cristiana | CA
 https://stmv.negotv.com/religion2021/religion2021/playlist.m3u8?PlaylistM3UCL
+
