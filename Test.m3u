@@ -711,6 +711,35 @@ httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCA
 httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/uwAAAB%2bLCAAAAAAABAAFwcEOQzAAANAvktHSzsFBxpZJBNUwu7Eqa2OrYSvx8Xsv3yChPLvpg3jqmZJNknHof%2f3pJcJ01LSI%2bbIN03IO%2bqFh5VseAMBcRq1Il%2bu6wu6%2btBEAGglpKtKht3DyMvO8HQRFewZkfqhIqPQz7cC2XJM13HAtxgwbMWy4Djwa2LRszlGL4BHuUzdXFba%2bfVImnOJY6Vqe%2fKK6EFpT5YtGsZgNl%2buahN4fa8B3nrsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
 
 
+
+
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you
+http://salvahe.co/iptv-query?url=https://www.youtube.com/c/kenyacitizentv/live
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you
+http://salvahe.co/iptv-query?url=https://www.youtube.com/c/KTNKenya/live
+
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you
+http://salvahe.co/iptv-query?url=https://www.youtube.com/c/beINSPORTS/live
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you
+http://salvahe.co/iptv-query?url=https://www.youtube.com/c/NoticierosTelevisa/live
+
+
+
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you L+
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/kenyacitizentv/live
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you L++
+https://linkastream.co/headless?url=https://www.youtube.com/c/kenyacitizentv/live
+
+
+
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you L+
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/beINSPORTS/live
+#EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you L++
+https://linkastream.co/headless?url=https://www.youtube.com/c/beINSPORTS/live
+
+
+
+
 #EXTINF:-1 tvg-id="ForoTV.mx" tvg-name="Foro TV" group-title="MX prueba",FOROtv you
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NoticierosTelevisa/live?&quality=480p
 
