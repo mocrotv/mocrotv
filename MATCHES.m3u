@@ -17,17 +17,17 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 #EXTINF:0,بث المباراة 1
-https://samersper.s3.eu-central-1.amazonaws.com/food1/live.m3u8|Referer=https://mbs-football.com/
+https://master-gold.s3.eu-central-1.amazonaws.com/none1/live.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 FHD
-https://samersper.s3.eu-central-1.amazonaws.com/food1/live_1080p60.m3u8|Referer=https://mbs-football.com/
+https://master-gold.s3.eu-central-1.amazonaws.com/none1/live_1080p60.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 HD+
-https://samersper.s3.eu-central-1.amazonaws.com/food1/live_720p60.m3u8|Referer=https://mbs-football.com/
+https://master-gold.s3.eu-central-1.amazonaws.com/none1/live_720p60.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 HD
-https://samersper.s3.eu-central-1.amazonaws.com/food1/live_720p30.m3u8|Referer=https://mbs-football.com/
+https://master-gold.s3.eu-central-1.amazonaws.com/none1/live_720p30.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 SD
-https://samersper.s3.eu-central-1.amazonaws.com/food1/live_480p30.m3u8|Referer=https://mbs-football.com/
+https://master-gold.s3.eu-central-1.amazonaws.com/none1/live_480p30.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 LOW
-https://samersper.s3.eu-central-1.amazonaws.com/food1/live_240p30.m3u8|Referer=https://mbs-football.com/
+https://master-gold.s3.eu-central-1.amazonaws.com/none1/live_240p30.m3u8|Referer=https://mbs-football.com/
 
 
 
