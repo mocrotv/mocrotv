@@ -46,6 +46,37 @@ http://rented2.mireasa.live/cdn/premium64/chunks.m3u8|Referer=https://widevine.l
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BEIN SPORTS 4 TR
 http://rented2.mireasa.live/cdn/premium67/chunks.m3u8|Referer=https://widevine.licenses4.me/
 
+
+
+
+
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BT SPORT 1
+http://rented2.mireasa.live/cdn/premium31/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BT SPORT 2
+http://rented2.mireasa.live/cdn/premium32/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BT SPORT 3
+http://rented2.mireasa.live/cdn/premium33/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BT SPORT ESPN
+http://rented2.mireasa.live/cdn/premium34/chunks.m3u8|Referer=https://widevine.licenses4.me/
+
+
+
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ASTRO SUPER SPORT 1
+http://rented2.mireasa.live/cdn/premium123/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ASTRO SUPER SPORT 3
+http://rented2.mireasa.live/cdn/premium124/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ASTRO SUPER SPORT 3
+http://rented2.mireasa.live/cdn/premium125/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ASTRO SUPER SPORT 4
+http://rented2.mireasa.live/cdn/premium126/chunks.m3u8|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",MATCH! TV
+http://rented2.mireasa.live/cdn/premium127/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",TVP SPORT
+http://rented2.mireasa.live/cdn/premium128/chunks.m3u8|Referer=https://widevine.licenses4.me/
+
+
+
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",SPORT KLUB 1
 http://rented2.mireasa.live/cdn/premium101/chunks.m3u8|Referer=https://widevine.licenses4.me/
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",SPORT KLUB 2
@@ -63,6 +94,32 @@ http://rented2.mireasa.live/cdn/premium113/chunks.m3u8|Referer=https://widevine.
 http://rented2.mireasa.live/cdn/premium114/chunks.m3u8|Referer=https://widevine.licenses4.me/
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",TSN SPORTS 5
 http://rented2.mireasa.live/cdn/premium115/chunks.m3u8|Referer=https://widevine.licenses4.me/
+
+
+
+
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ISRAEL SPORTS 1
+http://rented2.mireasa.live/cdn/premium140/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ISRAEL SPORTS 2
+http://rented2.mireasa.live/cdn/premium141/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ISRAEL SPORTS 3
+http://rented2.mireasa.live/cdn/premium142/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ISRAEL SPORTS 4
+http://rented2.mireasa.live/cdn/premium143/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ISRAEL SPORTS 5
+http://rented2.mireasa.live/cdn/premium144/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ISRAEL SPORTS 5 PLUS
+http://rented2.mireasa.live/cdn/premium145/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ISRAEL SPORTS 5 LIVE
+http://rented2.mireasa.live/cdn/premium146/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ISRAEL SPORTS 5 STARS
+http://rented2.mireasa.live/cdn/premium147/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ISRAEL SPORTS 5 GOLD
+http://rented2.mireasa.live/cdn/premium147/chunks.m3u8|Referer=https://widevine.licenses4.me/
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",ISRAEL SPORTS 5 GOLD
+http://rented2.mireasa.live/cdn/premium148/chunks.m3u8|Referer=https://widevine.licenses4.me/
+
+
 
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",BEIN SPORTS 1 FR
 http://rented2.mireasa.live/cdn/premium116/chunks.m3u8|Referer=https://widevine.licenses4.me/
