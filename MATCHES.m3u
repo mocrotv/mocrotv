@@ -6,8 +6,53 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live_1080p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live_720p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD
+https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live_720p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 SD
+https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live_480p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://samersper.s3.eu-central-1.amazonaws.com/food1/live.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://samersper.s3.eu-central-1.amazonaws.com/food1/live_1080p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://samersper.s3.eu-central-1.amazonaws.com/food1/live_720p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD
+https://samersper.s3.eu-central-1.amazonaws.com/food1/live_720p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 SD
+https://samersper.s3.eu-central-1.amazonaws.com/food1/live_480p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://samersper.s3.eu-central-1.amazonaws.com/food1/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
@@ -29,7 +74,7 @@ https://yourtmpok.s3.eu-central-1.amazonaws.com/solo1/live_240p30.m3u8|Referer=h
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 4 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
@@ -45,6 +90,21 @@ https://master-gold.s3.eu-central-1.amazonaws.com/none1/live_720p30.m3u8|Referer
 https://master-gold.s3.eu-central-1.amazonaws.com/none1/live_480p30.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 LOW
 https://master-gold.s3.eu-central-1.amazonaws.com/none1/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -96,22 +156,7 @@ https://masterlivehdfull.s3.eu-central-1.amazonaws.com/gas1/live_240p30.m3u8|Ref
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 5 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
 
-
-#EXTINF:0,بث المباراة 1
-https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live_1080p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live_720p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD
-https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live_720p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 SD
-https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live_480p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://mashaolah.s3.eu-central-1.amazonaws.com/god1/live_240p30.m3u8|Referer=https://mbs-football.com/
 
 
 
