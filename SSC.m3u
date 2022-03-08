@@ -48,22 +48,7 @@ https://masreebn.s3.eu-west-2.amazonaws.com/viva1/live_240p30.m3u8|Referer=https
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
 
-
-#EXTINF:0,بث المباراة 1
-https://masterlivehdfull.s3.eu-central-1.amazonaws.com/gas1/live.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://masterlivehdfull.s3.eu-central-1.amazonaws.com/gas1/live_1080p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://masterlivehdfull.s3.eu-central-1.amazonaws.com/gas1/live_720p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD
-https://masterlivehdfull.s3.eu-central-1.amazonaws.com/gas1/live_720p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 SD
-https://masterlivehdfull.s3.eu-central-1.amazonaws.com/gas1/live_480p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://masterlivehdfull.s3.eu-central-1.amazonaws.com/gas1/live_240p30.m3u8|Referer=https://mbs-football.com/
 
 
 
@@ -74,52 +59,87 @@ https://masterlivehdfull.s3.eu-central-1.amazonaws.com/gas1/live_240p30.m3u8|Ref
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] SSC SPORTS[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:0,|SPO| SSC1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/830
-#EXTINF:0,SSC SPORTS HD 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/829
-#EXTINF:0,|SPO| SSC2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/832
-#EXTINF:0,SSC SPORTS HD 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/831
-#EXTINF:0,|SPO| SSC3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/834
-#EXTINF:0,SSC SPORTS HD 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/833
-#EXTINF:0,|SPO| SSC4 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/836
-#EXTINF:0,SSC SPORTS HD 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/835
-#EXTINF:0,|SPO| SSC5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/838
-#EXTINF:0,SSC SPORTS HD 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/837
-#EXTINF:0,|SPO| SSC6 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/840
-#EXTINF:0,SSC SPORTS HD 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/839
 #EXTINF:0,|SPO| SSC7 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/842
 #EXTINF:0,SSC SPORTS HD 7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.89
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/841
+#EXTINF:0,|SPO| SSC6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/840
+#EXTINF:0,SSC SPORTS HD 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/839
+#EXTINF:0,|SPO| SSC5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/838
+#EXTINF:0,SSC SPORTS HD 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/837
+#EXTINF:0,|SPO| SSC4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/836
+#EXTINF:0,SSC SPORTS HD 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/835
+#EXTINF:0,|SPO| SSC3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/834
+#EXTINF:0,SSC SPORTS HD 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/833
+#EXTINF:0,|SPO| SSC2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/832
+#EXTINF:0,SSC SPORTS HD 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/831
+#EXTINF:0,|SPO| SSC1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/830
+#EXTINF:0,SSC SPORTS HD 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/829
 
 
 
-
+#EXTINF:0,KSA SPORTS HD4 HEVC
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1957
+#EXTINF:0,KSA SPORTS HD3 HEVC
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1956
+#EXTINF:0,KSA SPORTS HD2 HEVC
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1955
+#EXTINF:0,KSA SPORTS HD1 HEVC
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1954
+#EXTINF:0,SAUDI 24 SPORT HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1953
+#EXTINF:0,KSA SPOTS 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1952
+#EXTINF:0,KSA SPORTS 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1951
+#EXTINF:0,KSA Sports 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1950
+#EXTINF:0,KSA SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1949
+#EXTINF:0,KSA SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1948
+#EXTINF:0,KSA Sports +2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1947
+#EXTINF:0,KSA Sports +1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1946
 
 
 
