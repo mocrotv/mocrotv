@@ -5,6 +5,7 @@ https://i.imgur.com/5Wiki1T.jpg
 https://i.imgur.com/5Wiki1T.jpg
 
 
+#EXTM3U
 #EXTINF:0,|FR| RT France
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dmsat2021.ddns.net:8080/Snappy_FR/ryHPEX8w/6391
@@ -890,5 +891,6 @@ http://dmsat2021.ddns.net:8080/Snappy_FR/ryHPEX8w/872
 #EXTINF:0,|FR| FLIX MOVIES VAN DAMME
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.43
 http://dmsat2021.ddns.net:8080/Snappy_FR/ryHPEX8w/873
+
 
 
