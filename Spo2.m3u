@@ -85,7 +85,13 @@ https://i-am-so-cool.licenses4.me/cdn/premium102/chunks.m3u8|Referer=https://wid
 https://i-am-so-cool.licenses4.me/cdn/premium103/chunks.m3u8|Referer=https://widevine.licenses4.me/
 
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",TSN SPORTS 1
-https://i-am-so-cool.licenses4.me/cdn/premium111/chunks.m3u8|Referer=https://widevine.licenses4.me/
+https://i-am-so-cool.licenses4.me/cdn/premium111/chunks.m3u8|Referer=https://player.licenses4.me/player.php?id=premium111&test=true
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",TSN SPORTS 1
+https://i-am-so-cool.licenses4.me/cdn/premium111/chunks.m3u8|Referer=https://player.licenses4.me/player.php?id=premium111
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",TSN SPORTS 1
+https://i-am-so-cool.licenses4.me/cdn/premium111/chunks.m3u8|Referer=https://player.licenses4.me/player.php
+#EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",TSN SPORTS 1
+https://i-am-so-cool.licenses4.me/cdn/premium111/chunks.m3u8|Referer=https://player.licenses4.me
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",TSN SPORTS 2
 https://i-am-so-cool.licenses4.me/cdn/premium112/chunks.m3u8|Referer=https://widevine.licenses4.me/
 #EXTINF:0 group-title="[AL]SPORTE(MIX)" tvg-logo="https://i.imgur.com/2fEE54F.png",TSN SPORTS 3
