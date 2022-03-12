@@ -4,149 +4,150 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
+
 #EXTINF:0,beIN Sports XTRA 2 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/850
 #EXTINF:0,beIN Sports XTRA 2 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/849
 #EXTINF:0,beIN Sports XTRA 2 HD+
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/848
 #EXTINF:0,beIN Sports XTRA 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/847
 #EXTINF:0,beIN Sports XTRA 1 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/846
 #EXTINF:0,beIN Sports XTRA 1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/845
 #EXTINF:0,beIN Sports XTRA 1 HD+
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/844
 #EXTINF:0,beIN Sports XTRA 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/843
 #EXTINF:0,LO BEINS PORTS 01 HD FR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/144
 #EXTINF:0,LO BEINS PORTS 02 HD FR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/143
 #EXTINF:0,LO BEINS PORTS 03 HD FR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/142
 #EXTINF:0,SPO: beIN Sport 3 HD EN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/141
 #EXTINF:0,SPO: beIN Sport 2 HD EN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/140
 #EXTINF:0,SPO: beIN Sport 1 HD EN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/139
 #EXTINF:0,beIN Sports 7 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/37
 #EXTINF:0,beIN Sports 7 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/36
 #EXTINF:0,beIN Sports 7 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/35
 #EXTINF:0,beIN Sports 6 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/34
 #EXTINF:0,beIN Sports 6 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/33
 #EXTINF:0,beIN Sports 6 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/32
 #EXTINF:0,beIN Sports 5 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/31
 #EXTINF:0,beIN Sports 5 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/30
 #EXTINF:0,beIN Sports 5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/29
 #EXTINF:0,beIN Sports 4 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/28
 #EXTINF:0,beIN Sports 4 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/27
 #EXTINF:0,beIN Sports 4HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/26
 #EXTINF:0,beIN Sports 3 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/25
 #EXTINF:0,beIN Sports 3 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/24
 #EXTINF:0,beIN Sports 3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/23
 #EXTINF:0,beIN Sports 2 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/22
 #EXTINF:0,beIN Sports 2 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/21
 #EXTINF:0,beIN Sports 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/20
 #EXTINF:0,beIN Sports 1 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/19
 #EXTINF:0,beIN Sports 1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/18
 #EXTINF:0,beIN Sports 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/17
 #EXTINF:0,beIN Sports 3 PREMIUM SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/16
 #EXTINF:0,beIN Sports 3 PREMIUM HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/15
 #EXTINF:0,beIN Sports 3 PREMIUM HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/14
 #EXTINF:0,beIN Sports 2 PREMIUM SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/13
 #EXTINF:0,beIN Sports 2 PREMIUM HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/12
 #EXTINF:0,beIN Sports 2 PREMIUM HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/11
 #EXTINF:0,beIN Sports 1 PREMIUM SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/10
 #EXTINF:0,beIN Sports 1 PREMIUM HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/9
 #EXTINF:0,beIN Sports 1 PREMIUM HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/8
 #EXTINF:0,beIN Sports Global  HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/7
 #EXTINF:0,beIN Sports Global HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/6
 #EXTINF:0,beIN Sports News HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/5
 #EXTINF:0,beIN Sports News HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/4
 
 
@@ -160,150 +161,152 @@ http://dreamsat-server2.ddns.net:8080/BN_HD/dtQh7qpa/4
 
 
 
+
 #EXTINF:0,beIN Sports XTRA 2 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/850
 #EXTINF:0,beIN Sports XTRA 2 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/849
 #EXTINF:0,beIN Sports XTRA 2 HD+
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/848
 #EXTINF:0,beIN Sports XTRA 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/847
 #EXTINF:0,beIN Sports XTRA 1 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/846
 #EXTINF:0,beIN Sports XTRA 1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/845
 #EXTINF:0,beIN Sports XTRA 1 HD+
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/844
 #EXTINF:0,beIN Sports XTRA 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/843
 #EXTINF:0,LO BEINS PORTS 01 HD FR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/144
 #EXTINF:0,LO BEINS PORTS 02 HD FR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/143
 #EXTINF:0,LO BEINS PORTS 03 HD FR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/142
 #EXTINF:0,SPO: beIN Sport 3 HD EN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/141
 #EXTINF:0,SPO: beIN Sport 2 HD EN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/140
 #EXTINF:0,SPO: beIN Sport 1 HD EN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/139
 #EXTINF:0,beIN Sports 7 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/37
 #EXTINF:0,beIN Sports 7 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/36
 #EXTINF:0,beIN Sports 7 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/35
 #EXTINF:0,beIN Sports 6 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/34
 #EXTINF:0,beIN Sports 6 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/33
 #EXTINF:0,beIN Sports 6 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/32
 #EXTINF:0,beIN Sports 5 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/31
 #EXTINF:0,beIN Sports 5 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/30
 #EXTINF:0,beIN Sports 5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/29
 #EXTINF:0,beIN Sports 4 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/28
 #EXTINF:0,beIN Sports 4 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/27
 #EXTINF:0,beIN Sports 4HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/26
 #EXTINF:0,beIN Sports 3 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/25
 #EXTINF:0,beIN Sports 3 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/24
 #EXTINF:0,beIN Sports 3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/23
 #EXTINF:0,beIN Sports 2 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/22
 #EXTINF:0,beIN Sports 2 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/21
 #EXTINF:0,beIN Sports 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/20
 #EXTINF:0,beIN Sports 1 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/19
 #EXTINF:0,beIN Sports 1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/18
 #EXTINF:0,beIN Sports 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/17
 #EXTINF:0,beIN Sports 3 PREMIUM SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/16
 #EXTINF:0,beIN Sports 3 PREMIUM HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/15
 #EXTINF:0,beIN Sports 3 PREMIUM HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/14
 #EXTINF:0,beIN Sports 2 PREMIUM SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/13
 #EXTINF:0,beIN Sports 2 PREMIUM HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/12
 #EXTINF:0,beIN Sports 2 PREMIUM HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/11
 #EXTINF:0,beIN Sports 1 PREMIUM SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/10
 #EXTINF:0,beIN Sports 1 PREMIUM HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/9
 #EXTINF:0,beIN Sports 1 PREMIUM HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/8
 #EXTINF:0,beIN Sports Global  HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/7
 #EXTINF:0,beIN Sports Global HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/6
 #EXTINF:0,beIN Sports News HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/5
 #EXTINF:0,beIN Sports News HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.cc:8080/BN_SD/mBkNWeza/4
+
 
 
 
