@@ -3,7 +3,6 @@
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
 
-#EXTM3U
 #EXTINF:-1,•✧✧•-NEDERLAND-•✧✧• 
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/42718
 #EXTINF:-1,|NL| COVID-19 LIVE WORLD MAP/COUNT
@@ -126,8 +125,6 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26537
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26538
 #EXTINF:-1,|NL| History 4K+
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26539
-#EXTINF:-1,|NL| 24Kitchen 4K+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26540
 #EXTINF:-1,|NL| TLC 4K+
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26541
 #EXTINF:-1,|NL| E! 4K+
@@ -170,8 +167,6 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26562
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26563
 #EXTINF:-1,|NL| XITE 4K+
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26570
-#EXTINF:-1,|NL| DJAZZ.tv 4K+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26571
 #EXTINF:-1,|NL| Pebble TV
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/26572
 #EXTINF:-1,|NL| 192TV
@@ -1342,88 +1337,80 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62020
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62021
 #EXTINF:-1,|DE|NOA 4 HAMBURG
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62022
-#EXTINF:-1,|BE| LA UNE HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49536
-#EXTINF:-1,|BE| LA DEUX HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49537
-#EXTINF:-1,|BE| LA TROIS FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49538
-#EXTINF:-1,|BE| VTM 4K+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49539
-#EXTINF:-1,|BE| VTM 2 4K+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49540
-#EXTINF:-1,|BE| VTM 3 4K+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49541
-#EXTINF:-1,|BE| VTM 4 4K+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49542
-#EXTINF:-1,|BE| VTM KIDS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49543
-#EXTINF:-1,|BE| RTL TVI FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49544
-#EXTINF:-1,|BE| CANAL C
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49545
-#EXTINF:-1,|BE| ROB.TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49546
-#EXTINF:-1,|BE| CANVAS HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49547
-#EXTINF:-1,|BE| CLUB RTL HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49548
-#EXTINF:-1,|BE| EEN FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49549
-#EXTINF:-1,|BE| ZES 4K+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49550
-#EXTINF:-1,|BE| KETNET HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49551
-#EXTINF:-1,|BE| NAT GEO HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49552
-#EXTINF:-1,|BE| NOTELE TOURNAI
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49553
-#EXTINF:-1,|BE| PLUG RTL HQ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49554
-#EXTINF:-1,|BE| HLN LIVE
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49556
-#EXTINF:-1,|BE| XITE |BE|LGIE
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49557
-#EXTINF:-1,|BE| JIM JAM SD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49558
-#EXTINF:-1,|BE| RTL Luxembourg
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49559
-#EXTINF:-1,|BE| KETNET JUNIOR
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49560
-#EXTINF:-1,|BE| TVL
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49561
-#EXTINF:-1,|BE| PLAY SPORTS 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49562
-#EXTINF:-1,|BE| PLAY SPORTS 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49563
-#EXTINF:-1,|BE| BX1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49564
-#EXTINF:-1,|BE| VICELAND
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49565
-#EXTINF:-1,|BE| TVO
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49566
-#EXTINF:-1,|BE| VIJF
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49567
-#EXTINF:-1,|BE| VITAYA FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49569
-#EXTINF:-1,|BE| VOO SPORT 1 FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49570
-#EXTINF:-1,|BE| VOO SPORT 2 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49571
-#EXTINF:-1,|BE| Eleven Pro League 1 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49572
-#EXTINF:-1,|BE| ELEVENSPORT 2 (FR)
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49573
-#EXTINF:-1,|BE| Eleven Pro League 3 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49574
-#EXTINF:-1,|BE| Eleven Sports 1 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49575
-#EXTINF:-1,|BE| Eleven Sports 2 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49576
-#EXTINF:-1,|BE| Eleven Sports 3 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49577
-#EXTINF:-1,|BE| LN24 (1080p) FR
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49578
+#EXTINF:-1,BE: La Une
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65373
+#EXTINF:-1,BE: La Deux
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65374
+#EXTINF:-1,BE: La Trois
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65375
+#EXTINF:-1,BE: BEx1*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65376
+#EXTINF:-1,BE: ATV*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65377
+#EXTINF:-1,BE: ZES
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65378
+#EXTINF:-1,BE: CINE FHD*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65379
+#EXTINF:-1,BE: SERIES FHD*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65380
+#EXTINF:-1,BE: CLUB RTL
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65381
+#EXTINF:-1,BE: Rtl Tvi
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65382
+#EXTINF:-1,BE: RTL*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65383
+#EXTINF:-1,BE: AB1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65384
+#EXTINF:-1,BE: AB3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65385
+#EXTINF:-1,BE: VOO SPORT WORLD 1 HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65386
+#EXTINF:-1,***** BE MUSIC & RADIO *****
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65387
+#EXTINF:-1,BE: TipiK
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65388
+#EXTINF:-1,BE: NRJ HIT
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65389
+#EXTINF:-1,BE: City Music TV*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65390
+#EXTINF:-1,***** BE News *****
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65391
+#EXTINF:-1,BE: LN24
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65392
+#EXTINF:-1,BE: Canal C*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65393
+#EXTINF:-1,BE: EbS*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65394
+#EXTINF:-1,BE: EbS Live*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65395
+#EXTINF:-1,BE: BEL!RTL
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65396
+#EXTINF:-1,BE: VTM
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65397
+#EXTINF:-1,BE: Eclips TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65398
+#EXTINF:-1,BE: WTV*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65399
+#EXTINF:-1,BE: MA Télé*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65400
+#EXTINF:-1,***** BE Regional *****
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65401
+#EXTINF:-1,BE: TVL*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65402
+#EXTINF:-1,BE: TVOost*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65403
+#EXTINF:-1,BE: CAZ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65404
+#EXTINF:-1,BE: AraBel*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65405
+#EXTINF:-1,BE: ROB tv*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65406
+#EXTINF:-1,BE: No tele*
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65407
+#EXTINF:-1,BE: Eén
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65408
+#EXTINF:-1,BE: Canvas
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65409
 #EXTINF:-1,|FR| TF1 FULL
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/49378
 #EXTINF:-1,|FR| TF1+1 FULL
@@ -2054,38 +2041,6 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61224
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61225
 #EXTINF:-1,|UK| Sky Cinema Select
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61226
-#EXTINF:-1,•✧✧•-|UK| NEWS•✧✧•-
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61209
-#EXTINF:-1,|UK| 92 News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64930
-#EXTINF:-1,|UK| ABC News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64931
-#EXTINF:-1,|UK| ABP News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64932
-#EXTINF:-1,|UK| ARY News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64933
-#EXTINF:-1,|UK| BBC News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64934
-#EXTINF:-1,|UK| BBC World News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64935
-#EXTINF:-1,|UK| CBSN News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64936
-#EXTINF:-1,|UK| Dunya News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64937
-#EXTINF:-1,|UK| Euronews
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64938
-#EXTINF:-1,|UK| Fox News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64939
-#EXTINF:-1,|UK| Geo News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64940
-#EXTINF:-1,|UK| Hum News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64941
-#EXTINF:-1,|UK| RTÉ News Now
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64942
-#EXTINF:-1,|UK| Sky News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64943
-#EXTINF:-1,|UK| Sky Sports News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64944
 #EXTINF:-1,|UK| PREMIER SPORTS 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61206
 #EXTINF:-1,|UK| PREMIER SPORTS 2
@@ -2148,98 +2103,38 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61442
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61443
 #EXTINF:-1,|UK| beIN SPORTS 3
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61444
-#EXTINF:-1,|RU| Perviy Kanal HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27909
-#EXTINF:-1,|RU| Rossiya 1 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27910
-#EXTINF:-1,|RU| Dom Kino
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27911
-#EXTINF:-1,|RU| Domashniy
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27912
-#EXTINF:-1,|RU| ?????
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27913
-#EXTINF:-1,|RU| Illusion Plus
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27914
-#EXTINF:-1,|RU| Mir HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27915
-#EXTINF:-1,|RU| Ren
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27916
-#EXTINF:-1,|RU| 365 Dnei TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27917
-#EXTINF:-1,|RU| Russian Romance
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27918
-#EXTINF:-1,|RU| Russkiy Detektiv
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27919
-#EXTINF:-1,|RU| TV1000 Ruskoe Kino
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27920
-#EXTINF:-1,|RU| Dom Kino Premium HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27921
-#EXTINF:-1,|RU| Komediynoe HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27922
-#EXTINF:-1,|RU| Russkiy Illusion
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27923
-#EXTINF:-1,|RU| ???
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27924
-#EXTINF:-1,|RU| ??? 4K+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27925
-#EXTINF:-1,|RU| Viasat Sport
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27926
-#EXTINF:-1,|RU| Viasat Nature
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27927
-#EXTINF:-1,|RU| Amedia Home of HBO
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27928
-#EXTINF:-1,|RU| Travel Channel
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27929
-#EXTINF:-1,|RU| TiJi
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27930
-#EXTINF:-1,|RU| Paramount Comedy HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27931
-#EXTINF:-1,|RU| Nicelodeon
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27932
-#EXTINF:-1,|RU| Cinema
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27933
-#EXTINF:-1,|RU| Jim Jam
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27934
-#EXTINF:-1,|RU| Fox Life HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27935
-#EXTINF:-1,|RU| FoxHD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27936
-#EXTINF:-1,|RU| Cartoon Network
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27937
-#EXTINF:-1,|RU| Amedia 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27938
-#EXTINF:-1,|RU| Amedia 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27939
-#EXTINF:-1,|RU| Animal Planet HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27940
-#EXTINF:-1,|RU| National Geographic HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27941
-#EXTINF:-1,|RU| Nat Geo Wild HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27942
-#EXTINF:-1,|RU| Discovery Channel HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27943
-#EXTINF:-1,|RU| Food Network
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27944
-#EXTINF:-1,|RU| History
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27945
-#EXTINF:-1,|RU| Viasat Explorer
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27946
-#EXTINF:-1,|RU| Extreme Sports
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27947
-#EXTINF:-1,|RU| Eurosport HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27948
-#EXTINF:-1,|RU| Eurosport 2 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27949
-#EXTINF:-1,|RU| Match TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27950
-#EXTINF:-1,|RU| Match Premier
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27951
-#EXTINF:-1,|RU| Match futbol 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27952
-#EXTINF:-1,|RU| Match futbol 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27953
-#EXTINF:-1,|RU| Match sports
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/27954
+#EXTINF:-1,•✧✧•-|UK| NEWS•✧✧•-
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/61209
+#EXTINF:-1,|UK| 92 News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64930
+#EXTINF:-1,|UK| ABC News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64931
+#EXTINF:-1,|UK| ABP News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64932
+#EXTINF:-1,|UK| ARY News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64933
+#EXTINF:-1,|UK| BBC News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64934
+#EXTINF:-1,|UK| BBC World News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64935
+#EXTINF:-1,|UK| CBSN News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64936
+#EXTINF:-1,|UK| Dunya News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64937
+#EXTINF:-1,|UK| Euronews
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64938
+#EXTINF:-1,|UK| Fox News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64939
+#EXTINF:-1,|UK| Geo News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64940
+#EXTINF:-1,|UK| Hum News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64941
+#EXTINF:-1,|UK| RTÉ News Now
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64942
+#EXTINF:-1,|UK| Sky News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64943
+#EXTINF:-1,|UK| Sky Sports News
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64944
 #EXTINF:-1,|RU| Russkiy Bestseller
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/28636
 #EXTINF:-1,Маша и Медведь |OTB|
@@ -3426,60 +3321,84 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62921
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62922
 #EXTINF:-1,|BG| VIVACOM ARENA
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62923
-#EXTINF:-1,•✧✧•-AUSTRIA [4K]-•✧✧• 
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62023
-#EXTINF:-1,|AU| ORF 1 4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62024
-#EXTINF:-1,|AU| ORF WIEN 4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62025
-#EXTINF:-1,|AU|  ORF 2 4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62026
-#EXTINF:-1,|AU| ORF 3 4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62027
-#EXTINF:-1,|AU|  ORF SPORT  4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62028
-#EXTINF:-1,|AU| ATV 4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62029
-#EXTINF:-1,|AT| ATV 2 4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62030
-#EXTINF:-1,|AU| PULS 4 4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62031
-#EXTINF:-1,|AU|  PULS 24 4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62032
-#EXTINF:-1,|AU| SERVUS TV 4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62033
-#EXTINF:-1,|AT| MELODIE TV 4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62034
-#EXTINF:-1,|AU|  SKY SPORT AUSTRIA 1 4K
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62035
-#EXTINF:-1,•✧✧•-AUSTRIA [HD]-•✧✧• 
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62036
-#EXTINF:-1,|AU| ORF 1 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62037
-#EXTINF:-1,|AU|  ORF 2 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62039
-#EXTINF:-1,|AU|  ORF 3 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62046
-#EXTINF:-1,|AU| ORF SPORT+ HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62047
-#EXTINF:-1,|AU|  ATV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62048
-#EXTINF:-1,|AU| ATV 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62049
-#EXTINF:-1,|AU| SERVUS TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62052
-#EXTINF:-1,|AU|  MELODIE TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62053
-#EXTINF:-1,|AU| OE24 TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62054
-#EXTINF:-1,|AU|  SKY SPORT AUSTRIA 1 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62055
-#EXTINF:-1,|AU|  SKY SPORT AUSTRIA 2 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62056
-#EXTINF:-1,|AU| SKY SPORT AUSTRIA 3 HD [LIVE Event]
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62057
-#EXTINF:-1,|AU| SKY SPORT AUSTRIA 4 HD [LIVE Event]
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62058
+#EXTINF:-1,ATV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65302
+#EXTINF:-1,ATV 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65303
+#EXTINF:-1,ORF2O
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65304
+#EXTINF:-1,ORF 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65305
+#EXTINF:-1,KABEL 1 DOCU
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65306
+#EXTINF:-1,ORF II
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65307
+#EXTINF:-1,ORF eins
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65308
+#EXTINF:-1,Pro7 MAXX Austria
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65309
+#EXTINF:-1,KABEL 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65310
+#EXTINF:-1,ORF SPORT
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65311
+#EXTINF:-1,PULS 4 Austria
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65312
+#EXTINF:-1,SAT.1 Gold Österreich
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65313
+#EXTINF:-1,RTL 2 Austria
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65314
+#EXTINF:-1,ORF2K
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65315
+#EXTINF:-1,SERVUS TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65316
+#EXTINF:-1,RTL Austria
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65317
+#EXTINF:-1,Sky Sport
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65318
+#EXTINF:-1,Sky Sport Austria 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65319
+#EXTINF:-1,Sky Sport Austria 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65320
+#EXTINF:-1,Sky Sport Austria 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65321
+#EXTINF:-1,ORF2B
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65322
+#EXTINF:-1,Sky Sport Austria 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65323
+#EXTINF:-1,Oe24 TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65324
+#EXTINF:-1,Sky Sport Austria 4
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65325
+#EXTINF:-1,ORF2S
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65326
+#EXTINF:-1,ORF2St
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65327
+#EXTINF:-1,ORF2T
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65328
+#EXTINF:-1,ORF2N
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65329
+#EXTINF:-1,R9 Österreich
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65330
+#EXTINF:-1,PULS 24
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65331
+#EXTINF:-1,Melodie TV NEU
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65332
+#EXTINF:-1,Kronehit TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65333
+#EXTINF:-1,Starparadies A
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65334
+#EXTINF:-1,ORF2V
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65335
+#EXTINF:-1,Starparadies AT
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65336
+#EXTINF:-1,Volksmusik
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65337
+#EXTINF:-1,Schau TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65338
+#EXTINF:-1,gotv neu
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65339
+#EXTINF:-1,ORF2W
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65340
 #EXTINF:-1,|ES| LA 1 HD
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64503
 #EXTINF:-1,|ES| LA 2 HD
@@ -3768,122 +3687,402 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64381
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64382
 #EXTINF:-1,|PT| DISCOVERY CHANNEL
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64383
-#EXTINF:-1,•✧✧•-Portugal ʰᵉᵛᶜ-•✧✧•
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64692
-#EXTINF:-1,|PT| RTP1 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64693
-#EXTINF:-1,|PT| RTP2 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64694
-#EXTINF:-1,|PT| RTP 3 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64695
-#EXTINF:-1,|PT| SIC HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64696
-#EXTINF:-1,|PT| SIC CARAS HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64697
-#EXTINF:-1,|PT| SIC MULHER HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64698
-#EXTINF:-1,|PT| SIC NOTICIAS HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64699
-#EXTINF:-1,|PT| SIC RADICAL HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64700
-#EXTINF:-1,|PT| TVI HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64701
-#EXTINF:-1,|PT| TVI 24 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64702
-#EXTINF:-1,|PT| TVI FICÇAO HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64703
-#EXTINF:-1,|PT| FOX HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64704
-#EXTINF:-1,|PT| FOX LIFE HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64705
-#EXTINF:-1,|PT| CANAL 11 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64706
-#EXTINF:-1,|PT| GLOBO HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64707
-#EXTINF:-1,|PT| A BOLA HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64708
-#EXTINF:-1,|PT| AMC HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64709
-#EXTINF:-1,|PT| CMTV HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64710
-#EXTINF:-1,|PT| E! ENTERTAINMENT HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64711
-#EXTINF:-1,|PT| 24 KITCHEN HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64712
-#EXTINF:-1,|PT| CASA E COZINHA HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64713
-#EXTINF:-1,|PT| HISTORIA HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64714
-#EXTINF:-1,|PT| BLAZE HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64715
-#EXTINF:-1,|PT| DISCOVERY CHANNEL HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64716
-#EXTINF:-1,|PT| ID INVESTIGATION DISCOVERY HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64717
-#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64718
-#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC WILD HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64719
-#EXTINF:-1,|PT| ODISSEIA HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64720
-#EXTINF:-1,|PT| TRAVEL CHANNEL HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64721
-#EXTINF:-1,|PT| SPORT TV   HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64722
-#EXTINF:-1,|PT| SPORT TV 1 4K HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64723
-#EXTINF:-1,|PT| SPORT TV 1 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64724
-#EXTINF:-1,|PT| SPORT TV 2 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64725
-#EXTINF:-1,|PT| SPORT TV 3 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64726
-#EXTINF:-1,|PT| SPORT TV 4 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64727
-#EXTINF:-1,|PT| SPORT TV 5 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64728
-#EXTINF:-1,|PT| SPORT TV NBA HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64729
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64730
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64731
-#EXTINF:-1,|PT| ELEVEN SPORT 3 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64732
-#EXTINF:-1,|PT| BENFICA TV 4K HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64733
-#EXTINF:-1,|PT| EUROSPORT 1 HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64734
-#EXTINF:-1,|PT| AXN HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64735
-#EXTINF:-1,|PT| AXN MOVIES HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64736
-#EXTINF:-1,|PT| AXN WHITE HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64737
-#EXTINF:-1,|PT| TVCINE ACTION HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64738
-#EXTINF:-1,|PT| TVCINE EDITION HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64739
-#EXTINF:-1,|PT| TVCINE EMOTON  HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64740
-#EXTINF:-1,|PT| TVCINE TOP HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64741
-#EXTINF:-1,|PT| NOS STUDIOS HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64742
-#EXTINF:-1,|PT| HOLLYWOOD HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64743
-#EXTINF:-1,|PT| SYFY HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64744
-#EXTINF:-1,|PT| CINEMUNDO HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64745
-#EXTINF:-1,|PT| FOX MOVIES HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64746
-#EXTINF:-1,|PT| FOX COMEDY HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64747
-#EXTINF:-1,|PT| FOX CRIME HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64748
-#EXTINF:-1,|PT| ZAP VIVA HEVC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64749
+#EXTINF:-1,•✧✧•-   PORTUGAL  -•✧✧•
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65104
+#EXTINF:-1,|PT| RTP 1 ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65105
+#EXTINF:-1,|PT| RTP 1 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65106
+#EXTINF:-1,|PT| RTP 1 FHD ʳᵃʷ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65107
+#EXTINF:-1,|PT| RTP 2 ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65108
+#EXTINF:-1,|PT| RTP 2 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65109
+#EXTINF:-1,|PT| RTP 2 FHD ʳᵃʷ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65110
+#EXTINF:-1,|PT| RTP 3 SD ʳᵃʷ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65111
+#EXTINF:-1,|PT| RTP 3 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65112
+#EXTINF:-1,|PT| RTP AFRICA
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65113
+#EXTINF:-1,|PT| RTP MADEIRA
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65114
+#EXTINF:-1,|PT| RTP MEMÓRIA
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65115
+#EXTINF:-1,|PT| PORTO CANAL ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65116
+#EXTINF:-1,|PT| PORTO CANAL
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65117
+#EXTINF:-1,|PT| SIC ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65118
+#EXTINF:-1,|PT| SIC HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65119
+#EXTINF:-1,|PT| SIC FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65120
+#EXTINF:-1,|PT| SIC Caras
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65121
+#EXTINF:-1,|PT| SIC K
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65122
+#EXTINF:-1,|PT| SIC Radical
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65123
+#EXTINF:-1,|PT| SIC MULHER
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65124
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65125
+#EXTINF:-1,|PT| TVI ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65126
+#EXTINF:-1,|PT| TVI  HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65127
+#EXTINF:-1,|PT| TVI FHD ʳᵃʷ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65128
+#EXTINF:-1,|PT| TVI 24
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65129
+#EXTINF:-1,|PT| TVI Fic
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65130
+#EXTINF:-1,|PT| Big Brother
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65131
+#EXTINF:-1,|PT| TVI REALITY
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65132
+#EXTINF:-1,|PT| TVI Reality (A Quinta)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65133
+#EXTINF:-1,|PT| TVI REALITY CAMARA 1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65134
+#EXTINF:-1,|PT| CMTV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65135
+#EXTINF:-1,|PT| CMTV HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65136
+#EXTINF:-1,|PT| CNN
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65137
+#EXTINF:-1,|PT| A BOLA TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65138
+#EXTINF:-1,|PT| ARTV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65139
+#EXTINF:-1,|PT| CANAL Q
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65140
+#EXTINF:-1,|PT| TLC
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65141
+#EXTINF:-1,|PT| TOROS TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65142
+#EXTINF:-1,|PT| TV GLOBO
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65143
+#EXTINF:-1,|PT| TV Globo Now
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65144
+#EXTINF:-1,•✧✧•-  PORTUGAL CINEMA  -•✧✧•
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65145
+#EXTINF:-1,|PT| NOS Studios ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65146
+#EXTINF:-1,|PT| NOS Studios HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65147
+#EXTINF:-1,|PT| NOS Studios FHD ʳᵃʷ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65148
+#EXTINF:-1,|PT| TVCine TOP ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65149
+#EXTINF:-1,|PT| TVCine TOP HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65150
+#EXTINF:-1,|PT| TVCine TOP FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65151
+#EXTINF:-1,|PT| TVCine EDITION ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65152
+#EXTINF:-1,|PT| TVCine EDITION HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65153
+#EXTINF:-1,|PT| TVCine EDITION FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65154
+#EXTINF:-1,|PT| TVCine EMOTION ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65155
+#EXTINF:-1,|PT| TVCine EMOTION HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65156
+#EXTINF:-1,|PT| TVCine EMOTION FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65157
+#EXTINF:-1,|PT| TVCine ACTION ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65158
+#EXTINF:-1,|PT| TVCine ACTION HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65159
+#EXTINF:-1,|PT| TVCine ACTION FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65160
+#EXTINF:-1,|PT| FOX HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65161
+#EXTINF:-1,|PT| FOX FHD ʳᵃʷ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65162
+#EXTINF:-1,|PT| FOX CRIME  HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65163
+#EXTINF:-1,|PT| FOX CRIME FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65164
+#EXTINF:-1,|PT| FOX MOVIES
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65165
+#EXTINF:-1,|PT| FOX MOVIES HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65166
+#EXTINF:-1,|PT| Fox Comedy
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65167
+#EXTINF:-1,|PT| FOX LIFE HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65168
+#EXTINF:-1,|PT| FOX LIFE FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65169
+#EXTINF:-1,|PT| AMC
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65170
+#EXTINF:-1,|PT| AMC FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65171
+#EXTINF:-1,|PT| AXN HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65172
+#EXTINF:-1,|PT| AXN FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65173
+#EXTINF:-1,|PT| AXN MOVIES HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65174
+#EXTINF:-1,|PT| AXN MOVIES FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65175
+#EXTINF:-1,|PT| AXN WHITE HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65176
+#EXTINF:-1,|PT| AXN WHITE FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65177
+#EXTINF:-1,|PT| CINEMUNDO
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65178
+#EXTINF:-1,|PT| HOLLYWOOD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65179
+#EXTINF:-1,|PT| HOLLYWOOD FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65180
+#EXTINF:-1,|PT| SYFY
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65181
+#EXTINF:-1,|PT| SYFY HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65182
+#EXTINF:-1,|PT| HARRY POTTER KINGRESHARE 24/24
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65183
+#EXTINF:-1,|PT| FERNANDO ROCHA CHANNELS
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65184
+#EXTINF:-1,|PT| ENERGY CINEMA KINGRESHARE
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65185
+#EXTINF:-1,|PT| MARVEL II  (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65186
+#EXTINF:-1,|PT| DC TV (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65187
+#EXTINF:-1,|PT| NETFLIX (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65188
+#EXTINF:-1,|PT| FILMES ACÇÃO (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65189
+#EXTINF:-1,|PT| FILMES CLÁSSICOS (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65190
+#EXTINF:-1,|PT| FILMES WESTERN (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65191
+#EXTINF:-1,|PT| ROBOT MOVIES (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65192
+#EXTINF:-1,|PT| Filmes Thriller/Terror
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65193
+#EXTINF:-1,|PT| RICK AND MORTY (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65194
+#EXTINF:-1,|PT| 24/7 STARWARS (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65195
+#EXTINF:-1,|PT| APANHADOS (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65196
+#EXTINF:-1,|PT| APANHADOS 2 (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65197
+#EXTINF:-1,|PT| PORTUGAL A RIR (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65198
+#EXTINF:-1,|PT| DRAGON BALL SUPER (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65199
+#EXTINF:-1,|PT| FILMES ANIMAÇÃO  (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65200
+#EXTINF:-1,|PT| VINGADORES ANIMAÇÃO (exclusive)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65201
+#EXTINF:-1,۩๑๑۩๑๑۩  PORTUGAL SPORT  ۩๑๑۩๑๑۩
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65202
+#EXTINF:-1,|PT| CANAL 11 ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65203
+#EXTINF:-1,|PT| CANAL 11 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65204
+#EXTINF:-1,|PT| CANAL 11 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65205
+#EXTINF:-1,|PT| SPORT TV+
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65206
+#EXTINF:-1,|PT| SPORT TV+ HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65207
+#EXTINF:-1,|PT| SPORT TV 1 ʰᵉᵛᶜ TEST
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65208
+#EXTINF:-1,|PT| SPORT TV 2 ʰᵉᵛᶜ TEST
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65209
+#EXTINF:-1,|PT| SPORT TV 1 HD ʰᵉᵛᶜ TEST
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65210
+#EXTINF:-1,|PT| SPORT TV 2 HD ʰᵉᵛᶜ TEST
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65211
+#EXTINF:-1,|PT| SPORT TV 1 ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65212
+#EXTINF:-1,|PT| SPORT TV 1 (extra1) ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65213
+#EXTINF:-1,|PT| SPORT TV 1 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65214
+#EXTINF:-1,|PT| SPORT TV 1 FHD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65215
+#EXTINF:-1,|PT| SPORT TV 1 FHD ʳᵃʷ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65216
+#EXTINF:-1,|PT| SPORT TV 1 FHD (extra1)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65217
+#EXTINF:-1,|PT| SPORT TV 2 ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65218
+#EXTINF:-1,|PT| SPORT TV 2  (extra1) ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65219
+#EXTINF:-1,|PT| SPORT TV 2 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65220
+#EXTINF:-1,|PT| SPORT TV 2 FHD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65221
+#EXTINF:-1,|PT| SPORT TV 2 FHD ʳᵃʷ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65222
+#EXTINF:-1,|PT| SPORT TV 2 FHD (extra1) ʳᵃʷ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65223
+#EXTINF:-1,|PT| SPORT TV 3 ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65224
+#EXTINF:-1,|PT| SPORT TV 3 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65225
+#EXTINF:-1,|PT| SPORT TV 3 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65226
+#EXTINF:-1,|PT| SPORT TV 4 ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65227
+#EXTINF:-1,|PT| SPORT TV 4 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65228
+#EXTINF:-1,|PT| SPORT TV 4 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65229
+#EXTINF:-1,|PT| SPORT TV 5 ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65230
+#EXTINF:-1,|PT| SPORT TV 5 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65231
+#EXTINF:-1,|PT| SPORT TV 5 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65232
+#EXTINF:-1,|PT| SPORT TV 6
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65233
+#EXTINF:-1,|PT| SPORT TV 6 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65234
+#EXTINF:-1,|PT| SPORT TV 6 FHD ʳᵃʷ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65235
+#EXTINF:-1,|PT| SPORT TV NBA ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65236
+#EXTINF:-1,|PT| SPORT TV NBA HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65237
+#EXTINF:-1,|PT| SPORT TV NBA FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65238
+#EXTINF:-1,|PT| Eleven Sport 1 ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65239
+#EXTINF:-1,|PT| Eleven Sport 1 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65240
+#EXTINF:-1,|PT| Eleven Sports 1 FHD VIP
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65241
+#EXTINF:-1,|PT| Eleven Sport 2 HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65242
+#EXTINF:-1,|PT| Eleven Sport 2 FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65243
+#EXTINF:-1,|PT| Eleven Sports 2 FHD VIP
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65244
+#EXTINF:-1,|PT| Eleven Sport 3
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65245
+#EXTINF:-1,|PT| Eleven Sports 4
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65246
+#EXTINF:-1,|PT| Eleven Sport 5
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65247
+#EXTINF:-1,|PT| Eleven Sport 6
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65248
+#EXTINF:-1,|PT| SPORTING TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65249
+#EXTINF:-1,|PT| BENFICA TV SD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65250
+#EXTINF:-1,|PT| BENFICA TV HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65251
+#EXTINF:-1,|PT| BENFICA TV FHD (NOS)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65252
+#EXTINF:-1,|PT| BENFICA TV FHD (MEO)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65253
+#EXTINF:-1,|PT| BENFICA TV FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65254
+#EXTINF:-1,|PT| BENFICA TV UHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65255
+#EXTINF:-1,|PT| Motorvision
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65256
+#EXTINF:-1,|PT| EUROSPORT 1  FHD [Dual Audio]
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65257
+#EXTINF:-1,|PT| EUROSPORT 1 FHD PT
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65258
+#EXTINF:-1,|PT| EUROSPORT 2
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65259
+#EXTINF:-1,|PT| PFC
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65260
+#EXTINF:-1,•✧✧•-  PORTUGAL ENTERTAINMENT  -•✧✧•
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65261
+#EXTINF:-1,|PT| ZAP VIVA HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65262
+#EXTINF:-1,|PT| VH1
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65263
+#EXTINF:-1,|PT| Trace Urban
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65264
+#EXTINF:-1,|PT| MTV PORTUGAL
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65265
+#EXTINF:-1,|PT| MCM POP
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65266
+#EXTINF:-1,|PT| AFRO MUSIC
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65267
+#EXTINF:-1,|PT| Kuriakos TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65268
+#EXTINF:-1,|PT| E! Entertainment
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65269
+#EXTINF:-1,|PT| FUEL TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65270
+#EXTINF:-1,|PT| CBS REALITY
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65271
+#EXTINF:-1,•✧✧•-   PORTUGAL KIDS   -•✧✧•
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65272
+#EXTINF:-1,|PT| Lolly Kids
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65273
+#EXTINF:-1,|PT| NICK JR
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65274
+#EXTINF:-1,|PT| BABY TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65275
+#EXTINF:-1,|PT| NICKELODEON
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65276
+#EXTINF:-1,|PT| CARTOON  NETWORK
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65277
+#EXTINF:-1,|PT| CANAL PANDA
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65278
+#EXTINF:-1,|PT| Biggs
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65279
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65280
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65281
+#EXTINF:-1,|PT| JIM JAM
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65282
+#EXTINF:-1,•✧✧•-  PORTUGAL DOCUMENTARY  -•✧✧•
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65283
+#EXTINF:-1,|PT| BLAZE TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65284
+#EXTINF:-1,|PT| Discovery Channel
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65285
+#EXTINF:-1,|PT| Discovery Channel FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65286
+#EXTINF:-1,|PT| INVESTIGATION DISCOVERY FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65287
+#EXTINF:-1,|PT|  Historia
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65288
+#EXTINF:-1,|PT| CAZA Y PESCA
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65289
+#EXTINF:-1,|PT| Casa e Cozinha FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65290
+#EXTINF:-1,|PT| NAT GEO WILD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65291
+#EXTINF:-1,|PT| NAT GEO WILD HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65292
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC HD ʰᵉᵛᶜ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65293
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65294
+#EXTINF:-1,|PT| CRIME INVISTIGATION
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65295
+#EXTINF:-1,|PT| Travel Channel FHD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65296
+#EXTINF:-1,|PT| CaĿavision
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65297
+#EXTINF:-1,|PT| TV Galicia
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65298
+#EXTINF:-1,|PT|  ODISSEIA
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65299
+#EXTINF:-1,|PT| 24 Kitchen FHD ʳᵃʷ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65300
+#EXTINF:-1,|PT| TV RECORD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65301
 #EXTINF:-1,|IT| Rai 1 HD
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62061
 #EXTINF:-1,|IT| Rai 2 HD
@@ -4922,650 +5121,6 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64500
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64501
 #EXTINF:-1,|AL| Tring 3+
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64502
-#EXTINF:-1,IN:  Sony Ten 2 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62222
-#EXTINF:-1,IN:  Zee News HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62223
-#EXTINF:-1,IN:  History HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62224
-#EXTINF:-1,IN:  Sony Ten 3 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62225
-#EXTINF:-1,IN:  Zee HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62226
-#EXTINF:-1,IN:  Travel XP HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62227
-#EXTINF:-1,IN: Sony Ten 2 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62228
-#EXTINF:-1,IN:  & PICTURE HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62229
-#EXTINF:-1,IN: SUN NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62230
-#EXTINF:-1,IN:  Sony Yay
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62231
-#EXTINF:-1,IN:  Star Gold 2 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62232
-#EXTINF:-1,IN:  Colors Infinity HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62233
-#EXTINF:-1,IN:  HUM HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62234
-#EXTINF:-1,IN:  Sony SAB HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62235
-#EXTINF:-1,IN:  Star GoldHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62236
-#EXTINF:-1,IN:   BBC EARTH HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62237
-#EXTINF:-1,IN:   ZEE CANADA
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62238
-#EXTINF:-1,IN:  Star Plus HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62239
-#EXTINF:-1,IN:  Sony BBC Earth HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62240
-#EXTINF:-1,IN:  Star Sports Select 2 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62241
-#EXTINF:-1,IN:   COLORS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62242
-#EXTINF:-1,IN: Nickelodeon
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62243
-#EXTINF:-1,IN:   STAR SPORTSSD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62244
-#EXTINF:-1,IN:  Willow Cricket HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62245
-#EXTINF:-1,IN:   SONY SIX SD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62246
-#EXTINF:-1,IN:  Sony Pal
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62247
-#EXTINF:-1,IN:  Star Bharat
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62248
-#EXTINF:-1,IN:  MTV Indies
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62249
-#EXTINF:-1,IN:   Discovery Science HINDI
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62250
-#EXTINF:-1,IN:  Star Sports SelectHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62251
-#EXTINF:-1,IN:  Disney HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62252
-#EXTINF:-1,IN: VIJAY HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62253
-#EXTINF:-1,IN:   STAR SPORTS 3 SD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62254
-#EXTINF:-1,IN:  Star Sports 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62255
-#EXTINF:-1,IN:  Discovery Channel Hindi
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62256
-#EXTINF:-1,IN:   TLC HINDI
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62257
-#EXTINF:-1,IN:   NICK SONIC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62258
-#EXTINF:-1,IN:  UTV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62259
-#EXTINF:-1,IN: Star Sports 2 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62260
-#EXTINF:-1,IN:  Sony Wah
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62261
-#EXTINF:-1,IN:  Sony PIX HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62262
-#EXTINF:-1,IN:  HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62263
-#EXTINF:-1,IN: JAYA MOVIES
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62264
-#EXTINF:-1,IN:   EXPLOR HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62265
-#EXTINF:-1,IN:  Star Vijay HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62266
-#EXTINF:-1,IN:  Picture HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62267
-#EXTINF:-1,IN:  Fashion
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62268
-#EXTINF:-1,IN:   INDIA NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62269
-#EXTINF:-1,IN:  ABP News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62270
-#EXTINF:-1,IN:  DD INDIA
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62271
-#EXTINF:-1,IN:  Boogle Bollywood
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62272
-#EXTINF:-1,IN:  Desi Plus
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62273
-#EXTINF:-1,IN:  JAYA MAX
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62274
-#EXTINF:-1,IN:  STAR SPORT 3 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62275
-#EXTINF:-1,IN:  Colors SD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62276
-#EXTINF:-1,IN:  ANGEL HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62277
-#EXTINF:-1,IN:  Zee Business
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62278
-#EXTINF:-1,IN:  Akaal
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62279
-#EXTINF:-1,IN: Asianet US
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62280
-#EXTINF:-1,IN:   SONY YAY
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62281
-#EXTINF:-1,IN: Desi Plus HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62282
-#EXTINF:-1,IN:  Food Food
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62283
-#EXTINF:-1,IN: Cine Voice HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62284
-#EXTINF:-1,IN:  CARTOON NETWORK
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62285
-#EXTINF:-1,IN:  MAA GOLD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62286
-#EXTINF:-1,IN: Channel Y
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62287
-#EXTINF:-1,IN:  ZING INDIA
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62288
-#EXTINF:-1,IN:   MANORANJAN
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62289
-#EXTINF:-1,IN:  DD National
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62290
-#EXTINF:-1,IN: Star sports 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62291
-#EXTINF:-1,IN:  ZEE CAFE
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62292
-#EXTINF:-1,IN:  Zee MP News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62293
-#EXTINF:-1,IN:   Romedy Now
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62294
-#EXTINF:-1,IN:  Akaal Channel
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62295
-#EXTINF:-1,IN:  News 18
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62296
-#EXTINF:-1,IN:  KTV USA
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62297
-#EXTINF:-1,IN:  Sony Yay Hindi
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62298
-#EXTINF:-1,IN:  Zee Bangla Cinema
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62299
-#EXTINF:-1,IN:  Zindagi
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62300
-#EXTINF:-1,IN: CNBCTV 18 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62301
-#EXTINF:-1,IN: DD National HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62302
-#EXTINF:-1,IN: Zee Talkies
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62303
-#EXTINF:-1,IN:  Enter 10
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62304
-#EXTINF:-1,IN: Shubhsandesh
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62305
-#EXTINF:-1,IN:  DD Bangla
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62306
-#EXTINF:-1,IN:  Living Foodz HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62307
-#EXTINF:-1,IN:  Dillagi
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62308
-#EXTINF:-1,IN:  CAPTAIN
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62309
-#EXTINF:-1,IN:  News 24
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62310
-#EXTINF:-1,IN:  GEMINI MOVIES
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62311
-#EXTINF:-1,IN:  BritAsia
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62312
-#EXTINF:-1,IN:  Janta
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62313
-#EXTINF:-1,IN: NEWS 18
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62314
-#EXTINF:-1,IN:  India Today News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62315
-#EXTINF:-1,IN:  CINE VOICE HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62316
-#EXTINF:-1,IN: Republic Bharat
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62317
-#EXTINF:-1,IN:  Sardari
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62318
-#EXTINF:-1,IN: Desi Channel HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62319
-#EXTINF:-1,IN:  CNBC 18
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62320
-#EXTINF:-1,IN:  DD News HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62321
-#EXTINF:-1,IN:  Zee Hindustan
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62322
-#EXTINF:-1,IN:  CAPTAIN NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62323
-#EXTINF:-1,IN:  Harvest USA
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62324
-#EXTINF:-1,IN: Reporter
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62325
-#EXTINF:-1,IN: Sardari
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62326
-#EXTINF:-1,IN:  Sony MaX HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62327
-#EXTINF:-1,IN:  Sony Ten HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62328
-#EXTINF:-1,IN: Sony Ten HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62329
-#EXTINF:-1,IN: SUN TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62330
-#EXTINF:-1,IND-Mal: Media One TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62331
-#EXTINF:-1,IND-Mal: Jaihind TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62332
-#EXTINF:-1,IND-Mal: Reporter TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62333
-#EXTINF:-1,IND-Mal: Asianet News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62334
-#EXTINF:-1,IN:  TV9 Telugu
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62335
-#EXTINF:-1,IN: SAKSHI TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62336
-#EXTINF:-1,IN:  Star Movies HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62337
-#EXTINF:-1,IN:  Zoom
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62338
-#EXTINF:-1,IN:   ZEE CINEMA
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62339
-#EXTINF:-1,IN:  Zee Action HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62340
-#EXTINF:-1,IN:  BOLLYWOOD NOW
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62341
-#EXTINF:-1,IN:  Zee Cinema HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62342
-#EXTINF:-1,IN:   COLORS CINEPLEX
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62343
-#EXTINF:-1,MOVIES: STAR MOVIES 24/7
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62344
-#EXTINF:-1,IN:  Zee Classic HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62345
-#EXTINF:-1,IN:  STAR GOLD HD UK
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62346
-#EXTINF:-1,IN:  UTV MOVIES
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62347
-#EXTINF:-1,IN:   BOLLYWOOD CLASSIC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62348
-#EXTINF:-1,IN:  UTV ACTION
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62349
-#EXTINF:-1,IN:  &FLIX
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62350
-#EXTINF:-1,IN:  Zee Anmol Cinema
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62351
-#EXTINF:-1,IN:  Zee Bollywood
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62352
-#EXTINF:-1,IN:  B4U Movies
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62353
-#EXTINF:-1,IN:  ZEE CINEMA USA
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62354
-#EXTINF:-1,IN: PICTURES HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62355
-#EXTINF:-1,IN:  MOVIES ACTIVE
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62356
-#EXTINF:-1,IN: Star Movies
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62357
-#EXTINF:-1,IN: Zee Cafe HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62358
-#EXTINF:-1,IN:  BFLIX MOVIES
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62359
-#EXTINF:-1,IN:  WOW Cinema
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62360
-#EXTINF:-1,IN:  START MOVIES SELECT
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62361
-#EXTINF:-1,IN: Bollywood Now HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62362
-#EXTINF:-1,IN:  Filmrise Crime
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62363
-#EXTINF:-1,IN: Boogle Bollywood HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62364
-#EXTINF:-1,IN:  STAR PLUS HD UK
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62365
-#EXTINF:-1,IN:  JAYA MOVIES
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62366
-#EXTINF:-1,IN:  &PRIVE
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62367
-#EXTINF:-1,IN:  Zee Anmol
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62368
-#EXTINF:-1,IN:  Zee Salaam HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62369
-#EXTINF:-1,IN: SEITHIGAL
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62370
-#EXTINF:-1,IN:  Sony MaX 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62371
-#EXTINF:-1,IN:  9XM
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62372
-#EXTINF:-1,IN: B4U Music
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62373
-#EXTINF:-1,IN:  9X Jalwa
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62374
-#EXTINF:-1,IN:  B4U Music
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62375
-#EXTINF:-1,IN:  Ibc Music
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62376
-#EXTINF:-1,IN:  MasTiii
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62377
-#EXTINF:-1,IN:  9X Jhakaas
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62378
-#EXTINF:-1,IN: 9X JALWA
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62379
-#EXTINF:-1,IN:  Zing (Music)
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62380
-#EXTINF:-1,IN:  Zing
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62381
-#EXTINF:-1,IN: B4U Plus
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62382
-#EXTINF:-1,IN:  B4U Kadak
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62383
-#EXTINF:-1,IN:  Sur Sagar
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62384
-#EXTINF:-1,IN: SONY WAH
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62385
-#EXTINF:-1,IN: PITAARA
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62386
-#EXTINF:-1,IN: B4U Kadak
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62387
-#EXTINF:-1,IN: RAJ MUSIX
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62388
-#EXTINF:-1,IN: ZING
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62389
-#EXTINF:-1,IN: DHAMAAL
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62390
-#EXTINF:-1,IN:  Music India
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62391
-#EXTINF:-1,IN:  ALPHA ETC PUNJABI
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62392
-#EXTINF:-1,IN:  Life Punjabi
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62393
-#EXTINF:-1,IN:  PTC News TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62394
-#EXTINF:-1,IN:  Alph etc Punjabi usa
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62395
-#EXTINF:-1,IN:  Lakshya TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62396
-#EXTINF:-1,IN:  APN Punjab TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62397
-#EXTINF:-1,IN:  TV PUNJAB HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62398
-#EXTINF:-1,IN:  Global Sanjh Punjabi
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62399
-#EXTINF:-1,IN:  Raj News 24X7
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62400
-#EXTINF:-1,IN:  PTC Punjabi TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62401
-#EXTINF:-1,IN:  PTV Pardesi
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62402
-#EXTINF:-1,PB: AONE TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62403
-#EXTINF:-1,IN:  Tv 9 Gujarati
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62404
-#EXTINF:-1,Ind-Punjabi: Alpha etc Punjabi
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62405
-#EXTINF:-1,PB: HULCHUL TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62406
-#EXTINF:-1,IN:  BollyWood Hd
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62407
-#EXTINF:-1,IN: Sangat TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62408
-#EXTINF:-1,Sikh Channel TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62409
-#EXTINF:-1,IN: NAT GEO WILD HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62410
-#EXTINF:-1,IN: NATIONAL GEOGRAPHIC HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62411
-#EXTINF:-1,IN: Zee TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62412
-#EXTINF:-1,IN: Zee TV UK
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62413
-#EXTINF:-1,IN:  Set MaX
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62414
-#EXTINF:-1,IN:  Nat Geo Wild
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62415
-#EXTINF:-1,IN: STAR MOVIES FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62416
-#EXTINF:-1,|PK|  Kay 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62417
-#EXTINF:-1,|PK| Ptv Sports
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62418
-#EXTINF:-1,|PK|  PAK ASIA NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62419
-#EXTINF:-1,|PK| PTV News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62420
-#EXTINF:-1,|PK| GEO News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62421
-#EXTINF:-1,|PK| Geo Entertainment
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62422
-#EXTINF:-1,|PK|  KTN TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62423
-#EXTINF:-1,|PK|  ARY News HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62424
-#EXTINF:-1,|PK| HUM NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62425
-#EXTINF:-1,|PK|  Hidayat TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62426
-#EXTINF:-1,|PK| Ary Digital TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62427
-#EXTINF:-1,|PK|  JALWA MUSIC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62428
-#EXTINF:-1,|PK|  Geo Sports
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62429
-#EXTINF:-1,|PK|  GEO KAHANI HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62430
-#EXTINF:-1,|PK| PTV Home
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62431
-#EXTINF:-1,|PK|  DISCOVER PAKISTAN
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62432
-#EXTINF:-1,|PK| Urdu 1 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62433
-#EXTINF:-1,|PK| Geo Super
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62434
-#EXTINF:-1,|PK| ARY ZAUQ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62435
-#EXTINF:-1,|PK| Ary QTV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62436
-#EXTINF:-1,|PK| RAAVI TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62437
-#EXTINF:-1,|PK| GNN NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62438
-#EXTINF:-1,|PK| Hum Masala TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62439
-#EXTINF:-1,|PK| Awaz TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62440
-#EXTINF:-1,|PK| Hum Sitaray HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62441
-#EXTINF:-1,|PK| Khyber News TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62442
-#EXTINF:-1,|PK| Dunya News TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62443
-#EXTINF:-1,|PK|  PAKUS TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62444
-#EXTINF:-1,|PK| PLAY ENTERTAINMENT
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62445
-#EXTINF:-1,|PK| KTN NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62446
-#EXTINF:-1,|PK| Geo Kahani
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62447
-#EXTINF:-1,|PK|  CARTOON NETWORK
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62448
-#EXTINF:-1,|PK| BOL NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62449
-#EXTINF:-1,|PK| EXpress Entertainment
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62450
-#EXTINF:-1,|PK| TEN SPORTS PK
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62451
-#EXTINF:-1,|PK| SINDH TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62452
-#EXTINF:-1,|PK|  Such TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62453
-#EXTINF:-1,|PK| Aaj Entertainment TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62454
-#EXTINF:-1,|PK| PEACE TV URDU
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62455
-#EXTINF:-1,|PK| ROZE NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62456
-#EXTINF:-1,|PK|  PUBLIC NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62457
-#EXTINF:-1,|PK| Roze TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62458
-#EXTINF:-1,|PK| PTV Global TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62459
-#EXTINF:-1,|PK| NEO NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62460
-#EXTINF:-1,|PK| Madani Channel
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62461
-#EXTINF:-1,|PK|  ANIMAL PLANET
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62462
-#EXTINF:-1,|PK| SINDH NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62463
-#EXTINF:-1,|PK|  Makkah Live
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62464
-#EXTINF:-1,|PK| EXpress News TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62465
-#EXTINF:-1,|PK| AL-QURAN AL-KAREEM
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62466
-#EXTINF:-1,|PK| Jaag TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62467
-#EXTINF:-1,|PK|  CAPITAL NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62468
-#EXTINF:-1,|PK| HADI TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62469
-#EXTINF:-1,|PK|  DISCOVERY
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62470
-#EXTINF:-1,|PK| 24 NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62471
-#EXTINF:-1,|PK| Noor TV UK
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62472
-#EXTINF:-1,|PK|  ATV ENTERTENMENT
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62473
-#EXTINF:-1,|PK|  Islam Channel
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62474
-#EXTINF:-1,|PK|  K21 NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62475
-#EXTINF:-1,|PK| SAMAA NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62476
-#EXTINF:-1,|PK| Islam Channel Urdu
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62477
-#EXTINF:-1,|PK| Apna Channel TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62478
-#EXTINF:-1,|PK|  INDUS NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62479
-#EXTINF:-1,|PK| Hum TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62480
-#EXTINF:-1,|PK| BOL ENTERTAINMENT
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62481
-#EXTINF:-1,|PK| KING TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62482
-#EXTINF:-1,|PK|  EXPRESS NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62483
-#EXTINF:-1,|PK| 92 News HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62484
-#EXTINF:-1,|PK| ABB TAKK NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62485
-#EXTINF:-1,|PK|  CITY 42 NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62486
-#EXTINF:-1,|PK| Play TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62487
-#EXTINF:-1,|PK| GEO TEZZ
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62488
-#EXTINF:-1,|PK|  8XM MUSIC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62489
-#EXTINF:-1,|PK|  LAHORE RANG
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62490
-#EXTINF:-1,|PK| Samaa TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62491
-#EXTINF:-1,|PK|  CITY 41 NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62492
-#EXTINF:-1,|PK| AVT Khyber TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62493
-#EXTINF:-1,|PK| TV One
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62494
-#EXTINF:-1,|PK| AL-SUNNAH Madinah Live HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62495
-#EXTINF:-1,|PK| ATV Entertainment
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62496
-#EXTINF:-1,|PK|  SEE TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62497
-#EXTINF:-1,|PK|  AAP NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62498
-#EXTINF:-1,|PK|  Lahore News HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62499
-#EXTINF:-1,|PK| CHANNEL 5
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62500
-#EXTINF:-1,|PK| DAWN NEWS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62501
-#EXTINF:-1,|PK| FilmWorld TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62502
-#EXTINF:-1,|PK| Ary Zindagi TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62503
-#EXTINF:-1,|PK| Aaj News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62504
-#EXTINF:-1,|PK| 9X Jalwa TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62505
-#EXTINF:-1,|PK| KOHENOOR TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62506
-#EXTINF:-1,•✧✧•-KURDISH-•✧✧• 
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62579
-#EXTINF:-1,|KR| Medya Haber
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62543
-#EXTINF:-1,|KR| Zagros Tv
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62544
-#EXTINF:-1,|KR| Babylon TV HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62545
-#EXTINF:-1,|KR| Korek Tv
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62546
-#EXTINF:-1,|KR| Payam Tv HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62547
-#EXTINF:-1,|KR| Speda Tv
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62548
-#EXTINF:-1,|KR| NRT 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62549
-#EXTINF:-1,|KR| NRT 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62550
-#EXTINF:-1,|KR| Rudaw Tv
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62551
-#EXTINF:-1,|KR| Kurt Max Tv
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62552
-#EXTINF:-1,|KR| Sahar Kurdi
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62553
-#EXTINF:-1,|KR| Waar TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62554
-#EXTINF:-1,|KR| Rohani Tv
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62555
-#EXTINF:-1,|KR| Kurdsat News HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62556
-#EXTINF:-1,|KR| Zarok Tv
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62557
-#EXTINF:-1,|KR| Al Sharqiya News
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62558
-#EXTINF:-1,|KR| Gali Kurdistan HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62559
-#EXTINF:-1,|KR| K24 TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62560
-#EXTINF:-1,|KR| KIRKUK
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62561
-#EXTINF:-1,|KR| Kurdsat News HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62562
-#EXTINF:-1,|KR| KURD SHOW HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62563
-#EXTINF:-1,|KR| KURDISTAN TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62564
-#EXTINF:-1,|KR| KurdMax Kurmanci HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62565
-#EXTINF:-1,|KR| KurdMax Music HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62566
-#EXTINF:-1,|KR| Kurdmax Show Kurmanji HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62567
-#EXTINF:-1,|KR| Kurdmax Show Sorani HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62568
-#EXTINF:-1,|KR| Kurdmax Sorani HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62569
-#EXTINF:-1,|KR| Med Muzik TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62570
-#EXTINF:-1,|KR| NRT 3 TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62571
-#EXTINF:-1,|KR| NRT HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62572
-#EXTINF:-1,|KR| Kurdmax Show TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62573
-#EXTINF:-1,|KR| Rojava TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62574
-#EXTINF:-1,|KR| Ronahi TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62575
-#EXTINF:-1,|KR| STERK HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62576
-#EXTINF:-1,|KR| Suroyo TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62577
-#EXTINF:-1,|KR| Suryoyo Sat
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62578
 #EXTINF:-1,|IR| IRIB 1
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64056
 #EXTINF:-1,|IR| GEM TV HD
@@ -6180,451 +5735,67 @@ http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62605
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62606
 #EXTINF:-1,Zhwandoon TV
 http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/62607
-#EXTINF:-1,|AZ| | ATV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64043
-#EXTINF:-1,|AZ| | AZ TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64044
-#EXTINF:-1,|AZ| | AZAD TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64045
-#EXTINF:-1,|AZ| | CBC
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64046
-#EXTINF:-1,|AZ| | DUNYA TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64047
-#EXTINF:-1,|AZ| | ICTIMAI TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64048
-#EXTINF:-1,|AZ| | IDMAN TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64049
-#EXTINF:-1,|AZ| | LIDER TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64050
-#EXTINF:-1,|AZ| | MEDENIYYET TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64051
-#EXTINF:-1,|AZ| | Setanta Sports Eurasia 1 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64052
-#EXTINF:-1,|AZ| | SPACE TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64053
-#EXTINF:-1,|AZ| | XEZER TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/64054
-#EXTINF:-1,VIP AVRUPA XXX-1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53165
-#EXTINF:-1,VIP AVRUPA XXX-2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53166
-#EXTINF:-1,VIP AVRUPA XXXX 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53167
-#EXTINF:-1,VIP AVRUPA XXXX 4
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53168
-#EXTINF:-1,VIP AVRUPA 4K UHD XXL
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53169
-#EXTINF:-1,VIP AVRUPA 4K UHD XXXL
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53170
-#EXTINF:-1,VIP AVRUPA 4K UHD XXXXL
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53171
-#EXTINF:-1,VIP AVRUPA 4K UHD XXXXXL
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53172
-#EXTINF:-1,VIPMAX 4K  PORNO 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53173
-#EXTINF:-1,VIPMAV 4K PORNO 4
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53174
-#EXTINF:-1,VIPMAX 4K PORNO 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53175
-#EXTINF:-1,VIPMAX 4k PORNO 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53176
-#EXTINF:-1,XXX: SL 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53177
-#EXTINF:-1,XXX: SL 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53178
-#EXTINF:-1,XXX: SL 4
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53179
-#EXTINF:-1,XXX: SL 5
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53180
-#EXTINF:-1,XXX: SL 6
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53181
-#EXTINF:-1,XXX: SL 7
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53182
-#EXTINF:-1,XXX: SL 8
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53183
-#EXTINF:-1,XXX: SL 9
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53184
-#EXTINF:-1,XXX: FILMAX Adult 1 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53185
-#EXTINF:-1,XXX: FILMAX Adult 2 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53186
-#EXTINF:-1,XXX: FILMAX Adult 3 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53187
-#EXTINF:-1,XXX: FILMAX Adult 4 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53188
-#EXTINF:-1,XXX: FILMAX Adult 5 HD+
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53189
-#EXTINF:-1,XXX: FILMAX Adult 6 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53190
-#EXTINF:-1,XXX: FILMAX Adult 7 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53191
-#EXTINF:-1,XXX: FILMAX Adult 8 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53192
-#EXTINF:-1,XXX: FILMAX Adult 9 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53193
-#EXTINF:-1,XXX: FILMAX Adult 10 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53194
-#EXTINF:-1,XXX: ۩  SEXART 2 HD  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53195
-#EXTINF:-1,XXX: ۩ DEEPER TV ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53196
-#EXTINF:-1,XXX: ۩  1X1  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53197
-#EXTINF:-1,XXX: ۩  Hot   ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53198
-#EXTINF:-1,XXX: ۩   XXL  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53199
-#EXTINF:-1,XXX: ۩   RedLight  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53200
-#EXTINF:-1,XXX: ۩   PRIVATE TV HD  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53201
-#EXTINF:-1,XXX: ۩  SEXART 1 HD  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53202
-#EXTINF:-1,XXX: ۩  Fake HD  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53203
-#EXTINF:-1,XXX: ۩  Evil Angel  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53204
-#EXTINF:-1,XXX: ۩   PENTHOUS 2 ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53205
-#EXTINF:-1,XXX: ۩  Porn Stars 1   ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53206
-#EXTINF:-1,XXX: ۩  Porn Stars 3   ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53207
-#EXTINF:-1,XXX: ۩  Sexto Senso  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53208
-#EXTINF:-1,XXX: ۩  Dorcel TV HD   ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53209
-#EXTINF:-1,XXX: ۩  HUSTLER HD  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53210
-#EXTINF:-1,XXX: ۩  Alba XXX-1  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53211
-#EXTINF:-1,XXX: ۩  Alba XXX-2  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53212
-#EXTINF:-1,XXX: ۩  Alba XXX-3  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53213
-#EXTINF:-1,XXX: ۩   FAKE hub ORIGINALS  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53214
-#EXTINF:-1,XXX:  ۩  FAB1 TV  ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53215
-#EXTINF:-1,XXX: ۩  Alba XXX-6   ۩
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53216
-#EXTINF:-1,XXX 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53217
-#EXTINF:-1,XXX 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53218
-#EXTINF:-1,XXX 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53219
-#EXTINF:-1,XXX 4
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53220
-#EXTINF:-1,XXX 5
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53221
-#EXTINF:-1,XXX: babestv
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53222
-#EXTINF:-1,XXX: BALKAN EROTIC HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53223
-#EXTINF:-1,XXX: BARELY LEGAL
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53224
-#EXTINF:-1,XXX: BEATE UHSE TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53225
-#EXTINF:-1,XXX: BLUE HUSTLER
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53226
-#EXTINF:-1,XXX: BRAZZERS TV EUROPE
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53227
-#EXTINF:-1,XXX: DORCEL FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53228
-#EXTINF:-1,XXX: DUSK!
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53229
-#EXTINF:-1,XXX: ERO X FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53230
-#EXTINF:-1,XXX: ERO XXX FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53231
-#EXTINF:-1,XXX: erotic
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53232
-#EXTINF:-1,XXX: erotic 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53233
-#EXTINF:-1,XXX: erotic 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53234
-#EXTINF:-1,XXX: erotic 4
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53235
-#EXTINF:-1,XXX: erotic 5
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53236
-#EXTINF:-1,XXX: erotic 6
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53237
-#EXTINF:-1,XXX: erotic 7
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53238
-#EXTINF:-1,XXX: erotic 8
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53239
-#EXTINF:-1,XXX: EXTREME HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53240
-#EXTINF:-1,XXX: HOT HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53241
-#EXTINF:-1,XXX: HUSTLER HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53242
-#EXTINF:-1,XXX: JASMIN.TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53243
-#EXTINF:-1,XXX: MIAMI TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53244
-#EXTINF:-1,XXX: nuart
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53245
-#EXTINF:-1,XXX: O.La.La
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53246
-#EXTINF:-1,XXX: PASSIE XXX HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53247
-#EXTINF:-1,XXX: PENTHOUSE GOLD FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53248
-#EXTINF:-1,XXX: PENTHOUSE Quickies HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53249
-#EXTINF:-1,XXX: PINKOCLUB HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53250
-#EXTINF:-1,XXX: PLAYBOY EUROPE
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53251
-#EXTINF:-1,XXX: PLAYBOY HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53252
-#EXTINF:-1,XXX: PRIVATE HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53253
-#EXTINF:-1,XXX: REALITY KINGS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53254
-#EXTINF:-1,XXX: REDLIGHT FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53255
-#EXTINF:-1,XXX: VENUS TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53256
-#EXTINF:-1,XXX: VISIT-X TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53257
-#EXTINF:-1,XXX: VIVID RED HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53258
-#EXTINF:-1,XXX: VIVID TV Europe HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53259
-#EXTINF:-1,XXX: XY MAX
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53260
-#EXTINF:-1,XXX: XY MIX
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53261
-#EXTINF:-1,XXX: XY PLUS
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53262
-#EXTINF:-1,XXX:RedLight HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53263
-#EXTINF:-1,XXX:Penthouse 1 HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53264
-#EXTINF:-1,XXX:BRAZZERS HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53265
-#EXTINF:-1,XXX:Hot Club
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53266
-#EXTINF:-1,XXX:Dorcel
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53267
-#EXTINF:-1,XXX:Pink Erotic 4
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53268
-#EXTINF:-1,XXX:Pink Erotic 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53269
-#EXTINF:-1,XXX:Pink Erotic 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53270
-#EXTINF:-1,XXX:Pink Erotic 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53271
-#EXTINF:-1,XXX: Blue Hustler HD'
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53272
-#EXTINF:-1,XXX: Vivid Red HD'
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53273
-#EXTINF:-1,XXX: Vivid Europe HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53274
-#EXTINF:-1,XXX: Dorcel TV HD'
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53275
-#EXTINF:-1,XXX: Dorcel XXX HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53276
-#EXTINF:-1,XXX: Dusk TV HD'
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53277
-#EXTINF:-1,XXX: Redlight HD'
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53278
-#EXTINF:-1,XXX: Penthouse Gold FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53279
-#EXTINF:-1,XXX: Penthouse Quickies HD'
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53280
-#EXTINF:-1,XXX: Babes TV HD'
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53281
-#EXTINF:-1,XXX: Reality Kings TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53282
-#EXTINF:-1,XXX: Brazzers TV Europe HD'
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53283
-#EXTINF:-1,XXX: SuperOne FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53284
-#EXTINF:-1,XXX: Passie XXX
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53285
-#EXTINF:-1,XXX: Erox HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53286
-#EXTINF:-1,XXX: XY Max HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53287
-#EXTINF:-1,XXX: XY Mix HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53288
-#EXTINF:-1,XXX: XY Plus HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53289
-#EXTINF:-1,XXX: Hot HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53290
-#EXTINF:-1,XXX: O-la-la HD'
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53291
-#EXTINF:-1,XXX: Erotic 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53292
-#EXTINF:-1,XXX: Erotic 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53293
-#EXTINF:-1,XXX: Erotic 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53294
-#EXTINF:-1,XXX: Erotic 4
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53295
-#EXTINF:-1,XXX: Erotic 5
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53296
-#EXTINF:-1,XXX: Erotic 6
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53297
-#EXTINF:-1,XXX: Playboy TV HD'
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53298
-#EXTINF:-1,XXX: Jasmin TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53299
-#EXTINF:-1,XXX: Venus
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53300
-#EXTINF:-1,XXX: Amateur HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53301
-#EXTINF:-1,XXX: CzechMassage HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53302
-#EXTINF:-1,XXX: Blacks On Blonds HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53303
-#EXTINF:-1,XXX: My CherryCrush HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53304
-#EXTINF:-1,XXX: Tiny4K HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53305
-#EXTINF:-1,XXX: Nuart TV HD'
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53306
-#EXTINF:-1,XXX: Erotic 6
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53307
-#EXTINF:-1,XXX: Alba 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53308
-#EXTINF:-1,XXX: Alba 4
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53309
-#EXTINF:-1,XXX: Evil Angel.com
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53310
-#EXTINF:-1,XXX: Penthouse BLACK HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53311
-#EXTINF:-1,XXX: HUSTLER HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53312
-#EXTINF:-1,XXX: DUSK
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53313
-#EXTINF:-1,XXX: Passie XXX
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53314
-#EXTINF:-1,XXX: ERO xxx HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53315
-#EXTINF:-1,XXX: Erotic 05
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53316
-#EXTINF:-1,XXX: Erotic 06
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53317
-#EXTINF:-1,XXX: Erotic 07
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53318
-#EXTINF:-1,XXX: Erotic 08
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53319
-#EXTINF:-1,XXX: Penthouse Passion HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53320
-#EXTINF:-1,XXX: Penthouse Quickies HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53321
-#EXTINF:-1,XXX: Penthouse Gold HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53322
-#EXTINF:-1,XXX: PORNBOX: FAMILY
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53323
-#EXTINF:-1,XXX: Tushy 1 FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53324
-#EXTINF:-1,XXX: Hot
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53325
-#EXTINF:-1,XXX: RedLight HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53326
-#EXTINF:-1,XXX: Jasmin.tv Adult
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53327
-#EXTINF:-1,XXX: X Desire
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53328
-#EXTINF:-1,XXX: BRAZZER
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53329
-#EXTINF:-1,XXX: EROX HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53330
-#EXTINF:-1,XXX: Hustler TV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53331
-#EXTINF:-1,XXX: MomsTeachSex.com HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53332
-#EXTINF:-1,XXX: Nubiles Casting.com
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53333
-#EXTINF:-1,XXX: Passionet TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53334
-#EXTINF:-1,XXX: Private TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53335
-#EXTINF:-1,XXX: Reality Kings TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53336
-#EXTINF:-1,XXX: HARDCORE
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53337
-#EXTINF:-1,XXX: Tushy 2 FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53338
-#EXTINF:-1,XXX: Venus TV
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53339
-#EXTINF:-1,XXX:   DORCEL XXX HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53340
-#EXTINF:-1,XXX:  SINFULLXXX 01
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53341
-#EXTINF:-1,XXX: Alba XXX-1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53342
-#EXTINF:-1,XXX: Alba XXX-2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53343
-#EXTINF:-1,XXX: Alba XXX-3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53344
-#EXTINF:-1,XXX: Alba XXX-4
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53345
-#EXTINF:-1,XXX: Alba XXX-5
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53346
-#EXTINF:-1,XXX: Alba XXX-6
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53347
-#EXTINF:-1,XXX: Alba XXX-HD2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53348
-#EXTINF:-1,XXX: RedTraffic Threesome HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53349
-#EXTINF:-1,XXX:  RedTraffic Teen HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53350
-#EXTINF:-1,XXX: RedTraffic Russian HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53351
-#EXTINF:-1,XXX:  RedTraffic POV HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53352
-#EXTINF:-1,XXX:  RedTraffic MILF HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53353
-#EXTINF:-1,XXX: RedTraffic Lesbian HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53354
-#EXTINF:-1,XXX:  RedTraffic Latina HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53355
-#EXTINF:-1,XXX: RedTraffic Interracial HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53356
-#EXTINF:-1,XXX: RedTraffic Hardcore HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53357
-#EXTINF:-1,XXX: RedTraffic Fetish HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53358
-#EXTINF:-1,XXX: RedTraffic Blowjob HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53359
-#EXTINF:-1,XXX: XY Max
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53360
-#EXTINF:-1,XXX: XY Mix
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53361
-#EXTINF:-1,XXX: XY Plus
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53362
-#EXTINF:-1,XXX: Blacked Raw
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53363
-#EXTINF:-1,XXX: VIVID RED FHD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53364
-#EXTINF:-1,XXX: TINY4K 1
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53365
-#EXTINF:-1,XXX: TINY4K 2
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53366
-#EXTINF:-1,XXX: TINY4K 3
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53367
-#EXTINF:-1,XXX: TINY4K 4
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53368
-#EXTINF:-1,XXX: TINY4K 5
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53369
-#EXTINF:-1,XXX: TINY4K 6
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53370
-#EXTINF:-1,XXX: TINY4K 7
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53371
-#EXTINF:-1,XXX: TINY4K 8
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53372
-#EXTINF:-1,XXX: TINY4K 9
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53373
-#EXTINF:-1,XXX: CHINA ERO
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53374
-#EXTINF:-1,XXX: CzechMassage HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53375
-#EXTINF:-1,XXX: Digital Playground HD
-http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/53376
+#EXTINF:-1,AZER:ICTIMAI TV SD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65341
+#EXTINF:-1,AZER:Azerbaijan News TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65342
+#EXTINF:-1,AZER:AMC TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65343
+#EXTINF:-1,AZER:AZAD AZERBAYCAN SD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65344
+#EXTINF:-1,AZER:MEDENIYYET TV SD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65345
+#EXTINF:-1,AZER:XEZER TV SD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65346
+#EXTINF:-1,AZER:DUNYA TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65347
+#EXTINF:-1,AZER:Kepez TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65348
+#EXTINF:-1,AZER:ARB24
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65349
+#EXTINF:-1,AZER:AZTV SD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65350
+#EXTINF:-1,AZER:CBC TV AZ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65351
+#EXTINF:-1,AZER:IDMAN TV AZ SD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65352
+#EXTINF:-1,AZER:CBC SPORT HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65353
+#EXTINF:-1,AZER:CBC SPORT HD YEDEK
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65354
+#EXTINF:-1,AZER:FTV TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65355
+#EXTINF:-1,AZER:START TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65356
+#EXTINF:-1,AZER:GEMAZ TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65357
+#EXTINF:-1,AZER:VOSTOK TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65358
+#EXTINF:-1,AZER:SES TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65359
+#EXTINF:-1,AZER:Mugan TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65360
+#EXTINF:-1,AZER:EL TV (YEVLAX)
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65361
+#EXTINF:-1,AZER:AN.T HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65362
+#EXTINF:-1,AZER:AZSTAR TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65363
+#EXTINF:-1,AZER:AZSTAR TV SD 480 p
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65364
+#EXTINF:-1,AZER:AL-ZAHRA TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65365
+#EXTINF:-1,AZER:KANAL 12 AZ
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65366
+#EXTINF:-1,AZER:QƏBƏLƏ TV
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65367
+#EXTINF:-1,AZER:KANAL ON4
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65368
+#EXTINF:-1,AZER:AZAD AZERBAYCAN HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65369
+#EXTINF:-1,AZER:AZAD AZERBAYCAN 2 SAAT HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65370
+#EXTINF:-1,AZER:AZAD AZERBAYCAN 4 SAAT HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65371
+#EXTINF:-1,AZER:ICTIMAI TV HD
+http://vizyonbox.link:2086/Salahdin/DEDbKgUYhF/65372
