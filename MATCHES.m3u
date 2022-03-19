@@ -33,6 +33,52 @@ https://maderr.s3.eu-central-1.amazonaws.com/sopa1/live_240p30.m3u8|Referer=http
 
 
 
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live_1080p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live_720p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD
+https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live_720p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 SD
+https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live_480p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://reeecooo.s3.eu-west-2.amazonaws.com/hreen1/live.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://reeecooo.s3.eu-west-2.amazonaws.com/hreen1/live_1080p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://reeecooo.s3.eu-west-2.amazonaws.com/hreen1/live_720p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD
+https://reeecooo.s3.eu-west-2.amazonaws.com/hreen1/live_720p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 SD
+https://reeecooo.s3.eu-west-2.amazonaws.com/hreen1/live_480p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://reeecooo.s3.eu-west-2.amazonaws.com/hreen1/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+
+
+
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
@@ -57,22 +103,13 @@ https://amplify-easy-staging-210628-deploymnet.s3.eu-central-1.amazonaws.com/nor
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
 
 
-#EXTINF:0,بث المباراة 1
-https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live_1080p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live_720p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD
-https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live_720p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 SD
-https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live_480p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://madeinsilmer.s3.eu-central-1.amazonaws.com/code1/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
 
 
 
