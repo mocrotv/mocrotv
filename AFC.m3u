@@ -84,8 +84,64 @@ http://localchannels.zinamedia.net/ar-s/SSC6/index.m3u8
 http://localchannels.zinamedia.net/ar-s/SSC7/index.m3u8
 
 
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 1 HD
+http://193.228.193.179:8000/play/a01n
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 2 HD
+http://193.228.193.179:8000/play/a01o
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 3 HD
+http://193.228.193.179:8000/play/a01p
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 4 HD
+http://193.228.193.179:8000/play/a01q
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 5 HD
+http://193.228.193.179:8000/play/a01r
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 6 HD
+http://193.228.193.179:8000/play/a01s
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 7 HD
+http://193.228.193.179:8000/play/a01t
 
 
+#EXTINF:0,|SPO| SSC7 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/842
+#EXTINF:0,SSC SPORTS HD 7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/841
+#EXTINF:0,|SPO| SSC6 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/840
+#EXTINF:0,SSC SPORTS HD 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/839
+#EXTINF:0,|SPO| SSC5 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/838
+#EXTINF:0,SSC SPORTS HD 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/837
+#EXTINF:0,|SPO| SSC4 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/836
+#EXTINF:0,SSC SPORTS HD 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/835
+#EXTINF:0,|SPO| SSC3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/834
+#EXTINF:0,SSC SPORTS HD 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/833
+#EXTINF:0,|SPO| SSC2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/832
+#EXTINF:0,SSC SPORTS HD 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/831
+#EXTINF:0,|SPO| SSC1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/830
+#EXTINF:0,SSC SPORTS HD 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/829
 
 
 
