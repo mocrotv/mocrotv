@@ -169,6 +169,19 @@ http://localchannels.zinamedia.net/ar-s/SSC6/index.m3u8
 http://localchannels.zinamedia.net/ar-s/SSC7/index.m3u8
 
 
-
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 1 HD
+http://193.228.193.179:8000/play/a01n
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 2 HD
+http://193.228.193.179:8000/play/a01o
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 3 HD
+http://193.228.193.179:8000/play/a01p
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 4 HD
+http://193.228.193.179:8000/play/a01q
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 5 HD
+http://193.228.193.179:8000/play/a01r
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 6 HD
+http://193.228.193.179:8000/play/a01s
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 7 HD
+http://193.228.193.179:8000/play/a01t
 
 
