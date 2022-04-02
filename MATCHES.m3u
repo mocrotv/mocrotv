@@ -18,18 +18,17 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 #EXTINF:0,بث المباراة 1
-https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1dc6ec/live.m3u8|Referer=https://mbs-football.com/
+https://e1d26341bec5f951d5748b23985fa580.s3.eu-central-1.amazonaws.com/420487bc537ac9462f5ede6a4bd582d5/live.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 FHD
-https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1dc6ec/live_1080p60.m3u8|Referer=https://mbs-football.com/
+https://e1d26341bec5f951d5748b23985fa580.s3.eu-central-1.amazonaws.com/420487bc537ac9462f5ede6a4bd582d5/live_1080p60.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 HD+
-https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1dc6ec/live_720p60.m3u8|Referer=https://mbs-football.com/
+https://e1d26341bec5f951d5748b23985fa580.s3.eu-central-1.amazonaws.com/420487bc537ac9462f5ede6a4bd582d5/live_720p60.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 HD
-https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1dc6ec/live_720p30.m3u8|Referer=https://mbs-football.com/
+https://e1d26341bec5f951d5748b23985fa580.s3.eu-central-1.amazonaws.com/420487bc537ac9462f5ede6a4bd582d5/live_720p30.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 SD
-https://sershose.s3.eu-central-1.amazonaws.com/52d3cbddf7ca73959f57415dbf8cbfa5/live_480p30.m3u8|Referer=https://mbs-football.com/
+https://e1d26341bec5f951d5748b23985fa580.s3.eu-central-1.amazonaws.com/420487bc537ac9462f5ede6a4bd582d5/live_480p30.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 LOW
-https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1dc6ec/live_240p30.m3u8|Referer=https://mbs-football.com/
-
+https://e1d26341bec5f951d5748b23985fa580.s3.eu-central-1.amazonaws.com/420487bc537ac9462f5ede6a4bd582d5/live_240p30.m3u8|Referer=https://mbs-football.com/
 
 
 
