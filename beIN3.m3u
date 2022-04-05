@@ -78,10 +78,7 @@ https://sectokentest.parkbtcpanel.com/test/chann7/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", beIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="RMC Sport FR",RMC Sport FR
-https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="RMC Sport FR",كيف احصل على الكود
-https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+
 #EXTINF:0 tvg-id="RMCSport1.fr" group-title="RMC Sport FR",RMC Sport 1 HD
 http://62.210.137.234:8000/play/a01o/index.m3u8
 #EXTINF:0 tvg-id="RMCSport2.fr" group-title="RMC Sport FR",RMC Sport 2 HD
