@@ -7,6 +7,85 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live_1080p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live_720p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD
+https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live_720p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 SD
+https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live_480p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_1080p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_720p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_720p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 SD
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_480p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://37800cd086184681dab139cd7f3205a5.s3.eu-central-1.amazonaws.com/63e18cae5696b83414d491e9c767e014/live.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://37800cd086184681dab139cd7f3205a5.s3.eu-central-1.amazonaws.com/63e18cae5696b83414d491e9c767e014/live_1080p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://37800cd086184681dab139cd7f3205a5.s3.eu-central-1.amazonaws.com/63e18cae5696b83414d491e9c767e014/live_720p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD
+https://37800cd086184681dab139cd7f3205a5.s3.eu-central-1.amazonaws.com/63e18cae5696b83414d491e9c767e014/live_720p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 SD
+https://37800cd086184681dab139cd7f3205a5.s3.eu-central-1.amazonaws.com/63e18cae5696b83414d491e9c767e014/live_480p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://37800cd086184681dab139cd7f3205a5.s3.eu-central-1.amazonaws.com/63e18cae5696b83414d491e9c767e014/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
