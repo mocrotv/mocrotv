@@ -7,162 +7,211 @@ https://i.imgur.com/5Wiki1T.jpg
 https://i.imgur.com/5Wiki1T.jpg
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORT NEWS
+#EXTM3U 
+#EXTINF:-1 tvg-id="ext" group-title="000قسم الدعم الفني للتطبيق",AiRMAX TV PRO
+https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext" group-title="000قسم الدعم الفني للتطبيق",كيفية تغير المشغل الاساسي الى المتطور
+https://github.com/virus457/sasa/raw/ms2021/airmaxtvproo.mp4
+#EXTINF:0 tvg-id="ext" group-title="000قسم الدعم الفني للتطبيق",كيفية الحصول على الكود تطبيق AirMax TV
+https://github.com/virus457/sasa/raw/air99/airmaxtv.mp4
+#EXTINF:-1 tvg-id="ext" group-title="000قسم الدعم الفني للتطبيق",مهم جدا للمملكة العربية السعودية
+https://github.com/virus457/sasa/raw/air99/sk.mp4
+#EXTINF:-1 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",BEIN SPORT
+https://bit.ly/3pWtmPO
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="1 بين سبور BEIN SPORT",كيف احصل على الكود
+https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+#EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="1 بين سبور BEIN SPORT",0تعمل وقت المبارات المهمه
+http://190.2.148.141:8080/bar7642/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="1 بين سبور BEIN SPORT",1تعمل وقت المبارات المهمه
+http://190.2.148.141:8080/bar7653/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="1 بين سبور BEIN SPORT",2تعمل وقت المبارات المهمه
+http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="1 بين سبور BEIN SPORT",3تعمل وقت المبارات المهمه
+http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="1 بين سبور BEIN SPORT",4تعمل وقت المبارات المهمه
+http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="1 بين سبور BEIN SPORT",beIN SPORT NEWS
 http://localchannels.zinamedia.net/ar-s/WhKxECvZSk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORT
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="1 بين سبور BEIN SPORT",beIN SPORT
 http://localchannels.zinamedia.net/ar-s/pEmPdyrGGz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC" tvg-logo="https://cne-eg.com/uploads/logos/202222596856.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORT AFC
-http://51.195.234.238:8080/ar-s/bein-afc-HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 1" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORT AFC 1
-http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 2" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORT AFC 2
-http://141.95.206.174:8080/ar-s/bein-afc-2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 3" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORT AFC 3
-http://51.195.234.238:8080/ar-s/bein-afc-3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC" tvg-logo="https://cne-eg.com/uploads/logos/202222596856.png" group-title="1 بين سبور BEIN SPORT",beIN SPORT AFC
+http://localchannels.zinamedia.net/ar-s/bein-afc-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 1" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="1 بين سبور BEIN SPORT",beIN SPORT AFC 1
+http://localchannels.zinamedia.net/ar-s/bein-afc-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 2" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="1 بين سبور BEIN SPORT",beIN SPORT AFC 2
+http://localchannels.zinamedia.net/ar-s/bein-afc-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 3" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="1 بين سبور BEIN SPORT",beIN SPORT AFC 3
+http://localchannels.zinamedia.net/ar-s/bein-afc-3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122749282.png" group-title="1 بين سبور BEIN SPORT",beINSPORTS 1 PREMIUM
+http://localchannels.zinamedia.net/ar-s/B-S-pre-1-stop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122834751.png" group-title="1 بين سبور BEIN SPORT",beINSPORTS 2 PREMIUM
+http://localchannels.zinamedia.net/ar-s/B-S-pre-2-stop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122252312.png" group-title="1 بين سبور BEIN SPORT",beINSPORTS 3 PREMIUM
+http://localchannels.zinamedia.net/ar-s/B-S-pre-3-stop/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122749282.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beINSPORTS 1 PREMIUM
-http://51.195.234.238:8080/ar-s/B-S-pre-1-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122834751.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beINSPORTS 2 PREMIUM
-http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122252312.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beINSPORTS 3 PREMIUM
-http://51.195.234.238:8080/ar-s/B-S-pre-3-stop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" group-title="1 بين سبور BEIN SPORT",beIN SPORTS 1 
+http://localchannels.zinamedia.net/ar-s/bein-1-stop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021122430516.png" group-title="1 بين سبور BEIN SPORT",BEIN SPORTS 2 
+http://localchannels.zinamedia.net/ar-s/bein-2-stop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021122413188.png" group-title="1 بين سبور BEIN SPORT",beINSPORTS 3
+http://localchannels.zinamedia.net/ar-s/bein-3-stop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021122354391.png" group-title="1 بين سبور BEIN SPORT",beINSPORTS 4 
+http://localchannels.zinamedia.net/ar-s/bein-4-stop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 " tvg-logo="https://cne-eg.com/uploads/logos/2021122336578.png" group-title="1 بين سبور BEIN SPORT",beINSPORTS 5 
+http://localchannels.zinamedia.net/ar-s/bein-5-stop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 6 " tvg-logo="https://cne-eg.com/uploads/logos/2021122318750.png" group-title="1 بين سبور BEIN SPORT",beINSPORTS 6 
+http://localchannels.zinamedia.net/ar-s/bein-6-stop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 7 " tvg-logo="https://cne-eg.com/uploads/logos/2021122223140.png" group-title="1 بين سبور BEIN SPORT",beINSPORTS 7 
+http://localchannels.zinamedia.net/ar-s/bein-7-stop/index.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 4K
+http://195.154.200.168:8000/play/a01l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 English HD
+http://195.154.200.168:8000/play/a00s/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 English SD
+http://195.154.200.168:8000/play/a017/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 FHD
+http://195.154.200.168:8000/play/a01c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 French HD
+http://195.154.200.168:8000/play/a00u/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 French SD
+http://195.154.200.168:8000/play/a019/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 HD
+http://195.154.200.168:8000/play/a00i/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 Premium FHD
+http://195.154.200.168:8000/play/a01i/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 Premium HD
+http://195.154.200.168:8000/play/a00p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 Premium SD
+http://195.154.200.168:8000/play/a014/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 1 SD
+http://195.154.200.168:8000/play/a00w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 4K
+http://195.154.200.168:8000/play/a01m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 English HD
+http://195.154.200.168:8000/play/a00t/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 English SD
+http://195.154.200.168:8000/play/a018/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 FHD
+http://195.154.200.168:8000/play/a01b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 French HD
+http://195.154.200.168:8000/play/a00v/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 French SD
+http://195.154.200.168:8000/play/a01a/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 HD
+http://195.154.200.168:8000/play/a00j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 Premium FHD
+http://195.154.200.168:8000/play/a01j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 Premium HD
+http://195.154.200.168:8000/play/a00q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 Premium SD
+http://195.154.200.168:8000/play/a015/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 2 SD
+http://195.154.200.168:8000/play/a00y/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 4K
+http://195.154.200.168:8000/play/a01n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 4K (clone)
+http://195.154.200.168:8000/play/a020/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 FHD
+http://195.154.200.168:8000/play/a01g/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 HD
+http://195.154.200.168:8000/play/a00k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 Premium FHD
+http://195.154.200.168:8000/play/a01k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 Premium HD
+http://195.154.200.168:8000/play/a00r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 Premium SD
+http://195.154.200.168:8000/play/a016/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 3 SD
+http://195.154.200.168:8000/play/a00x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 4K
+http://195.154.200.168:8000/play/a01o/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 FHD
+http://195.154.200.168:8000/play/a01e/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 HD
+http://195.154.200.168:8000/play/a00l/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 4 SD
+http://195.154.200.168:8000/play/a011/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 4K
+http://195.154.200.168:8000/play/a01p/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 FHD
+http://195.154.200.168:8000/play/a01d/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 HD
+http://195.154.200.168:8000/play/a00m/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 5 SD
+http://195.154.200.168:8000/play/a010/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 4K
+http://195.154.200.168:8000/play/a01q/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 FHD
+http://195.154.200.168:8000/play/a01f/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 HD
+http://195.154.200.168:8000/play/a00n/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 6 SD
+http://195.154.200.168:8000/play/a00z/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 4K
+http://195.154.200.168:8000/play/a01r/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 FHD
+http://195.154.200.168:8000/play/a01h/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 HD
+http://195.154.200.168:8000/play/a00o/index.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="1 بين سبور BEIN SPORT",beIN Sports 7 SD
+http://195.154.200.168:8000/play/a012/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports English 1 4K
+http://195.154.200.168:8000/play/a01v/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports English 2 4K
+http://195.154.200.168:8000/play/a01w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports French 1 4K
+http://195.154.200.168:8000/play/a01x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports French 2 4K
+http://195.154.200.168:8000/play/a01y/index.m3u8
+#EXTINF:0 tvg-id="BeINSports.es" group-title="1 بين سبور BEIN SPORT",beIN Sports HD
+http://195.154.200.168:8000/play/a00h/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports NBA 4K
+http://195.154.200.168:8000/play/a01z/index.m3u8
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="1 بين سبور BEIN SPORT",beIN Sports NBA HD
+http://195.154.200.168:8000/play/a013/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports News HD
+http://195.154.200.168:8000/play/a00g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Premium 1 4K
+http://195.154.200.168:8000/play/a01s/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Premium 2 4K
+http://195.154.200.168:8000/play/a01t/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",beIN Sports Premium 3 4K
+http://195.154.200.168:8000/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORTS 1 
-http://51.195.234.238:8080/ar-s/bein-1-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021122430516.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORTS 2 
-http://198.244.203.56:8080/ar-s/bein-2-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021122413188.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beINSPORTS 3
-http://51.195.234.238:8080/ar-s/bein-3-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021122354391.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beINSPORTS 4 
-http://51.195.234.238:8080/ar-s/bein-4-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 " tvg-logo="https://cne-eg.com/uploads/logos/2021122336578.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beINSPORTS 5 
-http://141.95.206.174:8080/ar-s/bein-5-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 6 " tvg-logo="https://cne-eg.com/uploads/logos/2021122318750.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beINSPORTS 6 
-http://198.244.203.56:8080/ar-s/bein-6-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 7 " tvg-logo="https://cne-eg.com/uploads/logos/2021122223140.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beINSPORTS 7 
-http://198.244.203.56:8080/ar-s/bein-7-stop/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
+#EXTINF:0 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+#EXTINF:0 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
 http://93.152.174.144:4000/play/bein2ar/index.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
 http://217.23.4.81:86/BEIN_SPORT_6_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
 http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN SPORT NEWS
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="1 بين سبور BEIN SPORT",beIN SPORT NEWS
 https://sectokentest.parkbtcpanel.com/test/chann8/chunklist.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 1 HD FR
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 1 HD FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 2 HD FR
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 2 HD FR
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 3 HD FR
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 3 HD FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 1 HD TR
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 1 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann2/chunklist.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 2 HD TR
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 2 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann3/chunklist.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 3 HD TR
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 3 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann4/chunklist.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 4 HD TR
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 4 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann5/chunklist.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports MAX 1 HD TR
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports MAX 1 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann6/chunklist.m3u8
-#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports MAX 2 HD TR
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports MAX 2 HD TR
 https://sectokentest.parkbtcpanel.com/test/chann7/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", beIN Sports Extra
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="1 بين سبور BEIN SPORT", beIN Sports Extra
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-
-
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="RMC Sport FR",RMC Sport 1 HD
-http://62.210.137.234:8000/play/a01o/index.m3u8
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="RMC Sport FR",RMC Sport 2 HD
-http://62.210.137.234:8000/play/a01p/index.m3u8
-#EXTINF:0 tvg-id="RMCSport3.fr" group-title="RMC Sport FR",RMC Sport 3 HD
-http://62.210.137.234:8000/play/a01q/index.m3u8
-#EXTINF:0 tvg-id="RMCSport4.fr" group-title="RMC Sport FR",RMC Sport 4 HD
-http://62.210.137.234:8000/play/a01r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 5 HD
-http://62.210.137.234:8000/play/a01s/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 6 HD
-http://62.210.137.234:8000/play/a01t/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 7 HD
-http://62.210.137.234:8000/play/a01u/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 7 HD (clone)
-http://62.210.137.234:8000/play/a039/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 8 HD
-http://62.210.137.234:8000/play/a01v/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 9 HD
-http://62.210.137.234:8000/play/a01w/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 10 HD
-http://62.210.137.234:8000/play/a01x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 11 HD
-http://62.210.137.234:8000/play/a01y/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 12 HD
-http://62.210.137.234:8000/play/a01z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 13 HD
-http://62.210.137.234:8000/play/a020/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 14 HD
-http://62.210.137.234:8000/play/a021/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 15 HD
-http://62.210.137.234:8000/play/a022/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",RMC Sport 16 HD
-http://62.210.137.234:8000/play/a023/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",Sport En France
-http://62.210.137.234:8000/play/a037/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="RMC Sport FR",beIN Sports 1 HD
-http://62.210.137.234:8000/play/a025/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="RMC Sport FR",beIN Sports 1 SD
-http://62.210.137.234:8000/play/a024/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="RMC Sport FR",beIN Sports 2 HD
-http://62.210.137.234:8000/play/a027/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="RMC Sport FR",beIN Sports 2 SD
-http://62.210.137.234:8000/play/a026/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="RMC Sport FR",beIN Sports 3 HD
-http://62.210.137.234:8000/play/a029/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="RMC Sport FR",beIN Sports 3 SD
-http://62.210.137.234:8000/play/a028/index.m3u8
-#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="RMC Sport FR",beIN Sports Max 10 HD
-http://62.210.137.234:8000/play/a02g/index.m3u8
-#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="RMC Sport FR",beIN Sports Max 4 HD
-http://62.210.137.234:8000/play/a02a/index.m3u8
-#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="RMC Sport FR",beIN Sports Max 5 HD
-http://62.210.137.234:8000/play/a02b/index.m3u8
-#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="RMC Sport FR",beIN Sports Max 6 HD
-http://62.210.137.234:8000/play/a02c/index.m3u8
-#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="RMC Sport FR",beIN Sports Max 7 HD
-http://62.210.137.234:8000/play/a02d/index.m3u8
-#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="RMC Sport FR",beIN Sports Max 8 HD
-http://62.210.137.234:8000/play/a02e/index.m3u8
-#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="RMC Sport FR",beIN Sports Max 9 HD
-http://62.210.137.234:8000/play/a02f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",Amazon Prime 1 HD Events
-http://62.210.137.234:8000/play/a02y/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",Amazon Prime 2 HD Events
-http://62.210.137.234:8000/play/a02z/index.m3u8
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="RMC Sport FR",Canal+ Sport
-http://62.210.137.234:8000/play/a02j/index.m3u8
-#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="RMC Sport FR",Equidia Live
-http://62.210.137.234:8000/play/a02o/index.m3u8
-#EXTINF:0 tvg-id="esp-hd" group-title="RMC Sport FR",Eurosport 1 HD
-http://62.210.137.234:8000/play/a02h/index.m3u8
-#EXTINF:0 tvg-id="Foot24.fr" group-title="RMC Sport FR",FOOT+
-http://62.210.137.234:8000/play/a02l/index.m3u8
-#EXTINF:0 tvg-id="Golf.fr" group-title="RMC Sport FR",Golf Channel
-http://62.210.137.234:8000/play/a02q/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",Multi Sports 3 HD Events
-http://62.210.137.234:8000/play/a02t/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",Multi Sports 4 HD Events
-http://62.210.137.234:8000/play/a02u/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",Multi Sports 5 HD Events
-http://62.210.137.234:8000/play/a02v/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RMC Sport FR",Multi Sports 6 HD Events
-http://62.210.137.234:8000/play/a02w/index.m3u8
-
-
-
