@@ -1,0 +1,1250 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
+http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+
+
+#EXTINF:-1,BBB Principal FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/68886
+#EXTINF:-1,Globo SP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1949
+#EXTINF:-1,Globo SP HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1948
+#EXTINF:-1,Globo SP
+http://dns.bplay.live:8080/anderson1234/anderson1234/1947
+#EXTINF:-1,Globo SP FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/24774
+#EXTINF:-1,Globo SP Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2619
+#EXTINF:-1,Globo RJ FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1943
+#EXTINF:-1,Globo RJ HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1942
+#EXTINF:-1,Globo RJ FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/24773
+#EXTINF:-1,Globo RJ Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2617
+#EXTINF:-1,Globo MG FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1981
+#EXTINF:-1,Globo MG HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1933
+#EXTINF:-1,Globo MG
+http://dns.bplay.live:8080/anderson1234/anderson1234/1932
+#EXTINF:-1,Globo MG FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/24775
+#EXTINF:-1,Globo MG Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/24776
+#EXTINF:-1,Globo MG Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/24777
+#EXTINF:-1,Globo RPC Curitiba FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1946
+#EXTINF:-1,Globo RPC Curitiba HD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/1945
+#EXTINF:-1,Globo RPC Curitiba
+http://dns.bplay.live:8080/anderson1234/anderson1234/1944
+#EXTINF:-1,Globo RPC Curitiba Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61306
+#EXTINF:-1,Globo RPC Foz do Iguaçu FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1968
+#EXTINF:-1,Globo RPC Foz do Iguaçu HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1969
+#EXTINF:-1,Globo RPC Foz do Iguaçu
+http://dns.bplay.live:8080/anderson1234/anderson1234/1967
+#EXTINF:-1,Globo RPC Maringá FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/12729
+#EXTINF:-1,Globo RPC Maringá HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/12730
+#EXTINF:-1,Globo RPC Maringá
+http://dns.bplay.live:8080/anderson1234/anderson1234/12731
+#EXTINF:-1,Globo RPC Cascavel FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39420
+#EXTINF:-1,Globo RPC Cascavel HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39421
+#EXTINF:-1,Globo RPC Cascavel
+http://dns.bplay.live:8080/anderson1234/anderson1234/39422
+#EXTINF:-1,Globo RPC TV Paranavai FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39423
+#EXTINF:-1,Globo RPC TV Paranavai HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39424
+#EXTINF:-1,Globo RPC TV Paranavai
+http://dns.bplay.live:8080/anderson1234/anderson1234/39425
+#EXTINF:-1,Globo RPC TV Ponta Grossa FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39434
+#EXTINF:-1,Globo RPC TV Ponta Grossa HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39435
+#EXTINF:-1,Globo RPC TV Ponta Grossa
+http://dns.bplay.live:8080/anderson1234/anderson1234/39436
+#EXTINF:-1,Globo RBS POA FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1984
+#EXTINF:-1,Globo RBS TV POA HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1939
+#EXTINF:-1,Globo RBS TV POA
+http://dns.bplay.live:8080/anderson1234/anderson1234/1938
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2021
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2022
+#EXTINF:-1,Globo RBS TV Pelotas
+http://dns.bplay.live:8080/anderson1234/anderson1234/2023
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2015
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2016
+#EXTINF:-1,Globo RBS TV Caxias do Sul
+http://dns.bplay.live:8080/anderson1234/anderson1234/2017
+#EXTINF:-1,Globo RBS TV Passo Fundo FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39437
+#EXTINF:-1,Globo RBS TV Passo Fundo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39438
+#EXTINF:-1,Globo RBS TV Passo Fundo
+http://dns.bplay.live:8080/anderson1234/anderson1234/39439
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39440
+#EXTINF:-1,Globo RBS TV Santa Maria HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39441
+#EXTINF:-1,Globo RBS TV Santa Maria
+http://dns.bplay.live:8080/anderson1234/anderson1234/39442
+#EXTINF:-1,Globo NSC TV Florianópolis FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1983
+#EXTINF:-1,Globo NSC TV Florianópolis HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1937
+#EXTINF:-1,Globo NSC TV Florianópolis
+http://dns.bplay.live:8080/anderson1234/anderson1234/1936
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2018
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2019
+#EXTINF:-1,Globo NSC TV Joinville
+http://dns.bplay.live:8080/anderson1234/anderson1234/2020
+#EXTINF:-1,Globo NSC TV Chapecó FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1964
+#EXTINF:-1,Globo NSC TV Chapecó HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1965
+#EXTINF:-1,Globo NSC TV Chapecó
+http://dns.bplay.live:8080/anderson1234/anderson1234/1966
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2012
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2013
+#EXTINF:-1,Globo NSC TV Blumenal
+http://dns.bplay.live:8080/anderson1234/anderson1234/2014
+#EXTINF:-1,Globo NSC TV Centro Oeste FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39443
+#EXTINF:-1,Globo NSC TV Centro Oeste HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39444
+#EXTINF:-1,Globo NSC TV Centro Oeste
+http://dns.bplay.live:8080/anderson1234/anderson1234/39445
+#EXTINF:-1,Globo NSC TV Criciúma FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39446
+#EXTINF:-1,Globo NSC TV Criciúma HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39447
+#EXTINF:-1,Globo NSC TV Criciúma
+http://dns.bplay.live:8080/anderson1234/anderson1234/39448
+#EXTINF:-1,Globo Brasília FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1979
+#EXTINF:-1,Globo Brasília HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1924
+#EXTINF:-1,Globo Nordeste FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1982
+#EXTINF:-1,Globo Nordeste HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1935
+#EXTINF:-1,Globo Nordeste
+http://dns.bplay.live:8080/anderson1234/anderson1234/1934
+#EXTINF:-1,Globo TV Vanguarda SJ Dos Campos HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39455
+#EXTINF:-1,Globo TV Vanguarda SJ Dos Campos
+http://dns.bplay.live:8080/anderson1234/anderson1234/1961
+#EXTINF:-1,Globo TV Tem Taubaté HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61265
+#EXTINF:-1,Globo TV Tem Taubaté
+http://dns.bplay.live:8080/anderson1234/anderson1234/61266
+#EXTINF:-1,Globo TV Tribuna Santos FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/44686
+#EXTINF:-1,Globo TV Tribuna Santos HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/44687
+#EXTINF:-1,Globo TV Tribuna Santos
+http://dns.bplay.live:8080/anderson1234/anderson1234/1960
+#EXTINF:-1,Globo TV Tem Sorocaba
+http://dns.bplay.live:8080/anderson1234/anderson1234/1957
+#EXTINF:-1,Globo TV TEM SJ Rio Preto FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1993
+#EXTINF:-1,Globo TV Tem SJ do Rio Preto HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1958
+#EXTINF:-1,Globo TV TEM SJ do Rio Preto
+http://dns.bplay.live:8080/anderson1234/anderson1234/1959
+#EXTINF:-1,Globo TV Tem Bauru HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61267
+#EXTINF:-1,Globo TV Tem Bauru
+http://dns.bplay.live:8080/anderson1234/anderson1234/1956
+#EXTINF:-1,Globo TV Tem Itapetinga HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61300
+#EXTINF:-1,Globo TV Tem Itapetinga
+http://dns.bplay.live:8080/anderson1234/anderson1234/61301
+#EXTINF:-1,Globo TV Sergipe FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1977
+#EXTINF:-1,Globo TV Sergipe HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1978
+#EXTINF:-1,Globo TV Sergipe
+http://dns.bplay.live:8080/anderson1234/anderson1234/1976
+#EXTINF:-1,Globo Recife FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61713
+#EXTINF:-1,Globo Recife HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61714
+#EXTINF:-1,Globo Recife
+http://dns.bplay.live:8080/anderson1234/anderson1234/61715
+#EXTINF:-1,Tv Globo Santa Cruz FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2030
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2031
+#EXTINF:-1,Globo TV Santa Cruz
+http://dns.bplay.live:8080/anderson1234/anderson1234/2032
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2027
+#EXTINF:-1,Globo TV Rio Sul HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2028
+#EXTINF:-1,Globo TV Rio Sul
+http://dns.bplay.live:8080/anderson1234/anderson1234/2029
+#EXTINF:-1,Tv Globo Morena Campo Grande FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1990
+#EXTINF:-1,Tv Globo Morena Campo Grande HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1991
+#EXTINF:-1,Tv Globo Morena Campo Grande
+http://dns.bplay.live:8080/anderson1234/anderson1234/1992
+#EXTINF:-1,Globo TV Mirante São Luis FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1987
+#EXTINF:-1,Globo TV Mirante São Luis HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1988
+#EXTINF:-1,Globo TV Mirante São Luis
+http://dns.bplay.live:8080/anderson1234/anderson1234/1989
+#EXTINF:-1,TV Globo Mirante Cocais FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39417
+#EXTINF:-1,Globo TV Mirante Cocais HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39418
+#EXTINF:-1,Globo TV Mirante Cocais
+http://dns.bplay.live:8080/anderson1234/anderson1234/39419
+#EXTINF:-1,Globo TV Liberal Belém
+http://dns.bplay.live:8080/anderson1234/anderson1234/1955
+#EXTINF:-1,Globo TV Gazeta Vitória FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1974
+#EXTINF:-1,Globo TV Gazeta Vitória HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1975
+#EXTINF:-1,Globo TV Gazeta Vitória
+http://dns.bplay.live:8080/anderson1234/anderson1234/1973
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1997
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1998
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1995
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1996
+#EXTINF:-1,Globo TV Clube Teresina FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1971
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1972
+#EXTINF:-1,Globo TV Clube Teresina
+http://dns.bplay.live:8080/anderson1234/anderson1234/1970
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2024
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2025
+#EXTINF:-1,Globo TV Cabo Branco
+http://dns.bplay.live:8080/anderson1234/anderson1234/2026
+#EXTINF:-1,Globo TV C. América Cuiba FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39454
+#EXTINF:-1,Globo TV C. América Cuiba HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39453
+#EXTINF:-1,Globo TV C. América Cuiabá
+http://dns.bplay.live:8080/anderson1234/anderson1234/1954
+#EXTINF:-1,Globo TV Bahia FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1986
+#EXTINF:-1,Globo TV Bahia HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1953
+#EXTINF:-1,Globo TV Bahia
+http://dns.bplay.live:8080/anderson1234/anderson1234/1952
+#EXTINF:-1,Globo TV Subae FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39449
+#EXTINF:-1,Globo TV Subae HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39450
+#EXTINF:-1,Globo TV Subae
+http://dns.bplay.live:8080/anderson1234/anderson1234/39451
+#EXTINF:-1,Globo TV Sudoeste FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39462
+#EXTINF:-1,Globo TV Sudoeste HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39463
+#EXTINF:-1,Globo TV Sudoeste
+http://dns.bplay.live:8080/anderson1234/anderson1234/39464
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1985
+#EXTINF:-1,Globo TV Anhanguera HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1951
+#EXTINF:-1,Globo TV Anhanguera
+http://dns.bplay.live:8080/anderson1234/anderson1234/1950
+#EXTINF:-1,Globo TV Anhanguera Anápolis HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/68894
+#EXTINF:-1,Globo TV Anhanguera Anápolis
+http://dns.bplay.live:8080/anderson1234/anderson1234/68893
+#EXTINF:-1,Globo TV Anhanguera Catalão HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/65156
+#EXTINF:-1,Globo TV Anhanguera Catalão
+http://dns.bplay.live:8080/anderson1234/anderson1234/65157
+#EXTINF:-1,Globo TV Anhanguera Itumbiara HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/65154
+#EXTINF:-1,Globo TV Anhanguera Itumbiara
+http://dns.bplay.live:8080/anderson1234/anderson1234/65155
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2009
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2010
+#EXTINF:-1,Globo Inter TV Serra Mar
+http://dns.bplay.live:8080/anderson1234/anderson1234/2011
+#EXTINF:-1,Globo INTER TV Natal
+http://dns.bplay.live:8080/anderson1234/anderson1234/1931
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2006
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2007
+#EXTINF:-1,Globo Inter TV Grande Minas
+http://dns.bplay.live:8080/anderson1234/anderson1234/2008
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2003
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2004
+#EXTINF:-1,Globo Inter TV dos Vales
+http://dns.bplay.live:8080/anderson1234/anderson1234/2005
+#EXTINF:-1,Globo TV Verde Mares Fortaleza FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39415
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/38904
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza
+http://dns.bplay.live:8080/anderson1234/anderson1234/38903
+#EXTINF:-1,Globo TV Verdes Mares Cariri FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/20724
+#EXTINF:-1,Globo TV Verdes Mares Cariri HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1962
+#EXTINF:-1,Globo TV Verde Mares Cariri
+http://dns.bplay.live:8080/anderson1234/anderson1234/39456
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2000
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2001
+#EXTINF:-1,Globo Inter TV Alto Litoral
+http://dns.bplay.live:8080/anderson1234/anderson1234/2002
+#EXTINF:-1,Globo EPTV São Carlos
+http://dns.bplay.live:8080/anderson1234/anderson1234/1930
+#EXTINF:-1,Globo EPTV Ribeirão Preto FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1999
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1928
+#EXTINF:-1,Globo EPTV Ribeirão Preto
+http://dns.bplay.live:8080/anderson1234/anderson1234/1929
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1980
+#EXTINF:-1,Globo EPTV Campinas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1927
+#EXTINF:-1,Globo EPTV Campinas
+http://dns.bplay.live:8080/anderson1234/anderson1234/1926
+#EXTINF:-1,Globo EPTV Sul de Minas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39452
+#EXTINF:-1,Globo EPTV Sul de Minas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/27735
+#EXTINF:-1,Globo EPTV Sul de Minas
+http://dns.bplay.live:8080/anderson1234/anderson1234/27736
+#EXTINF:-1,Globo EPTV Araraquara
+http://dns.bplay.live:8080/anderson1234/anderson1234/1925
+#EXTINF:-1,Globo TV Rede Amazonica Manaus FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39457
+#EXTINF:-1,Globo Rede Amazonica Manaus HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39458
+#EXTINF:-1,Globo TV Rede Amazonica Manaus
+http://dns.bplay.live:8080/anderson1234/anderson1234/1940
+#EXTINF:-1,Globo TV Rede Amazonica Macapá FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39467
+#EXTINF:-1,Globo TV Rede Amazonica Macapá HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39466
+#EXTINF:-1,Globo TV Rede Amazonica Macapá
+http://dns.bplay.live:8080/anderson1234/anderson1234/39465
+#EXTINF:-1,Globo TV Rede Amazônica Rio Branco FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39468
+#EXTINF:-1,Globo TV Rede Amazônica Rio Branco HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39469
+#EXTINF:-1,Globo TV Rede Amazônica Rio Branco
+http://dns.bplay.live:8080/anderson1234/anderson1234/39470
+#EXTINF:-1,Globo TV Rede Amazônica Boa Vista FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39471
+#EXTINF:-1,Globo TV Rede Amazônica Boa Vista HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39472
+#EXTINF:-1,Globo TV Rede Amazônica Boa Vista
+http://dns.bplay.live:8080/anderson1234/anderson1234/39473
+#EXTINF:-1,Globo TV Rede Amazônica Porto Velho FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39474
+#EXTINF:-1,Globo TV Rede Amazônica Porto Velho HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39475
+#EXTINF:-1,Globo TV Rede Amazônica Porto Velho
+http://dns.bplay.live:8080/anderson1234/anderson1234/39476
+#EXTINF:-1,Globo TV Asa Branca FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39459
+#EXTINF:-1,Globo TV Asa Branca HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/39460
+#EXTINF:-1,Globo TV Asa Branca
+http://dns.bplay.live:8080/anderson1234/anderson1234/39461
+#EXTINF:-1,Globo TV Integração Araxa HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61333
+#EXTINF:-1,Globo TV Integração Araxá
+http://dns.bplay.live:8080/anderson1234/anderson1234/61334
+#EXTINF:-1,Globo Portugal FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61734
+#EXTINF:-1,Globo Portugal HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/52000
+#EXTINF:-1,Globo Portugal
+http://dns.bplay.live:8080/anderson1234/anderson1234/2435
+#EXTINF:-1,Globo Agora
+http://dns.bplay.live:8080/anderson1234/anderson1234/2433
+#EXTINF:-1,RecordTV SP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2371
+#EXTINF:-1,RecordTV SP HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2206
+#EXTINF:-1,RecordTV SP
+http://dns.bplay.live:8080/anderson1234/anderson1234/1899
+#EXTINF:-1,RecordTV SP HD2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2203
+#EXTINF:-1,RecordTV SP2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2202
+#EXTINF:-1,Record TV SP Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1278
+#EXTINF:-1,Record TV Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1165
+#EXTINF:-1,RecordTV RJ HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2274
+#EXTINF:-1,RecordTV RJ
+http://dns.bplay.live:8080/anderson1234/anderson1234/2275
+#EXTINF:-1,RecordTV RJ Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61274
+#EXTINF:-1,RecordTV RJ Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/61275
+#EXTINF:-1,RecordTV MG HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2276
+#EXTINF:-1,RecordTV MG
+http://dns.bplay.live:8080/anderson1234/anderson1234/2277
+#EXTINF:-1,RecordTV RS HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2285
+#EXTINF:-1,RecordTV RS
+http://dns.bplay.live:8080/anderson1234/anderson1234/2286
+#EXTINF:-1,RecordTV DF HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2283
+#EXTINF:-1,RecordTV BA HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2281
+#EXTINF:-1,RecordTV BA
+http://dns.bplay.live:8080/anderson1234/anderson1234/2282
+#EXTINF:-1,RecordTV GO FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13196
+#EXTINF:-1,RecordTV GO HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/10932
+#EXTINF:-1,RecordTV GO
+http://dns.bplay.live:8080/anderson1234/anderson1234/10933
+#EXTINF:-1,RecordTV Belém HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/10930
+#EXTINF:-1,RecordTV Belém
+http://dns.bplay.live:8080/anderson1234/anderson1234/10931
+#EXTINF:-1,RecordTV Campinas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/45140
+#EXTINF:-1,RecordTV Campinas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/45139
+#EXTINF:-1,RecordTV Campinas
+http://dns.bplay.live:8080/anderson1234/anderson1234/19845
+#EXTINF:-1,RecordTV São José do Rio Preto
+http://dns.bplay.live:8080/anderson1234/anderson1234/13195
+#EXTINF:-1,RecordTV Santa Catarina
+http://dns.bplay.live:8080/anderson1234/anderson1234/16606
+#EXTINF:-1,RecordTV Paraná
+http://dns.bplay.live:8080/anderson1234/anderson1234/50847
+#EXTINF:-1,RecordTV Sergipe
+http://dns.bplay.live:8080/anderson1234/anderson1234/13194
+#EXTINF:-1,RecordTV Itapoan
+http://dns.bplay.live:8080/anderson1234/anderson1234/61302
+#EXTINF:-1,RecordTV Cabralia BA
+http://dns.bplay.live:8080/anderson1234/anderson1234/61730
+#EXTINF:-1,RecordTV Portugal HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2436
+#EXTINF:-1,RecordTV Portugal
+http://dns.bplay.live:8080/anderson1234/anderson1234/51263
+#EXTINF:-1,BBB Principal HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/69522
+#EXTINF:-1,BBB Principal Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/69535
+#EXTINF:-1,BBB Principal 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/69523
+#EXTINF:-1,BBB Mosaico
+http://dns.bplay.live:8080/anderson1234/anderson1234/69485
+#EXTINF:-1,BBB Casa 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/69524
+#EXTINF:-1,BBB Quarto 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/69526
+#EXTINF:-1,BBB Quarto 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/69527
+#EXTINF:-1,BBB Sala
+http://dns.bplay.live:8080/anderson1234/anderson1234/69528
+#EXTINF:-1,BBB Cozinha
+http://dns.bplay.live:8080/anderson1234/anderson1234/69529
+#EXTINF:-1,BBB Piscina
+http://dns.bplay.live:8080/anderson1234/anderson1234/69530
+#EXTINF:-1,BBB Academia
+http://dns.bplay.live:8080/anderson1234/anderson1234/69532
+#EXTINF:-1,BBB Chuveiro
+http://dns.bplay.live:8080/anderson1234/anderson1234/69533
+#EXTINF:-1,BBB Jardim
+http://dns.bplay.live:8080/anderson1234/anderson1234/69531
+#EXTINF:-1,SBT SP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1900
+#EXTINF:-1,SBT SP HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2212
+#EXTINF:-1,SBT SP
+http://dns.bplay.live:8080/anderson1234/anderson1234/2211
+#EXTINF:-1,SBT SP Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1324
+#EXTINF:-1,SBT SP Interior
+http://dns.bplay.live:8080/anderson1234/anderson1234/2213
+#EXTINF:-1,SBT Santos
+http://dns.bplay.live:8080/anderson1234/anderson1234/68899
+#EXTINF:-1,SBT Paraná HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/52131
+#EXTINF:-1,SBT Paraná
+http://dns.bplay.live:8080/anderson1234/anderson1234/50840
+#EXTINF:-1,SBT Nordeste
+http://dns.bplay.live:8080/anderson1234/anderson1234/51247
+#EXTINF:-1,SBT TV Aratu BA
+http://dns.bplay.live:8080/anderson1234/anderson1234/20980
+#EXTINF:-1,SBT TV Serra Dourada GO
+http://dns.bplay.live:8080/anderson1234/anderson1234/20984
+#EXTINF:-1,SBT TV Alterosa MG
+http://dns.bplay.live:8080/anderson1234/anderson1234/50848
+#EXTINF:-1,SBT TV Aperipe SE
+http://dns.bplay.live:8080/anderson1234/anderson1234/45753
+#EXTINF:-1,SBT TV Jangadeiro CE
+http://dns.bplay.live:8080/anderson1234/anderson1234/61272
+#EXTINF:-1,SBT Recife TV Jornal
+http://dns.bplay.live:8080/anderson1234/anderson1234/61716
+#EXTINF:-1,SBT RJ
+http://dns.bplay.live:8080/anderson1234/anderson1234/53001
+#EXTINF:-1,SBT RS
+http://dns.bplay.live:8080/anderson1234/anderson1234/52473
+#EXTINF:-1,SBT SC
+http://dns.bplay.live:8080/anderson1234/anderson1234/70107
+#EXTINF:-1,Band SP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1878
+#EXTINF:-1,Band SP HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2056
+#EXTINF:-1,Band SP
+http://dns.bplay.live:8080/anderson1234/anderson1234/2055
+#EXTINF:-1,Band SP Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1268
+#EXTINF:-1,Band Mais Campinas FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/66554
+#EXTINF:-1,Band Mais Campinas HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/66553
+#EXTINF:-1,Band Mais Campinas
+http://dns.bplay.live:8080/anderson1234/anderson1234/20625
+#EXTINF:-1,Band Santos
+http://dns.bplay.live:8080/anderson1234/anderson1234/70106
+#EXTINF:-1,Band MG
+http://dns.bplay.live:8080/anderson1234/anderson1234/60666
+#EXTINF:-1,Band RJ
+http://dns.bplay.live:8080/anderson1234/anderson1234/27024
+#EXTINF:-1,Band RS
+http://dns.bplay.live:8080/anderson1234/anderson1234/61271
+#EXTINF:-1,Band BSB
+http://dns.bplay.live:8080/anderson1234/anderson1234/61731
+#EXTINF:-1,Band Sergipe
+http://dns.bplay.live:8080/anderson1234/anderson1234/27023
+#EXTINF:-1,Band TV Goiânia
+http://dns.bplay.live:8080/anderson1234/anderson1234/20985
+#EXTINF:-1,Band TV Taroba Curitiba
+http://dns.bplay.live:8080/anderson1234/anderson1234/61732
+#EXTINF:-1,Band Bahia
+http://dns.bplay.live:8080/anderson1234/anderson1234/61733
+#EXTINF:-1,Rede TV FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1910
+#EXTINF:-1,Rede TV HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2209
+#EXTINF:-1,Rede TV
+http://dns.bplay.live:8080/anderson1234/anderson1234/2208
+#EXTINF:-1,Rede TV Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1323
+#EXTINF:-1,Rede Brasil FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/68900
+#EXTINF:-1,Rede Brasil HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61719
+#EXTINF:-1,Rede Brasil
+http://dns.bplay.live:8080/anderson1234/anderson1234/2207
+#EXTINF:-1,Rede Brasil Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1167
+#EXTINF:-1,TV Diário Fortaleza FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1914
+#EXTINF:-1,TV Diario Fortaleza HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2287
+#EXTINF:-1,TV Diário Fortaleza
+http://dns.bplay.live:8080/anderson1234/anderson1234/2288
+#EXTINF:-1,TV Diario Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61728
+#EXTINF:-1,Tv Cultura FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1909
+#EXTINF:-1,TV Cultura HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2272
+#EXTINF:-1,TV Cultura
+http://dns.bplay.live:8080/anderson1234/anderson1234/2271
+#EXTINF:-1,TV Cultura Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61720
+#EXTINF:-1,TV Cultura Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1125
+#EXTINF:-1,TV Brasil
+http://dns.bplay.live:8080/anderson1234/anderson1234/2249
+#EXTINF:-1,TV Brasil Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1238
+#EXTINF:-1,TV Câmara HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61721
+#EXTINF:-1,TV Câmara
+http://dns.bplay.live:8080/anderson1234/anderson1234/2250
+#EXTINF:-1,TV Justiça HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61723
+#EXTINF:-1,TV Justiça
+http://dns.bplay.live:8080/anderson1234/anderson1234/2247
+#EXTINF:-1,TV Senado HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61724
+#EXTINF:-1,TV Senado
+http://dns.bplay.live:8080/anderson1234/anderson1234/2246
+#EXTINF:-1,TV Escola HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61725
+#EXTINF:-1,TV Gazeta SP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/24271
+#EXTINF:-1,TV Gazeta SP  HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2252
+#EXTINF:-1,TV Gazeta SP
+http://dns.bplay.live:8080/anderson1234/anderson1234/24272
+#EXTINF:-1,Futura FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1834
+#EXTINF:-1,Futura HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2126
+#EXTINF:-1,Futura
+http://dns.bplay.live:8080/anderson1234/anderson1234/2125
+#EXTINF:-1,Futura Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/61726
+#EXTINF:-1,Futura Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1196
+#EXTINF:-1,Canal do Boi HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/70104
+#EXTINF:-1,Canal Rural
+http://dns.bplay.live:8080/anderson1234/anderson1234/1183
+#EXTINF:-1,Terra Viva
+http://dns.bplay.live:8080/anderson1234/anderson1234/2238
+#EXTINF:-1,Globo News FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1888
+#EXTINF:-1,Globo News HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2130
+#EXTINF:-1,Globo News
+http://dns.bplay.live:8080/anderson1234/anderson1234/2129
+#EXTINF:-1,Globo News Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1341
+#EXTINF:-1,Globo News Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1138
+#EXTINF:-1,Band News FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1811
+#EXTINF:-1,Band News HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2058
+#EXTINF:-1,Band News Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1476
+#EXTINF:-1,CNN Brasil FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/22224
+#EXTINF:-1,CNN Brasil HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/22225
+#EXTINF:-1,CNN Brasil
+http://dns.bplay.live:8080/anderson1234/anderson1234/22226
+#EXTINF:-1,CNN Brasil Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/22345
+#EXTINF:-1,CNN Brasil Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/22346
+#EXTINF:-1,CNN Internacional
+http://dns.bplay.live:8080/anderson1234/anderson1234/62368
+#EXTINF:-1,CNN Espanhol
+http://dns.bplay.live:8080/anderson1234/anderson1234/62369
+#EXTINF:-1,Jovem Pan News FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/66549
+#EXTINF:-1,Jovem Pan News HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/66550
+#EXTINF:-1,Jovem Pan News
+http://dns.bplay.live:8080/anderson1234/anderson1234/66548
+#EXTINF:-1,Jovem Pan News Alternativo FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/66582
+#EXTINF:-1,Record News FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1861
+#EXTINF:-1,Record News HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2205
+#EXTINF:-1,Record News
+http://dns.bplay.live:8080/anderson1234/anderson1234/2204
+#EXTINF:-1,Record News Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1475
+#EXTINF:-1,Programação Esportiva
+http://dns.bplay.live:8080/anderson1234/anderson1234/70847
+#EXTINF:-1,SporTV FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2035
+#EXTINF:-1,SporTV HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2038
+#EXTINF:-1,SporTV
+http://dns.bplay.live:8080/anderson1234/anderson1234/2218
+#EXTINF:-1,SporTV Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1303
+#EXTINF:-1,SporTV FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13069
+#EXTINF:-1,SporTV HD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13070
+#EXTINF:-1,SporTV 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1917
+#EXTINF:-1,SporTV 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2036
+#EXTINF:-1,SporTV 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2219
+#EXTINF:-1,SporTV 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1301
+#EXTINF:-1,SporTV 2 Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1173
+#EXTINF:-1,SporTV 2 FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13072
+#EXTINF:-1,SporTV 2 HD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13073
+#EXTINF:-1,SporTV 2²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13074
+#EXTINF:-1,SporTV 3 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1918
+#EXTINF:-1,SporTV 3 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2037
+#EXTINF:-1,SporTV 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/2220
+#EXTINF:-1,SporTV 3 Alternativo  HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1302
+#EXTINF:-1,SporTV 3 FHD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13075
+#EXTINF:-1,SporTV 3 HD²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13076
+#EXTINF:-1,SporTV 3²
+http://dns.bplay.live:8080/anderson1234/anderson1234/13077
+#EXTINF:-1,Fox Sports FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13078
+#EXTINF:-1,Fox Sports HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13079
+#EXTINF:-1,Fox Sports
+http://dns.bplay.live:8080/anderson1234/anderson1234/13080
+#EXTINF:-1,Fox Sports 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13081
+#EXTINF:-1,FoxSports 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13082
+#EXTINF:-1,Fox Sports 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/13083
+#EXTINF:-1,ESPN 4 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1887
+#EXTINF:-1,ESPN 4 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2122
+#EXTINF:-1,ESPN 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/2121
+#EXTINF:-1,ESPN 4 Alternarivo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1295
+#EXTINF:-1,ESPN 4 Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1136
+#EXTINF:-1,Fox Sports 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1886
+#EXTINF:-1,ESPN FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1883
+#EXTINF:-1,ESPN HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2105
+#EXTINF:-1,ESPN
+http://dns.bplay.live:8080/anderson1234/anderson1234/2104
+#EXTINF:-1,ESPN Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1294
+#EXTINF:-1,ESPN 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1884
+#EXTINF:-1,ESPN 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2108
+#EXTINF:-1,Espn 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2101
+#EXTINF:-1,ESPN 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1311
+#EXTINF:-1,ESPN 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1827
+#EXTINF:-1,ESPN 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2103
+#EXTINF:-1,ESPN 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2102
+#EXTINF:-1,ESPN 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1293
+#EXTINF:-1,Fox Sports 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2124
+#EXTINF:-1,Fox Sports 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2123
+#EXTINF:-1,FOX Sports 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1314
+#EXTINF:-1,Fox Sports 2 Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1135
+#EXTINF:-1,Conmebol TV 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/40596
+#EXTINF:-1,Conmebol TV 1 Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/48678
+#EXTINF:-1,Conmebol TV 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/35223
+#EXTINF:-1,Conmebol TV 2 Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/48679
+#EXTINF:-1,Conmebol TV 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/35230
+#EXTINF:-1,Conmebol TV Alternativo 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/35242
+#EXTINF:-1,Conmebol TV 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/35231
+#EXTINF:-1,Conmebol TV Alternativo 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/35243
+#EXTINF:-1,Facebook - Copa Libertadores
+http://dns.bplay.live:8080/anderson1234/anderson1234/2302
+#EXTINF:-1,HBO Max 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/64038
+#EXTINF:-1,HBO Max 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/64039
+#EXTINF:-1,Star + 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/63979
+#EXTINF:-1,Star + 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/64557
+#EXTINF:-1,Star + 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/64558
+#EXTINF:-1,Star + 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/66580
+#EXTINF:-1,Star + 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/66581
+#EXTINF:-1,Star + 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/66585
+#EXTINF:-1,DAZN 1 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1406
+#EXTINF:-1,ESPN Extra FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1828
+#EXTINF:-1,ESPN Extra HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2107
+#EXTINF:-1,ESPN Extra
+http://dns.bplay.live:8080/anderson1234/anderson1234/2106
+#EXTINF:-1,ESPN Extra Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1310
+#EXTINF:-1,Combate FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1880
+#EXTINF:-1,Combate HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2076
+#EXTINF:-1,Combate
+http://dns.bplay.live:8080/anderson1234/anderson1234/2075
+#EXTINF:-1,Combate Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1291
+#EXTINF:-1,Band Sports FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1812
+#EXTINF:-1,Band Sports HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2060
+#EXTINF:-1,Band Sports
+http://dns.bplay.live:8080/anderson1234/anderson1234/2059
+#EXTINF:-1,Band Sports Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1289
+#EXTINF:-1,TNT Sports HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2300
+#EXTINF:-1,TNT Sports
+http://dns.bplay.live:8080/anderson1234/anderson1234/2301
+#EXTINF:-1,TNT Sports HD 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/39409
+#EXTINF:-1,TNT Sports 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/49664
+#EXTINF:-1,TNT Sports HD 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/39410
+#EXTINF:-1,TNT Sports HD 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/39411
+#EXTINF:-1,TNT Sports HD 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/39412
+#EXTINF:-1,TNT Sports HD 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/39413
+#EXTINF:-1,TNT Sports HD 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/39414
+#EXTINF:-1,TV NSports 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/55686
+#EXTINF:-1,Globoesporte.com
+http://dns.bplay.live:8080/anderson1234/anderson1234/21399
+#EXTINF:-1,ESPN Brasil FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13084
+#EXTINF:-1,ESPN Brasil HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13085
+#EXTINF:-1,ESPN Brasil
+http://dns.bplay.live:8080/anderson1234/anderson1234/13086
+#EXTINF:-1,ESPN FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13087
+#EXTINF:-1,ESPN HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13088
+#EXTINF:-1,ESPN
+http://dns.bplay.live:8080/anderson1234/anderson1234/13089
+#EXTINF:-1,ESPN 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13090
+#EXTINF:-1,ESPN 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13091
+#EXTINF:-1,ESPN 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/13092
+#EXTINF:-1,ESPN Extra FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13093
+#EXTINF:-1,ESPN Extra HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13094
+#EXTINF:-1,Combate FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13095
+#EXTINF:-1,Combate HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13096
+#EXTINF:-1,Combate
+http://dns.bplay.live:8080/anderson1234/anderson1234/13097
+#EXTINF:-1,Band Sports FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13099
+#EXTINF:-1,Band Sports
+http://dns.bplay.live:8080/anderson1234/anderson1234/13101
+#EXTINF:-1,Band Sports HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/13100
+#EXTINF:-1,Eleven Sports BR 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/54488
+#EXTINF:-1,Eleven Sports BR 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/54489
+#EXTINF:-1,Eleven Sports BR 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/54490
+#EXTINF:-1,Eleven Sports BR 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/54491
+#EXTINF:-1,Eleven Sports BR 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/54492
+#EXTINF:-1,Eleven Sports BR 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/54493
+#EXTINF:-1,Eleven Sports BR 7
+http://dns.bplay.live:8080/anderson1234/anderson1234/54494
+#EXTINF:-1,Eleven Sports BR 8
+http://dns.bplay.live:8080/anderson1234/anderson1234/54495
+#EXTINF:-1,Eleven Sports BR 10
+http://dns.bplay.live:8080/anderson1234/anderson1234/54497
+#EXTINF:-1,Camp Carioca 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70065
+#EXTINF:-1,Camp Carioca Alternativo (1)
+http://dns.bplay.live:8080/anderson1234/anderson1234/70080
+#EXTINF:-1,Camp Carioca 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70066
+#EXTINF:-1,Fla TV HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/27020
+#EXTINF:-1,Cruzeiro Play
+http://dns.bplay.live:8080/anderson1234/anderson1234/70108
+#EXTINF:-1,Furacão Live
+http://dns.bplay.live:8080/anderson1234/anderson1234/52277
+#EXTINF:-1,Copa Nordeste HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/70062
+#EXTINF:-1,Copa Nordeste 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/66586
+#EXTINF:-1,Copa Nordeste Alternativo 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70109
+#EXTINF:-1,Copa Nordeste 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/66587
+#EXTINF:-1,Copa Nordeste Alternativo 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70110
+#EXTINF:-1,Copa Nordeste 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/66588
+#EXTINF:-1,Copa Nordeste 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/66589
+#EXTINF:-1,Copa Nordeste 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/66590
+#EXTINF:-1,Copa Nordeste 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/66591
+#EXTINF:-1,Copa Nordeste 7
+http://dns.bplay.live:8080/anderson1234/anderson1234/66592
+#EXTINF:-1,Copa Nordeste 8
+http://dns.bplay.live:8080/anderson1234/anderson1234/66593
+#EXTINF:-1,Camp Paranaense 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/70069
+#EXTINF:-1,Camp Paranaense 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/70070
+#EXTINF:-1,Camp Paranaense 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/70071
+#EXTINF:-1,Camp Paranaense 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/70072
+#EXTINF:-1,Copa Catarinense 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/69028
+#EXTINF:-1,Copa Catarinense 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/69029
+#EXTINF:-1,Camp Cearense 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70073
+#EXTINF:-1,Camp Cearense 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70074
+#EXTINF:-1,Camp Cearense 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/70075
+#EXTINF:-1,Camp Sergipano 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70063
+#EXTINF:-1,Camp Baianão
+http://dns.bplay.live:8080/anderson1234/anderson1234/70078
+#EXTINF:-1,Camp Goiano 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70571
+#EXTINF:-1,Camp Goiano 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70572
+#EXTINF:-1,Camp Goiano 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/70573
+#EXTINF:-1,Camp Brasiliense 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70574
+#EXTINF:-1,Camp Brasiliense 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70575
+#EXTINF:-1,Camp Brasiliense 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/70576
+#EXTINF:-1,Camp Piauiense 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70577
+#EXTINF:-1,Camp Piauiense 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70578
+#EXTINF:-1,Ondemand 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/70855
+#EXTINF:-1,Ondemand 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/70854
+#EXTINF:-1,Ondemand 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/70856
+#EXTINF:-1,Ondemand 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/70857
+#EXTINF:-1,Ondemand 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/70858
+#EXTINF:-1,Premiere Clubes FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1898
+#EXTINF:-1,Premiere Clubes HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2199
+#EXTINF:-1,Premiere Clubes
+http://dns.bplay.live:8080/anderson1234/anderson1234/2198
+#EXTINF:-1,Premiere Clubes Alternativo FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/12820
+#EXTINF:-1,Premiere Clubes Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1277
+#EXTINF:-1,PFC Internacional
+http://dns.bplay.live:8080/anderson1234/anderson1234/1605
+#EXTINF:-1,Premiere 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1892
+#EXTINF:-1,Premiere 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2187
+#EXTINF:-1,Premiere 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2186
+#EXTINF:-1,Premiere 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1273
+#EXTINF:-1,Premiere 3 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1893
+#EXTINF:-1,Premiere 3 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2189
+#EXTINF:-1,Premiere 3
+http://dns.bplay.live:8080/anderson1234/anderson1234/2188
+#EXTINF:-1,Premiere 3 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1274
+#EXTINF:-1,Premiere 4 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1894
+#EXTINF:-1,Premiere 4 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2191
+#EXTINF:-1,Premiere 4 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1275
+#EXTINF:-1,Premiere 5 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1895
+#EXTINF:-1,Premiere 5 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2193
+#EXTINF:-1,Premiere 5
+http://dns.bplay.live:8080/anderson1234/anderson1234/2192
+#EXTINF:-1,Premiere 5 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1276
+#EXTINF:-1,Premiere 6 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1896
+#EXTINF:-1,Premiere 6 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2195
+#EXTINF:-1,Premiere 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/2194
+#EXTINF:-1,Premiere 6 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/7945
+#EXTINF:-1,Premiere 7 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1897
+#EXTINF:-1,Premiere 7 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2197
+#EXTINF:-1,Premiere 7
+http://dns.bplay.live:8080/anderson1234/anderson1234/2196
+#EXTINF:-1,Premiere 7 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/7946
+#EXTINF:-1,Telecine Premium FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1904
+#EXTINF:-1,Telecine Premium HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2235
+#EXTINF:-1,Telecine Premium
+http://dns.bplay.live:8080/anderson1234/anderson1234/2234
+#EXTINF:-1,Telecine Premium Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1282
+#EXTINF:-1,Telecine Pipoca FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1903
+#EXTINF:-1,Telecine Pipoca HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2233
+#EXTINF:-1,Telecine Pipoca
+http://dns.bplay.live:8080/anderson1234/anderson1234/2232
+#EXTINF:-1,Telecine Pipoca Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1281
+#EXTINF:-1,Telecine Action FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1901
+#EXTINF:-1,Telecine Action HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2227
+#EXTINF:-1,Telecine Action
+http://dns.bplay.live:8080/anderson1234/anderson1234/2226
+#EXTINF:-1,Telecine Action Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1279
+#EXTINF:-1,Telecine Touch FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1905
+#EXTINF:-1,Telecine Touch HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2237
+#EXTINF:-1,Telecine Touch
+http://dns.bplay.live:8080/anderson1234/anderson1234/2236
+#EXTINF:-1,Telecine Touch Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1326
+#EXTINF:-1,Telecine Fun FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1902
+#EXTINF:-1,Telecine Fun HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2231
+#EXTINF:-1,Telecine Fun
+http://dns.bplay.live:8080/anderson1234/anderson1234/2230
+#EXTINF:-1,Telecine Fun Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1280
+#EXTINF:-1,Telecine Cult FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1866
+#EXTINF:-1,Telecine Cult HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2229
+#EXTINF:-1,Telecine Cult
+http://dns.bplay.live:8080/anderson1234/anderson1234/2228
+#EXTINF:-1,Telecine Alternativo Cult HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1347
+#EXTINF:-1,Megapix FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1848
+#EXTINF:-1,Megapix HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2164
+#EXTINF:-1,Megapix
+http://dns.bplay.live:8080/anderson1234/anderson1234/2163
+#EXTINF:-1,MegaPix Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1321
+#EXTINF:-1,Syfy FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1864
+#EXTINF:-1,Syfy HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2215
+#EXTINF:-1,Syfy
+http://dns.bplay.live:8080/anderson1234/anderson1234/2214
+#EXTINF:-1,SyFy Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1267
+#EXTINF:-1,Universal TV FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1872
+#EXTINF:-1,Universal TV HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2258
+#EXTINF:-1,Universal TV
+http://dns.bplay.live:8080/anderson1234/anderson1234/2257
+#EXTINF:-1,Universal TV Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1327
+#EXTINF:-1,Canal Brasil FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1908
+#EXTINF:-1,Canal Brasil HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2067
+#EXTINF:-1,Canal Brasil
+http://dns.bplay.live:8080/anderson1234/anderson1234/2066
+#EXTINF:-1,Canal Brasil Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1331
+#EXTINF:-1,HBO FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1891
+#EXTINF:-1,HBO HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2144
+#EXTINF:-1,HBO
+http://dns.bplay.live:8080/anderson1234/anderson1234/2139
+#EXTINF:-1,HBO Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1271
+#EXTINF:-1,HBO 2 FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1890
+#EXTINF:-1,HBO 2 HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2141
+#EXTINF:-1,HBO 2
+http://dns.bplay.live:8080/anderson1234/anderson1234/2140
+#EXTINF:-1,HBO 2 Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1405
+#EXTINF:-1,HBO Plus FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1840
+#EXTINF:-1,HBO Plus HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2146
+#EXTINF:-1,HBO Plus
+http://dns.bplay.live:8080/anderson1234/anderson1234/2145
+#EXTINF:-1,HBO Plus Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1318
+#EXTINF:-1,HBO Max 1
+http://dns.bplay.live:8080/anderson1234/anderson1234/64037
+#EXTINF:-1,HBO Plus Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1142
+#EXTINF:-1,HBO Family FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1839
+#EXTINF:-1,HBO Family HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2143
+#EXTINF:-1,HBO Family
+http://dns.bplay.live:8080/anderson1234/anderson1234/2142
+#EXTINF:-1,HBO Family Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1317
+#EXTINF:-1,HBO Signature FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1841
+#EXTINF:-1,HBO Signature HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2148
+#EXTINF:-1,HBO Signature
+http://dns.bplay.live:8080/anderson1234/anderson1234/2147
+#EXTINF:-1,HBO Signature Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1319
+#EXTINF:-1,HBO Signature Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1143
+#EXTINF:-1,HBO Mundi FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1845
+#EXTINF:-1,HBO Mundi HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2158
+#EXTINF:-1,HBO Mundi
+http://dns.bplay.live:8080/anderson1234/anderson1234/2157
+#EXTINF:-1,HBO Mundi Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1477
+#EXTINF:-1,HBO POP FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1847
+#EXTINF:-1,HBO POP HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2162
+#EXTINF:-1,HBO POP
+http://dns.bplay.live:8080/anderson1234/anderson1234/2161
+#EXTINF:-1,HBO POP Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1478
+#EXTINF:-1,HBO POP Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1149
+#EXTINF:-1,HBO Xtreme FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1846
+#EXTINF:-1,HBO Xtreme HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2160
+#EXTINF:-1,HBO Xtreme
+http://dns.bplay.live:8080/anderson1234/anderson1234/2159
+#EXTINF:-1,HBO Xtreme Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1265
+#EXTINF:-1,HBO Max 4
+http://dns.bplay.live:8080/anderson1234/anderson1234/64040
+#EXTINF:-1,HBO Max 6
+http://dns.bplay.live:8080/anderson1234/anderson1234/64042
+#EXTINF:-1,A&E H265
+http://dns.bplay.live:8080/anderson1234/anderson1234/6578
+#EXTINF:-1,AMC
+http://dns.bplay.live:8080/anderson1234/anderson1234/2047
+#EXTINF:-1,AMC Alternativo
+http://dns.bplay.live:8080/anderson1234/anderson1234/1176
+#EXTINF:-1,AMC Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1329
+#EXTINF:-1,AMC FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1807
+#EXTINF:-1,AMC H265
+http://dns.bplay.live:8080/anderson1234/anderson1234/6579
+#EXTINF:-1,AMC HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2048
+#EXTINF:-1,Animal Planet H265
+http://dns.bplay.live:8080/anderson1234/anderson1234/6535
+#EXTINF:-1,Animal Planet UHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/40613
+#EXTINF:-1,Animal Planet Ultra HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/62125
+#EXTINF:-1,AXN
+http://dns.bplay.live:8080/anderson1234/anderson1234/2053
+#EXTINF:-1,AXN Alternativo HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1308
+#EXTINF:-1,AXN FHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/1810
+#EXTINF:-1,AXN FHD LEG
+http://dns.bplay.live:8080/anderson1234/anderson1234/24778
+#EXTINF:-1,AXN H265
+http://dns.bplay.live:8080/anderson1234/anderson1234/6536
+#EXTINF:-1,AXN HD
+http://dns.bplay.live:8080/anderson1234/anderson1234/2054
+#EXTINF:-1,AXN UHD
+http://dns.bplay.live:8080/anderson1234/anderson1234/24972
+#EXTINF:-1,Band SP H265
+http://dns.bplay.live:8080/anderson1234/anderson1234/62147
