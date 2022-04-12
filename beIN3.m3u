@@ -7,19 +7,7 @@ https://i.imgur.com/5Wiki1T.jpg
 https://i.imgur.com/5Wiki1T.jpg
 
 
-#EXTM3U 
-#EXTINF:-1 tvg-id="ext" group-title="000قسم الدعم الفني للتطبيق",AiRMAX TV PRO
-https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext" group-title="000قسم الدعم الفني للتطبيق",كيفية تغير المشغل الاساسي الى المتطور
-https://github.com/virus457/sasa/raw/ms2021/airmaxtvproo.mp4
-#EXTINF:0 tvg-id="ext" group-title="000قسم الدعم الفني للتطبيق",كيفية الحصول على الكود تطبيق AirMax TV
-https://github.com/virus457/sasa/raw/air99/airmaxtv.mp4
-#EXTINF:-1 tvg-id="ext" group-title="000قسم الدعم الفني للتطبيق",مهم جدا للمملكة العربية السعودية
-https://github.com/virus457/sasa/raw/air99/sk.mp4
-#EXTINF:-1 tvg-id="ext" group-title="1 بين سبور BEIN SPORT",BEIN SPORT
-https://bit.ly/3pWtmPO
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="1 بين سبور BEIN SPORT",كيف احصل على الكود
-https://github.com/virus457/sasa/raw/air99/airmaxtvv.mp4
+
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="1 بين سبور BEIN SPORT",0تعمل وقت المبارات المهمه
 http://190.2.148.141:8080/bar7642/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-logo="" group-title="1 بين سبور BEIN SPORT",1تعمل وقت المبارات المهمه
