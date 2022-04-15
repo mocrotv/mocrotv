@@ -126,9 +126,7 @@ http://195.154.200.168:8004/play/a05q/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",SSC 7 HD
 http://195.154.200.168:8004/play/a05r/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SSC 7 SD" tvg-logo="http://delux-iptv.com:8000/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="SSC SPORT",SSC 7 SD
-#EXTVLCOPT:http-user-agent=dog adrar tv
-http://airmaxtv2022.online:80/dogadrartv1/9kCHAAweSUhN/1530
+
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] SSC Sports  [/color]
