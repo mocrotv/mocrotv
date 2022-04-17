@@ -6,6 +6,62 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1dc6ec/live.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1dc6ec/live_1080p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1dc6ec/live_720p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD
+https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1dc6ec/live_720p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 SD
+https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1dc6ec/live_480p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1dc6ec/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_1080p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_720p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_720p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 SD
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_480p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+
+
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
@@ -63,23 +119,6 @@ https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8c
 
 
 
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-
-#EXTINF:0,بث المباراة 1
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_1080p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_720p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_720p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 SD
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_480p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_240p30.m3u8|Referer=https://mbs-football.com/
 
 
 
