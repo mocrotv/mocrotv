@@ -6,12 +6,29 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-
-
-
-
-
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_1080p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_720p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_720p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 SD
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_480p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
@@ -38,22 +55,6 @@ https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-
-#EXTINF:0,بث المباراة 1
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_1080p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_720p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_720p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 SD
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_480p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6ef7b905202932cab7aef95ce/live_240p30.m3u8|Referer=https://mbs-football.com/
 
 
 
@@ -61,8 +62,7 @@ https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6e
 
 
 
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
@@ -88,7 +88,7 @@ https://e350dc98fba14e8a9b096ddde8c49625.s3.eu-central-1.amazonaws.com/3c678440a
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match - بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
@@ -122,20 +122,7 @@ https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8c
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 4 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match - بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
@@ -151,17 +138,6 @@ https://e124ae87448ba065b3123f25ee835218.s3.eu-central-1.amazonaws.com/48c7d8991
 https://e124ae87448ba065b3123f25ee835218.s3.eu-central-1.amazonaws.com/48c7d8991ef7ecc3695ec6556448804c/live_480p30.m3u8|Referer=https://mbs-football.com/
 #EXTINF:0,بث المباراة 1 LOW
 https://e124ae87448ba065b3123f25ee835218.s3.eu-central-1.amazonaws.com/48c7d8991ef7ecc3695ec6556448804c/live_240p30.m3u8|Referer=https://mbs-football.com/
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -202,38 +178,12 @@ https://37800cd086184681dab139cd7f3205a5.s3.eu-central-1.amazonaws.com/63e18cae5
 
 
 
+
+
+
+
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match - بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-
-#EXTINF:0,بث المباراة 1
-https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live_1080p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live_720p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD
-https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live_720p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 SD
-https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live_480p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://118556b4bc8c239aea7bb683933fc969.s3.eu-central-1.amazonaws.com/63f5dad8caac5080c4ca558864a3c827/live_240p30.m3u8|Referer=https://mbs-football.com/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
@@ -255,22 +205,6 @@ https://ef695a0c900f4fe3c7e30fd4fb585c92.s3.eu-central-1.amazonaws.com/16166d8b6
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-
-#EXTINF:0,بث المباراة 1
-https://13d96f6e777c02bed51804ad8261ec6a.s3.eu-central-1.amazonaws.com/83eee52bade23d30efa603a82689cf0e/live.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://13d96f6e777c02bed51804ad8261ec6a.s3.eu-central-1.amazonaws.com/83eee52bade23d30efa603a82689cf0e/live_1080p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://13d96f6e777c02bed51804ad8261ec6a.s3.eu-central-1.amazonaws.com/83eee52bade23d30efa603a82689cf0e/live_720p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD
-https://13d96f6e777c02bed51804ad8261ec6a.s3.eu-central-1.amazonaws.com/83eee52bade23d30efa603a82689cf0e/live_720p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 SD
-https://13d96f6e777c02bed51804ad8261ec6a.s3.eu-central-1.amazonaws.com/83eee52bade23d30efa603a82689cf0e/live_480p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://13d96f6e777c02bed51804ad8261ec6a.s3.eu-central-1.amazonaws.com/83eee52bade23d30efa603a82689cf0e/live_240p30.m3u8|Referer=https://mbs-football.com/
 
 
 
@@ -282,49 +216,6 @@ https://13d96f6e777c02bed51804ad8261ec6a.s3.eu-central-1.amazonaws.com/83eee52ba
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match - بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-
-#EXTINF:0,بث المباراة 1
-https://4fdaf6461f0ff32470478541c92003ef.s3.eu-west-2.amazonaws.com/2602d0723f41d27b9448a6291262818a/live.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://4fdaf6461f0ff32470478541c92003ef.s3.eu-west-2.amazonaws.com/2602d0723f41d27b9448a6291262818a/live_1080p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://4fdaf6461f0ff32470478541c92003ef.s3.eu-west-2.amazonaws.com/2602d0723f41d27b9448a6291262818a/live_720p60.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 HD
-https://4fdaf6461f0ff32470478541c92003ef.s3.eu-west-2.amazonaws.com/2602d0723f41d27b9448a6291262818a/live_720p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 SD
-https://4fdaf6461f0ff32470478541c92003ef.s3.eu-west-2.amazonaws.com/2602d0723f41d27b9448a6291262818a/live_480p30.m3u8|Referer=https://mbs-football.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://4fdaf6461f0ff32470478541c92003ef.s3.eu-west-2.amazonaws.com/2602d0723f41d27b9448a6291262818a/live_240p30.m3u8|Referer=https://mbs-football.com/
 
 
 
