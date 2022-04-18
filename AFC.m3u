@@ -8,7 +8,39 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
+
+
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+#EXTINF:0,بث المباراة 1
+https://7c53b91edf8ae2b4a0a57e0adab32963.s3.eu-central-1.amazonaws.com/307dc992cd2ec3eedb13204e51308359/live.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://7c53b91edf8ae2b4a0a57e0adab32963.s3.eu-central-1.amazonaws.com/307dc992cd2ec3eedb13204e51308359/live_1080p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://7c53b91edf8ae2b4a0a57e0adab32963.s3.eu-central-1.amazonaws.com/307dc992cd2ec3eedb13204e51308359/live_720p60.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 HD
+https://7c53b91edf8ae2b4a0a57e0adab32963.s3.eu-central-1.amazonaws.com/307dc992cd2ec3eedb13204e51308359/live_720p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 SD
+https://7c53b91edf8ae2b4a0a57e0adab32963.s3.eu-central-1.amazonaws.com/307dc992cd2ec3eedb13204e51308359/live_480p30.m3u8|Referer=https://mbs-football.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://7c53b91edf8ae2b4a0a57e0adab32963.s3.eu-central-1.amazonaws.com/307dc992cd2ec3eedb13204e51308359/live_240p30.m3u8|Referer=https://mbs-football.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
@@ -35,7 +67,7 @@ https://springprojecst.s3.eu-central-1.amazonaws.com/048185d7e959300e4e11d9834e1
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match - بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
@@ -58,7 +90,7 @@ https://e350dc98fba14e8a9b096ddde8c49625.s3.eu-central-1.amazonaws.com/3c678440a
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match - بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
@@ -88,7 +120,7 @@ https://6136b0773e0547bcefb222de93d2d9a9.s3.eu-central-1.amazonaws.com/58c616a6e
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 4 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match - بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
