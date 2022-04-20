@@ -319,19 +319,6 @@ http://45.94.31.190:7002/play/a0ck
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="باقة 4G",4G FILM
 http://45.94.31.190:7002/play/a0cl
 
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion aflam
-http://149.100.11.230:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion cinema
-http://149.100.11.230:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion drama
-http://149.100.11.230:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion elyoum
-http://149.100.11.230:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion hekayat
-http://149.100.11.230:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Eltelevesion باقة",Eltelevesion zaman
-http://149.100.11.230:8000/play/a00n/index.m3u8
-
 
 #EXTINF:0 tvg-id="ext" group-title="باقة APPLE",APPLE AFLAM
 http://149.62.183.214:8000/play/a03k/index.m3u8
