@@ -53,6 +53,22 @@ https://c5e6bcd1ef03284c5ce11798543556df.s3.eu-central-1.amazonaws.com/b6fb60f80
 
 
 
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+https://news-about-ants.store/
+
+#EXTINF:0,بث المباراة 1
+https://553df82fc54622dfe60fb95b18b6ab24.s3.eu-central-1.amazonaws.com/a9bba49da5d27f3c04e73bd11c9015dc/live.m3u8|Referer=https://news-about-ants.store/
+#EXTINF:0,بث المباراة 1 FHD
+https://553df82fc54622dfe60fb95b18b6ab24.s3.eu-central-1.amazonaws.com/a9bba49da5d27f3c04e73bd11c9015dc/live_1080p60.m3u8|Referer=https://news-about-ants.store/
+#EXTINF:0,بث المباراة 1 HD+
+https://553df82fc54622dfe60fb95b18b6ab24.s3.eu-central-1.amazonaws.com/a9bba49da5d27f3c04e73bd11c9015dc/live_720p60.m3u8|Referer=https://news-about-ants.store/
+#EXTINF:0,بث المباراة 1 HD
+https://553df82fc54622dfe60fb95b18b6ab24.s3.eu-central-1.amazonaws.com/a9bba49da5d27f3c04e73bd11c9015dc/live_720p30.m3u8|Referer=https://news-about-ants.store/
+#EXTINF:0,بث المباراة 1 SD
+https://553df82fc54622dfe60fb95b18b6ab24.s3.eu-central-1.amazonaws.com/a9bba49da5d27f3c04e73bd11c9015dc/live_480p30.m3u8|Referer=https://news-about-ants.store/
+#EXTINF:0,بث المباراة 1 LOW
+https://553df82fc54622dfe60fb95b18b6ab24.s3.eu-central-1.amazonaws.com/a9bba49da5d27f3c04e73bd11c9015dc/live_240p30.m3u8|Referer=https://news-about-ants.store/
 
 
 
