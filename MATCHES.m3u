@@ -205,12 +205,15 @@ https://2af1fdc814cefef707576a6b81d48acf.s3.eu-central-1.amazonaws.com/0bf68803c
 
 
 
+#EXTINF:0,بث المباراة 1 LOW
+http://78.47.248.131/live/abr_s-1/live/s-1/chunks.m3u8?wmsAuthSign=
+#EXTINF:0,بث المباراة 1 LOW
+http://78.47.248.131/live/abr_s-1/live/s-1_480p/chunks.m3u8?wmsAuthSign=
 
-
-
-
-
-
+#EXTINF:0,بث المباراة 1 LOW*
+http://78.47.248.131/live/abr_s-1/live/s-1/chunks.m3u8
+#EXTINF:0,بث المباراة 1 LOW*
+http://78.47.248.131/live/abr_s-1/live/s-1_480p/chunks.m3u8
 
 
 
