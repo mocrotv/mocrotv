@@ -9,9 +9,35 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-
-
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+https://news-about-ants.store/
+
+#EXTINF:0,بث المباراة 1
+https://2af1fdc814cefef707576a6b81d48acf.s3.eu-central-1.amazonaws.com/0bf68803c5f027b894fbe3e4885060e6/live.m3u8|Referer=https://news-about-ants.store/
+#EXTINF:0,بث المباراة 1 FHD
+https://2af1fdc814cefef707576a6b81d48acf.s3.eu-central-1.amazonaws.com/0bf68803c5f027b894fbe3e4885060e6/live_1080p60.m3u8|Referer=https://news-about-ants.store/
+#EXTINF:0,بث المباراة 1 HD+
+https://2af1fdc814cefef707576a6b81d48acf.s3.eu-central-1.amazonaws.com/0bf68803c5f027b894fbe3e4885060e6/live_720p60.m3u8|Referer=https://news-about-ants.store/
+#EXTINF:0,بث المباراة 1 HD
+https://2af1fdc814cefef707576a6b81d48acf.s3.eu-central-1.amazonaws.com/0bf68803c5f027b894fbe3e4885060e6/live_720p30.m3u8|Referer=https://news-about-ants.store/
+#EXTINF:0,بث المباراة 1 SD
+https://2af1fdc814cefef707576a6b81d48acf.s3.eu-central-1.amazonaws.com/0bf68803c5f027b894fbe3e4885060e6/live_480p30.m3u8|Referer=https://news-about-ants.store/
+#EXTINF:0,بث المباراة 1 LOW
+https://2af1fdc814cefef707576a6b81d48acf.s3.eu-central-1.amazonaws.com/0bf68803c5f027b894fbe3e4885060e6/live_240p30.m3u8|Referer=https://news-about-ants.store/
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 https://news-about-ants.store/
 
@@ -31,7 +57,7 @@ https://5e60bc04a6fb6e2ef8d88dd5d6d6488c.s3.eu-central-1.amazonaws.com/4bb2dfbb3
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 https://news-about-ants.store/
 
