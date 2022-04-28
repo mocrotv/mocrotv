@@ -5,7 +5,7 @@ https://i.imgur.com/5Wiki1T.jpg
 https://i.imgur.com/5Wiki1T.jpg
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] 👉 https://bit.ly/AdrarTV [/color]
 https://i.imgur.com/5Wiki1T.jpg
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color white] آخــــر تحديث 25-4-2022 [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color white] آخــــر تحديث 27-4-2022 [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 
@@ -291,7 +291,10 @@ https://cdn.alarab.com/h264/170420_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
 https://cdn.alarab.com/h264/170700_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3C2fiKE" group-title="مسلسل التركي ألب أرسلان",الحلقةS01E21
 https://cdn.alarab.com/h264/171272_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3C2fiKE" group-title="مسلسل التركي ألب أرسلان",الحلقةS01E22
+https://cdn.alarab.com/h264/171503_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3C2fiKE" group-title="مسلسل التركي ألب أرسلان",الحلقةS01E23
+https://cdn.alarab.com/h264/171835_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
 
 
 
@@ -900,6 +903,8 @@ https://cdn.alarab.com/h264/170697_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
 https://cdn.alarab.com/h264/171354_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Y730lK" group-title="مسلسل التركي القضاء",الحلقةS01E29
 https://cdn.alarab.com/h264/171529_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2Y730lK" group-title="مسلسل التركي القضاء",الحلقةS01E30
+https://cdn.alarab.com/h264/171786_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢ المسلسل التركي : سرنا نحن الإثنان (منتهي) ♢ [/color]
@@ -1990,6 +1995,8 @@ https://cdn.alarab.com/h264/170675_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
 https://cdn.alarab.com/h264/171269_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3rsCc9t" group-title="مسلسل التركي المنظمة",الحلقةS02E43
 https://cdn.alarab.com/h264/171530_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3rsCc9t" group-title="مسلسل التركي المنظمة",الحلقةS02E44
+https://cdn.alarab.com/h264/171796_480p.mp4/index-v1-a1.m3u8?/AdrarTV/
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢ المسلسل التركي : أخوتي (مستمر) ♢ [/color]
