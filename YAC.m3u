@@ -5,97 +5,46 @@ https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,BeIN | BeIN Sport Premium 1
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/257
+http://213.202.230.51:25461/live_sport/live_sport_ios/1
 #EXTINF:0,BeIN | BeIN Sport Premium 2
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/258
+http://213.202.230.51:25461/live_sport/live_sport_ios/2
 #EXTINF:0,BeIN | BeIN Sport Premium 3
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/259
+http://213.202.230.51:25461/live_sport/live_sport_ios/3
 #EXTINF:0,BeIN | BeIN Sport 1
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/260
+http://213.202.230.51:25461/live_sport/live_sport_ios/4
 #EXTINF:0,BeIN | BeIN Sport 2
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/261
+http://213.202.230.51:25461/live_sport/live_sport_ios/5
 #EXTINF:0,BeIN | BeIN Sport 3
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/262
+http://213.202.230.51:25461/live_sport/live_sport_ios/6
 #EXTINF:0,BeIN | BeIN Sport 4
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/263
-#EXTINF:0,BeIN | BeIN Sport 5
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/264
+http://213.202.230.51:25461/live_sport/live_sport_ios/7
 #EXTINF:0,BeIN | BeIN Sport Premium 1 
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/265
+http://213.202.230.51:25461/live_sport/live_sport_ios/8
 #EXTINF:0,BeIN | BeIN Sport Premium 2 
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/266
+http://213.202.230.51:25461/live_sport/live_sport_ios/9
 #EXTINF:0,BeIN | BeIN Sport Premium 3 
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/267
+http://213.202.230.51:25461/live_sport/live_sport_ios/10
 #EXTINF:0,BeIN | BeIN Sport 1 
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/268
+http://213.202.230.51:25461/live_sport/live_sport_ios/11
 #EXTINF:0,BeIN | BeIN Sport 2 
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/269
+http://213.202.230.51:25461/live_sport/live_sport_ios/12
 #EXTINF:0,BeIN | BeIN Sport 3 
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/270
+http://213.202.230.51:25461/live_sport/live_sport_ios/13
 #EXTINF:0,BeIN | BeIN Sport 4 
 #EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/271
-#EXTINF:0,BeIN | BeIN Sport 5 
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/272
-#EXTINF:0,beIN Sports SD1
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/225
-#EXTINF:0,beIN Sports SD2
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/226
-#EXTINF:0,beIN Sports SD4
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/228
-#EXTINF:0,beIN Sports SD3
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/227
-#EXTINF:0,beIN Sports PREMIUM SD2
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/223
-#EXTINF:0,beIN Sports PREMIUM SD1
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/222
-#EXTINF:0,AR| beIN Sports 5HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/221
-#EXTINF:0,beIN Sports PREMIUM SD3
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/224
-#EXTINF:0,AR| beIN Sports 4HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/220
-#EXTINF:0,AR| beIN Sports 3HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/219
-#EXTINF:0,AR| beIN Sports 2HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/218
-#EXTINF:0,AR| beIN Sports 1HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/217
-#EXTINF:0,AR| beIN Sports PREMIUM 3 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/216
-#EXTINF:0,AR| beIN Sports PREMIUM 2 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/215
-#EXTINF:0,AR| beIN Sports PREMIUM 1 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://yazansportpro.xyz:8080/live_sport/live_sport/214
+http://213.202.230.51:25461/live_sport/live_sport_ios/14
 
 
 
