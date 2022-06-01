@@ -5,8 +5,9 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-https://baaf031ec4c655c7bb137bfbce08dafe.s3.eu-central-1.amazonaws.com/a2f320b174b5bf52237e25f1a013b287/live.m3u8
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live.m3u8
 
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0f5af842f6baf47cbffd689441aabc30/live.m3u8
 
 
 
@@ -14,6 +15,55 @@ https://baaf031ec4c655c7bb137bfbce08dafe.s3.eu-central-1.amazonaws.com/a2f320b17
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 FHD
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live_1080p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD+
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live_720p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live_720p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 SD
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live_480p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 LOW
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live_240p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0f5af842f6baf47cbffd689441aabc30/live.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 FHD
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0f5af842f6baf47cbffd689441aabc30/live_1080p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD+
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0f5af842f6baf47cbffd689441aabc30/live_720p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0f5af842f6baf47cbffd689441aabc30/live_720p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 SD
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0f5af842f6baf47cbffd689441aabc30/live_480p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 LOW
+https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0f5af842f6baf47cbffd689441aabc30/live_240p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -36,22 +86,6 @@ https://cc483bce5668129233cecd87789d643b.s3.eu-central-1.amazonaws.com/05326412f
 
 
 
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 1
-https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live.m3u8|Referer=https://im-walking-in-the-street.xyz/
-#EXTINF:0,بث المباراة 1 FHD
-https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live_1080p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
-#EXTINF:0,بث المباراة 1 HD+
-https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live_720p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
-#EXTINF:0,بث المباراة 1 HD
-https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live_720p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
-#EXTINF:0,بث المباراة 1 SD
-https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live_480p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
-#EXTINF:0,بث المباراة 1 LOW
-https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live_240p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
 
 
 
