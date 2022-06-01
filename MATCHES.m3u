@@ -5,9 +5,9 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba6034a05e52803dfb3660c92/live.m3u8
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/6930f2dee82731600a95e1fa248f68fb/live.m3u8
 
-https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0f5af842f6baf47cbffd689441aabc30/live.m3u8
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/1bd36055ba4b5bab6f673268d1ae8dbb/live.m3u8
 
 
 
@@ -15,6 +15,56 @@ https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0f5af842f
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/6930f2dee82731600a95e1fa248f68fb/live.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 FHD
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/6930f2dee82731600a95e1fa248f68fb/live_1080p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD+
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/6930f2dee82731600a95e1fa248f68fb/live_720p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/6930f2dee82731600a95e1fa248f68fb/live_720p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 SD
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/6930f2dee82731600a95e1fa248f68fb/live_480p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 LOW
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/6930f2dee82731600a95e1fa248f68fb/live_240p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/1bd36055ba4b5bab6f673268d1ae8dbb/live.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 FHD
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/1bd36055ba4b5bab6f673268d1ae8dbb/live_1080p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD+
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/1bd36055ba4b5bab6f673268d1ae8dbb/live_720p60.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 HD
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/1bd36055ba4b5bab6f673268d1ae8dbb/live_720p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 SD
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/1bd36055ba4b5bab6f673268d1ae8dbb/live_480p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+#EXTINF:0,بث المباراة 1 LOW
+https://3ce1c75c02b69a85ac26c13f2d1dc397.s3.eu-central-1.amazonaws.com/1bd36055ba4b5bab6f673268d1ae8dbb/live_240p30.m3u8|Referer=https://im-walking-in-the-street.xyz/
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -37,7 +87,7 @@ https://4a3fd62924a98b1e597e326155dbe0a3.s3.eu-central-1.amazonaws.com/0469ce6ba
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 4 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
