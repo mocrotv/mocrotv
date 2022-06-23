@@ -79,14 +79,17 @@ https://6797ec351c470f09af4c86b7e556d213.s3.eu-central-1.amazonaws.com/62f0dbe88
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="SSC SPORT",SSC 1 
+http://149.62.183.214:8000/play/a0fq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_5HD_AW-01.png" group-title="SSC SPORT",SSC 5 
+http://149.62.183.214:8000/play/a0fv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 6 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_6HD_AW-01.png" group-title="SSC SPORT",SSC 6 
+http://149.62.183.214:8000/play/a0fx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC 7 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="SSC SPORT",SSC 7 
+http://149.62.183.214:8000/play/a0fz/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 1 HD
 http://149.62.183.214:8000/play/a0fq/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 2 HD
-http://193.228.193.179:8000/play/a01o
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 3 HD
-http://193.228.193.179:8000/play/a01p
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 4 HD
-http://193.228.193.179:8000/play/a01q
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 5 HD
 http://149.62.183.214:8000/play/a0fv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 6 HD
@@ -100,122 +103,121 @@ http://149.62.183.214:8000/play/a0fz/index.m3u8
 
 
 
+
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color red] SSC SPORTS[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
+
 #EXTINF:0,|SPO| SSC7 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/842
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/842
 #EXTINF:0,SSC SPORTS HD 7
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/841
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/841
 #EXTINF:0,|SPO| SSC6 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/840
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/840
 #EXTINF:0,SSC SPORTS HD 6
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/839
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/839
 #EXTINF:0,|SPO| SSC5 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/838
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/838
 #EXTINF:0,SSC SPORTS HD 5
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/837
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/837
 #EXTINF:0,|SPO| SSC4 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/836
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/836
 #EXTINF:0,SSC SPORTS HD 4
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/835
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/835
 #EXTINF:0,|SPO| SSC3 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/834
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/834
 #EXTINF:0,SSC SPORTS HD 3
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/833
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/833
 #EXTINF:0,|SPO| SSC2 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/832
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/832
 #EXTINF:0,SSC SPORTS HD 2
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/831
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/831
 #EXTINF:0,|SPO| SSC1 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/830
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/830
 #EXTINF:0,SSC SPORTS HD 1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/829
-
-
-
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/829
 #EXTINF:0,KSA SPORTS HD4 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1957
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1957
 #EXTINF:0,KSA SPORTS HD3 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1956
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1956
 #EXTINF:0,KSA SPORTS HD2 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1955
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1955
 #EXTINF:0,KSA SPORTS HD1 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1954
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1954
 #EXTINF:0,SAUDI 24 SPORT HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1953
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1953
 #EXTINF:0,KSA SPOTS 4
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1952
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1952
 #EXTINF:0,KSA SPORTS 2
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1951
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1951
 #EXTINF:0,KSA Sports 1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1950
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1950
 #EXTINF:0,KSA SPORTS 2 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1949
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1949
 #EXTINF:0,KSA SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1948
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1948
 #EXTINF:0,KSA Sports +2
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1947
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1947
 #EXTINF:0,KSA Sports +1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/1946
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1946
+
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="SSC SPORT",SSC 1 
-http://elahmad.ipslow.com:8080/ssc_1/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_9_ssc_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 2 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_2HD_AW-01.png" group-title="SSC SPORT",SSC 2 
-http://elahmad.ipslow.com:8080/ssc_2/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_9_ssc_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 3 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_3HD_AW-01.png" group-title="SSC SPORT",SSC 3 
-http://elahmad.ipslow.com:8080/ssc_3/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_9_ssc_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 4 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_4HD_AW-01.png" group-title="SSC SPORT",SSC 4 
-http://elahmad.ipslow.com:8080/ssc_4/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_9_ssc_4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 5 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_5HD_AW-01.png" group-title="SSC SPORT",SSC 5 
-http://elahmad.ipslow.com:8080/ssc_5/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_9_ssc_5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 6 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_6HD_AW-01.png" group-title="SSC SPORT",SSC 6 
-http://elahmad.ipslow.com:8080/ssc_6/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_9_ssc_6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 7 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="SSC SPORT",SSC 7 
-http://elahmad.ipslow.com:8080/ssc_7/tracks-v1a1/mono.m3u8
+http://elahmad.ipslow.com:8080/aaa_9_ssc_7/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 1 HD
-http://193.228.193.179:8000/play/a01n
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 2 HD
-http://193.228.193.179:8000/play/a01o
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 3 HD
-http://193.228.193.179:8000/play/a01p
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 4 HD
-http://193.228.193.179:8000/play/a01q
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 5 HD
-http://193.228.193.179:8000/play/a01r
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 6 HD
-http://193.228.193.179:8000/play/a01s
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORT",|SPORT| SSC 7 HD
-http://193.228.193.179:8000/play/a01t
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT FHD
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3DRcmT4" group-title="SSC SPORT",FIGHT SPORT SD
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="SSC SPORT",SSC Action Waleed FHD
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3fY7Ms5" group-title="SSC SPORT",SSC Action Waleed SD
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra FHD
+https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra SD
+https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_3.m3u8
 
 
