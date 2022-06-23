@@ -4,44 +4,26 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="0BEIN SPORT",beIN SPORT NEWS
-http://217.74.16.155:8082/local//ar-s/WhKxECvZSk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="0BEIN SPORT",beIN SPORT
-http://217.74.16.155:8082/local//ar-s/pEmPdyrGGz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC" tvg-logo="https://cne-eg.com/uploads/logos/202222596856.png" group-title="0BEIN SPORT",beIN SPORT AFC
-http://217.74.16.155:8082/local//ar-s/bein-afc-HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 1" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="0BEIN SPORT",beIN SPORT AFC 1
-http://217.74.16.155:8082/local//ar-s/bein-afc-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 2" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="0BEIN SPORT",beIN SPORT AFC 2
-http://217.74.16.155:8082/local//ar-s/bein-afc-2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 3" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="0BEIN SPORT",beIN SPORT AFC 3
-http://217.74.16.155:8082/local//ar-s/bein-afc-3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122749282.png" group-title="0BEIN SPORT",beINSPORTS 1 PREMIUM
-http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122834751.png" group-title="0BEIN SPORT",beINSPORTS 2 PREMIUM
-http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122252312.png" group-title="0BEIN SPORT",beINSPORTS 3 PREMIUM
-http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" group-title="0BEIN SPORT",beIN SPORTS 1 
-http://217.74.16.155:8082/local//ar-s/bein-1-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021122430516.png" group-title="0BEIN SPORT",BEIN SPORTS 2 
-http://217.74.16.155:8082/local//ar-s/bein-2-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021122413188.png" group-title="0BEIN SPORT",beINSPORTS 3
-http://217.74.16.155:8082/local//ar-s/bein-3-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021122354391.png" group-title="0BEIN SPORT",beINSPORTS 4 
-http://217.74.16.155:8082/local//ar-s/bein-4-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 " tvg-logo="https://cne-eg.com/uploads/logos/2021122336578.png" group-title="0BEIN SPORT",beINSPORTS 5 
-http://217.74.16.155:8082/local//ar-s/bein-5-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 6 " tvg-logo="https://cne-eg.com/uploads/logos/2021122318750.png" group-title="0BEIN SPORT",beINSPORTS 6 
-http://217.74.16.155:8082/local//ar-s/bein-6-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 7 " tvg-logo="https://cne-eg.com/uploads/logos/2021122223140.png" group-title="0BEIN SPORT",beINSPORTS 7 
-http://217.74.16.155:8082/local//ar-s/bein-7-stop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 1 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/170
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 2 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/171
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 3 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/172
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 4 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/173
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 5 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/174
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 6 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/175
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 7 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/176
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 8 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 8 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/177
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 9 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 9 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/178
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 10 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 10 HD
+http://loc.ipalfa.org:25461/fatmiri-isp/2019/179
 
 
 
@@ -55,184 +37,184 @@ http://217.74.16.155:8082/local//ar-s/bein-7-stop/index.m3u8
 
 #EXTINF:0,BEIN SPORTS AFC 3 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7490
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7490
 #EXTINF:0,BEIN SPORTS AFC 3 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7489
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7489
 #EXTINF:0,BEIN SPORTS AFC 2 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7488
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7488
 #EXTINF:0,BEIN SPORTS AFC 1 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7487
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7487
 #EXTINF:0,BEIN SPORTS AFC HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7486
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7486
 #EXTINF:0,BEIN SPORTS AFC 2 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7485
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7485
 #EXTINF:0,BEIN SPORTS AFC 1 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7484
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7484
 #EXTINF:0,BEIN SPORTS AFC HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7483
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7483
 #EXTINF:0,beIN Sports XTRA 2 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/850
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/850
 #EXTINF:0,beIN Sports XTRA 2 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/849
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/849
 #EXTINF:0,beIN Sports XTRA 2 HD+
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/848
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/848
 #EXTINF:0,beIN Sports XTRA 2 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/847
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/847
 #EXTINF:0,beIN Sports XTRA 1 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/846
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/846
 #EXTINF:0,beIN Sports XTRA 1 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/845
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/845
 #EXTINF:0,beIN Sports XTRA 1 HD+
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/844
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/844
 #EXTINF:0,beIN Sports XTRA 1 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/843
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/843
 #EXTINF:0,LO BEINS PORTS 01 HD FR
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/144
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/144
 #EXTINF:0,LO BEINS PORTS 02 HD FR
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/143
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/143
 #EXTINF:0,LO BEINS PORTS 03 HD FR
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/142
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/142
 #EXTINF:0,SPO: beIN Sport 3 HD EN
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/141
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/141
 #EXTINF:0,SPO: beIN Sport 2 HD EN
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/140
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/140
 #EXTINF:0,SPO: beIN Sport 1 HD EN
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/139
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/139
 #EXTINF:0,beIN Sports 7 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/37
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/37
 #EXTINF:0,beIN Sports 7 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/36
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/36
 #EXTINF:0,beIN Sports 7 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/35
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/35
 #EXTINF:0,beIN Sports 6 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/34
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/34
 #EXTINF:0,beIN Sports 6 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/33
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/33
 #EXTINF:0,beIN Sports 6 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/32
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/32
 #EXTINF:0,beIN Sports 5 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/31
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/31
 #EXTINF:0,beIN Sports 5 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/30
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/30
 #EXTINF:0,beIN Sports 5 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/29
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/29
 #EXTINF:0,beIN Sports 4 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/28
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/28
 #EXTINF:0,beIN Sports 4 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/27
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/27
 #EXTINF:0,beIN Sports 4HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/26
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/26
 #EXTINF:0,beIN Sports 3 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/25
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/25
 #EXTINF:0,beIN Sports 3 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/24
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/24
 #EXTINF:0,beIN Sports 3 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/23
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/23
 #EXTINF:0,beIN Sports 2 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/22
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/22
 #EXTINF:0,beIN Sports 2 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/21
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/21
 #EXTINF:0,beIN Sports 2 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/20
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/20
 #EXTINF:0,beIN Sports 1 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/19
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/19
 #EXTINF:0,beIN Sports 1 HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/18
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/18
 #EXTINF:0,beIN Sports 1 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/17
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/17
 #EXTINF:0,beIN Sports 3 PREMIUM SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/16
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/16
 #EXTINF:0,beIN Sports 3 PREMIUM HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/15
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/15
 #EXTINF:0,beIN Sports 3 PREMIUM HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/14
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/14
 #EXTINF:0,beIN Sports 2 PREMIUM SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/13
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/13
 #EXTINF:0,beIN Sports 2 PREMIUM HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/12
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/12
 #EXTINF:0,beIN Sports 2 PREMIUM HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/11
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/11
 #EXTINF:0,beIN Sports 1 PREMIUM SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/10
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/10
 #EXTINF:0,beIN Sports 1 PREMIUM HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/9
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/9
 #EXTINF:0,beIN Sports 1 PREMIUM HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/8
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/8
 #EXTINF:0,beIN Sports Global  HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7
 #EXTINF:0,beIN Sports Global HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/6
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/6
 #EXTINF:0,beIN Sports News HEVC
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/5
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/5
 #EXTINF:0,beIN Sports News HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/4
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/4
 #EXTINF:0,BEIN SPORTS AFC SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7491
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7491
 #EXTINF:0,BEIN SPORTS AFC 1 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7492
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7492
 #EXTINF:0,BEIN SPORTS AFC 2 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7493
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7493
 #EXTINF:0,BEIN SPORTS AFC 3 SD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://xtream1.xyz:8080/SPBNHD_DM/NbeJdtYs/7494
+http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7494
 
 
 
