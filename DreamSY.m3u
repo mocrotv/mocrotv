@@ -6,43 +6,54 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Lana" tvg-logo="https://www.akhbarkalaan.com/wp-content/uploads/2021/05/lana-tv.jpg" group-title="سوريةSyria",Lana
-http://freearabic.zinamedia.net/ar/L-TV/index.m3u8
-#EXTINF:-1 tvg-name="Syria drama " tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.Drama.png" group-title="سوريةSyria",Syria drama 
-http://freearabic.zinamedia.net/ar/Syria-Drama/index.m3u8
-#EXTINF:-1 tvg-name="Syria drama " tvg-logo="" group-title="سوريةSyria",Al-Khabar TV
-http://149.100.11.230:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syria" tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.1.png" group-title="سوريةSyria",Syria
-http://freearabic.zinamedia.net/ar/SYRIA/index.m3u8
-#EXTINF:-1 tvg-language="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/syriatv.jpg" group-title="",Syria Channel
-http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria
-#EXTINF:-1 tvg-language="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/syrian_education.jpg" group-title="سوريةSyria",Syrian Education TV
-http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_edu
-#EXTINF:-1 tvg-language="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alikhbaria_syria.jpg" group-title="سوريةSyria",Syrian News
-http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_news
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريةSyria",SYR-SYRIA PLUS SD
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="سوريةSyria",SYR-SYRIA PLUS 
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBqTJR" group-title="سوريةSyria",ALARABY TV HD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3IDDBBQ" group-title="سوريةSyria",ALARABY 2 TV HD
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cRDOoO" group-title="سوريةSyria",SYR-ALalam Syria
 https://live2.presstv.ir/live/alam_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY SD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="سوريةSyria",SYR-HALAB TODAY (Backup 1)
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Lqj2S4" group-title="سوريةSyria",SYR-قناة اليوم
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما
-http://45.94.31.195:7002/play/a0e1
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",قناه سما+
-http://stream5.sama-tv.net/hls/stream_high/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria Drama
-http://45.94.31.195:7002/play/a0dx
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria Education
-http://45.94.31.195:7002/play/a0dy
-#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="سوريةSyria",Syria Satellite
-http://45.94.31.195:7002/play/a0dw
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",قناه سما
+http://142.132.224.85:1935/live/_definst_/smil:mystream1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="سوريةSyria",قناه سما (Backup 1)
+http://elahmad.ipslow.com:8080/tv14_www.elahmad.com_samatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Syria Drama
+http://elahmad.ipslow.com:8080/tv14_www.elahmad.com_syria_drama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Syria TV
+http://elahmad.ipslow.com:8080/tv14_www.elahmad.com_syria_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://palsawa.com/thumb/660x400/uploads/images/2021/07/kNDJa.png" group-title="سوريةSyria",Lana لـــنـــا
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريةSyria",Al Mahliya المحلية (Backup 1)
+http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="سوريةSyria",Essouriya السورية (Backup 1)
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 1)
+http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما (Backup 1)
+http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3wWf9YH" group-title="سوريةSyria",Nour Eshham نور الشام (Backup 1)
+http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="سوريةSyria",Ettarbawiya التربوية (Backup 1)
+http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5o8ZPm.png" group-title="سوريةSyria",Souryana سوريانا (Backup 1)
+http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3NCMjTK" group-title="سوريةSyria",Al Mahliya المحلية (Backup 2)
+http://82.137.248.16:1935/oLive/aloula05042022/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3uUUuSJ" group-title="سوريةSyria",Essouriya السورية (Backup 2)
+http://82.137.248.16:1935/oLive/sat05042022/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="سوريةSyria",El Ikhbariya الإخبارية (Backup 2)
+http://82.137.248.16:1935/oLive/snews05042022/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="سوريةSyria",Drama دراما (Backup 2)
+http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
 
 
 
@@ -50,52 +61,51 @@ http://45.94.31.195:7002/play/a0dw
 
 #EXTINF:0,[Syria] LTV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2155
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2155
 #EXTINF:0,[Syria] Al-Khabar TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2154
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2154
 #EXTINF:0,[SYRIA] Souryana
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2153
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2153
 #EXTINF:0,[SYRIA]NOOR AL SHAM
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2152
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2152
 #EXTINF:0,[SYRIA]SYRIA Baladna TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2151
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2151
 #EXTINF:0,[SYRIA] Sham_TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2150
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2150
 #EXTINF:0,[SYRIA]AL EKHBARIYA
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2149
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2149
 #EXTINF:0,[SYRIA]SYRIA EDUCATION
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2148
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2148
 #EXTINF:0,[SYRIA] AL_ALAM_SYRIA_TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2147
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2147
 #EXTINF:0,[SYRIA] LANA TV SYRIA
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2146
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2146
 #EXTINF:0,[SYRIA]LANA PLUS TV SYRIA
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2145
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2145
 #EXTINF:0,[SYRIA]SAMA TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2144
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2144
 
 
 #EXTINF:0,[SYRIA]SYRIA DRAMA
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2020
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2020
 #EXTINF:0,[SYRIA]SYRIA PLUS
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2019
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2019
 #EXTINF:0,[SYRIA]SYRIA TV
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dmsat2021.ddns.net:8080/SP_ARABIC/dgKUEDcq/2018
-
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2018
 
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3red5a5" group-title="سوريةSyria",SYR- AmwajLive FM
