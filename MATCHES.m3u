@@ -5,7 +5,7 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 https://5c70bfeb1d2ab3757c0cab32767d27fe.s3.eu-central-1.amazonaws.com/37beacacd755582be64f61630398a854/live.m3u8
-
+https://761204034648d2acd2680e21ba8a5a8f.s3.eu-central-1.amazonaws.com/81a0c5cf3a7eee640eb94c6b14d426d5/live.m3u8
 
 
 
@@ -41,10 +41,36 @@ https://5c70bfeb1d2ab3757c0cab32767d27fe.s3.eu-central-1.amazonaws.com/37beacacd
 
 
 
-
-
-
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://761204034648d2acd2680e21ba8a5a8f.s3.eu-central-1.amazonaws.com/81a0c5cf3a7eee640eb94c6b14d426d5/live.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 FHD
+https://761204034648d2acd2680e21ba8a5a8f.s3.eu-central-1.amazonaws.com/81a0c5cf3a7eee640eb94c6b14d426d5/live_1080p60.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 HD+
+https://761204034648d2acd2680e21ba8a5a8f.s3.eu-central-1.amazonaws.com/81a0c5cf3a7eee640eb94c6b14d426d5/live_720p60.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 HD
+https://761204034648d2acd2680e21ba8a5a8f.s3.eu-central-1.amazonaws.com/81a0c5cf3a7eee640eb94c6b14d426d5/live_720p30.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 SD
+https://761204034648d2acd2680e21ba8a5a8f.s3.eu-central-1.amazonaws.com/81a0c5cf3a7eee640eb94c6b14d426d5/live_480p30.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 LOW
+https://761204034648d2acd2680e21ba8a5a8f.s3.eu-central-1.amazonaws.com/81a0c5cf3a7eee640eb94c6b14d426d5/live_240p30.m3u8|Referer=https://what-did-the-poet-say.xyz/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
