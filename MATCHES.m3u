@@ -3,13 +3,41 @@
 https://i.imgur.com/5Wiki1T.jpg
 
 
-https://ee257a8c7fea2e22e5f98e924eb98554.s3.eu-central-1.amazonaws.com/25c9eed59f1e3da603fdff0c759d485e/live.m3u8
+https://47c0ad11f2ead99634cac5ff76180da5.s3.eu-central-1.amazonaws.com/8187d1e05f7b765fe936d7d1933734d6/live.m3u8
+
+
+https://7602ce3cf2e78f2e535e322ad85b50c4.s3.eu-central-1.amazonaws.com/703a6519f5402b03a7d7a86efb17dd13/live.m3u8
+
 
 
 
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://47c0ad11f2ead99634cac5ff76180da5.s3.eu-central-1.amazonaws.com/8187d1e05f7b765fe936d7d1933734d6/live.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 FHD
+https://47c0ad11f2ead99634cac5ff76180da5.s3.eu-central-1.amazonaws.com/8187d1e05f7b765fe936d7d1933734d6/live_1080p60.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 HD+
+https://47c0ad11f2ead99634cac5ff76180da5.s3.eu-central-1.amazonaws.com/8187d1e05f7b765fe936d7d1933734d6/live_720p60.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 HD
+https://47c0ad11f2ead99634cac5ff76180da5.s3.eu-central-1.amazonaws.com/8187d1e05f7b765fe936d7d1933734d6/live_720p30.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 SD
+https://47c0ad11f2ead99634cac5ff76180da5.s3.eu-central-1.amazonaws.com/8187d1e05f7b765fe936d7d1933734d6/live_480p30.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 LOW
+https://47c0ad11f2ead99634cac5ff76180da5.s3.eu-central-1.amazonaws.com/8187d1e05f7b765fe936d7d1933734d6/live_240p30.m3u8|Referer=https://what-did-the-poet-say.xyz/
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -35,7 +63,34 @@ https://cb3339834be0bf33a6577f8d5bb6204f.s3.eu-central-1.amazonaws.com/77514b025
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://7602ce3cf2e78f2e535e322ad85b50c4.s3.eu-central-1.amazonaws.com/703a6519f5402b03a7d7a86efb17dd13/live.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 FHD
+https://7602ce3cf2e78f2e535e322ad85b50c4.s3.eu-central-1.amazonaws.com/703a6519f5402b03a7d7a86efb17dd13/live_1080p60.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 HD+
+https://7602ce3cf2e78f2e535e322ad85b50c4.s3.eu-central-1.amazonaws.com/703a6519f5402b03a7d7a86efb17dd13/live_720p60.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 HD
+https://7602ce3cf2e78f2e535e322ad85b50c4.s3.eu-central-1.amazonaws.com/703a6519f5402b03a7d7a86efb17dd13/live_720p30.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 SD
+https://7602ce3cf2e78f2e535e322ad85b50c4.s3.eu-central-1.amazonaws.com/703a6519f5402b03a7d7a86efb17dd13/live_480p30.m3u8|Referer=https://what-did-the-poet-say.xyz/
+#EXTINF:0,بث المباراة 1 LOW
+https://7602ce3cf2e78f2e535e322ad85b50c4.s3.eu-central-1.amazonaws.com/703a6519f5402b03a7d7a86efb17dd13/live_240p30.m3u8|Referer=https://what-did-the-poet-say.xyz/
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 4 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -64,7 +119,7 @@ https://ee257a8c7fea2e22e5f98e924eb98554.s3.eu-central-1.amazonaws.com/25c9eed59
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 5 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -86,7 +141,7 @@ https://13ac324afc37fe76b5c9b8f316f6df4a.s3.eu-central-1.amazonaws.com/0b472f488
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 4 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 6 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -114,7 +169,7 @@ https://4f65152fe7934f88ccaed444e4e9d5fc.s3.eu-central-1.amazonaws.com/274a97215
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 5 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 7 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
