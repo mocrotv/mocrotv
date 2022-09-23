@@ -6,6 +6,134 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Ten TV " tvg-logo="https://www.ten.tv/frontend/assets/images/ten.png" group-title="المصرية Egypt",Ten TV
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hNP5ax" group-title="المصرية Egypt",Ten TV
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4Vq87" group-title="المصرية Egypt",Mekameleen مكملين
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPX0qZ" group-title="المصرية Egypt",Watan TV
+https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t7UYG3" group-title="المصرية Egypt",ajyal
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:0 tvg-id="cbc" group-title="المصرية Egypt",CBC
+http://185.217.90.110:1097/play/a00e
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="المصرية Egypt",CBC Drama
+http://185.217.90.110:1097/play/a00g
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CBC Sofra
+http://185.217.90.110:1097/play/a00f
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad
+http://185.217.88.44:1084/play/a0x6
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad 2
+http://185.217.88.44:1084/play/a0x7
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada ElBalad 3
+http://185.217.88.44:1084/play/a0x5
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Saout alaqila
+http://185.217.88.44:1084/play/a0tp
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK AFLAM
+http://185.217.88.44:1084/play/a0sp
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK CIMA
+http://185.217.88.44:1084/play/a0sq
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Melody Aflam
+http://185.217.88.44:1084/play/a0wr
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Melody Drama
+http://185.217.88.44:1084/play/a0wu
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Misr Quran Kareem
+http://185.217.88.44:1084/play/a0zc
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Culture
+http://185.217.88.44:1084/play/a0yz
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Family
+http://185.217.88.44:1084/play/a0yy
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E
+http://185.217.88.44:1084/play/a0z9
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E HD
+http://185.217.88.44:1084/play/a0z6
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON Drama
+http://185.217.88.44:1084/play/a0zb
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS
+http://185.217.88.44:1084/play/a0za
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS HD
+http://185.217.88.44:1084/play/a0z7
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2
+http://185.217.88.44:1084/play/a0z8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2 HD
+http://185.217.88.44:1084/play/a0z5
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Melody Aflam
+http://185.217.90.110:1084/play/a0wr
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Melody Drama
+http://185.217.90.110:1084/play/a0wu
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Misr Quran Kareem
+http://185.217.90.110:1084/play/a0zc
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Culture
+http://185.217.90.110:1084/play/a0yz
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Family
+http://185.217.90.110:1084/play/a0yy
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E
+http://185.217.90.110:1084/play/a0z9
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E HD
+http://185.217.90.110:1084/play/a0z6
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON Drama
+http://185.217.90.110:1084/play/a0zb
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS
+http://185.217.90.110:1084/play/a0za
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS HD
+http://185.217.90.110:1084/play/a0z7
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2
+http://185.217.90.110:1084/play/a0z8
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2 HD
+http://185.217.90.110:1084/play/a0z5
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar Drama
+http://185.217.90.110:1097/play/a00d
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar One
+http://185.217.90.110:1097/play/a05z
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Alhayat 2
+http://185.217.90.110:1097/play/a01o
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Alhayat Muslsalat
+http://185.217.90.110:1097/play/a00i
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL NADA TV
+http://149.100.10.163:8012/play/s306
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Masryia
+http://149.100.10.163:8012/play/s298
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Nas
+http://149.100.10.163:8012/play/s305
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Majd3
+http://149.100.10.163:8012/play/s307
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Althanya
+http://149.100.10.163:8012/play/s300
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Bedaya
+http://149.100.10.163:8012/play/s297
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mega FM
+http://149.100.10.163:8012/play/s309
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nagham FM
+http://149.100.10.163:8012/play/s310
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile TV
+http://149.100.10.163:8012/play/s299
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Drama
+http://149.100.10.163:8012/play/s301
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Drama 2
+http://149.100.10.163:8012/play/s302
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Film
+http://149.100.10.163:8012/play/s303
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Food
+http://149.100.10.163:8012/play/s304
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Radio Hits
+http://149.100.10.163:8012/play/s308
+#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sha3by FM
+http://149.100.10.163:8012/play/s311
+
+
+
+
+
+
+
+
 #EXTINF:0,[EGYPT] ELMOLED
 #EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
 http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2264
