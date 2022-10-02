@@ -10,21 +10,24 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
-https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b4b34120119153b3b4a4fe9f37042dd7/live.m3u8|Referer=https://davorcdn.com/
+https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live.m3u8|Referer=https://davorcdn.com/
 #EXTINF:0,بث المباراة 1 FHD
-https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b4b34120119153b3b4a4fe9f37042dd7/live_1080p60.m3u8|Referer=https://davorcdn.com/
+https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live_1080p60.m3u8|Referer=https://davorcdn.com/
 #EXTINF:0,بث المباراة 1 HD+
-https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b4b34120119153b3b4a4fe9f37042dd7/live_720p60.m3u8|Referer=https://davorcdn.com/
+https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live_720p60.m3u8|Referer=https://davorcdn.com/
 #EXTINF:0,بث المباراة 1 HD
-https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b4b34120119153b3b4a4fe9f37042dd7/live_720p30.m3u8|Referer=https://davorcdn.com/
+https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live_720p30.m3u8|Referer=https://davorcdn.com/
 #EXTINF:0,بث المباراة 1 SD
-https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b4b34120119153b3b4a4fe9f37042dd7/live_480p30.m3u8|Referer=https://davorcdn.com/
+https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live_480p30.m3u8|Referer=https://davorcdn.com/
 #EXTINF:0,بث المباراة 1 LOW
-https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b4b34120119153b3b4a4fe9f37042dd7/live_240p30.m3u8|Referer=https://davorcdn.com/
+https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live_240p30.m3u8|Referer=https://davorcdn.com/
+
+
 
 
 
