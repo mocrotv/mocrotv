@@ -4,62 +4,131 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
+#EXTINF:-1,ELEVEN SPORTS 3 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 
-https://d765035c087ec9c97af24139f7c132e5.s3.eu-central-1.amazonaws.com/d2cc3344faa226353c5001cd3935e066/live.m3u8
-
-
-
-https://d765035c087ec9c97af24139f7c132e5.s3.eu-central-1.amazonaws.com/f3cf25d4c26dfa21757c61ad6344e9a3/live.m3u8
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 1
-https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live_1080p60.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live_720p60.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 HD
-https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live_720p30.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 SD
-https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live_480p30.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f56036f58937f7790adbf73c/live_240p30.m3u8|Referer=https://davorcdn.com/
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 1
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_1080p60.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_720p60.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 HD
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_720p30.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 SD
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_480p30.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_240p30.m3u8|Referer=https://davorcdn.com/
-
-
+#EXTINF:-1, ELEVEN 3HD 🇵🇹
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6236
 
 #EXTINF:-1, ELEVEN 3HD 🇵🇹
 https://P135@460598949f82.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.726782747956.channel.aSYxk8sxKXMF.m3u8
 
 #EXTINF:-1, BT SPORT 6 🇬🇧
 http://s@37.49.224.246:8081/live/ch6/chunks.m3u8
+
+#EXTINF:-1, ZHUAFAN 🇨🇳
+https://P135@play.zhuafan.tech/live/live_1660984246436.m3u8?auth_key=1665014218-45972357-0-3429832759490d91766b2d945059048a&uid=live_1660984246436
+
+#EXTINF:-1, KANZU 🇨🇳
+http://play.2kanzu.com/tianxiatv/stream-aa8c4b94505141738625e0b2fe477a8a.m3u8
+
+#EXTINF:-1, BeIN SPORT 3 🇫🇷
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/126937
+
+#EXTINF:-1,Polsat Sport Premium 2  🇵🇱
+http://95.211.250.58/POLSAT_SPORT_PREMIUM_2/mono.m3u8
+
+#EXTINF:-1, TRING SPORT 4 🇦🇱
+http://storeiptv.net:2095/FCrSCNMZPFy5/NsyR3fgtqWNF/396
+
+#EXTINF:-1, AO VIVO 🇧🇷
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/ESa71P9IuYq2I8uo1ZzCwTWp4wwh43GFF5HvfgaLogJDeiFq-L0sVmFiFAnV8M4oQrw8J0VuCzrNP5OvQWH16A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8
+
+#EXTINF:-1, FOX SPORTS 3 🇦🇷
+http://181.78.22.214:8000/play/a01w
+
+#EXTINF:-1, FOX SPORTS 3 🇦🇷
+http://170.83.242.155:5350/play/a014
+
+#EXTINF:-1, ZHUAFAN 🇨🇳
+https://P135@play.zhuafan.tech/live/live_1622777403554.m3u8?auth_key=1665014558-4923757-0-4bbca7fe5a34ab0eb825a9be3ab10743&uid=live_1622777403554
+
+#EXTINF:-1, S CHAMPIONS 🇬🇧
+http://golive.yn.lt/live/bola/08.m3u8
+
+#EXTINF:-1, S CHAMPIONS 🇬🇧
+http://golive.yn.lt/live/champions/01.m3u8
+
+#EXTINF:-1, S CHAMPIONS 🇬🇧
+http://golive.yn.lt/live/unl/01.m3u8
+
+#EXTINF:-1, S CHAMPIONS 🇬🇧
+http://golive.yn.lt/live/unl/02.m3u8
+
+#EXTINF:-1, RBM DEPORTES EN VIVO 2 🇦🇷
+https://P135@stmv.streamingvip.click/rbmtv2/rbmtv2/playlist.m3u8
+
+#EXTINF:-1, RBM DEPORTES EN VIVO 2 🇦🇷
+https://P135@stmv.streamingvip.click:443/rbmtv2/rbmtv2/chunklist_w1985099180.m3u8
+
+#EXTINF:-1, BT SPORT 1 🇬🇧
+http://37.49.224.162:8081/live/ch1/chunks.m3u8
+
+#EXTINF:-1, BT SPORT 4 🇬🇧
+http://37.49.224.162:8081/live/ch2/chunks.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 HD 🇶🇦
+https://bit.ly/sportbein1
+
+#EXTINF:-1, NOVA SPORTS 1 🇬🇷
+http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
+
+#EXTINF:-1,LALIGA_HD 🇪🇸
+http://80.78.128.1:65437/play/UK_LALIGA_HD
+
+#EXTINF:-1,MOVISTAR LALIGA  🇪🇸
+http://154.54.220.247:51323/play/a032/index.m3u8
+
+#EXTINF:-1, DAZN LALIGA 🇪🇸
+http://154.54.220.247:51323/play/a030/index.m3u8
+
+#EXTINF:-1, DAZN LALIGA 🇪🇸
+https://live-server-2.splitstream.io/f0f98b91-28e9-47ac-9beb-f1f7045206eb/tracks-v1a1/mono.m3u8?sportmania
+
+#EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+
+#EXTINF:-1, ELEVEN 1HD 🇵🇹
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6234
+
+#EXTINF:-1, ELEVEN Sports 1 HD 🇵🇹
+http://80.78.128.1:65437/play/PT_ELEVEN1_HD
+
+#EXTINF:-1, SUPERSPORT LALIGA 🇬🇧
+http://P135@45.86.191.47:8081/live/ch2/chunks.m3u8
+
+#EXTINF:-1, S LALIGA 🇬🇧
+http://golive.yn.lt/live/laliga/03.m3u8
+
+#EXTINF:-1, S LALIGA 🇬🇧
+http://golive.yn.lt/live/bola/04.m3u8
+
+#EXTINF:-1, S LALIGA 🇬🇧
+http://golive.yn.lt/live/bola/05.m3u8
+
+#EXTINF:-1, S LALIGA 🇬🇧
+http://golive.yn.lt/live/ucl/09.m3u8
+
+#EXTINF:-1, S LALIGA 🇬🇧
+https://P135@lshstream.xyz/hls/allsportsicu02/index.m3u8?P135
+
+#EXTINF:-1, S LALIGA 🇬🇧
+https://lshstream.xyz/hls/allsportsicu02/index.m3u8
+
+#EXTINF:-1, S LALIGA 🇬🇧
+http://golive.yn.lt/live/unl/08.m3u8
+
+#EXTINF:-1,SuperSportLaLiga 🇬🇧
+http://golive.yn.lt/live/champions/04.m3u8
+
+#EXTINF:-1, Super Sport LaLiga 🇬🇧
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=39406&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1, S LALIGA 🇬🇧
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/39406
+
+#EXTINF:-1,ELEVEN SPORTS 2 🇵🇹
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
+
+#EXTINF:-1, ELEVEN 2HD 🇵🇹
+http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/6235
