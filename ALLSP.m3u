@@ -626,7 +626,242 @@ http://46.29.169.15:4001/play/a00x/index.m3u8
 #EXTINF:-1,Arena Sport 8 🇷🇸
 http://193.221.199.253:8000/play/a05s
 
+#EXTINF:-1,SK1 - HD - 🇷🇸
+http://46.29.169.15:4001/play/a00e/index.m3u8
 
+#EXTINF:-1,Sport Klub 4 🇷🇸
+http://46.29.169.15:4001/play/a00q/index.m3u8
+
+#EXTINF:-1,Sport Klub 5 🇷🇸
+http://46.29.169.15:4001/play/a00r/index.m3u8
+
+#EXTINF:-1, Arena 1 PREMIUM HR 🇭🇷
+http://46.29.169.15:4001/play/a00g/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena 2 PREMIUM HR 🇭🇷
+http://46.29.169.15:4001/play/a00h/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena 3 PREMIUM HR 🇭🇷
+http://46.29.169.15:4001/play/a00i/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena Sport 1 HR 🇭🇷
+http://46.29.169.15:4001/play/a002/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena Sport 2 HR 🇭🇷
+http://46.29.169.15:4001/play/a003/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena Sport 3 HR 🇭🇷
+http://46.29.169.15:4001/play/a004/index.m3u8|User-Agent=stream
+
+#EXTINF:-1, Arena Sport 4 HR 🇭🇷
+http://46.29.169.15:4001/play/a005/index.m3u8|User-Agent=stream
+
+#EXTINF:-1,SK1 - HD 🇭🇷
+http://46.29.169.15:4001/play/a001/index.m3u8
+
+#EXTINF:-1,SK2 - HD 🇭🇷
+https://lshstream.xyz/hls/allsportsicu08/index.m3u8
+
+#EXTINF:-1,Sport Klub 6 🇭🇷
+http://46.29.169.15:4001/play/a00s/index.m3u8
+
+#EXTINF:-1,HRT2 🇭🇷
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?per
+
+#EXTINF:-1, HRT2 🇭🇷
+http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8?Pericopalotes135
+
+#EXTINF:-1, HRT 2 🇭🇷
+http://195.29.70.84/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:-1, 3 SPORT LIVE 1 🇱🇹
+http://176.9.48.60:23055/play/a03g
+
+#EXTINF:-1, 3 SPORT LIVE 1 🇱🇹
+http://176.9.48.60:23055/play/a03i
+
+#EXTINF:-1, 3 SPORT LIVE 2 🇱🇹
+http://176.9.48.60:23055/play/a03h
+
+#EXTINF:-1,Max sport 1 🇧🇬
+http://83.228.88.114:8000/play/a04c
+
+#EXTINF:-1, NOVA Sport 3 🇨🇿 
+http://84.42.140.147:8890/hdmi
+
+#EXTINF:-1, O2 TV SPORT HD 🇨🇿 
+http://84.42.140.148:8880/hdmi
+
+#EXTINF:-1, SPORT PREMIUM 🇨🇿 
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantahd
+
+#EXTINF:-1,Setanta Sports 2 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantaplus
+
+#EXTINF:-1,Setanta Sports 1 HD 🇷🇺
+http://176.9.48.60:23055/play/a022
+
+#EXTINF:-1,Setanta Sports 2 🇷🇺
+http://176.9.48.60:23055/play/a023
+
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+http://iptv.rpk-rost.ru:8080/hls/003/003.m3u8
+
+#EXTINF:-1, MATH 🇷🇺
+https://mhd158.iptv2022.com/p/mtRZOaX43unjknKq2rwVtQ,1660736180/streaming/matchott/324/1/video.m3u8
+
+#EXTINF:-1, MATH HD 🇷🇺
+http://46.174.83.66/MatchTV/index.m3u8?
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+http://90.188.227.251:4022/udp/233.7.70.29:5000
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://90.188.227.251:4022/udp/233.7.70.31:5000
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+http://213.172.73.170:8081/nimble_live/1065__Mat4_Futbol_2/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 3 HD 🇷🇺
+http://213.172.73.171:8081/nimble_live/1159__Mat4_Futbol_3/playlist.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+https://tv.tas-ix.tv/hls/token_28.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+https://tv.tas-ix.tv/hls/token_29.m3u8
+
+#EXTINF:-1,МАТЧ Футбол 1 HD 🇷🇺
+https://s04.watcher.uz/21/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU2NTgyNjM3fQ.HdbB38SH334gdWdWE-14cxVbu_45rmWlp59lfu6TZ60:6
+
+#EXTINF:-1,МАТЧ Футбол 2 HD 🇷🇺
+https://s04.watcher.uz/22/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU2NTgyNjM3fQ.HdbB38SH334gdWdWE-14cxVbu_45rmWlp59lfu6TZ60:6
+
+#EXTINF:-1,FUTBOL TV  🇷🇺
+https://s03.watcher.uz/74/tracks-v2a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjU4MDU3NzYyfQ.bbQ0Yy_g9q3f4g2D8N3uHt-oHebXmjX7EhD2qxRDxDI:72
+
+#EXTINF:-1, SPORT RU 🇷🇺
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+
+#EXTINF:-1, X SPORT 🇷🇺
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+
+#EXTINF:-1, KBP SPORT 🇷🇺
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1,Беларусь 5 HD 🇧🇾
+http://176.9.48.60:23055/play/a02b
+
+#EXTINF:-1, CBC SPORT 🇦🇿
+http://65.21.196.155/azerbaijan/cbc_sport2/playlist.m3u8
+
+#EXTINF:-1, NOVA SPORTS START 🇬🇷
+http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-GjqT3a75ko46LKD1eben_
+
+#EXTINF:-1, NOVA SPORTS PRIME 🇬🇷
+http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SiNbpNnLSCs2raDBBlJ75L12xCcWfMUpyovA8KCk83tc
+
+#EXTINF:-1, NOVA SPORTS NEWS 🇬🇷
+http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_jYvBG1pdG0CJssJ4y_7Fk
+
+#EXTINF:-1, NOVA SPORTS 1 🇬🇷
+http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e9esxppA5BEooxeg3onklIL
+
+#EXTINF:-1, NOVA SPORTS 2 🇬🇷
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-UHY4EFXaTL62Eh947HkO8
+
+#EXTINF:-1, NOVA SPORTS 3 🇬🇷
+http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8yactgLcAekKc29ct9hkkd
+
+#EXTINF:-1, NOVA SPORTS 4 🇬🇷
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e_lG-wVaWwzTuOyVlirmrrk
+
+#EXTINF:-1, NOVA SPORTS 5 🇬🇷
+http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e-zSIvQVCNzM6PzAwwDSc-9
+
+#EXTINF:-1, NOVA SPORTS 6 🇬🇷
+http://boomtivi.xyz/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8knmYox6b33BuDPJjeF2_K
+
+#EXTINF:-1, SPORT 1 ISRAEL 🇮🇱
+http://bigteisti3.cdn.lifeyosso.fun:8080/SPORT_1_IL/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1, SPORT 2 ISRAEL 🇮🇱
+http://bigteisti3.cdn.lifeyosso.fun:8080/SPORT_2_IL/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1, SPORT 3 ISRAEL 🇮🇱
+http://bigteisti3.cdn.lifeyosso.fun:8080/SPORT_3_IL/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1, SPORT 4 ISRAEL 🇮🇱
+http://bigteisti3.cdn.lifeyosso.fun:8080/SPORT_4_IL/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1, SPORT 5 ISRAEL 🇮🇱
+http://bigteisti3.cdn.lifeyosso.fun:8080/SPORT_5_IL/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1, SPORT 5 GOLD ISRAEL 🇮🇱
+http://bigteisti3.cdn.lifeyosso.fun:8080/SPORT_5_GOLD_IL/video.m3u8?token=bW1tfHxiVzF0YlcxdGJXMD0=
+
+#EXTINF:-1, TV2 SPORTEN 🇳🇴
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
+#EXTINF:-1, ELEVEN SPORT 1 🇵🇱
+http://cdn.spmr.tv:8080/s2bqur/video.m3u8?token=TLKJAXPMV3
+
+#EXTINF:-1, ELEVEN SPORT 2 🇵🇱
+http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=TLKJAXPMV3
+
+#EXTINF:-1, ELEVEN SPORT 3 🇵🇱
+http://cdn.spmr.tv:8080/54elmn/video.m3u8?token=TLKJAXPMV3
+
+#EXTINF:-1, ELEVEN SPORT 4 🇵🇱
+http://cdn.spmr.tv:8080/iu7xd5/video.m3u8?token=TLKJAXPMV3
+
+#EXTINF:-1, POLSAT PREMIUM 1 HD 🇵🇱
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/27677.m3u8
+
+#EXTINF:-1,Polsat Sport Premium 2  🇵🇱
+http://95.211.250.58/POLSAT_SPORT_PREMIUM_2/mono.m3u8
+
+#EXTINF:-1, POLSAT SPORT HD 🇵🇱
+http://95.211.250.58/POLSAT_SPORT/mono.m3u8
+
+#EXTINF:-1, POLSAT SPORT NEWS HD 🇵🇱
+http://95.211.250.58/POLSAT_SPORT_NEWS/mono.m3u8
+
+#EXTINF:-1, POLSAT SPORT EXTRA HD 🇵🇱
+http://95.211.250.58/POLSAT_SPORT_EXTRA/mono.m3u8
+
+#EXTINF:-1,Polsat_Sport_Premium_PPV3 🇵🇱
+http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV3
+
+#EXTINF:-1,Polsat_Sport_Premium_PPV4 🇵🇱
+http://194.76.186.150:10005/play/Polsat_Sport_Premium_PPV4
+
+#EXTINF:-1, TVP SPORT 🇵🇱
+http://95.211.250.58/TVP_SPORT/mono.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 🇵🇱
+http://95.211.250.58/CANAL+_SPORT/mono.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 2 🇵🇱
+http://95.211.250.58/CANAL+_SPORT_2/mono.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 3 🇵🇱
+http://95.211.250.58/CANAL+_SPORT_3/mono.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 4 🇵🇱
+http://95.211.250.58/CANAL+_SPORT_4/mono.m3u8
+
+#EXTINF:-1, CANAL+ SPORT 5 🇵🇱
+http://95.211.250.58/NSPORT+/mono.m3u8
 
 
 
