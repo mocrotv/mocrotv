@@ -64,9 +64,60 @@ https://6cb6f625a2f38aded01d3c9454f4eb31.s3.eu-central-1.amazonaws.com/cb2a5c47f
 
 
 
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_1080p60.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_720p60.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 HD
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_720p30.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 SD
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_480p30.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_240p30.m3u8|Referer=https://davorcdn.com/
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 4 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live_1080p60.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live_720p60.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 HD
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live_720p30.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 SD
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live_480p30.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live_240p30.m3u8|Referer=https://davorcdn.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 5 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -91,32 +142,10 @@ https://e17357b5b3b5335e0e1b9bd572894614.s3.eu-central-1.amazonaws.com/2ee2d499f
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 1
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_1080p60.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_720p60.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 HD
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_720p30.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 SD
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_480p30.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/1f8cc5b9503568ff221c6580eddb538f/live_240p30.m3u8|Referer=https://davorcdn.com/
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 5 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 6 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -167,24 +196,6 @@ https://d765035c087ec9c97af24139f7c132e5.s3.eu-central-1.amazonaws.com/f3cf25d4c
 
 
 
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 7 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 1
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 FHD
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live_1080p60.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 HD+
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live_720p60.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 HD
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live_720p30.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 SD
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live_480p30.m3u8|Referer=https://davorcdn.com/
-#EXTINF:0,بث المباراة 1 LOW
-https://a6d3c6d711513f1ac19c53dd08af34dc.s3.eu-central-1.amazonaws.com/aeaa9c51b19f0ddff36a9fb11c845478/live_240p30.m3u8|Referer=https://davorcdn.com/
 
 
 
