@@ -2,14 +2,15 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-https://797030f9650043e8565184b5cf09514f.s3.eu-central-1.amazonaws.com/11fe14a22d5f371b3a626e960e859f3a/live.m3u8
 
-https://5a2c659b54c33db00885ae57fabb5bac.s3.eu-central-1.amazonaws.com/20ca0f5c888acd06a8719b6f79530c88/live.m3u8
+#EXTINF:0,LIVE EVENT 1
+https://cloud.odysee.live/content/177fb21686ae2aef7c6c5db9cc03b25eef8002b0/master.m3u8|Referer=https://davorcdn.com/
 
+#EXTINF:0,LIVE EVENT 2
+https://cloud.odysee.live/content/d962217e9dcf73724c4997e4100c455c96a342e6/master.m3u8|Referer=https://davorcdn.com/
 
-https://5772e8fa10175834d8c10f43b4cf5b59.s3.eu-central-1.amazonaws.com/39ebcec2f38fd9d5ce9cd81f841ff59e/live.m3u8
-https://bfb366a260f20e88dac559d2cf43ac7c.s3.eu-central-1.amazonaws.com/290361a7f8b091bb894d2b2951e463ef/live.m3u8
-
+#EXTINF:0,LIVE EVENT 3
+https://cloud.odysee.live/content/5a964dfc6d058b09b2c246fb40ce119b325fd037/master.m3u8|Referer=https://davorcdn.com/
 
 
 
