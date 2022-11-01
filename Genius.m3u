@@ -4,222 +4,159 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 1 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/170
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 2 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/171
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 3 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/172
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 4 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/173
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 5 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/174
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 6 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/175
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 7 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/176
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 8 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 8 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/177
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 9 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 9 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/178
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 10 HD" tvg-logo="" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",Bein Sport 10 HD
-http://loc.ipalfa.org:25461/fatmiri-isp/2019/179
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/XJhUZeH.png",[$]BEIN SPORTS NEWS HD⚽️
+http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 1⚽️
+http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 1+⚽️
+http://stream.nubar.tv:1935/private/NUBARSport/chunklist.m3u8
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1AR⚽️+
+https://halaramallahtv.com:8444/HRamallah-Tv/HalaRamallah/playlist.m3u8
 
 
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 1HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ91UsAN1gvUB8wd_FPo_6oY/ts
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 2HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ_NyIAIFdBGmM0dk0QrG6UQ/ts
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 3HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ9qlA9R2Cb0mksJwJAB6skI/ts
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 1FHD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJzx_SmNKgdyxUEMy2uP8iXk/ts
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 2FHD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ6J3FqN7kAwD6HmriZDOerw/ts
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Premium 3FHD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ2-_sIcSuQmvqz-HP4MUr-s/ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1FHD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ77J1gcKt-3fvrqKoOIa8Lo/ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2FHD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ_AYd3Ivoe-TxwFRToC2y5A/ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3FHD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ03BVb4yc3-RTN6Va_3nXyU/ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 4FHD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJyPi74O6XmKEsFZbPj61Q4w/ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 5FHD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJwui5XqZDmFVWAOnLaZ1mFc/ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 6FHD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJzluSNk3A-EQkT4VpxyJ8bo/ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 7FHD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ43cKgP-B-_vVG5VMleuvCU/ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 1HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ0ktCkQWjUL-S0mIaEsgAW0/ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 2HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ8mN7onv_uTkrjZ0U8DlbMQ/ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 3HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ1PWCX71nvQHgAgAS3_IMV8/ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 4HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ3Vzo1DvlVDNdxYBcvINX4s/ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 5HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ8SrN2RX3kQreMNQ8CQ6Ndc/ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 6HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ3EoCY7xX6lla_Zh7RrvBew/ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports 7HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ7A_i1Tc9WNVZ7wIM8t4jjU/ts
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Eng 1HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ5afXYpNbvMNxPaIdBczXkc/ts
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Eng 2HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ8uw0QGRmoEABtTiKwdm5WA/ts
+#EXTINF:0 tvg-id="ext" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",beIN Sports Eng 3HD⚽️
+http://xtmm.live:80/play/As806AmiVWZsKBVp8kgpJ9EFiZVthKdbpEcCtKxgqXs/ts
 
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2AR⚽️+
 
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3AR⚽️+
 
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1AR⚽️
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2AR⚽️
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+#EXTINF:0 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3AR⚽️
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3RhIDt7" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORTS HQ⚽️
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 1 HD FR⚽️
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 2 HD FR⚽️
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 3 HD FR⚽️
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 1 HD TR⚽️
+https://sectokentest.parkbtcpanel.com/test/chann2/chunklist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 2 HD TR⚽️
+https://sectokentest.parkbtcpanel.com/test/chann3/chunklist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 3 HD TR⚽️
+https://sectokentest.parkbtcpanel.com/test/chann4/chunklist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports 4 HD TR⚽️
+https://sectokentest.parkbtcpanel.com/test/chann5/chunklist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports MAX 1 HD TR⚽️
+https://sectokentest.parkbtcpanel.com/test/chann6/chunklist.m3u8
+#EXTINF:-1 group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂" tvg-logo="",Bein Sports MAX 2 HD TR⚽️
+https://sectokentest.parkbtcpanel.com/test/chann7/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂", beIN Sports Extra⚽️
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 1⚽️
 
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium2.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 2⚽️
 
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinpremium3.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Premium 3⚽️
 
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinenglish1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN English 1⚽️
 
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinenglish2.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN English 2⚽️
 
-#EXTINF:0,BEIN SPORTS AFC 3 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7490
-#EXTINF:0,BEIN SPORTS AFC 3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7489
-#EXTINF:0,BEIN SPORTS AFC 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7488
-#EXTINF:0,BEIN SPORTS AFC 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7487
-#EXTINF:0,BEIN SPORTS AFC HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7486
-#EXTINF:0,BEIN SPORTS AFC 2 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7485
-#EXTINF:0,BEIN SPORTS AFC 1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7484
-#EXTINF:0,BEIN SPORTS AFC HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7483
-#EXTINF:0,beIN Sports XTRA 2 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/850
-#EXTINF:0,beIN Sports XTRA 2 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/849
-#EXTINF:0,beIN Sports XTRA 2 HD+
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/848
-#EXTINF:0,beIN Sports XTRA 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/847
-#EXTINF:0,beIN Sports XTRA 1 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/846
-#EXTINF:0,beIN Sports XTRA 1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/845
-#EXTINF:0,beIN Sports XTRA 1 HD+
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/844
-#EXTINF:0,beIN Sports XTRA 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/843
-#EXTINF:0,LO BEINS PORTS 01 HD FR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/144
-#EXTINF:0,LO BEINS PORTS 02 HD FR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/143
-#EXTINF:0,LO BEINS PORTS 03 HD FR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/142
-#EXTINF:0,SPO: beIN Sport 3 HD EN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/141
-#EXTINF:0,SPO: beIN Sport 2 HD EN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/140
-#EXTINF:0,SPO: beIN Sport 1 HD EN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/139
-#EXTINF:0,beIN Sports 7 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/37
-#EXTINF:0,beIN Sports 7 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/36
-#EXTINF:0,beIN Sports 7 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/35
-#EXTINF:0,beIN Sports 6 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/34
-#EXTINF:0,beIN Sports 6 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/33
-#EXTINF:0,beIN Sports 6 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/32
-#EXTINF:0,beIN Sports 5 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/31
-#EXTINF:0,beIN Sports 5 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/30
-#EXTINF:0,beIN Sports 5 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/29
-#EXTINF:0,beIN Sports 4 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/28
-#EXTINF:0,beIN Sports 4 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/27
-#EXTINF:0,beIN Sports 4HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/26
-#EXTINF:0,beIN Sports 3 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/25
-#EXTINF:0,beIN Sports 3 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/24
-#EXTINF:0,beIN Sports 3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/23
-#EXTINF:0,beIN Sports 2 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/22
-#EXTINF:0,beIN Sports 2 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/21
-#EXTINF:0,beIN Sports 2 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/20
-#EXTINF:0,beIN Sports 1 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/19
-#EXTINF:0,beIN Sports 1 HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/18
-#EXTINF:0,beIN Sports 1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/17
-#EXTINF:0,beIN Sports 3 PREMIUM SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/16
-#EXTINF:0,beIN Sports 3 PREMIUM HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/15
-#EXTINF:0,beIN Sports 3 PREMIUM HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/14
-#EXTINF:0,beIN Sports 2 PREMIUM SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/13
-#EXTINF:0,beIN Sports 2 PREMIUM HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/12
-#EXTINF:0,beIN Sports 2 PREMIUM HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/11
-#EXTINF:0,beIN Sports 1 PREMIUM SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/10
-#EXTINF:0,beIN Sports 1 PREMIUM HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/9
-#EXTINF:0,beIN Sports 1 PREMIUM HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/8
-#EXTINF:0,beIN Sports Global  HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7
-#EXTINF:0,beIN Sports Global HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/6
-#EXTINF:0,beIN Sports News HEVC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/5
-#EXTINF:0,beIN Sports News HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/4
-#EXTINF:0,BEIN SPORTS AFC SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7491
-#EXTINF:0,BEIN SPORTS AFC 1 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7492
-#EXTINF:0,BEIN SPORTS AFC 2 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7493
-#EXTINF:0,BEIN SPORTS AFC 3 SD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SPBNHD_DM/NbeJdtYs/7494
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinenglish3.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN English 3⚽️
 
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinsport1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sport 1⚽️
 
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinsport2.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sport 2⚽️
 
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinsport3.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sport 3⚽️
 
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinsport4.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sport 4⚽️
 
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinsport5.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sport 5⚽️
+
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinsport6.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sport 6⚽️
+
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinsport7.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN Sport 7⚽️
+
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinfrance1.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN France 1⚽️
+
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinfrance2.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN France 2⚽️
+
+#EXTINF:-1 tvg-logo="http://omahtv.mw.lt/sport/beinfrance3.png" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BeIN France 3⚽️
+#EXTINF:-1 tvg-ID="beinsportspremium1" tvg-logo="https://s.id/1d1CR" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT PREMIUM 1⚽️
+http://warkop.cf/80/bein/08.m3u8
+#EXTINF:-1 tvg-ID="beinsportspremium2" tvg-logo="https://s.id/1d1D3" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT PREMIUM 2⚽️
+http://warkop.cf/80/bein/09.m3u8
+#EXTINF:-1 tvg-ID="beinsportspremium3" tvg-logo="https://s.id/1d1Dc" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT PREMIUM 3⚽️
+http://warkop.cf/80/bein/10.m3u8
+#EXTINF:-1 tvg-ID="beinsports1" tvg-logo="https://s.id/1d1Gl" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 1⚽️
+http://warkop.cf/80/bein/01.m3u8
+#EXTINF:-1 tvg-ID="beinsports2" tvg-logo="https://s.id/1d1GJ" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 2⚽️
+http://warkop.cf/80/bein/02.m3u8
+#EXTINF:-1 tvg-ID="beinsports3" tvg-logo="https://s.id/1d1HB" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 3⚽️
+http://warkop.cf/80/bein/03.m3u8
+#EXTINF:-1 tvg-ID="beinsports4" tvg-logo="https://s.id/1d1Iq" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 4⚽️
+http://warkop.cf/80/bein/04.m3u8
+#EXTINF:-1 tvg-ID="beinsports5" tvg-logo="https://s.id/1d1IX" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 5⚽️
+http://warkop.cf/80/bein/05.m3u8
+#EXTINF:-1 tvg-ID="beinsports6" tvg-logo="https://s.id/1d1JS" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 6⚽️
+http://warkop.cf/80/bein/06.m3u8
+#EXTINF:-1 tvg-ID="beinsports7" tvg-logo="https://s.id/1d1Kp" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 7⚽️
+http://warkop.cf/80/bein/07.m3u8
+#EXTINF:-1 tvg-ID="beinsports1english" tvg-logo="https://s.id/1d1Gl" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 1 ENGLISH⚽️
+http://warkop.cf/80/bein/11.m3u8
+#EXTINF:-1 tvg-ID="beinsports2english" tvg-logo="https://s.id/1d1GJ" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 2 ENGLISH⚽️
+http://warkop.cf/80/bein/12.m3u8
+#EXTINF:-1 tvg-ID="beinsports3english" tvg-logo="https://s.id/1d1HB" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 3 ENGLISH⚽️
+http://warkop.cf/80/bein/13.m3u8
+#EXTINF:-1 tvg-ID="beinsports1france" tvg-logo="https://s.id/1d1Gl" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 1 FRANCE⚽️
+http://warkop.cf/80/bein/14.m3u8
+#EXTINF:-1 tvg-ID="beinsports2france" tvg-logo="https://s.id/1d1GJ" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 2 FRANCE⚽️
+http://warkop.cf/80/bein/15.m3u8
+#EXTINF:-1 tvg-ID="beinsports3france" tvg-logo="https://s.id/1d1HB" group-title="▂▃▄▅▆▇▓▒░بين سبور BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT 3 FRANCE⚽️
+http://warkop.cf/80/bein/16.m3u8
 
 
 
