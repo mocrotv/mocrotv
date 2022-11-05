@@ -3,9 +3,7 @@
 https://i.imgur.com/5Wiki1T.jpg
 
 
-https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/5a00234af65c8a8b80db429559297697/live.m3u8
-https://8c2b3249cef88a3d4b6f623b6a9b8f5b.s3.eu-central-1.amazonaws.com/4ba6de3f0fd41518fc9e3db8112638cf/live.m3u8
-https://8c2b3249cef88a3d4b6f623b6a9b8f5b.s3.eu-central-1.amazonaws.com/fa63719ccf16ab68693e8b0e6facce66/live.m3u8
+https://558f3b7a10ad40c7d341e63dbf076ec3.s3.eu-central-1.amazonaws.com/b073497846c267511eab727809af7803/live.m3u8
 
 
 
@@ -89,13 +87,38 @@ https://8c2b3249cef88a3d4b6f623b6a9b8f5b.s3.eu-central-1.amazonaws.com/fa63719cc
 
 
 
-
-
-
-
-
-
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 4 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://558f3b7a10ad40c7d341e63dbf076ec3.s3.eu-central-1.amazonaws.com/b073497846c267511eab727809af7803/live.m3u8|Referer=https://yallbotsnewsoooza.online/
+#EXTINF:0,بث المباراة 1 FHD
+https://558f3b7a10ad40c7d341e63dbf076ec3.s3.eu-central-1.amazonaws.com/b073497846c267511eab727809af7803/live_1080p60.m3u8|Referer=https://yallbotsnewsoooza.online/
+#EXTINF:0,بث المباراة 1 HD+
+https://558f3b7a10ad40c7d341e63dbf076ec3.s3.eu-central-1.amazonaws.com/b073497846c267511eab727809af7803/live_720p60.m3u8|Referer=https://yallbotsnewsoooza.online/
+#EXTINF:0,بث المباراة 1 HD
+https://558f3b7a10ad40c7d341e63dbf076ec3.s3.eu-central-1.amazonaws.com/b073497846c267511eab727809af7803/live_720p30.m3u8|Referer=https://yallbotsnewsoooza.online/
+#EXTINF:0,بث المباراة 1 SD
+https://558f3b7a10ad40c7d341e63dbf076ec3.s3.eu-central-1.amazonaws.com/b073497846c267511eab727809af7803/live_480p30.m3u8|Referer=https://yallbotsnewsoooza.online/
+#EXTINF:0,بث المباراة 1 LOW
+https://558f3b7a10ad40c7d341e63dbf076ec3.s3.eu-central-1.amazonaws.com/b073497846c267511eab727809af7803/live_240p30.m3u8|Referer=https://yallbotsnewsoooza.online/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 5 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -122,7 +145,7 @@ https://bc7239d1d5b2135570d3642a5facfa5b.s3.eu-central-1.amazonaws.com/03405af9b
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 5 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 6 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
