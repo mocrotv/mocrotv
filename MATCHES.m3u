@@ -21,9 +21,36 @@ https://69f88d888a00a25a9f2d40d712439f7f.online/
 
 
 
-
-
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
+#EXTINF:0,بث المباراة 1 FHD
+https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live_1080p60.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
+#EXTINF:0,بث المباراة 1 HD+
+https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live_720p60.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
+#EXTINF:0,بث المباراة 1 HD
+https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live_720p30.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
+#EXTINF:0,بث المباراة 1 SD
+https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live_480p30.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
+#EXTINF:0,بث المباراة 1 LOW
+https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live_240p30.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -47,7 +74,7 @@ https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/5a00234af
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -62,33 +89,6 @@ https://558f3b7a10ad40c7d341e63dbf076ec3.s3.eu-central-1.amazonaws.com/b07349784
 https://558f3b7a10ad40c7d341e63dbf076ec3.s3.eu-central-1.amazonaws.com/b073497846c267511eab727809af7803/live_480p30.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
 #EXTINF:0,بث المباراة 1 LOW
 https://558f3b7a10ad40c7d341e63dbf076ec3.s3.eu-central-1.amazonaws.com/b073497846c267511eab727809af7803/live_240p30.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 1
-https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
-#EXTINF:0,بث المباراة 1 FHD
-https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live_1080p60.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
-#EXTINF:0,بث المباراة 1 HD+
-https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live_720p60.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
-#EXTINF:0,بث المباراة 1 HD
-https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live_720p30.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
-#EXTINF:0,بث المباراة 1 SD
-https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live_480p30.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
-#EXTINF:0,بث المباراة 1 LOW
-https://1b7394da23c675e00f04f41c691122e8.s3.eu-central-1.amazonaws.com/9f6628f467e446fc6ee8f83af3cbc541/live_240p30.m3u8|Referer=https://69f88d888a00a25a9f2d40d712439f7f.online/
-
-
 
 
 
