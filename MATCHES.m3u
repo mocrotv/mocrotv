@@ -29,15 +29,8 @@ https://677b2c5453a7fe9a6c3520db2ec17e66.art/
 
 
 
-
-
-
-
-
-
-
-
-
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/3fadee0b84c63b2255084a7dbc85065611658399/live.m3u8
+https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
 
 
 
@@ -48,6 +41,31 @@ https://677b2c5453a7fe9a6c3520db2ec17e66.art/
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/3fadee0b84c63b2255084a7dbc85065611658399/live.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+#EXTINF:0,بث المباراة 1 FHD
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/3fadee0b84c63b2255084a7dbc85065611658399/live_1080p60.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+#EXTINF:0,بث المباراة 1 HD+
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/3fadee0b84c63b2255084a7dbc85065611658399/live_720p60.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+#EXTINF:0,بث المباراة 1 HD
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/3fadee0b84c63b2255084a7dbc85065611658399/live_720p30.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+#EXTINF:0,بث المباراة 1 SD
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/3fadee0b84c63b2255084a7dbc85065611658399/live_480p30.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+#EXTINF:0,بث المباراة 1 LOW
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/3fadee0b84c63b2255084a7dbc85065611658399/live_240p30.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
