@@ -148,6 +148,227 @@ http://212.224.84.206:2200/EX/FR_NRJ_12_SD-fr/index.m3u8?token=RED_z1Dab1-feagY6
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://212.224.84.206:2200/EX/FR_NRJ_12HD-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
 
+#EXTINF:0,|FR| CSTAR HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/FR_CSTAR-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| CSTAR SD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/FR_Cstar_SD-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| E ENTERTAINMENT HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/FR_E_ENTERTAINMENT_HD-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| BET
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/BET-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| COMEDIE PLUS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/COMEDIE_PLUS-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| KTO
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/TN/kto-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| CGTN French
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/NL/cgtnfrenchhd-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| Trek
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/Trek-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| AB 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/AB_3-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| ES Tv
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/ES_Tv-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| BFM Business
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/BFM_Business-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| Abxplore HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/Abxplore_HD-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A Plus HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_Plus_HD-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| Game One Plus
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/Game_One_Plus-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| Ginx
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/Ginx-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Action 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redaction-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Action 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redaction2-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Action 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redaction3-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Action 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redaction4-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Action 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redaction5-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Comedy 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redcomedy-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Comedy 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redcomedy2-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Comedy 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redcomedy3-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Comedy 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redcomedy4-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Comedy 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redcomedy5-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Drama 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/reddrama-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Drama 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/reddrama2-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Drama 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/reddrama3-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Drama 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/reddrama4-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Drama 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/reddrama5-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Crime 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redcrime-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Crime 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redcrime2-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Crime 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redcrime3-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Horror Thriller 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redhorrorthriller-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Horror Thriller 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redhorrorthriller2-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Horror Thriller 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redhorrorthriller3-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Adventure 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redadventure-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| NETFLIX Adventure 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/VOD/redadventure2-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_1-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_2-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_3-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_4-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_5-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_6-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_7-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_8-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 9
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_9-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 10
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_10-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 11
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_11-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 12
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_12-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 13
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_13-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 14
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_14-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| A La Carte 15
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/EX/A_La_Carte_15-fr/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1043,12 +1264,175 @@ http://212.224.84.206:2200/EX/FR_beIN_Sports_1_SD-fr/index.m3u8?token=RED_z1Dab1
 
 
 
+
+
 #EXTINF:0,|FR| YYYYY
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
 
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
 
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
 
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
+
+#EXTINF:0,|FR| YYYYY
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://212.224.84.206:2200/XXXXXXX/index.m3u8?token=RED_z1Dab1-feagY6_Edv-a65geggAw==,7928642496.
 
 
 
