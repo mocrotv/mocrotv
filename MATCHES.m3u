@@ -4,46 +4,8 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-https://c5c4c56e5a733add08a874c545109e3b.s3.eu-central-1.amazonaws.com/5f88dff416a34a71024877dde7a1cb4c/live.m3u8
-https://c5cbbd6ac9eaf03edfff307f5e9a03d9.live/
-
-https://3ea5067a5fbcfc539572960b04e71a37.s3.eu-central-1.amazonaws.com/067d018895fb65104209179a1868137e/live.m3u8
-https://677b2c5453a7fe9a6c3520db2ec17e66.art/
-
-
-https://c5c4c56e5a733add08a874c545109e3b.s3.eu-central-1.amazonaws.com/0732660d6b7a6d7af0e9cd5c2aa10b42/live.m3u8
-https://c5cbbd6ac9eaf03edfff307f5e9a03d9.live/
-
-
-
-1
-
-https://03baf8ce6aa77020390d01d508f3880b.s3.eu-central-1.amazonaws.com/616e4e402f69d6c8b04650302ae64900/live.m3u8
-https://e0d4b8d41f1065ac8691aa2072c1b378.click/
-
-
-
-https://3ea5067a5fbcfc539572960b04e71a37.s3.eu-central-1.amazonaws.com/c9ae40d8a5c56f55cffd03f39a503f96/live.m3u8
-https://677b2c5453a7fe9a6c3520db2ec17e66.art/
-
-
-
-
-https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/3fadee0b84c63b2255084a7dbc85065611658399/live.m3u8
-https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
-
-
-https://61a086655f2495f669507d0127ffebbebcd6eb0b.s3.eu-central-1.amazonaws.com/78f43adb5277849961b6ec77a1ca9e6f6bc4184f/live.m3u8
-https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
-
-
-https://61a086655f2495f669507d0127ffebbebcd6eb0b.s3.eu-central-1.amazonaws.com/f0832dcef0585e30b1e800bb27b22b74a922e402/live.m3u8
-https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
-
-
-https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live.m3u8
-https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
-
+https://77c1ada0c3b03cca609125c761b4b950330e4390.s3.eu-central-1.amazonaws.com/1de0b3b5aec7bcb69e144c15592c09be47fd19f8/live.m3u8
+https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/
 
 
 
@@ -54,17 +16,19 @@ https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
-https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+https://77c1ada0c3b03cca609125c761b4b950330e4390.s3.eu-central-1.amazonaws.com/1de0b3b5aec7bcb69e144c15592c09be47fd19f8/live.m3u8|Referer=https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/
 #EXTINF:0,بث المباراة 1 FHD
-https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_1080p60.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+https://77c1ada0c3b03cca609125c761b4b950330e4390.s3.eu-central-1.amazonaws.com/1de0b3b5aec7bcb69e144c15592c09be47fd19f8/live_1080p60.m3u8|Referer=https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/
 #EXTINF:0,بث المباراة 1 HD+
-https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_720p60.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_720p60.m3u8|Referer=https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/
 #EXTINF:0,بث المباراة 1 HD
-https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_720p30.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_720p30.m3u8|Referer=https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/
 #EXTINF:0,بث المباراة 1 SD
-https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_480p30.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_480p30.m3u8|Referer=https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/
 #EXTINF:0,بث المباراة 1 LOW
-https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_240p30.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_240p30.m3u8|Referer=https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/
+
+
 
 
 
@@ -89,6 +53,35 @@ https://c5c4c56e5a733add08a874c545109e3b.s3.eu-central-1.amazonaws.com/0732660d6
 https://c5c4c56e5a733add08a874c545109e3b.s3.eu-central-1.amazonaws.com/0732660d6b7a6d7af0e9cd5c2aa10b42/live_480p30.m3u8|Referer=https://c5cbbd6ac9eaf03edfff307f5e9a03d9.live/
 #EXTINF:0,بث المباراة 1 LOW
 https://c5c4c56e5a733add08a874c545109e3b.s3.eu-central-1.amazonaws.com/0732660d6b7a6d7af0e9cd5c2aa10b42/live_240p30.m3u8|Referer=https://c5cbbd6ac9eaf03edfff307f5e9a03d9.live/
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+#EXTINF:0,بث المباراة 1 FHD
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_1080p60.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+#EXTINF:0,بث المباراة 1 HD+
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_720p60.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+#EXTINF:0,بث المباراة 1 HD
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_720p30.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+#EXTINF:0,بث المباراة 1 SD
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_480p30.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+#EXTINF:0,بث المباراة 1 LOW
+https://1cf0b2be96992ae17e9d8357d9aa37e9e338af8c.s3.eu-central-1.amazonaws.com/72f025943979504dde807dd5396c135b41624518/live_240p30.m3u8|Referer=https://0dff1ec508b2e967fafef8baf2f30b7fef763f06.cam/
+
+
+
+
 
 
 
