@@ -4,15 +4,6 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-https://77c1ada0c3b03cca609125c761b4b950330e4390.s3.eu-central-1.amazonaws.com/1de0b3b5aec7bcb69e144c15592c09be47fd19f8/live.m3u8
-https://4e59ab73d53ecc322129b89eb6a1cd5b3ed2b32e.online/
-
-https://c5c4c56e5a733add08a874c545109e3b.s3.eu-central-1.amazonaws.com/5f88dff416a34a71024877dde7a1cb4c/live.m3u8
-https://c5c4c56e5a733add08a874c545109e3b.s3.eu-central-1.amazonaws.com/5f88dff416a34a71024877dde7a1cb4c/live.m3u8
-https://c5cbbd6ac9eaf03edfff307f5e9a03d9.live/
-https://c5cbbd6ac9eaf03edfff307f5e9a03d9.live/
-
-
 
 
 
@@ -381,4 +372,24 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 #EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world3
+
+
+
+
+#EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
+http://31.172.87.47:2200/EX/FR_France_2HD-fr/index.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3RifnpjfA==
+
+#EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 3]
+#EXTVLCOPT:http-user-agent=Rediptv Plus 2.0.9
+http://31.172.87.47:2200/EX/FR_France_2HD-fr/index.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3RifnpjfA==
+
+#EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 3]
+#EXTVLCOPT:http-user-agent=Rediptv Plus 2.0.9
+https://watch.redroidiptv.com/live%2Fhls%2F20%2FNL%2F45582f46525f4672616e63655f3248442d6672%2F1
+
+#EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
+https://watch.redroidiptv.com/live%2Fhls%2F20%2FNL%2F45582f46525f4672616e63655f3248442d6672%2F1
+
 
