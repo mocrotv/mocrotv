@@ -377,19 +377,19 @@ https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39a
 
 
 #EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
+#EXTVLCOPT:http-user-agent=Rediptv Plus 2.0.11
 http://31.172.87.47:2200/EX/FR_France_2HD-fr/index.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3RifnpjfA==
 
 #EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 3]
-#EXTVLCOPT:http-user-agent=Rediptv Plus 2.0.9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
 http://31.172.87.47:2200/EX/FR_France_2HD-fr/index.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVnc3RifnpjfA==
 
-#EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 3]
-#EXTVLCOPT:http-user-agent=Rediptv Plus 2.0.9
-https://watch.redroidiptv.com/live%2Fhls%2F20%2FNL%2F45582f46525f4672616e63655f3248442d6672%2F1
+#EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 03]
+#EXTVLCOPT:http-user-agent=Rediptv Plus 2.0.11
+https:\/\/watch.redroidiptv.com\/live\/hls\/20\/NL\/45582f4d42435f335f48442d6172\/1
 
-#EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 3]
+#EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 03]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://watch.redroidiptv.com/live%2Fhls%2F20%2FNL%2F45582f46525f4672616e63655f3248442d6672%2F1
+https:\/\/watch.redroidiptv.com\/live\/hls\/20\/NL\/45582f4d42435f335f48442d6172\/1
 
 
