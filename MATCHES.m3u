@@ -2,8 +2,8 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-https://b897726750c1e17fe1549cfdf81153a7.s3.eu-central-1.amazonaws.com/176c6a10a8e5f0524ff6ee358c6d1fbd/live.m3u8
-https://677b2c5453a7fe9a6c3520db2ec17e66.art/
+https://limom.s3.eu-central-1.amazonaws.com/grand/live.m3u8
+https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
 
 
 
@@ -12,17 +12,17 @@ https://677b2c5453a7fe9a6c3520db2ec17e66.art/
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
-https://b897726750c1e17fe1549cfdf81153a7.s3.eu-central-1.amazonaws.com/176c6a10a8e5f0524ff6ee358c6d1fbd/live.m3u8|Referer=https://677b2c5453a7fe9a6c3520db2ec17e66.art/
+https://limom.s3.eu-central-1.amazonaws.com/grand/live.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
 #EXTINF:0,بث المباراة 1 FHD
-https://b897726750c1e17fe1549cfdf81153a7.s3.eu-central-1.amazonaws.com/176c6a10a8e5f0524ff6ee358c6d1fbd/live_1080p60.m3u8|Referer=https://677b2c5453a7fe9a6c3520db2ec17e66.art/
+https://limom.s3.eu-central-1.amazonaws.com/grand/live_1080p60.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
 #EXTINF:0,بث المباراة 1 HD+
-https://b897726750c1e17fe1549cfdf81153a7.s3.eu-central-1.amazonaws.com/176c6a10a8e5f0524ff6ee358c6d1fbd/live_720p60.m3u8|Referer=https://677b2c5453a7fe9a6c3520db2ec17e66.art/
+https://limom.s3.eu-central-1.amazonaws.com/grand/live_720p60.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
 #EXTINF:0,بث المباراة 1 HD
-https://b897726750c1e17fe1549cfdf81153a7.s3.eu-central-1.amazonaws.com/176c6a10a8e5f0524ff6ee358c6d1fbd/live_720p30.m3u8|Referer=https://677b2c5453a7fe9a6c3520db2ec17e66.art/
+https://limom.s3.eu-central-1.amazonaws.com/grand/live_720p30.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
 #EXTINF:0,بث المباراة 1 SD
-https://b897726750c1e17fe1549cfdf81153a7.s3.eu-central-1.amazonaws.com/176c6a10a8e5f0524ff6ee358c6d1fbd/live_480p30.m3u8|Referer=https://677b2c5453a7fe9a6c3520db2ec17e66.art/
+https://limom.s3.eu-central-1.amazonaws.com/grand/live_480p30.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
 #EXTINF:0,بث المباراة 1 LOW
-https://b897726750c1e17fe1549cfdf81153a7.s3.eu-central-1.amazonaws.com/176c6a10a8e5f0524ff6ee358c6d1fbd/live_240p30.m3u8|Referer=https://677b2c5453a7fe9a6c3520db2ec17e66.art/
+https://limom.s3.eu-central-1.amazonaws.com/grand/live_240p30.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
 
 
 
