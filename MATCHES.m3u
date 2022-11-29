@@ -4,8 +4,11 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
+https://d-yum.s3.eu-central-1.amazonaws.com/hope/live.m3u8
+https://opplrem.autos/
 
-
+https://restaurantnear.s3.eu-central-1.amazonaws.com/about/live.m3u8
+https://oklivboopla.cfd/
 
 https://limom.s3.eu-central-1.amazonaws.com/grand/live.m3u8
 https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
@@ -17,18 +20,37 @@ https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
-https://limom.s3.eu-central-1.amazonaws.com/grand/live.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
+https://d-yum.s3.eu-central-1.amazonaws.com/hope/live.m3u8|Referer=https://opplrem.autos/
 #EXTINF:0,بث المباراة 1 FHD
-https://limom.s3.eu-central-1.amazonaws.com/grand/live_1080p60.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
+https://d-yum.s3.eu-central-1.amazonaws.com/hope/live_1080p60.m3u8|Referer=https://opplrem.autos/
 #EXTINF:0,بث المباراة 1 HD+
-https://limom.s3.eu-central-1.amazonaws.com/grand/live_720p60.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
+https://d-yum.s3.eu-central-1.amazonaws.com/hope/live_720p60.m3u8|Referer=https://opplrem.autos/
 #EXTINF:0,بث المباراة 1 HD
-https://limom.s3.eu-central-1.amazonaws.com/grand/live_720p30.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
+https://d-yum.s3.eu-central-1.amazonaws.com/hope/live_720p30.m3u8|Referer=https://opplrem.autos/
 #EXTINF:0,بث المباراة 1 SD
-https://limom.s3.eu-central-1.amazonaws.com/grand/live_480p30.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
+https://d-yum.s3.eu-central-1.amazonaws.com/hope/live_480p30.m3u8|Referer=https://opplrem.autos/
 #EXTINF:0,بث المباراة 1 LOW
-https://limom.s3.eu-central-1.amazonaws.com/grand/live_240p30.m3u8|Referer=https://e5a7c9-d1bcbe7e-1501e561e-c2e18a698.shop/
+https://d-yum.s3.eu-central-1.amazonaws.com/hope/live_240p30.m3u8|Referer=https://opplrem.autos/
 
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://restaurantnear.s3.eu-central-1.amazonaws.com/about/live.m3u8|Referer=https://oklivboopla.cfd/
+#EXTINF:0,بث المباراة 1 FHD
+https://restaurantnear.s3.eu-central-1.amazonaws.com/about/live_1080p60.m3u8|Referer=https://oklivboopla.cfd/
+#EXTINF:0,بث المباراة 1 HD+
+https://restaurantnear.s3.eu-central-1.amazonaws.com/about/live_720p60.m3u8|Referer=https://oklivboopla.cfd/
+#EXTINF:0,بث المباراة 1 HD
+https://restaurantnear.s3.eu-central-1.amazonaws.com/about/live_720p30.m3u8|Referer=https://oklivboopla.cfd/
+#EXTINF:0,بث المباراة 1 SD
+https://restaurantnear.s3.eu-central-1.amazonaws.com/about/live_480p30.m3u8|Referer=https://oklivboopla.cfd/
+#EXTINF:0,بث المباراة 1 LOW
+https://restaurantnear.s3.eu-central-1.amazonaws.com/about/live_240p30.m3u8|Referer=https://oklivboopla.cfd/
 
 
 
@@ -49,12 +71,11 @@ http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 1⚽️🇶🇦
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 1⚽️🇶🇦
-http://bone.badinan.xyz:1935/live/DUHOOKC/chunklist.m3u8
+http://duhoksport.badinan.xyz:1935/live/DUHOKSPORT/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 1⚽️🇶🇦
-http://stream.nubar.tv:1935/private/NUBARSport/index.m3u8
+http://stream.nubar.tv:1935/private/NUBARSport/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 1⚽️🇶🇦
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 1⚽️🇶🇦⚽️
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/bein1.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/3OlIsfy" group-title="▂▃▄▅▆▇▓▒░قنوات كاس العالم 2022░▒▓▇▆▅▄▃▂",FIFA World Cup Qatar 1⚽️🇶🇦⚽️
