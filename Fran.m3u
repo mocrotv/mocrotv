@@ -9,2312 +9,270 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-https://github.com/jean431/iptvsat/blob/29374c6071faa00d3b11880862807334c8191ff3/CanalSat
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Local",MBC 1
-https://hls.mbconline.xyz/live/MBC1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://w7.pngwing.com/pngs/248/17/png-transparent-mbc-1-mauritius-broadcasting-corporation-television-channel-others-television-angle-text-thumbnail.png" group-title="Local",MBC 2
-https://hls.mbconline.xyz/live/MBC2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="Local",MBC 3
-https://hls.mbconline.xyz/live/MBC3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine12" tvg-logo="https://mbcradio.tv/sites/default/files/cinetvlogo.png" group-title="Local",Cine12
-https://hls.mbconline.xyz/live/MBC12/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ystv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ys-logo.png" group-title="Local",Ystv
-https://hls.mbconline.xyz/live/YSTV/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Kreol17" tvg-logo="https://mbcradio.tv/sites/default/files/senn_kreol_0.png" group-title="Local",Kreol17
-https://hls.mbconline.xyz/live/education/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://mbcradio.tv/sites/default/files/BTV-logo.png" group-title="Local",BTV
-https://hls.mbconline.xyz/live/BTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Arte
-http://callofliberty.fr/stream/ARTE/master.m3u8
-
-#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="GENERALISTE",Antenne Réunion
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="GENERALISTE",France 2
-http://red.ipfox.org:8080/Karam2022/Karam2023/48199
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="GENERALISTE",France 3
-http://red.ipfox.org:8080/Karam2022/Karam2023/48197
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/France_4_logo.png" group-title="GENERALISTE",France 4
-http://red.ipfox.org:8080/Karam2022/Karam2023/48195
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/France_5_logo.png" group-title="GENERALISTE",France 5
-http://red.ipfox.org:8080/Karam2022/Karam2023/48193
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="GENERALISTE",TF1
-http://venomtt.com:8000/live/kdcxxD1U/543545/58.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="GENERALISTE",TF1 SERIES FILMS
-https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/512px-Logo_C8.svg.png" group-title="GENERALISTE",C8
-http://callofliberty.fr/stream/C8/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="GENERALISTE",M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",W9
-http://callofliberty.fr/stream/W9/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="GENERALISTE",WarnerTV
-http://venomtt.com:8000/live/kdcxxD1U/543545/22284.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",6Ter
-http://red.ipfox.org:8080/Karam2022/Karam2023/48087
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png" group-title="GENERALISTE",TFX
-https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="GENERALISTE",TMC
-https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TCM_Cin%C3%A9ma_logo_2019.png" group-title="FILM",TMC Cinema
-http://red.ipfox.org:8080/Karam2022/Karam2023/48129
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/1200px-T%C3%A9va_logo_2021.svg.png" group-title="GENERALISTE",Teva
-http://venomtt.com:8000/live/kdcxxD1U/543545/2637.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",SYFY
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96541.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_%28logo%29.svg/2044px-13e_rue_2010_%28logo%29.svg.png" group-title="GENERALISTE",13emeRue
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTL9
-http://red.ipfox.org:8080/Karam2022/Karam2023/48119
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="GENERALISTE",NRJ 12
-http://callofliberty.fr/stream/NRJ12/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",CSTAR
-http://callofliberty.fr/stream/CSTAR/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cuisine-tv-logo-png-transparent.png" group-title="GENERALISTE",Cuisines
-http://venomtt.com:8000/live/kdcxxD1U/543545/237704.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="GENERALISTE",MCM
-http://venomtt.com:8000/live/kdcxxD1U/543545/46212.ts
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",C Star Hits France
-http://red.ipfox.org:8080/Karam2022/Karam2023/48014
-
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+
-http://red.ipfox.org:8080/Karam2022/Karam2023/48187
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Séries
-http://red.ipfox.org:8080/Karam2022/Karam2023/48181
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ CINEMA
-http://red.ipfox.org:8080/Karam2022/Karam2023/48179
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Logo_Canal%2B_Grand_%C3%89cran_2022.svg/2560px-Logo_Canal%2B_Grand_%C3%89cran_2022.svg.png" group-title="CANAL+",Canal+ Grand Ecran
-http://red.ipfox.org:8080/Karam2022/Karam2023/48177
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="CANAL+",Canal+ KIDS
-http://red.ipfox.org:8080/Karam2022/Karam2023/48173
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Canalplus_fr_cine_plus_premier_hd.png" group-title="CANAL+",Cine+ Premier
-http://red.ipfox.org:8080/Karam2022/Karam2023/48163
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CANAL+",Cine+ Emotion
-http://red.ipfox.org:8080/Karam2022/Karam2023/48159
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CANAL+",Cine+ Frisson
-http://venomtt.com:8000/live/kdcxxD1U/543545/64.ts
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Cine_Cinema_Famiz_logo_2004.svg/1200px-Cine_Cinema_Famiz_logo_2004.svg.png" group-title="CANAL+",Cine+ Famiz
-http://venomtt.com:8000/live/kdcxxD1U/543545/65.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="CANAL+",Cine+ Club
-http://red.ipfox.org:8080/Karam2022/Karam2023/48155
-
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Action
-http://venomtt.com:8000/live/kdcxxD1U/543545/237776.ts
-
-#EXTINF:-1 tvg-logo="https://ayanawebzine.com/wp-content/uploads/2019/11/canalellles-300x157.png" group-title="CANAL+",Canal+ Elles
-http://venomtt.com:8000/live/kdcxxD1U/543545/237780.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Pop
-http://venomtt.com:8000/live/kdcxxD1U/543545/237775.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="INFO",France 24
-http://venomtt.com:8000/live/kdcxxD1U/543545/8096.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/b/b7/20191004125542%2113._La_Chaine_Parlementaire.png" group-title="INFO",LCP
-http://callofliberty.fr/stream/LCP/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/L_Equipe_Logo.svg/2560px-L_Equipe_Logo.svg.png" group-title="SPORT",L'EQUIPE
-http://callofliberty.fr/stream/LEQUIPE/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_L%27%C3%89quipe_21.svg/2065px-Logo_L%27%C3%89quipe_21.svg.png" group-title="SPORT",L'EQUIPE 21
-http://venomtt.com:8000/live/kdcxxD1U/543545/2554.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/2560px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="DOCUMENTAIRE",RMC Decouverte
-http://callofliberty.fr/stream/RMCDECOUVERTE/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.offremedia.com/sites/default/files/logo/fiche_media/maison-et-travaux-tv.png" group-title="DOCUMENTAIRE",Maison & Travaux TV
-http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png" group-title="DOCUMENTAIRE",Discovery Channel
-http://venomtt.com:8000/live/kdcxxD1U/543545/81034.ts
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="DOCUMENTAIRE",Discovery Investigation
-http://venomtt.com:8000/live/kdcxxD1U/543545/81037.ts
-
-#EXTINF:-1 tvg-logo="" group-title="INFO",BSMART
-http://callofliberty.fr/stream/BSMART/master.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="FILM",Action
-http://red.ipfox.org:8080/Karam2022/Karam2023/48200
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Addik_TV.svg/2560px-Addik_TV.svg.png" group-title="FILM",Addik TV
-http://venomtt.com:8000/live/kdcxxD1U/543545/202640.ts
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="DOCUMENTAIRE",National Geographic
-http://red.ipfox.org:8080/Karam2022/Karam2023/48074
-
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",NATgeowild
-http://red.ipfox.org:8080/Karam2022/Karam2023/48072
-
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/ushaiatv2.png" group-title="DOCUMENTAIRE",Ushuaia Tv
-http://red.ipfox.org:8080/Karam2022/Karam2023/48070
-
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Histoire
-http://red.ipfox.org:8080/Karam2022/Karam2023/48068
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Novelastv
-http://red.ipfox.org:8080/Karam2022/Karam2023/48118
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/640866681053704193/Qj0TW2Qi_400x400.jpg" group-title="GENERALISTE",Nina Tv
-http://venomtt.com:8000/live/kdcxxD1U/543545/237673.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/2560px-OCS_Max.svg.png" group-title="FILM",OCS Max
-http://red.ipfox.org:8080/Karam2022/Karam2023/48151
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/OCS_City.svg/1200px-OCS_City.svg.png" group-title="FILM",OCS City
-http://red.ipfox.org:8080/Karam2022/Karam2023/48149
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Choc.svg/2560px-OCS_Choc.svg.png" group-title="FILM",OCS Choc
-http://red.ipfox.org:8080/Karam2022/Karam2023/48147
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="DOCUMENTAIRE",Planete+
-http://red.ipfox.org:8080/Karam2022/Karam2023/48081
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dd/Planetepluscrime.png" group-title="DOCUMENTAIRE",Planete+ CRIME
-http://red.ipfox.org:8080/Karam2022/Karam2023/48079
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PLAN%C3%88TE%2B_A%26E.png/320px-PLAN%C3%88TE%2B_A%26E.png" group-title="DOCUMENTAIRE",Planete+ A&E
-http://venomtt.com:8000/live/kdcxxD1U/543545/65.ts
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/AB1_logo_1.png/640px-AB1_logo_1.png" group-title="GENERALISTE",AB1
-http://venomtt.com:8000/live/kdcxxD1U/543545/2537.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_AB3.png" group-title="GENERALISTE",AB3
-http://venomtt.com:8000/live/kdcxxD1U/543545/46190.ts
-
-
-#EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~84b8dbcf3066215a.png/1200x630/crop-from/top/quality/80/canal-top-14.png" group-title="SPORT",Canal+ Top14
-http://red.ipfox.org:8080/Karam2022/Karam2023/48171
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedie+
-http://red.ipfox.org:8080/Karam2022/Karam2023/48164
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="GENERALISTE",CHERIE 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-
-#EXTINF:1 tvg-logo="" group-title="GENERALISTE",Alpe d’Huez Tv
-https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mycomedy.fr/wp-content/uploads/2020/07/mycomedy-logo-ecrit-blanc-5.png" group-title="GENERALISTE",My Comedy
-https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/1031px-Canal_J_2019_Logo.png" group-title="Jeunesse",Canal J
-http://venomtt.com:8000/live/kdcxxD1U/543545/81071.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="Jeunesse",Cartoon Network
-http://venomtt.com:8000/live/kdcxxD1U/543545/373.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Jeunesse",Boing
-http://venomtt.com:8000/live/kdcxxD1U/543545/81066.ts
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Boomerang_tv_%282000-2004%29.png/1200px-Boomerang_tv_%282000-2004%29.png" group-title="Jeunesse",Boomerang
-http://venomtt.com:8000/live/kdcxxD1U/543545/378.ts
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Piwi%2B_logo_2011.png/640px-Piwi%2B_logo_2011.png" group-title="Jeunesse",Piwi+
-http://red.ipfox.org:8080/Karam2022/Karam2023/48060
-
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="Jeunesse",Disney Junior
-http://venomtt.com:8000/live/kdcxxD1U/543545/81069.ts
-
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/577-5779539_baby-tv-hd-baby-tv-hd-logo-hd.png" group-title="Jeunesse",Baby TV
-http://venomtt.com:8000/live/kdcxxD1U/543545/101671.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Jeunesse",TéléToon+
-http://red.ipfox.org:8080/Karam2022/Karam2023/48054
-
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",J-One
-http://venomtt.com:8000/live/kdcxxD1U/543545/81075.ts
-
-#EXTINF:1 tvg-logo="" group-title="Jeunesse",Gameone
-http://venomtt.com:8000/live/kdcxxD1U/543545/2557.ts
-
-#EXTINF:1 tvg-logo="" group-title="Jeunesse",Mangas
-http://venomtt.com:8000/live/kdcxxD1U/543545/81014.ts
-
-
-#EXTINF:1 tvg-logo="" group-title="Jeunesse",Toonami
-http://venomtt.com:8000/live/kdcxxD1U/543545/46184.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png" group-title="Jeunesse",TV PITCHOUN
-https://live.tvradio-pitchoun.fr/hls/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="Jeunesse",TIJI
-https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Jeunesse",GULLI
-https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfXVJgN.png" group-title="GENERALISTE",D5TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
-
-#EXTINF:-1 tvg-country="FR" tvg-logo="https://d5music.tv/wp-content/uploads/2020/07/LOGO-D5-MUSIC-BLANCROUGE_carre.png" group-title="MUSIC",D5 Music
-https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="MUSIC",M6 Music
-http://190.2.155.162:8080/m6music/mpegts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="MUSIC",TRACE URBAN Aus
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="MUSIC",TRACE URBAN FR
-http://red.ipfox.org:8080/Karam2022/Karam2023/48011
-
-
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/ourpic/u2q8q8y3q8w7i1e6_trace-africa-2013-trace-africa-logo-png" group-title="MUSIC",TRACE Africa
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145435.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vZBdsV/TRACE-CARIBBEAN-BASELINE.png" group-title="MUSIC",TRACE Caribbbean
-http://venomtt.com:8000/live/kdcxxD1U/543545/237663.ts
-
-#EXTINF:-1 tvg-id="MTVHitsFrance"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="MUSIC",MTV Hits France
-http://190.2.155.162:8080/mtvhit/mpegts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="MUSIC",MTVFrance
-http://190.2.155.162:8080/mtvfrance/mpegts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/2560px-Logo_Fun_Radio_%282021%29.svg.png" group-title="MUSIC",Fun Radio
-https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/imgv/TwbhoJi_bblack-africa-bblack-africa-logo-png-transparent-png" group-title="MUSIC",BBlack Africa
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145446.ts
-
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/imgv/TwbhoJi_bblack-africa-bblack-africa-logo-png-transparent-png" group-title="MUSIC",BBlack Carrabean
-http://venomtt.com:8000/live/kdcxxD1U/543545/46201.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",Afrobeats
-https://stream.ecable.tv/afrobeats/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2bwPnSg.png" group-title="FILM",Medi 1 TV
-https://streaming1.medi1tv.com/live/smil:medi1fr.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="FILM",NTV Afrique
-https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://play-lh.googleusercontent.com/E1ye7NcMuiEf_euQyCLSAKECwEMpF2MEUOKLD70OIZ54bShUgTTs-BwIIbFNU_f_8NI" group-title="FILM",Ivoire Channel
-https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlNVePCCQfPcnsP-6K4YihX7L91LlyMn7wg&usqp=CAU" group-title="FILM",My TV Channel
-http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5nYeBNN.jpg" group-title="FILM",Tele Haiti
-http://66.175.238.147:1935/live/myStream/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="RELIGION",KTO
-https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORT",BEINSPORT 1
-http://venomtt.com:8000/live/kdcxxD1U/543545/156435.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORT",BEINsport 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORT",BEINsport 3
-http://venomtt.com:8000/live/kdcxxD1U/543545/3370.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="SPORT",BEINsport 1 Hd
-http://venomtt.com:8000/live/kdcxxD1U/543545/3370.ts
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="SPORT",BEINsport 2 Hd
-http://venomtt.com:8000/live/kdcxxD1U/543545/3369.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="SPORT",BEINsport 3 Hd
-http://venomtt.com:8000/live/kdcxxD1U/543545/3368.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT",Canal+ Sport
-http://venomtt.com:8000/live/kdcxxD1U/543545/80996.ts
-
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/95/650/png-transparent-infosport-television-channel-logo-sky-news-sport-television-text-sport.png" group-title="SPORT",Infosport+
-http://venomtt.com:8000/live/kdcxxD1U/543545/81058.ts
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",RMC 1
-http://venomtt.com:8000/live/kdcxxD1U/543545/81047.ts
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",RMC 2
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96702.ts
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",FOOT+
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96747.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Automoto
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96759.ts
-
-
-
-
-#EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Jeunesse",ADN
-https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="FRBA330005784" tvg-chno="4351" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/81/FRBA330005784_20210811T022103.png" group-title="GENERALISTE",L'Atelier Des Chefs
-https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten TV Films Action 
-https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten TV Films Action 
-https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten Comedy Movies France 
-https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten Comedy Movies France 
-https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" tvg-logo="" group-title="FILM",Rakuten Spotlight France 
-https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" tvg-logo="" group-title="FILM",Rakuten Spotlight France 
-https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV BBC Doctor Who France 
-https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV BBC Drama 
-https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTAIRE",Rakuten TV Documentaires
-https://rakuten-documentaries-7-fr.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTAIRE",Rakuten TV Documentaires 
-https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Drames 
-https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Drames 
-https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Français 
-https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Thriller 
-https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERALISTE",Gusto TV
-https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Romance 
-https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Romance 
-https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Top Films 
-https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Top Films 
-https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,[FR] 13 eme Rue
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20115
-#EXTINF:-1,[FR] 6TER
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20116
-#EXTINF:-1,[FR] A la carte 01
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20117
-#EXTINF:-1,[FR] A la carte 02
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20118
-#EXTINF:-1,[FR] A la carte 03
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20119
-#EXTINF:-1,[FR] A la carte 04
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20120
-#EXTINF:-1,[FR] A la carte 05
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20121
-#EXTINF:-1,[FR] A la carte 06
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20122
-#EXTINF:-1,[FR] A la carte 07
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20123
-#EXTINF:-1,[FR] A la carte 08
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20124
-#EXTINF:-1,[FR] A la carte 09
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20125
-#EXTINF:-1,[FR] A la carte 10
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20126
-#EXTINF:-1,[FR] A la carte 11
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20127
-#EXTINF:-1,[FR] A la carte 12
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20128
-#EXTINF:-1,[FR] A la carte 13
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20129
-#EXTINF:-1,[FR] A la carte 14
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20130
-#EXTINF:-1,[FR] A la carte 15
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20131
-#EXTINF:-1,[FR] A la carte 16
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20132
-#EXTINF:-1,[FR] A la carte 17
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20133
-#EXTINF:-1,[FR] A la carte 18
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20134
-#EXTINF:-1,[FR] A la carte 19
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20135
-#EXTINF:-1,[FR] A la carte 20
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20136
-#EXTINF:-1,[FR] AB1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20137
-#EXTINF:-1,[FR] TF1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20238
-#EXTINF:-1,[FR] TF1 Series Films
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20239
-#EXTINF:-1,[FR] AB3
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20138
-#EXTINF:-1,[FR] Action
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20139
-#EXTINF:-1,[FR] Animaux
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20140
-#EXTINF:-1,[FR] Arte
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20141
-#EXTINF:-1,[FR] Baby TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20142
-#EXTINF:-1,[FR] BET Fr
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20143
-#EXTINF:-1,[FR] BIP TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20144
-#EXTINF:-1,[FR] Boing
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20145
-#EXTINF:-1,[FR] Boomerang
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20146
-#EXTINF:-1,[FR] Brava
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20147
-#EXTINF:-1,[FR] C8
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20148
-#EXTINF:-1,[FR] Canal J
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20149
-#EXTINF:-1,[FR] Canal+
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20150
-#EXTINF:-1,[FR] Canal+ Cinema
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20151
-#EXTINF:-1,[FR] Canal+ Decale
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20152
-#EXTINF:-1,[FR] Canal+ Kids
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20153
-#EXTINF:-1,[FR] Canal+ Series
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20154
-#EXTINF:-1,[FR] Cartoon Network
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20155
-#EXTINF:-1,[FR] cartoon Network **
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20156
-#EXTINF:-1,[FR] Chasse et Peche
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20157
-#EXTINF:-1,[FR] Cherie 25
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20158
-#EXTINF:-1,[FR] Cine+ Classic
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20159
-#EXTINF:-1,[FR] Cine+ Club
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20160
-#EXTINF:-1,[FR] Cine+ Emotion
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20161
-#EXTINF:-1,[FR] Cine+ Famiz
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20162
-#EXTINF:-1,[FR] Cine+ FRISSON
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20163
-#EXTINF:-1,[FR] Cine+ Polar
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20164
-#EXTINF:-1,[FR] Cine+ Premier
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20165
-#EXTINF:-1,[FR] COMEDIE+
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20166
-#EXTINF:-1,[FR] Crime District
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20167
-#EXTINF:-1,[FR] Cstar
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20168
-#EXTINF:-1,[FR] Discovery
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20169
-#EXTINF:-1,[FR] Discovery Family
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20170
-#EXTINF:-1,[FR] Discovery Invistagation
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20171
-#EXTINF:-1,[FR] Discovery Science
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20172
-#EXTINF:-1,[FR] Disney CHANNEL
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20173
-#EXTINF:-1,[FR] Disney Cinema
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20174
-#EXTINF:-1,[FR] Disney Junior
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20175
-#EXTINF:-1,[FR] Disney XD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20176
-#EXTINF:-1,[FR] ORANGE CINE+ 8
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20177
-#EXTINF:-1,[FR] E!
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20178
-#EXTINF:-1,[FR] Equidia Live
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20179
-#EXTINF:-1,[FR] France 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20180
-#EXTINF:-1,[FR] France 3
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20181
-#EXTINF:-1,[FR] France 4
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20182
-#EXTINF:-1,[FR] France 5
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20183
-#EXTINF:-1,[FR] France O
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20184
-#EXTINF:-1,[FR] Francophonie 24
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20185
-#EXTINF:-1,[FR] Game One
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20186
-#EXTINF:-1,[FR] GULLI
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20189
-#EXTINF:-1,[FR] Histoire
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20190
-#EXTINF:-1,[FR] J-One
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20191
-#EXTINF:-1,[FR] ORANGE CINE+ 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20192
-#EXTINF:-1,[FR] LCI
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20193
-#EXTINF:-1,[FR] M6
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20194
-#EXTINF:-1,[FR] M6 Music
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20195
-#EXTINF:-1,[FR] Mangas
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20196
-#EXTINF:-1,[FR] MaTele TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20197
-#EXTINF:-1,[FR] MCM
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20198
-#EXTINF:-1,[FR] MCM TOP
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20199
-#EXTINF:-1,[FR] Mezzo
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20200
-#EXTINF:-1,[FR] MS Comedy
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20201
-#EXTINF:-1,[FR] MTV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20202
-#EXTINF:-1,[FR] MTV DANCE
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20203
-#EXTINF:-1,[FR] MYComedy TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20204
-#EXTINF:-1,[FR] Nat Geo Wild
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20205
-#EXTINF:-1,[FR] National Geographic
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20206
-#EXTINF:-1,[FR] NICKELODEON
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20207
-#EXTINF:-1,[FR] Nickelodeon Junior
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20208
-#EXTINF:-1,[FR] Nickelodeon Teen
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20209
-#EXTINF:-1,[FR] Normande
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20210
-#EXTINF:-1,[FR] NRJ 12
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20211
-#EXTINF:-1,[FR] NRJ HITS
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20212
-#EXTINF:-1,[FR] OCS Choc
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20213
-#EXTINF:-1,[FR] OCS City
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20214
-#EXTINF:-1,[FR] Ocs Geants
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20215
-#EXTINF:-1,[FR] Ocs Max
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20216
-#EXTINF:-1,[FR] Orange Cinema *
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20217
-#EXTINF:-1,[FR] Paramount TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20218
-#EXTINF:-1,[FR] Paris Premi
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20219
-#EXTINF:-1,[FR] Piwi +
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20220
-#EXTINF:-1,[FR] Planete+
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20221
-#EXTINF:-1,[FR] Planete+ A&E
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20222
-#EXTINF:-1,[FR] Planete+ CI
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20223
-#EXTINF:-1,[FR] RFM
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20224
-#EXTINF:-1,[FR] RMC DECOUVERTE
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20225
-#EXTINF:-1,[FR] RMC Story *
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20226
-#EXTINF:-1,[FR] Rouge TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20227
-#EXTINF:-1,[FR] RTL 9
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20228
-#EXTINF:-1,[FR] Science et Vie
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20229
-#EXTINF:-1,[FR] SEASONS
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20230
-#EXTINF:-1,[FR] SERIE CLUB
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20231
-#EXTINF:-1,[FR] SyFy
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20232
-#EXTINF:-1,[FR] TCM Cinema
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20233
-#EXTINF:-1,[FR] ORANGE CINE+ 3
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20234
-#EXTINF:-1,[FR] ORANGE CINE+ 4
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20235
-#EXTINF:-1,[FR] Teletoon+
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20236
-#EXTINF:-1,[FR] Teva
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20237
-#EXTINF:-1,[FR] TFX
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20240
-#EXTINF:-1,[FR] Tiji
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20241
-#EXTINF:-1,[FR] TMC *
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20242
-#EXTINF:-1,[FR] Toonami
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20243
-#EXTINF:-1,[FR] Toute Histoire
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20244
-#EXTINF:-1,[FR] Trek
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20245
-#EXTINF:-1,[FR] Tv Breizh
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20246
-#EXTINF:-1,[FR] ORANGE CINE+ 5
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20247
-#EXTINF:-1,[FR] TV5 monde
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20248
-#EXTINF:-1,[FR] ORANGE CINE+ 6
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20249
-#EXTINF:-1,[FR] Ushuaia
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20250
-#EXTINF:-1,[FR] ORANGE CINE+ 7
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20251
-#EXTINF:-1,[FR] W9
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20252
-#EXTINF:-1,[FR] Warner TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20253
-#EXTINF:-1,[FR] Weo
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20254
-#EXTINF:-1,|FR| CANAL FlHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20284
-#EXTINF:-1,|FR| CANAL CINEMA FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20285
-#EXTINF:-1,|FR| CANAL DECALE FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20286
-#EXTINF:-1,|FR| CANAL FAMILY FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20287
-#EXTINF:-1,|FR| CANAL SERIES FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20288
-#EXTINF:-1,|FR| CANAL SPORT FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20289
-#EXTINF:-1,|FR| CINE+ CLASSIC FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20290
-#EXTINF:-1,|FR| CINE+ CLUB FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20291
-#EXTINF:-1,|FR| CINE+ EMOTION FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20292
-#EXTINF:-1,|FR| CINE+ FAMIZ FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20293
-#EXTINF:-1,|FR| CINE+ FRISSON FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20294
-#EXTINF:-1,|FR| CINE+ ¨POLAR FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20295
-#EXTINF:-1,|FR| CINE+ PREMIER FIHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20296
-#EXTINF:-1,|FR| TF1 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20298
-#EXTINF:-1,|FR| M6 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20300
-#EXTINF:-1,|FR| W9 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20302
-#EXTINF:-1,|FR| RMC STORY FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20305
-#EXTINF:-1,|FR| FRANCE 2  FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20308
-#EXTINF:-1,|FR| FRANCE 3 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20311
-#EXTINF:-1,|FR| FRANCE 4 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20312
-#EXTINF:-1,|FR| FRANCE 5 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20314
-#EXTINF:-1,|FR| CNEWS FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20318
-#EXTINF:-1,|FR| DJAZZ TV FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20324
-#EXTINF:-1,|FR| COMEDIE+ FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20369
-#EXTINF:-1,|FR| TV BREIZH FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20373
-#EXTINF:-1,|FR| AB1 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20381
-#EXTINF:-1,|FR| HD1 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20389
-#EXTINF:-1,FR|| CSTAR FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20392
-#EXTINF:-1,|FR| TOONAMI  FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20395
-#EXTINF:-1,|FR| CARTOON NETWORK FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20397
-#EXTINF:-1,|FR| DISNEY CINEMA  FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20404
-#EXTINF:-1,|FR| DISNEY XD FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20408
-#EXTINF:-1,|FR| BOING FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20414
-#EXTINF:-1,|FR| WEO FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20419
-#EXTINF:-1,|FR| VOYAGE FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20426
-#EXTINF:-1,|FR| NATIONAL GEO FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20429
-#EXTINF:-1,|FR| PLANETE+ A&E FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20438
-#EXTINF:-1,|FR| RMC DECOUVERTE FHD.
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20442
-#EXTINF:-1,[FR*] Bein Sports 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20255
-#EXTINF:-1,[FR*] Bein Sports 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20256
-#EXTINF:-1,[FR*] Bein Sports 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20257
-#EXTINF:-1,[FR*] Bein Sports Max 04
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20258
-#EXTINF:-1,[FR*] Bein Sports Max 05
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20259
-#EXTINF:-1,[FR*] Bein Sports Max 06
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20260
-#EXTINF:-1,[FR*] Bein Sports Max 07
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20261
-#EXTINF:-1,[FR*] Bein Sports Max 08
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20262
-#EXTINF:-1,[FR*] Bein Sports Max 09
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20263
-#EXTINF:-1,[FR*] Bein Sports Max 10
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20264
-#EXTINF:-1,[FR*] Canal+ Sport
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20265
-#EXTINF:-1,[FR*] Eurosport 1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20266
-#EXTINF:-1,[FR*] Eurosport 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20267
-#EXTINF:-1,[FR*] Extreme Sport
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20268
-#EXTINF:-1,[FR*] Foot +24/24
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20269
-#EXTINF:-1,[FR*] Golf+
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20270
-#EXTINF:-1,[FR*] Infosport
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20271
-#EXTINF:-1,[FR*] L'equipe
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20272
-#EXTINF:-1,[FR*] Motors TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20273
-#EXTINF:-1,[FR*] OLTV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20274
-#EXTINF:-1,[FR*] RMC Sport 1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20275
-#EXTINF:-1,[FR*] RMC SPORT 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20276
-#EXTINF:-1,[FR*] RMC Sport 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20277
-#EXTINF:-1,[FR*] RMC SPORT 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20278
-#EXTINF:-1,[FR*] RMC Sport 3
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20279
-#EXTINF:-1,[FR*] RMC SPORT 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20280
-#EXTINF:-1,[FR*] RMC Sport 4
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20281
-#EXTINF:-1,[FR*] RMC SPORT 4 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20282
-#EXTINF:-1,[FR*] RMC SPORT News
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20283
-#EXTINF:-1,FR - AMAZON PRIME VIDEO 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/35717
-#EXTINF:-1,FR - AMAZON PRIME VIDEO 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/35718
-#EXTINF:-1,FR - AMAZON PRIME VIDEO 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/35719
-#EXTINF:-1,FR - AMAZON PRIME VIDEO 4 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/35720
-#EXTINF:-1,FR - AMAZON PRIME VIDEO 5 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/35721
-#EXTINF:-1,FR - AMAZON PRIME VIDEO 6 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/35722
-#EXTINF:-1,FR - AMAZON PRIME VIDEO 7 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/35723
-#EXTINF:-1,FR - AMAZON PRIME VIDEO 8 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/35724
-
-
-
-
-#EXTINF:-1,----------- GENERALISTES -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20297
-#EXTINF:-1,|FR| TF1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20299
-#EXTINF:-1,|FR| M6 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20301
-#EXTINF:-1,|FR| W9 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20303
-#EXTINF:-1,|FR| ARTE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20304
-#EXTINF:-1,|FR| RMC STORY HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20306
-#EXTINF:-1,|FR| FRANCE O HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20307
-#EXTINF:-1,|FR| FRANCE 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20309
-#EXTINF:-1,|FR| FRANCE 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20310
-#EXTINF:-1,|FR| FRANCE 4 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20313
-#EXTINF:-1,|FR| FRANCE 5 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20315
-#EXTINF:-1,|FR| TFX HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20316
-#EXTINF:-1,|FR| TMC HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20317
-#EXTINF:-1,|FR| BFM TV HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20319
-#EXTINF:-1,|FR| EURONEWS
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20320
-#EXTINF:-1,|FR| FRANCE 24 FR
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20321
-#EXTINF:-1,|FR| TV5 MONDE INFO
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20322
-#EXTINF:-1,----------- BOUQUET MUSIQUE -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20323
-#EXTINF:-1,|FR| BRAVA HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20325
-#EXTINF:-1,|FR| MEZZO LIVE  HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20326
-#EXTINF:-1,|FR| VH1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20327
-#EXTINF:-1,|FR| MCM TOP HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20328
-#EXTINF:-1,|FR| TRACE URBAN HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20329
-#EXTINF:-1,|FR| M6 MUSIC HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20330
-#EXTINF:-1,|FR| NRJ HITS HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20331
-#EXTINF:-1,|FR| VIRGIN HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20332
-#EXTINF:-1,|FR| MTV MUSIC
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20333
-#EXTINF:-1,|FR| MTV HITS
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20334
-#EXTINF:-1,|FR| MTV BASE
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20335
-#EXTINF:-1,|FR| MTV DANCE
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20336
-#EXTINF:-1,----------- CANAL SAT CANAL+ -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20337
-#EXTINF:-1,|FR| CANAL+ HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20338
-#EXTINF:-1,|FR| CANAL+ CINEMA HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20339
-#EXTINF:-1,|FR| CANAL+ CINEMA
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20340
-#EXTINF:-1,|FR| CANAL+ SERIES HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20341
-#EXTINF:-1,|FR| CANAL+ SERIE
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20342
-#EXTINF:-1,|FR| CANAL+  FAMILY HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20343
-#EXTINF:-1,|FR| CANAL+  FAMILY
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20344
-#EXTINF:-1,|FR| CANAL+  DECALE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20345
-#EXTINF:-1,|FR| CANAL+  DECALE
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20346
-#EXTINF:-1,|FR| CANAL+  SPORT HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20347
-#EXTINF:-1,----------- BOUQUET OCS ORANGE -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20348
-#EXTINF:-1,|FR| OCS MAX HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20349
-#EXTINF:-1,|FR| OCS GEANTS HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20350
-#EXTINF:-1,|FR| OCS CHOC HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20351
-#EXTINF:-1,|FR| OCS CITY HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20352
-#EXTINF:-1,----------- BOUQUET CINEMA -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20353
-#EXTINF:-1,|FR| CINE+  PREMIER
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20354
-#EXTINF:-1,|FR| CINE+  PREMIER HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20355
-#EXTINF:-1,|FR| CINE+  FRISSON HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20356
-#EXTINF:-1,|FR| CINE+  FAMIZ HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20357
-#EXTINF:-1,|FR| CINE+  EMOTION HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20358
-#EXTINF:-1,|FR| CINE CLASSIC HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20359
-#EXTINF:-1,|FR| CINE+ CLUB HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20360
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20361
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20362
-#EXTINF:-1,|FR| TCM CINEMA HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20363
-#EXTINF:-1,|FR| ACTION HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20364
-#EXTINF:-1,----------- BOUQUET SERIES & DIVERTISSEMENTS -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20365
-#EXTINF:-1,|FR| E! HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20366
-#EXTINF:-1,|FR| BET HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20367
-#EXTINF:-1,|FR| MCM HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20368
-#EXTINF:-1,|FR| COMEDIE+ HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20370
-#EXTINF:-1,|FR| SYFY HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20371
-#EXTINF:-1,|FR| PARIS PREMIERE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20372
-#EXTINF:-1,|FR| TV BREIZH HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20374
-#EXTINF:-1,|FR| RTL9 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20375
-#EXTINF:-1,|FR| TEVA HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20376
-#EXTINF:-1,|FR| SERIE CLUB HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20377
-#EXTINF:-1,|FR| 13EME RUE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20378
-#EXTINF:-1,|FR| MTV FRANCE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20379
-#EXTINF:-1,|FR| AB1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20380
-#EXTINF:-1,|FR| AB3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20382
-#EXTINF:-1,|FR| J ONE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20383
-#EXTINF:-1,|FR| GAME ONE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20384
-#EXTINF:-1,|FR| CHERIE25 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20385
-#EXTINF:-1,|FR| NRJ12 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20386
-#EXTINF:-1,|FR| RTS UN HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20387
-#EXTINF:-1,|FR| 6TER HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20388
-#EXTINF:-1,|FR| HD1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20390
-#EXTINF:-1,|FR| C8 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20391
-#EXTINF:-1,|FR| CSTAR HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20393
-#EXTINF:-1,----------- BOUQUET ENFANTS -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20394
-#EXTINF:-1,|FR| TOONAMI  HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20396
-#EXTINF:-1,|FR| CARTOON NETWORK HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20398
-#EXTINF:-1,|FR| TELETOON+ HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20399
-#EXTINF:-1,|FR| ZOUZOU TV HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20400
-#EXTINF:-1,|FR| NICKELODEON JR HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20401
-#EXTINF:-1,|FR| NICKELODEON HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20402
-#EXTINF:-1,|FR| NICKELODEON 4TEEN HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20403
-#EXTINF:-1,|FR| DISNEY XD HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20405
-#EXTINF:-1,|FR| DISNEY CHANNEL  +1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20406
-#EXTINF:-1,|FR| DISNEY CHANNEL HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20407
-#EXTINF:-1,|FR| DISNEY XD HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20409
-#EXTINF:-1,|FR| PIWI HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20410
-#EXTINF:-1,|FR| CANAL J HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20411
-#EXTINF:-1,|FR| BOOMERANG HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20412
-#EXTINF:-1,|FR| MANGAS HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20413
-#EXTINF:-1,|FR| BOING HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20415
-#EXTINF:-1,|FR| DISNEY JUNIOR HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20416
-#EXTINF:-1,|FR| TIJI HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20417
-#EXTINF:-1,|FR| GULLI HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20418
-#EXTINF:-1,----------- BOUQUET DECOUVERTE -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20420
-#EXTINF:-1,|FR| DISCOVERY FAMILY HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20421
-#EXTINF:-1,|FR| CRIME DISTRICT HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20422
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20423
-#EXTINF:-1,|FR| DISCOVERY HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20424
-#EXTINF:-1,|FR| DISCOVERY SCIENCE  HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20425
-#EXTINF:-1,|FR| VOYAGE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20427
-#EXTINF:-1,|FR| NATIONAL GEO HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20428
-#EXTINF:-1,|FR| NATIONAL GEO WILD HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20430
-#EXTINF:-1,|FR| ANIMAUX HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20431
-#EXTINF:-1,|FR| CHASSE ET PECHE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20432
-#EXTINF:-1,|FR| SEASONS HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20433
-#EXTINF:-1,|FR| SCIENCES & VIE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20434
-#EXTINF:-1,|FR| TOUTE L HISTOIRE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20435
-#EXTINF:-1,|FR| HISTOIRE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20436
-#EXTINF:-1,|FR| USHUAIA TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20437
-#EXTINF:-1,|FR| PLANETE+ A&E HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20439
-#EXTINF:-1,|FR| PLANETE  CI HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20440
-#EXTINF:-1,|FR| PLANETE+ HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20441
-#EXTINF:-1,|FR| RMC DECOUVERTE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20443
-#EXTINF:-1,|FR| TREK HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20444
-#EXTINF:-1,----------- BOUQUET BELGES -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20445
-#EXTINF:-1,|BE| Q2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20446
-#EXTINF:-1,|BE| CINEMA 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20447
-#EXTINF:-1,|BE| BE SERIE
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20448
-#EXTINF:-1,|BE| CLUB RTL
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20449
-#EXTINF:-1,|BE| LA DEUX HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20450
-#EXTINF:-1,|BE| LA TROIS HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20451
-#EXTINF:-1,|BE| LA UNE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20452
-#EXTINF:-1,|BE| PLUG RTL
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20453
-#EXTINF:-1,|BE| RTL TVI HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20454
-#EXTINF:-1,|BE| VOO SPORT 1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20455
-#EXTINF:-1,|BE| VOO SPORT 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20456
-#EXTINF:-1,----------- CHAINES SUISSES -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20457
-#EXTINF:-1,|SUI| TELECLUB CINEMA
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20458
-#EXTINF:-1,|SUI| TELECLUB PRIME
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20459
-#EXTINF:-1,|SUI| TELECLUB SPORT 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20460
-#EXTINF:-1,|SUI| TELECLUB STAR
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20461
-#EXTINF:-1,----------- CHAINES CANALPLAY -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20462
-#EXTINF:-1,|FR| CANAL PLAY 1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20463
-#EXTINF:-1,|FR| CANAL PLAY 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20464
-#EXTINF:-1,|FR| CANAL PLAY 3
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20465
-#EXTINF:-1,|FR| CANAL PLAY 4
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20466
-#EXTINF:-1,|FR| CANAL PLAY 5
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20467
-#EXTINF:-1,|FR| CANAL PLAY 6
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20468
-#EXTINF:-1,----------- CHAINES A LA CARTE -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20469
-#EXTINF:-1,|FR|  A LA CARTE 1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20470
-#EXTINF:-1,|FR|  A LA CARTE 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20471
-#EXTINF:-1,|FR|  A LA CARTE 3
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20472
-#EXTINF:-1,|FR|  A LA CARTE 4
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20473
-#EXTINF:-1,|FR|  A LA CARTE 5
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20474
-#EXTINF:-1,|FR|  A LA CARTE 6
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20475
-#EXTINF:-1,|FR|  A LA CARTE 7
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20476
-#EXTINF:-1,|FR|  A LA CARTE 8
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20477
-#EXTINF:-1,|FR|  A LA CARTE 9
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20478
-#EXTINF:-1,|FR|  A LA CARTE 10
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20479
-#EXTINF:-1,----------- BOUQUET RMC  SPORTS -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20480
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20481
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20482
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20483
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20484
-#EXTINF:-1,----------- BOUQUET SPORT ET BEIN -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20485
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20486
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20487
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20488
-#EXTINF:-1,|FR| BEIN MAX 4 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20489
-#EXTINF:-1,|FR| BEIN MAX 5 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20490
-#EXTINF:-1,|FR| BEIN MAX 6 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20491
-#EXTINF:-1,|FR| BEIN MAX 7 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20492
-#EXTINF:-1,|FR| BEIN MAX 8 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20493
-#EXTINF:-1,|FR| BEIN MAX 9 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20494
-#EXTINF:-1,|FR| BEIN MAX 10 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20495
-#EXTINF:-1,----------- BOUQUET SPORT  ET INFO -----------
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20496
-#EXTINF:-1,|FR| EXTREME SPORT HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20497
-#EXTINF:-1,|FR| EUROSPORT 1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20498
-#EXTINF:-1,|FR| EUROSPORT 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20499
-#EXTINF:-1,|FR| FOOT+ 24/24
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20500
-#EXTINF:-1,|FR| L'EQUIPE 21 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20501
-#EXTINF:-1,|FR| GOLF+ HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20502
-#EXTINF:-1,|FR| OL TV HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20503
-#EXTINF:-1,|FR| INFOSPORT+ HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20504
-#EXTINF:-1,|FR| RMC NEWS SPORT HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20505
-#EXTINF:-1,|FR| EQUIDIA LIVE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20506
-#EXTINF:-1,|FR| EQUIDIA LIFE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20507
-#EXTINF:-1,|FR| AUTO MOTO HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20508
-#EXTINF:-1,|FR| KOMBAT SPORT
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/20509
-
-
-
-
-
-#EXTINF:-1,FR: RTS Un HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12262
-#EXTINF:-1,FR: RTS Deux HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12263
-#EXTINF:-1,FR: TF1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12264
-#EXTINF:-1,FR: TF1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12265
-#EXTINF:-1,FR: TF1 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12266
-#EXTINF:-1,FR: France 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12267
-#EXTINF:-1,FR: France 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12268
-#EXTINF:-1,FR: France 3
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12269
-#EXTINF:-1,FR: France 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12270
-#EXTINF:-1,FR: France 4 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12271
-#EXTINF:-1,FR: France 5
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12272
-#EXTINF:-1,FR: M6
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12273
-#EXTINF:-1,FR: M6 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12274
-#EXTINF:-1,FR: Syfy
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12275
-#EXTINF:-1,FR: Syfy FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12276
-#EXTINF:-1,FR: NT1 (TFX)
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12277
-#EXTINF:-1,FR: NT1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12278
-#EXTINF:-1,FR: W9 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12279
-#EXTINF:-1,FR: W9 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12280
-#EXTINF:-1,FR: TF1 Series Film FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12281
-#EXTINF:-1,FR: C-8 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12282
-#EXTINF:-1,FR: C8 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12283
-#EXTINF:-1,FR: C-Star HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12284
-#EXTINF:-1,FR: 6ter
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12285
-#EXTINF:-1,FR: 6ter HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12286
-#EXTINF:-1,FR: 6ter FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12287
-#EXTINF:-1,FR: RTL 9
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12288
-#EXTINF:-1,FR: RTL 9 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12289
-#EXTINF:-1,FR: 13eme Rue
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12290
-#EXTINF:-1,FR: AB1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12291
-#EXTINF:-1,FR: E!
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12292
-#EXTINF:-1,FR: serieclub
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12293
-#EXTINF:-1,FR: serie Club FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12294
-#EXTINF:-1,FR : CANAL+ HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12295
-#EXTINF:-1,FR: CANAL+ FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12296
-#EXTINF:-1,FR : CANAL+ Cinema HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12297
-#EXTINF:-1,FR: CANAL+ Cinema FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12298
-#EXTINF:-1,FR : CANAL+ Decale HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12299
-#EXTINF:-1,FR: CANAL+ Décalé FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12300
-#EXTINF:-1,FR : CANAL+ Family HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12301
-#EXTINF:-1,FR: CANAL+ Family FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12302
-#EXTINF:-1,FR : CANAL+ Series HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12303
-#EXTINF:-1,FR: CANAL+ Series FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12304
-#EXTINF:-1,FR: Ciné Polar
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12305
-#EXTINF:-1,FR: Ciné Polar HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12306
-#EXTINF:-1,FR: Ciné+ Emotion FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12307
-#EXTINF:-1,FR: Ciné+ Famiz HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12308
-#EXTINF:-1,FR: Ciné+ Frisson HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12309
-#EXTINF:-1,FR: Ciné Premier HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12310
-#EXTINF:-1,FR: Ciné+ Premier FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12311
-#EXTINF:-1,FR: Canal Play 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12312
-#EXTINF:-1,FR: Canal Play 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12313
-#EXTINF:-1,FR: Canal Play 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12314
-#EXTINF:-1,FR: A La Carte 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12315
-#EXTINF:-1,FR: A La Carte 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12316
-#EXTINF:-1,FR: A La Carte 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12317
-#EXTINF:-1,FR: A La Carte 4 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12318
-#EXTINF:-1,FR: A La Carte 5 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12319
-#EXTINF:-1,FR: OCS Choc
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12320
-#EXTINF:-1,FR: OCS Geants FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12321
-#EXTINF:-1,FR: OCS MAX FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12322
-#EXTINF:-1,FR: Orange Cinema 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12323
-#EXTINF:-1,FR: Orange Cinema 4 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12324
-#EXTINF:-1,FR: Orange Cinema HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12325
-#EXTINF:-1,FR: Orange Cinema Action HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12326
-#EXTINF:-1,FR: Orange Cinema Aventure HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12327
-#EXTINF:-1,FR: Orange Cinema Horreur HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12328
-#EXTINF:-1,FR: Paramount Channel HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12329
-#EXTINF:-1,FR: PARAMOUNT DECALE FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12330
-#EXTINF:-1,FR: TCM Cinéma HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12331
-#EXTINF:-1,FR: TCM Cinéma FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12332
-#EXTINF:-1,FR: TMC
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12333
-#EXTINF:-1,FR: Boing
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12334
-#EXTINF:-1,FR: Boing FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12335
-#EXTINF:-1,FR: Boomerang
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12336
-#EXTINF:-1,FR: Cartoon Network
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12337
-#EXTINF:-1,FR: Cartoon Network FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12338
-#EXTINF:-1,FR: Gulli HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12339
-#EXTINF:-1,FR: Nickelodeon FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12340
-#EXTINF:-1,FR: NICKELODEON 4 TEEN HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12341
-#EXTINF:-1,FR: Piwi+ FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12342
-#EXTINF:-1,FR: téléTOON+ HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12343
-#EXTINF:-1,FR: TELETOON +1 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12344
-#EXTINF:-1,FR: TOONAMI FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12345
-#EXTINF:-1,FR: Tiji HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12346
-#EXTINF:-1,FR: Canal J
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12347
-#EXTINF:-1,FR: Disney Channel HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12348
-#EXTINF:-1,FR: Disney Channel FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12349
-#EXTINF:-1,FR: Disney Channel +1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12350
-#EXTINF:-1,FR: DISNEY CHANNEL +1 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12351
-#EXTINF:-1,FR: Disney Cinema HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12352
-#EXTINF:-1,FR: Disney Cinema FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12353
-#EXTINF:-1,FR: Disney Junior HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12354
-#EXTINF:-1,FR: Disney Junior FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12355
-#EXTINF:-1,FR: Disney XD HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12356
-#EXTINF:-1,FR: Disney XD FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12357
-#EXTINF:-1,FR: Mangas HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12358
-#EXTINF:-1,FR: J-One
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12359
-#EXTINF:-1,FR: Game One
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12360
-#EXTINF:-1,FR: Discovery Channel HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12361
-#EXTINF:-1,FR: Discovery Channel FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12362
-#EXTINF:-1,FR: Discovery FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12363
-#EXTINF:-1,FR: Discovery Science HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12364
-#EXTINF:-1,FR: Discovery Science FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12365
-#EXTINF:-1,FR: Planète+ HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12366
-#EXTINF:-1,FR: Planète+ A&E HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12367
-#EXTINF:-1,FR: Planète+ CI HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12368
-#EXTINF:-1,FR: National Geographic HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12369
-#EXTINF:-1,FR: Nat Geo FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12370
-#EXTINF:-1,FR: Nat Geo Wild HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12371
-#EXTINF:-1,FR: Nat Geo Wild FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12372
-#EXTINF:-1,FR: Action FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12373
-#EXTINF:-1,FR: Animaux HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12374
-#EXTINF:-1,FR: Arte
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12375
-#EXTINF:-1,FR: Arte HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12376
-#EXTINF:-1,FR: AB Moteurs
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12377
-#EXTINF:-1,FR: Chasse et Pêche
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12378
-#EXTINF:-1,FR: KTO
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12379
-#EXTINF:-1,FR: M6 Music
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12380
-#EXTINF:-1,FR: MCM FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12381
-#EXTINF:-1,FR: MCM TOP HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12382
-#EXTINF:-1,FR: Mezzo Live HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12383
-#EXTINF:-1,FR: MEZZO LIVE FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12384
-#EXTINF:-1,FR: MTV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12385
-#EXTINF:-1,FR: MTV FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12386
-#EXTINF:-1,FR: MTV Hits
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12387
-#EXTINF:-1,FR: MTV HITS FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12388
-#EXTINF:-1,FR: NRJ Hits
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12389
-#EXTINF:-1,FR: beIN SPORTS 1 SD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12390
-#EXTINF:-1,FR: beIN SPORTS 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12391
-#EXTINF:-1,FR: beIN SPORTS 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12392
-#EXTINF:-1,FR: beIN SPORTS 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12393
-#EXTINF:-1,FR: beIN SPORTS MAX 4 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12394
-#EXTINF:-1,FR: beIN Sports MAX 4 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12395
-#EXTINF:-1,FR: beIN SPORTS MAX 5 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12396
-#EXTINF:-1,FR: beIN SPORTS MAX 6 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12397
-#EXTINF:-1,FR: beIN Sports MAX 6 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12398
-#EXTINF:-1,FR: beIN SPORTS MAX 7 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12399
-#EXTINF:-1,FR: beIN SPORTS MAX 8 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12400
-#EXTINF:-1,FR: beIN Sports MAX 8 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12401
-#EXTINF:-1,FR: beIN Sports MAX 9 FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12402
-#EXTINF:-1,FR: Equidia Live HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12403
-#EXTINF:-1,FR: BFM Sport FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12404
-#EXTINF:-1,FR: CANAL+ Sport FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12405
-#EXTINF:-1,FR: ciné CLASSIC HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12406
-#EXTINF:-1,FR: Eurosport 1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12407
-#EXTINF:-1,FR: Eurosport 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12408
-#EXTINF:-1,FR: FOOT+ 24/24
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12409
-#EXTINF:-1,FR: GOLF+ HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12410
-#EXTINF:-1,FR: GOLF+ FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12411
-#EXTINF:-1,FR: InfoSport+
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12412
-#EXTINF:-1,FR: C-News
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12413
-#EXTINF:-1,FR: C-News FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12414
-#EXTINF:-1,FR: Euronews
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12415
-#EXTINF:-1,FR: France 24
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12416
-#EXTINF:-1,FR: France Info
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12417
-#EXTINF:-1,FR: France Ô
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12418
-#EXTINF:-1,FR: i24NEWS
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12419
-#EXTINF:-1,FR: i24NEWS (B)
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12420
-#EXTINF:-1,FR: Histoire
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12421
-#EXTINF:-1,FR: Histoire FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12422
-#EXTINF:-1,FR: BFM Business FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12423
-#EXTINF:-1,FR: BFM TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12424
-#EXTINF:-1,FR: BFM TV HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12425
-#EXTINF:-1,FR: ALTICE STUDIO FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12426
-#EXTINF:-1,FR: Bet HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12427
-#EXTINF:-1,FR: BET FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12428
-#EXTINF:-1,FR: BRAVA FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12429
-#EXTINF:-1,FR: Weo HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12430
-#EXTINF:-1,FR: Clubbing TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12431
-#EXTINF:-1,FR: La Chaine Normande HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12432
-#EXTINF:-1,FR: LUXE TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12433
-#EXTINF:-1,FR: M6 Boutique
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12434
-#EXTINF:-1,FR: Ofive TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12435
-#EXTINF:-1,FR: OLTV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12436
-#EXTINF:-1,FR: ONE TV FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12437
-#EXTINF:-1,FR: Paris Premiere
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12438
-#EXTINF:-1,FR: RFM HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12439
-#EXTINF:-1,FR: RFM TV HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12440
-#EXTINF:-1,FR: RMC Decouverte HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12441
-#EXTINF:-1,FR: Science & Vie TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12442
-#EXTINF:-1,FR: Toute l'Histoire
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12443
-#EXTINF:-1,FR: TRACE TROPICAL FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12444
-#EXTINF:-1,FR: Trek HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12445
-#EXTINF:-1,FR: TV Breizh
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12446
-#EXTINF:-1,FR: TV Breizh HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12447
-#EXTINF:-1,FR: TV5 Monde
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12448
-#EXTINF:-1,FR: TV5 Monde FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12449
-#EXTINF:-1,FR: Ushuaïa TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12450
-#EXTINF:-1,FR: Ushuaia FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12451
-#EXTINF:-1,FR: Voyage
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12452
-#EXTINF:-1,FR: Voyage FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12453
-#EXTINF:-1,FR: Cherie25
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12454
-#EXTINF:-1,FR: SYFY HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12455
-#EXTINF:-1,FR: TeleToon + FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12456
-#EXTINF:-1,FR: TIJI FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12457
-#EXTINF:-1,FR: TMC HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12458
-#EXTINF:-1,FR: TV5 MONDE HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12459
-#EXTINF:-1,FR: MOTORSPORT TV HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12460
-#EXTINF:-1,FR: Discovery Investigation FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12461
-#EXTINF:-1,FR: Warner TV FHD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12462
-#EXTINF:-1,FR: Nickelodeon Junior HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/12463
-
-
-
-#EXTINF:-1,[FR] 13 eme Rue
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4965
-#EXTINF:-1,[FR] 6TER
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4966
-#EXTINF:-1,[FR] A la carte 01
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4967
-#EXTINF:-1,[FR] A la carte 02
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4968
-#EXTINF:-1,[FR] A la carte 03
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4969
-#EXTINF:-1,[FR] A la carte 04
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4970
-#EXTINF:-1,[FR] A la carte 05
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4971
-#EXTINF:-1,[FR] A la carte 06
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4972
-#EXTINF:-1,[FR] A la carte 07
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4973
-#EXTINF:-1,[FR] A la carte 08
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4974
-#EXTINF:-1,[FR] A la carte 09
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4975
-#EXTINF:-1,[FR] A la carte 10
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4976
-#EXTINF:-1,[FR] A la carte 11
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4977
-#EXTINF:-1,[FR] A la carte 12
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4978
-#EXTINF:-1,[FR] A la carte 13
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4979
-#EXTINF:-1,[FR] A la carte 14
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4980
-#EXTINF:-1,[FR] A la carte 15
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4981
-#EXTINF:-1,[FR] A la carte 16
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4982
-#EXTINF:-1,[FR] A la carte 17
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4983
-#EXTINF:-1,[FR] A la carte 18
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4984
-#EXTINF:-1,[FR] A la carte 19
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4985
-#EXTINF:-1,[FR] A la carte 20
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4986
-#EXTINF:-1,[FR] AB1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4987
-#EXTINF:-1,[FR] AB3
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4988
-#EXTINF:-1,[FR] Action
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4989
-#EXTINF:-1,[FR] Animaux
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4990
-#EXTINF:-1,[FR] Arte
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4991
-#EXTINF:-1,[FR] Baby TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4992
-#EXTINF:-1,[FR] BET Fr
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4993
-#EXTINF:-1,[FR] BIP TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4994
-#EXTINF:-1,[FR] Boing
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4995
-#EXTINF:-1,[FR] Boomerang
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4996
-#EXTINF:-1,[FR] Brava
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4997
-#EXTINF:-1,[FR] C8
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4998
-#EXTINF:-1,[FR] Canal J
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/4999
-#EXTINF:-1,[FR] Canal+
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5000
-#EXTINF:-1,[FR] Canal+ Cinema
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5001
-#EXTINF:-1,[FR] Canal+ Decale
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5002
-#EXTINF:-1,[FR] Canal+ Family
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5003
-#EXTINF:-1,[FR] Canal+ Series
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5004
-#EXTINF:-1,[FR] Cartoon Network
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5005
-#EXTINF:-1,[FR] Chasse et Peche
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5006
-#EXTINF:-1,[FR] Cherie 25
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5007
-#EXTINF:-1,[FR] Cine+ Classic
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5008
-#EXTINF:-1,[FR] Cine+ Emotion
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5009
-#EXTINF:-1,[FR] Cine+ Famiz
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5010
-#EXTINF:-1,[FR] Cine+ FRISSON
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5011
-#EXTINF:-1,[FR] Cine+ Premier
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5012
-#EXTINF:-1,[FR] Cine+ Club
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5013
-#EXTINF:-1,[FR] Cine+ Polar
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5014
-#EXTINF:-1,[FR] COMEDIE+
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5015
-#EXTINF:-1,[FR] Crime District
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5016
-#EXTINF:-1,[FR] Cstar
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5017
-#EXTINF:-1,[FR] Discovery Invistagation
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5018
-#EXTINF:-1,[FR] Discovery
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5019
-#EXTINF:-1,[FR] Discovery Science
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5020
-#EXTINF:-1,[FR] Disney CHANNEL
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5021
-#EXTINF:-1,[FR] Discovery Family
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5022
-#EXTINF:-1,[FR] Disney Cinema
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5023
-#EXTINF:-1,[FR] Disney Junior
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5024
-#EXTINF:-1,[FR] Disney XD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5025
-#EXTINF:-1,[FR] E!
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5026
-#EXTINF:-1,[FR] Equidia Live
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5027
-#EXTINF:-1,[FR] France 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5028
-#EXTINF:-1,[FR] France 3
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5029
-#EXTINF:-1,[FR] France 4
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5030
-#EXTINF:-1,[FR] France 5
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5031
-#EXTINF:-1,[FR] France O
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5032
-#EXTINF:-1,[FR] Francophonie 24
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5033
-#EXTINF:-1,[FR] Game One
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5034
-#EXTINF:-1,[FR] TMC *
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5036
-#EXTINF:-1,[FR] GULLI
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5038
-#EXTINF:-1,[FR] Histoire
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5039
-#EXTINF:-1,[FR] J-One
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5040
-#EXTINF:-1,[FR] La Tele
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5041
-#EXTINF:-1,[FR] M6
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5042
-#EXTINF:-1,[FR] M6 Music
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5043
-#EXTINF:-1,[FR] Mangas
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5044
-#EXTINF:-1,[FR] MaTele TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5045
-#EXTINF:-1,[FR] MCM
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5046
-#EXTINF:-1,[FR] MCM TOP
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5047
-#EXTINF:-1,[FR] Mezzo
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5048
-#EXTINF:-1,[FR] Warner TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5049
-#EXTINF:-1,[FR] MS Comedy
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5050
-#EXTINF:-1,[FR] MTV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5051
-#EXTINF:-1,[FR] MTV DANCE
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5052
-#EXTINF:-1,[FR] Nat Geo Wild
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5053
-#EXTINF:-1,[FR] National Geographic
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5054
-#EXTINF:-1,[FR] NICKELODEON
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5055
-#EXTINF:-1,[FR] Nickelodeon Junior
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5056
-#EXTINF:-1,[FR] Nickelodeon Teen
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5057
-#EXTINF:-1,[FR] NRJ 12
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5058
-#EXTINF:-1,[FR] NRJ HITS
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5059
-#EXTINF:-1,[FR] OCS Choc
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5060
-#EXTINF:-1,[FR] OCS City
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5061
-#EXTINF:-1,[FR] Ocs Geants
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5062
-#EXTINF:-1,[FR] Ocs Max
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5063
-#EXTINF:-1,[FR] Paris Premi
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5064
-#EXTINF:-1,[FR] Piwi +
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5065
-#EXTINF:-1,[FR] Planete+ A&E
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5066
-#EXTINF:-1,[FR] Planete+ CI
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5067
-#EXTINF:-1,[FR] Planete+
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5068
-#EXTINF:-1,[FR] Paramount TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5069
-#EXTINF:-1,[FR] RMC DECOUVERTE
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5070
-#EXTINF:-1,[FR] LCI
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5071
-#EXTINF:-1,[FR] RMC Story *
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5072
-#EXTINF:-1,[FR] Rouge TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5073
-#EXTINF:-1,[FR] RTL 9
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5074
-#EXTINF:-1,[FR] Science et Vie
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5075
-#EXTINF:-1,[FR] SEASONS
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5076
-#EXTINF:-1,[FR] SERIE CLUB
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5077
-#EXTINF:-1,[FR] SyFy
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5078
-#EXTINF:-1,[FR] TCM Cinema
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5079
-#EXTINF:-1,[FR] Tebeo
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5080
-#EXTINF:-1,[FR] Tebesud
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5081
-#EXTINF:-1,[FR] Teletoon+
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5082
-#EXTINF:-1,[FR] Teva
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5083
-#EXTINF:-1,[FR] TF1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5084
-#EXTINF:-1,[FR] TF1 Series Films
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5085
-#EXTINF:-1,[FR] TFX
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5086
-#EXTINF:-1,[FR] Tiji
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5087
-#EXTINF:-1,[FR] Orange Cinema *
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5088
-#EXTINF:-1,[FR] Toonami
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5089
-#EXTINF:-1,[FR] Toute Histoire
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5090
-#EXTINF:-1,[FR] Trek
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5091
-#EXTINF:-1,[FR] Tv Breizh
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5092
-#EXTINF:-1,[FR] TV Francophone
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5093
-#EXTINF:-1,[FR] TV5 monde
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5094
-#EXTINF:-1,[FR] TVPI Bayonne
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5095
-#EXTINF:-1,[FR] Ushuaia
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5096
-#EXTINF:-1,[FR] VOYAGE
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5097
-#EXTINF:-1,[FR] W9
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5098
-#EXTINF:-1,[FR] Weo
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5099
-#EXTINF:-1,[FR] RFM
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5100
-#EXTINF:-1,[FR*] Automoto
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5101
-#EXTINF:-1,[FR*] Bein Sports 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5102
-#EXTINF:-1,[FR*] Bein Sports 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5103
-#EXTINF:-1,[FR*] Bein Sports 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5104
-#EXTINF:-1,[FR*] Bein Sports Max 10
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5105
-#EXTINF:-1,[FR*] Bein Sports Max 4
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5106
-#EXTINF:-1,[FR*] Bein Sports Max 5
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5107
-#EXTINF:-1,[FR*] Bein Sports Max 6
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5108
-#EXTINF:-1,[FR*] Bein Sports Max 7
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5109
-#EXTINF:-1,[FR*] Bein Sports Max 8
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5110
-#EXTINF:-1,[FR*] Bein Sports Max 9
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5111
-#EXTINF:-1,[FR*] Canal+ Sport
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5112
-#EXTINF:-1,[FR*] Eurosport 1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5113
-#EXTINF:-1,[FR*] Eurosport 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5114
-#EXTINF:-1,[FR*] Extreme Sport
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5115
-#EXTINF:-1,[FR*] Foot +24/24
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5116
-#EXTINF:-1,[FR*] Golf+
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5117
-#EXTINF:-1,[FR*] Infosport
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5118
-#EXTINF:-1,[FR*] L'equipe
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5119
-#EXTINF:-1,[FR*] Motors TV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5120
-#EXTINF:-1,[FR*] OLTV
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5121
-#EXTINF:-1,[FR] IDF
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5122
-#EXTINF:-1,[FR*] RMC Sport 1
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5123
-#EXTINF:-1,[FR*] RMC SPORT 1 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5124
-#EXTINF:-1,[FR*] RMC Sport 2
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5125
-#EXTINF:-1,[FR*] RMC SPORT 2 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5126
-#EXTINF:-1,[FR*] RMC Sport 3
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5127
-#EXTINF:-1,[FR*] RMC SPORT 3 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5128
-#EXTINF:-1,[FR*] RMC Sport 4
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5129
-#EXTINF:-1,[FR*] RMC SPORT 4 HD
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/5130
-#EXTINF:-1,[FR*] RMC SPORT News
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/513
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,FR: FRANCE 2 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118318
-#EXTINF:-1,FR: FRANCE 24 FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118319
-#EXTINF:-1,FR: FRANCE 3 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118320
-#EXTINF:-1,FR: FRANCE 5 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118322
-#EXTINF:-1,FR: FRANCE INFO FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118323
-#EXTINF:-1,FR: FRANCE O HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118324
-#EXTINF:-1,FR: M6 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118327
-#EXTINF:-1,FR: M6 MUSIC SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118328
-#EXTINF:-1,FR: M6 SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118329
-#EXTINF:-1,FR: GAME ONE FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118330
-#EXTINF:-1,FR: 13 EME RUE HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118331
-#EXTINF:-1,FR: 6TER FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118332
-#EXTINF:-1,FR: ARTE HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118337
-#EXTINF:-1,FR: AUTO MOTO HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118338
-#EXTINF:-1,FR: BEIN SPORT 1 FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118340
-#EXTINF:-1,FR: BEIN SPORT 2 FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118341
-#EXTINF:-1,FR: BEIN SPORT 3 FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118342
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118343
-#EXTINF:-1,FR: BEIN SPORTS 2 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118344
-#EXTINF:-1,FR: BEIN SPORTS 3 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118345
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118346
-#EXTINF:-1,FR: BEIN SPORTS MAX 5 SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118347
-#EXTINF:-1,FR: BEIN SPORTS MAX 6 SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118348
-#EXTINF:-1,FR: BEIN SPORTS MAX 7 SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118349
-#EXTINF:-1,FR: BEIN SPORTS MAX 8 SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118350
-#EXTINF:-1,FR: BEIN SPORTS MAX 9 SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118351
-#EXTINF:-1,FR: BEIN SPORTS MAX 10 SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118352
-#EXTINF:-1,FR: C8 FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118353
-#EXTINF:-1,FR: CANAL SERIE FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118354
-#EXTINF:-1,FR: CANAL+ CINEMA HD+
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118355
-#EXTINF:-1,FR: CANAL+ FAMILY HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118356
-#EXTINF:-1,FR: CANAL CINEMA HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118359
-#EXTINF:-1,FR: CANAL DECALE HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118360
-#EXTINF:-1,FR: Canal Family SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118362
-#EXTINF:-1,FR: CANAL J HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118363
-#EXTINF:-1,FR: CANAL SERIES HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118365
-#EXTINF:-1,FR: Canal.Cinema SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118366
-#EXTINF:-1,FR: CARTOON NETWORK FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118368
-#EXTINF:-1,FR: CHASSE ET PECHE FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118369
-#EXTINF:-1,FR: Cina.Premier SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118370
-#EXTINF:-1,FR: CINE CLASSIC HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118371
-#EXTINF:-1,FR: CINE CLUB HD+
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118372
-#EXTINF:-1,FR: CINE+ EMOTION HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118373
-#EXTINF:-1,FR: CINE FAMIZ HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118374
-#EXTINF:-1,FR: CINE FRISSON HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118375
-#EXTINF:-1,FR: POLAR FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118376
-#EXTINF:-1,FR: CINE PREMIER HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118377
-#EXTINF:-1,FR: CINE CLUB HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118378
-#EXTINF:-1,FR: Cine Emotion SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118379
-#EXTINF:-1,FR: Cine Frisson SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118380
-#EXTINF:-1,FR: CNEWS HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118382
-#EXTINF:-1,FR: COMEDIE HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118383
-#EXTINF:-1,FR: CRIME DISTRICT HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118385
-#EXTINF:-1,FR: CSTAR HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118386
-#EXTINF:-1,FR: DISCOVERY FAMILY HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118387
-#EXTINF:-1,FR: DISCOVERY SCIENCE FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118390
-#EXTINF:-1,FR: DISNEY CINEMA HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118391
-#EXTINF:-1,FR: Disney Junior HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118392
-#EXTINF:-1,FR: DISNEY XD HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118393
-#EXTINF:-1,FR: Disney.Channel SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118394
-#EXTINF:-1,FR: E! ENTERTAINMENT FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118395
-#EXTINF:-1,FR: EQUIDIA HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118397
-#EXTINF:-1,FR: Equidia Live SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118398
-#EXTINF:-1,FR: EURONEWS HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118399
-#EXTINF:-1,FR: EUROSPORT 1 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118400
-#EXTINF:-1,FR: EUROSPORT 2 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118401
-#EXTINF:-1,FR: FOOT 24
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118403
-#EXTINF:-1,FR: GOLF HD+
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118404
-#EXTINF:-1,FR: GULLI FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118405
-#EXTINF:-1,FR: HISTOIRE HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118406
-#EXTINF:-1,FR: LA DEUX HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118408
-#EXTINF:-1,FR: MTV HITS SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118410
-#EXTINF:-1,FR: COMEDie +HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118411
-#EXTINF:-1,FR: MY CUISINE FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118412
-#EXTINF:-1,FR: NAT GEO WILD HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118413
-#EXTINF:-1,FR: National Geographic FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118414
-#EXTINF:-1,FR: NICKELODEON HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118415
-#EXTINF:-1,FR: NICKELODEON JR HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118416
-#EXTINF:-1,FR: NICKELODEON JUNIOR FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118417
-#EXTINF:-1,FR: NICKELODEON HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118418
-#EXTINF:-1,FR: Nickelodeon Junior SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118419
-#EXTINF:-1,FR: NRJ 12 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118420
-#EXTINF:-1,FR: NRJ HITS HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118421
-#EXTINF:-1,FR: j-ONE
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118422
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118423
-#EXTINF:-1,FR: Paris Premiere HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118424
-#EXTINF:-1,FR: PLANETE CI HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118425
-#EXTINF:-1,FR: PLANETE FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118426
-#EXTINF:-1,FR: RMC.Decouverte SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118438
-#EXTINF:-1,FR: RTL9 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118439
-#EXTINF:-1,FR: SCIENCE & VIE TV HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118440
-#EXTINF:-1,FR: SYFY FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118441
-#EXTINF:-1,FR: TCM.Cinema HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118442
-#EXTINF:-1,FR: A LA CARTE 1 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118443
-#EXTINF:-1,FR: A LA CARTE 2 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118444
-#EXTINF:-1,FR: A LA CARTE 3 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118445
-#EXTINF:-1,FR: A LA CARTE 4 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118446
-#EXTINF:-1,FR: A LA CARTE 5 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118447
-#EXTINF:-1,FR: A LA CARTE 6 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118448
-#EXTINF:-1,FR: A LA CARTE 7 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118449
-#EXTINF:-1,FR: TF1 HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118450
-#EXTINF:-1,FR: TF1 SERIES/FILMS HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118451
-#EXTINF:-1,FR: TFX HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118452
-#EXTINF:-1,FR: TELETOON FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118453
-#EXTINF:-1,FR: TEVA HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118454
-#EXTINF:-1,FR: TRACE AFRICA HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118455
-#EXTINF:-1,FR: TRACE LATINA HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118458
-#EXTINF:-1,FR: TRACE MZIKI HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118459
-#EXTINF:-1,FR: TRACE TOCA HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118460
-#EXTINF:-1,FR: Trace.Gospel SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118461
-#EXTINF:-1,FR: Trace.Naija SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118462
-#EXTINF:-1,FR: Trace.Urban SD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118463
-#EXTINF:-1,FR: TREK HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118464
-#EXTINF:-1,FR: Voyage HD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118465
-#EXTINF:-1,FR: W9 FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118466
-#EXTINF:-1,FR: WARNER TV FHD
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118467
-#EXTINF:-1,FR: Canalplay 1
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118468
-#EXTINF:-1,FR: Canalplay 2
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118469
-#EXTINF:-1,FR: Canalplay 3
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118470
-#EXTINF:-1,FR: Canalplay 4
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118471
-#EXTINF:-1,FR: Canalplay 5
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118472
-#EXTINF:-1,FR: Canalplay 6
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118473
-#EXTINF:-1,FR: Canalplay 7
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118474
-#EXTINF:-1,FR: Canalplay 8
-http://line.365tv.xyz:8060/HomeTV/ffdgbr564646hghngytrtt/118475
-
-
+#EXTINF:-1,-----| RMC SPORT FHD |-----
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126917
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126919
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126920
+#EXTINF:-1,|FR| RMC SPORT LIVE  3 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126921
+#EXTINF:-1,|FR| RMC SPORT LIVE  4 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126922
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126923
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126924
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126925
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126926
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126927
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126928
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126929
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126930
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126931
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126932
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126933
+#EXTINF:-1,-----| BEIN SPORTS FHD |-----
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126934
+#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126935
+#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126936
+#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126937
+#EXTINF:-1,|FR| BEIN MAX 4 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126938
+#EXTINF:-1,|FR| BEIN MAX 5 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126939
+#EXTINF:-1,|FR| BEIN MAX 6 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126940
+#EXTINF:-1,|FR| BEIN MAX 7 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126941
+#EXTINF:-1,|FR| BEIN MAX 8 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126942
+#EXTINF:-1,|FR| BEIN MAX 9 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126943
+#EXTINF:-1,|FR| BEIN MAX 10 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126944
+#EXTINF:-1,-----| SPORTS FHD |-----
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126945
+#EXTINF:-1,|FR| MULTISPORTS 1 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126946
+#EXTINF:-1,|FR| MULTISPORTS 2 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126947
+#EXTINF:-1,|FR| MULTISPORTS 3 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126948
+#EXTINF:-1,|FR| MULTISPORTS 4 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126949
+#EXTINF:-1,|FR| MULTISPORTS 5 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126950
+#EXTINF:-1,|FR| MULTISPORTS 6 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126951
+#EXTINF:-1,|FR| OL TV FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126952
+#EXTINF:-1,|FR| INFOSPORT+ FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126954
+#EXTINF:-1,|FR| L EQUIPE FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126955
+#EXTINF:-1,|FR| EQUIDIA LIVE FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126956
+#EXTINF:-1,|FR| EUROSPORT 1 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126957
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126958
+#EXTINF:-1,|FR| AUTOMOTO FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126959
+#EXTINF:-1,|FR| GOLF+ FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126960
+#EXTINF:-1,|FR| GOLF CHANNEL FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/157031
+#EXTINF:-1,|FR| ES1 FHD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126961
+#EXTINF:-1,-----| RMC SPORT SD |-----
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126998
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127000
+#EXTINF:-1,|FR| RMC SPORT 2 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127001
+#EXTINF:-1,|FR| RMC SPORT LIVE 3 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127002
+#EXTINF:-1,|FR| RMC SPORT LIVE 4 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127003
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127004
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127005
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127006
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127007
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127008
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127009
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127010
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127011
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127012
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127013
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127014
+#EXTINF:-1,-----| BEIN SPORTS SD |-----
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127015
+#EXTINF:-1,|FR| BEIN SPORT 1 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127016
+#EXTINF:-1,|FR| BEIN SPORT 2 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127017
+#EXTINF:-1,|FR| BEIN SPORT 3 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127018
+#EXTINF:-1,-----| SPORTS SD |-----
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127019
+#EXTINF:-1,|FR| MULTI SPORTS 1 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127020
+#EXTINF:-1,|FR| MULTI SPORTS 2 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127021
+#EXTINF:-1,|FR| MULTI SPORTS 3 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127022
+#EXTINF:-1,|FR| MULTI SPORTS 4 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127023
+#EXTINF:-1,|FR| MULTI SPORTS 5 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127024
+#EXTINF:-1,|FR| MULTI SPORTS 6 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127025
+#EXTINF:-1,|FR| EUROSPORT 1 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127026
+#EXTINF:-1,|FR| EUROSPORT 2 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127027
+#EXTINF:-1,|FR| INFOSPORT+ SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127029
+#EXTINF:-1,|FR| L EQUIPE 21 SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127030
+#EXTINF:-1,|FR| EQUIDIA LIVE SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127031
+#EXTINF:-1,|FR| AUTOMOTO SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127032
+#EXTINF:-1,|FR| GOLF+ SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/127033
+#EXTINF:-1,|FR| GOLF CHANNEL SD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/176451
+#EXTINF:-1,-----| RMC SPORT HEVC |-----
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126962
+#EXTINF:-1,|FR| RMC SPORT 1 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126964
+#EXTINF:-1,|FR| RMC SPORT 2 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126965
+#EXTINF:-1,|FR| RMC SPORT LIVE 3 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126966
+#EXTINF:-1,|FR| RMC SPORT LIVE 4 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126967
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126968
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126969
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126970
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126971
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126972
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126973
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126974
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126975
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126976
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126977
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126978
+#EXTINF:-1,-----| BEIN SPORTS HEVC |-----
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126979
+#EXTINF:-1,|FR| BEIN SPORT 1 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126980
+#EXTINF:-1,|FR| BEIN SPORT 2 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126981
+#EXTINF:-1,|FR| BEIN SPORT 3 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126982
+#EXTINF:-1,-----| SPORTS HEVC |-----
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126983
+#EXTINF:-1,|FR| MULTI SPORTS 1 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126984
+#EXTINF:-1,|FR| MULTI SPORTS 2 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126985
+#EXTINF:-1,|FR| MULTI SPORTS 4 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126986
+#EXTINF:-1,|FR| MULTI SPORTS 3 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126987
+#EXTINF:-1,|FR| MULTI SPORTS 5 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126988
+#EXTINF:-1,|FR| MULTI SPORTS 6 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126989
+#EXTINF:-1,|FR| INFOSPORT+ HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126991
+#EXTINF:-1,|FR| L EQUIPE 21 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126992
+#EXTINF:-1,|FR| EQUIDIA LIVE HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126993
+#EXTINF:-1,|FR| EUROSPORT 1 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126994
+#EXTINF:-1,|FR| EUROSPORT 2 HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126995
+#EXTINF:-1,|FR| AUTOMOTO HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126996
+#EXTINF:-1,|FR| GOLF CHANNEL HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/176452
+#EXTINF:-1,|FR| GOLF+ HEVC
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/126997
+#EXTINF:-1,-----| AMAZON PRIME |-----	
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/135609
+#EXTINF:-1,|FR| AMAZON PRIME MULTIPLEX
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/170138
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 1 HD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/141641
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 2 HD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/141642
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 3 HD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/141643
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 4 HD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/141644
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 5 HD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/141645
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 6 HD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/141646
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 7 HD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/141647
+#EXTINF:-1,|FR| AMAZON PRIME LEAGUE 8 HD
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/141648
+#EXTINF:-1,|FR| AMAZON PRIME 1 HD LEAGUE 2
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/170139
+#EXTINF:-1,|FR| AMAZON PRIME 2 HD LEAGUE 2
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/170140
+#EXTINF:-1,|FR| AMAZON PRIME 3 HD LEAGUE 2
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/170141
+#EXTINF:-1,|FR| AMAZON PRIME 4 HD LEAGUE 2
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/170142
+#EXTINF:-1,|FR| AMAZON PRIME 5 HD LEAGUE 2
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/170143
+#EXTINF:-1,|FR| AMAZON PRIME 6 HD LEAGUE 2
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/170144
+#EXTINF:-1,|FR| AMAZON PRIME 7 HD LEAGUE 2
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/170145
+#EXTINF:-1,|FR| AMAZON PRIME 8 HD LEAGUE 2
+http://sansat.net:25461/963MVU2UBGKRJFJ/CNRMAB0ZTU8HDVO/170146
 
 
 
