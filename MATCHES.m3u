@@ -3,20 +3,28 @@
 https://i.imgur.com/5Wiki1T.jpg
 
 
-https://5124800a3c70bf09f31513b5f3370961.s3.eu-central-1.amazonaws.com/1ff1554d4e1c4fc211bf971285d82e96/live.m3u8
-
-https://hamel11.s3.eu-central-1.amazonaws.com/hamel1/live.m3u8
-https://oodahn0gai8.quest/
+https://tx-livepull-test2.ihago.net/live/support.m3u8
+https://da0sethasaix.pics/
 
 
-
-https://socks-live.s3.amazonaws.com/f/live.m3u8
-https://auy7quie8ch.space/
 
 
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://tx-livepull-test2.ihago.net/live/support.m3u8|Referer=https://da0sethasaix.pics/
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -35,25 +43,6 @@ https://5124800a3c70bf09f31513b5f3370961.s3.eu-central-1.amazonaws.com/1ff1554d4
 
 
 
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 1
-https://socks-live.s3.amazonaws.com/f/live.m3u8|Referer=https://auy7quie8ch.space/
-#EXTINF:0,بث المباراة 1 FHD
-https://socks-live.s3.amazonaws.com/f/live_1080p60.m3u8|Referer=https://auy7quie8ch.space/
-#EXTINF:0,بث المباراة 1 HD+
-https://socks-live.s3.amazonaws.com/f/live_720p60.m3u8|Referer=https://auy7quie8ch.space/
-#EXTINF:0,بث المباراة 1 HD
-https://socks-live.s3.amazonaws.com/f/live_720p30.m3u8|Referer=https://auy7quie8ch.space/
-#EXTINF:0,بث المباراة 1 SD
-https://socks-live.s3.amazonaws.com/f/live_480p30.m3u8|Referer=https://auy7quie8ch.space/
-#EXTINF:0,بث المباراة 1 LOW
-https://socks-live.s3.amazonaws.com/f/live_240p30.m3u8|Referer=https://auy7quie8ch.space/
 
 
 
