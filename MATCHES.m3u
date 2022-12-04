@@ -140,61 +140,123 @@ http://175.107.244.52:4457/play/a06z/index.m3u8
 
 
 
+https://github.com/nsaermo/nsaer.tv/blob/main/bein%20ser3.m3u
+
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN SPORT MAX 1 
+https://turnthe.gameon.tel/live/beinsportsmax1ar/index.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN SPORT MAX 2 
+https://turnthe.gameon.tel/live/beinsportsmax2ar/index.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN SPORT MAX 3 
+https://webdi.openhd.lol/ddyx2/premium91/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",رايــة
+http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",اجيال 
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",هلا رام الله
+https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist_w509341528.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",وتر الرياضية
+http://htvmada.mada.ps:8888/orient2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX", الحرية الرياضية
+http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX", صـفـا مـونـديـال
+https://live.safa.news/live/sport/playlist.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX", قناة الســلام
+http://htvmada.mada.ps:8888/salamtv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",الفجر 1
+https://tv.chachatv.tk:443/live/tele12/arabi13/449.ts|http-user-agent=com.telearabi/1.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",KASS Extra 1 
+https://tv.chachatv.tk:443/live/syria12/tv12/1648.ts|http-user-agent=com.telearabi/1.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",KASS Extra 2 
+https://tv.chachatv.tk:443/live/syria12/tv12/1649.ts|http-user-agent=com.telearabi/1.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",NUBAR Sport
+http://stream.nubar.tv:1935/private/NUBARSport/chunklist_w1104909269.m3u8
+
+
+
+--------------------------
+
+
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN SPORT 1 
+https://webdi.openhd.lol/ddyx2/premium91/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN SPORT 2 
+https://webdi.openhd.lol/ddyx2/premium92/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN SPORT 3 
+https://webdi.openhd.lol/ddyx2/premium93/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN SPORT 4 
+https://webudi.openhd.lol/ddyx2/premium94/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN SPORT 5 
+https://webudi.openhd.lol/ddyx2/premium95/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN SPORT 6 
+https://webudi.openhd.lol/ddyx2/premium96/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN SPORT 6 
+https://webudi.openhd.lol/ddyx2/premium96/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN SPORT 7 
+https://webudi.openhd.lol/ddyx2/premium97/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1
+https://webudi.openhd.lol/ddyx2/premium98/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 2
+https://webudi.openhd.lol/ddyx2/premium99/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 3
+https://webudi.openhd.lol/ddyx2/premium100/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
 
 
 
 
 
-#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Premium SPORT",[LIVE 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/live1
-
-#EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Premium SPORT",[LIVE 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/live2
-
-#EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Premium SPORT",[LIVE 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/live3
-
-#EXTINF:6 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Premium SPORT",[LIVE 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/live4
-
-#EXTINF:6 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/NYdvQTq/ezgif-frame-052-modified.png" group-title="Premium SPORT",[LIVE 5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/live5
-
-
-#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/vDMwrPM/Desain-tanpa-judul-2022-11-01-T232211-407-modified.png" group-title="Premium SPORT",[LIVE Badminton Court 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/badminton1
-
-#EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/vDMwrPM/Desain-tanpa-judul-2022-11-01-T232211-407-modified.png" group-title="Premium SPORT",[LIVE Badminton Court 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/badminton2
-
-#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/vDMwrPM/Desain-tanpa-judul-2022-11-01-T232211-407-modified.png" group-title="Premium SPORT",[LIVE Badminton Court 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/badminton3
-
-#EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/vDMwrPM/Desain-tanpa-judul-2022-11-01-T232211-407-modified.png" group-title="Premium SPORT",[LIVE Badminton Court 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/badminton4
 
 
 
-#EXTINF:3 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world1
 
-#EXTINF:4 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world2
 
-#EXTINF:5 tvg-id="livedukun.id" tvg-logo="https://i.ibb.co/RNnBnL7/maxresdefault-3-modified.png" group-title="Premium SPORT",[LIVE World Cup 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxoszdo Firefox/31.0
-https://dukuntv.my.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/live/world3
+
+
+
+
 
 
 
