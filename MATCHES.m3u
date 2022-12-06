@@ -6,6 +6,20 @@ https://i.imgur.com/5Wiki1T.jpg
 https://69b2fa8cb8.s3.amazonaws.com/030744549/live.m3u8
 
 
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.cwfXPKthQixF.m3u8?player_version=1.14.0|Referer=https://ing9bee4ei.sbs/
+
+
+
+
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.cwfXPKthQixF.m3u8?player_version=1.14.0
+
+
+
+
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
