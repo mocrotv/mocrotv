@@ -3,57 +3,25 @@
 https://i.imgur.com/5Wiki1T.jpg
 
 
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.jpvWLT67ePlh.m3u8?player_version=1.14.0
-https://giehach9oos.icu/
 
 
 
 
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.jpvWLT67ePlh.m3u8?player_version=1.14.0|Referer=https://giehach9oos.icu/
-
-
-
-
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 1
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.cwfXPKthQixF.m3u8?player_version=1.14.0|Referer=https://ing9bee4ei.sbs/
-
-
-
-
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.cwfXPKthQixF.m3u8?player_version=1.14.0
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 1
-https://69b2fa8cb8.s3.amazonaws.com/030744549/live.m3u8|Referer=https://giv2aing5op.site/
+https://config-bucket-37409714556.s3.amazonaws.com/control/live.m3u8|Referer=https://oonaiqu7thoo.sbs/
 #EXTINF:0,بث المباراة 1 FHD
-https://69b2fa8cb8.s3.amazonaws.com/030744549/live_1080p60.m3u8|Referer=https://giv2aing5op.site/
+https://config-bucket-37409714556.s3.amazonaws.com/control/live_1080p60.m3u8|Referer=https://oonaiqu7thoo.sbs/
 #EXTINF:0,بث المباراة 1 HD+
-https://69b2fa8cb8.s3.amazonaws.com/030744549/live_720p60.m3u8|Referer=https://giv2aing5op.site/
+https://config-bucket-37409714556.s3.amazonaws.com/control/live_720p60.m3u8|Referer=https://oonaiqu7thoo.sbs/
 #EXTINF:0,بث المباراة 1 HD
-https://69b2fa8cb8.s3.amazonaws.com/030744549/live_720p30.m3u8|Referer=https://giv2aing5op.site/
+https://config-bucket-37409714556.s3.amazonaws.com/control/live_720p30.m3u8|Referer=https://oonaiqu7thoo.sbs/
 #EXTINF:0,بث المباراة 1 SD
-https://69b2fa8cb8.s3.amazonaws.com/030744549/live_480p30.m3u8|Referer=https://giv2aing5op.site/
+https://config-bucket-37409714556.s3.amazonaws.com/control/live_480p30.m3u8|Referer=https://oonaiqu7thoo.sbs/
 #EXTINF:0,بث المباراة 1 LOW
-https://69b2fa8cb8.s3.amazonaws.com/030744549/live_240p30.m3u8|Referer=https://giv2aing5op.site/
+https://config-bucket-37409714556.s3.amazonaws.com/control/live_240p30.m3u8|Referer=https://oonaiqu7thoo.sbs/
 
 
 
