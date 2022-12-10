@@ -2,8 +2,8 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-
-
+https://redundancy2.s3.amazonaws.com/capture/live.m3u8
+https://caeloo3l.click/
 
 
 
@@ -11,17 +11,17 @@ https://i.imgur.com/5Wiki1T.jpg
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
-https://config-bucket-37409714556.s3.amazonaws.com/control/live.m3u8|Referer=https://oonaiqu7thoo.sbs/
+https://redundancy2.s3.amazonaws.com/capture/live.m3u8|Referer=https://caeloo3l.click/
 #EXTINF:0,بث المباراة 1 FHD
-https://config-bucket-37409714556.s3.amazonaws.com/control/live_1080p60.m3u8|Referer=https://oonaiqu7thoo.sbs/
+https://redundancy2.s3.amazonaws.com/capture/live_1080p60.m3u8|Referer=https://caeloo3l.click/
 #EXTINF:0,بث المباراة 1 HD+
-https://config-bucket-37409714556.s3.amazonaws.com/control/live_720p60.m3u8|Referer=https://oonaiqu7thoo.sbs/
+https://redundancy2.s3.amazonaws.com/capture/live_720p60.m3u8|Referer=https://caeloo3l.click/
 #EXTINF:0,بث المباراة 1 HD
-https://config-bucket-37409714556.s3.amazonaws.com/control/live_720p30.m3u8|Referer=https://oonaiqu7thoo.sbs/
+https://redundancy2.s3.amazonaws.com/capture/live_720p30.m3u8|Referer=https://caeloo3l.click/
 #EXTINF:0,بث المباراة 1 SD
-https://config-bucket-37409714556.s3.amazonaws.com/control/live_480p30.m3u8|Referer=https://oonaiqu7thoo.sbs/
+https://redundancy2.s3.amazonaws.com/capture/live_480p30.m3u8|Referer=https://caeloo3l.click/
 #EXTINF:0,بث المباراة 1 LOW
-https://config-bucket-37409714556.s3.amazonaws.com/control/live_240p30.m3u8|Referer=https://oonaiqu7thoo.sbs/
+https://redundancy2.s3.amazonaws.com/capture/live_240p30.m3u8|Referer=https://caeloo3l.click/
 
 
 
