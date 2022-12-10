@@ -498,18 +498,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:5a:17:76&stream=457172&extensio
 
 
 #EXTINF:0,|SPO| T
-#EXTVLCOPT:http-user-agent=yacinetv11
-https://lb.buy-global.store/live/lb2/bm1-360.m3u8
-
-#EXTINF:0,|SPO| T
-#EXTVLCOPT:http-user-agent=yacinetv11
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/bVP6tP4Z6TYEPHJoxFF4IIzuxuGGIlRsBxLVhv6tFqt_8hxREaGVyw3fj2uAsCssE9K7n_8roV2Ox_ljkWz8rg/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-private/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/st_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:0,|SPO| T
-#EXTVLCOPT:http-user-agent=yacinetv11
-https://prod-fastly-eu-west-3.video.pscp.tv:443/Transcoding/v1/hls/bVP6tP4Z6TYEPHJoxFF4IIzuxuGGIlRsBxLVhv6tFqt_8hxREaGVyw3fj2uAsCssE9K7n_8roV2Ox_ljkWz8rg/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-private/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/st_dynamic_highlatency.m3u8?type=live
-
-
+#EXTVLCOPT:http-user-agent=SS
+http
 
 
 
