@@ -2,16 +2,29 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-https://commission6.s3.amazonaws.com/reflection/live.m3u8
-https://ib1yaijah.sbs/
 
 
 
-https://38054320fd073b212d9615e0f5cf4637.s3.amazonaws.com/19ac4338a6018de824ab50264581ff34/3279bf0c08519cb59dd20f779a628470.m3u8
-https://eshohje1.site/
+'//canale.live
+
+https://webudi.openhd.lol/lb/premium98/index.m3u8
+
+http://cdn.sportcast.life
+http://cdn.sportcast.life
 
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1
+https://webudi.openhd.lol/lb/premium98/index.m3u8|Referer=http://cdn.sportcast.life
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1
+https://webudi.openhd.lol/lb/premium98/index.m3u8|Referer=http://cdn.sportcast.life/
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1
+https://webudi.openhd.lol/lb/premium98/index.m3u8|Referer=http://cdn.sportcast.life/.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1*
+https://webudi.openhd.lol/ddyx2/premium98/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
 
 
 
