@@ -5,41 +5,17 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-'//canale.live
-
-https://webudi.openhd.lol/lb/premium98/index.m3u8
-
-http://cdn.sportcast.life
-http://cdn.sportcast.life
-
-
-https://streamservicehd.click/
-
-
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1
-https://webudi.openhd.lol/lb/premium98/index.m3u8|Referer=http://cdn.sportcast.life
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1
-https://webudi.openhd.lol/lb/premium98/index.m3u8|Referer=http://cdn.sportcast.life/
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1
-https://webudi.openhd.lol/lb/premium98/index.m3u8|Referer=http://cdn.sportcast.life/.m3u8
-
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1*
-https://webudi.openhd.lol/ddyx2/premium98/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
-
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1*
-https://webudi.openhd.lol/ddyx2/premium98/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.kzbffFEBEIJt.m3u8?player_version=1.14.0
 
 
 
 
+#EXTINF:0,بث المباراة 1
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.kzbffFEBEIJt.m3u8?player_version=1.14.0|Referer=https://angaip4e.cfd/
 
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.4eEONAl9a2fF.m3u8?player_version=1.14.0
-https://ziel3koshoh.cfd
+
+
+
 
 
 #EXTINF:0,بث المباراة 1
@@ -988,6 +964,27 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:5a:17:76&stream=457172&extensio
 #EXTVLCOPT:http-user-agent=SS
 http
 
+
+
+
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1
+https://webudi.openhd.lol/lb/premium98/index.m3u8|Referer=http://cdn.sportcast.life
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1
+https://webudi.openhd.lol/lb/premium98/index.m3u8|Referer=http://cdn.sportcast.life/
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1
+https://webudi.openhd.lol/lb/premium98/index.m3u8|Referer=http://cdn.sportcast.life/.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1*
+https://webudi.openhd.lol/ddyx2/premium98/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="XXXXX",BEIN PREMIUM 1*
+https://webudi.openhd.lol/ddyx2/premium98/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/
 
 
 
