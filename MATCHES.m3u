@@ -2,18 +2,9 @@
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]مرحبا بك في تطبيق Adrar TV[/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-https://581991d50.s3.amazonaws.com/74e86a7c3/live.m3u8
-https://aemok4hogh.cfd/
 
-
-https://a848e95d27a.s3.amazonaws.com/74be641d/live.m3u8
-https://doely1987.click/
-
-https://013f01aad8b6.s3.amazonaws.com/ecaec71c05e/live.m3u8
-https://du9ahsh4b.lol/
-
-
-
+https://momna.s3.amazonaws.com/4b2b79b6f37/live.m3u8
+https://ohzel5yeem.icu/
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
@@ -36,7 +27,32 @@ https://581991d50.s3.amazonaws.com/74e86a7c3/live_240p30.m3u8|Referer=https://ae
 
 
 
+
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://momna.s3.amazonaws.com/4b2b79b6f37/live.m3u8|Referer=https://ohzel5yeem.icu/
+#EXTINF:0,بث المباراة 1 FHD
+https://momna.s3.amazonaws.com/4b2b79b6f37/live_1080p60.m3u8|Referer=https://ohzel5yeem.icu/
+#EXTINF:0,بث المباراة 1 HD+
+https://momna.s3.amazonaws.com/4b2b79b6f37/live_720p60.m3u8|Referer=https://ohzel5yeem.icu/
+#EXTINF:0,بث المباراة 1 HD
+https://momna.s3.amazonaws.com/4b2b79b6f37/live_720p30.m3u8|Referer=https://ohzel5yeem.icu/
+#EXTINF:0,بث المباراة 1 SD
+https://momna.s3.amazonaws.com/4b2b79b6f37/live_480p30.m3u8|Referer=https://ohzel5yeem.icu/
+#EXTINF:0,بث المباراة 1 LOW
+https://momna.s3.amazonaws.com/4b2b79b6f37/live_240p30.m3u8|Referer=https://ohzel5yeem.icu/
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -81,21 +97,7 @@ https://a848e95d27a.s3.amazonaws.com/74be641d/live_240p30.m3u8|Referer=https://d
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 4 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:0,بث المباراة 1
-https://77e3d62eb.s3.amazonaws.com/94c51d5d/live.m3u8|Referer=https://peiwohw5e.sbs/
-#EXTINF:0,بث المباراة 1 FHD
-https://77e3d62eb.s3.amazonaws.com/94c51d5d/live_1080p60.m3u8|Referer=https://peiwohw5e.sbs/
-#EXTINF:0,بث المباراة 1 HD+
-https://77e3d62eb.s3.amazonaws.com/94c51d5d/live_720p60.m3u8|Referer=https://peiwohw5e.sbs/
-#EXTINF:0,بث المباراة 1 HD
-https://77e3d62eb.s3.amazonaws.com/94c51d5d/live_720p30.m3u8|Referer=https://peiwohw5e.sbs/
-#EXTINF:0,بث المباراة 1 SD
-https://77e3d62eb.s3.amazonaws.com/94c51d5d/live_480p30.m3u8|Referer=https://peiwohw5e.sbs/
-#EXTINF:0,بث المباراة 1 LOW
-https://77e3d62eb.s3.amazonaws.com/94c51d5d/live_240p30.m3u8|Referer=https://peiwohw5e.sbs/
 
 
 
