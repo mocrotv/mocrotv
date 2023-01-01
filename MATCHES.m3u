@@ -20,6 +20,9 @@ https://waey3fux.bond/
 
 
 
+
+
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
@@ -40,28 +43,10 @@ https://48420e21s.s3.amazonaws.com/014d89d/live_240p30.m3u8|Referer=https://waey
 
 
 
+
+
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:0,بث المباراة 1
-https://48420e21s.s3.amazonaws.com/4780a91a/live.m3u8|Referer=https://waey3fux.bond/
-#EXTINF:0,بث المباراة 1 FHD
-https://48420e21s.s3.amazonaws.com/4780a91a/live_1080p60.m3u8|Referer=https://waey3fux.bond/
-#EXTINF:0,بث المباراة 1 HD+
-https://48420e21s.s3.amazonaws.com/4780a91a/live_720p60.m3u8|Referer=https://waey3fux.bond/
-#EXTINF:0,بث المباراة 1 HD
-https://48420e21s.s3.amazonaws.com/4780a91a/live_720p30.m3u8|Referer=https://waey3fux.bond/
-#EXTINF:0,بث المباراة 1 SD
-https://48420e21s.s3.amazonaws.com/4780a91a/live_480p30.m3u8|Referer=https://waey3fux.bond/
-#EXTINF:0,بث المباراة 1 LOW
-https://48420e21s.s3.amazonaws.com/4780a91a/live_240p30.m3u8|Referer=https://waey3fux.bond/
-
-
-
-
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -84,7 +69,33 @@ https://d3ed1c78d.s3.amazonaws.com/f75b4b9a87/live_240p30.m3u8|Referer=https://w
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://48420e21s.s3.amazonaws.com/4780a91a/live.m3u8|Referer=https://waey3fux.bond/
+#EXTINF:0,بث المباراة 1 FHD
+https://48420e21s.s3.amazonaws.com/4780a91a/live_1080p60.m3u8|Referer=https://waey3fux.bond/
+#EXTINF:0,بث المباراة 1 HD+
+https://48420e21s.s3.amazonaws.com/4780a91a/live_720p60.m3u8|Referer=https://waey3fux.bond/
+#EXTINF:0,بث المباراة 1 HD
+https://48420e21s.s3.amazonaws.com/4780a91a/live_720p30.m3u8|Referer=https://waey3fux.bond/
+#EXTINF:0,بث المباراة 1 SD
+https://48420e21s.s3.amazonaws.com/4780a91a/live_480p30.m3u8|Referer=https://waey3fux.bond/
+#EXTINF:0,بث المباراة 1 LOW
+https://48420e21s.s3.amazonaws.com/4780a91a/live_240p30.m3u8|Referer=https://waey3fux.bond/
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 4 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
