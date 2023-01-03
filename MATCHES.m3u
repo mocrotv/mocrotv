@@ -4,12 +4,23 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-
+https://f9ec1758fb1.s3.amazonaws.com/77b5140f/live.m3u8
 https://f9ec1758fb1.s3.amazonaws.com/77b5140f/live.m3u8
 https://edeoxe9xohf.site/
+https://edeoxe9xohf.site/
+
 
 https://f9ec1758fb1.s3.amazonaws.com/c741999b/live.m3u8
 https://edeoxe9xohf.site/
+
+
+https://d37362a021a.s3.amazonaws.com/0c0803f6dc7a/live.m3u8
+https://ohzel5yeem.icu/
+
+
+
+
+
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
@@ -34,8 +45,51 @@ https://f9ec1758fb1.s3.amazonaws.com/77b5140f/live_240p30.m3u8|Referer=https://e
 
 
 
-
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://f9ec1758fb1.s3.amazonaws.com/c741999b/live.m3u8|Referer=https://edeoxe9xohf.site/
+#EXTINF:0,بث المباراة 1 FHD
+https://f9ec1758fb1.s3.amazonaws.com/c741999b/live_1080p60.m3u8|Referer=https://edeoxe9xohf.site/
+#EXTINF:0,بث المباراة 1 HD+
+https://f9ec1758fb1.s3.amazonaws.com/c741999b/live_720p60.m3u8|Referer=https://edeoxe9xohf.site/
+#EXTINF:0,بث المباراة 1 HD
+https://f9ec1758fb1.s3.amazonaws.com/c741999b/live_720p30.m3u8|Referer=https://edeoxe9xohf.site/
+#EXTINF:0,بث المباراة 1 SD
+https://f9ec1758fb1.s3.amazonaws.com/c741999b/live_480p30.m3u8|Referer=https://edeoxe9xohf.site/
+#EXTINF:0,بث المباراة 1 LOW
+https://f9ec1758fb1.s3.amazonaws.com/c741999b/live_240p30.m3u8|Referer=https://edeoxe9xohf.site/
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://d37362a021a.s3.amazonaws.com/0c0803f6dc7a/live.m3u8|Referer=https://ohzel5yeem.icu/
+#EXTINF:0,بث المباراة 1 FHD
+https://d37362a021a.s3.amazonaws.com/0c0803f6dc7a/live_1080p60.m3u8|Referer=https://ohzel5yeem.icu/
+#EXTINF:0,بث المباراة 1 HD+
+https://d37362a021a.s3.amazonaws.com/0c0803f6dc7a/live_720p60.m3u8|Referer=https://ohzel5yeem.icu/
+#EXTINF:0,بث المباراة 1 HD
+https://d37362a021a.s3.amazonaws.com/0c0803f6dc7a/live_720p30.m3u8|Referer=https://ohzel5yeem.icu/
+#EXTINF:0,بث المباراة 1 SD
+https://d37362a021a.s3.amazonaws.com/0c0803f6dc7a/live_480p30.m3u8|Referer=https://ohzel5yeem.icu/
+#EXTINF:0,بث المباراة 1 LOW
+https://d37362a021a.s3.amazonaws.com/0c0803f6dc7a/live_240p30.m3u8|Referer=https://ohzel5yeem.icu/
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
