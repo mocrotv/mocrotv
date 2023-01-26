@@ -6,256 +6,221 @@ https://i.imgur.com/5Wiki1T.jpg
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
-#EXTINF:-1,PT: RTP 1 HD
-http://11121314.org:8000/dede/112233445566778899dede/396392
-#EXTINF:-1,PT: RTP 2 HD
-http://11121314.org:8000/dede/112233445566778899dede/396393
-#EXTINF:-1,PT: SIC HD
-http://11121314.org:8000/dede/112233445566778899dede/396394
-#EXTINF:-1,PT: TVI HD
-http://11121314.org:8000/dede/112233445566778899dede/396395
-#EXTINF:-1,PT: CMTV HD
-http://11121314.org:8000/dede/112233445566778899dede/396396
-#EXTINF:-1,PT: TVI 24 HD
-http://11121314.org:8000/dede/112233445566778899dede/396397
-#EXTINF:-1,PT: SIC NOTICIAS HD
-http://11121314.org:8000/dede/112233445566778899dede/396398
-#EXTINF:-1,PT: RTP 3
-http://11121314.org:8000/dede/112233445566778899dede/396399
-#EXTINF:-1,PT: A BOLA TV
-http://11121314.org:8000/dede/112233445566778899dede/396400
-#EXTINF:-1,PT: PORTO CANAL HD
-http://11121314.org:8000/dede/112233445566778899dede/396401
-#EXTINF:-1,PT: TVI FICCAO HD
-http://11121314.org:8000/dede/112233445566778899dede/396402
-#EXTINF:-1,PT: TVI REALITY
-http://11121314.org:8000/dede/112233445566778899dede/396403
-#EXTINF:-1,PT: SIC MULHER HD
-http://11121314.org:8000/dede/112233445566778899dede/396404
-#EXTINF:-1,PT: SIC CARAS
-http://11121314.org:8000/dede/112233445566778899dede/396405
-#EXTINF:-1,PT: SIC RADICAL HD
-http://11121314.org:8000/dede/112233445566778899dede/396406
-#EXTINF:-1,PT: CANAL Q
-http://11121314.org:8000/dede/112233445566778899dede/396407
-#EXTINF:-1,PT: RTP MADEIRA
-http://11121314.org:8000/dede/112233445566778899dede/396408
-#EXTINF:-1,PT: RTP MEMORIA
-http://11121314.org:8000/dede/112233445566778899dede/396409
-#EXTINF:-1,PT: RTP AFRICA
-http://11121314.org:8000/dede/112233445566778899dede/396410
-#EXTINF:-1,PT: GLOBO NOW
-http://11121314.org:8000/dede/112233445566778899dede/396411
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://11121314.org:8000/dede/112233445566778899dede/396412
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://11121314.org:8000/dede/112233445566778899dede/396413
-#EXTINF:-1,PT: NICKELODEON
-http://11121314.org:8000/dede/112233445566778899dede/396414
-#EXTINF:-1,PT: NICK JUNIOR
-http://11121314.org:8000/dede/112233445566778899dede/396415
-#EXTINF:-1,PT: PANDA
-http://11121314.org:8000/dede/112233445566778899dede/396416
-#EXTINF:-1,PT: PANDA BIGGS
-http://11121314.org:8000/dede/112233445566778899dede/396417
-#EXTINF:-1,PT: SIC KIDS
-http://11121314.org:8000/dede/112233445566778899dede/396419
-#EXTINF:-1,PT: JIM JAM
-http://11121314.org:8000/dede/112233445566778899dede/396420
-#EXTINF:-1,PT: BABY TV
-http://11121314.org:8000/dede/112233445566778899dede/396421
-#EXTINF:-1,PT: SPORT TV + HD
-http://11121314.org:8000/dede/112233445566778899dede/396422
-#EXTINF:-1,PT: SPORT TV + SD
-http://11121314.org:8000/dede/112233445566778899dede/396423
-#EXTINF:-1,PT: SPORT TV1 FHD
-http://11121314.org:8000/dede/112233445566778899dede/396424
-#EXTINF:-1,PT: SPORT TV1 HD
-http://11121314.org:8000/dede/112233445566778899dede/396425
-#EXTINF:-1,PT: SPORT TV1 SD
-http://11121314.org:8000/dede/112233445566778899dede/396426
-#EXTINF:-1,PT: SPORT TV2 FHD
-http://11121314.org:8000/dede/112233445566778899dede/396427
-#EXTINF:-1,PT: SPORT TV2 HD
-http://11121314.org:8000/dede/112233445566778899dede/396428
-#EXTINF:-1,PT: SPORT TV2 SD
-http://11121314.org:8000/dede/112233445566778899dede/396429
-#EXTINF:-1,SPORT TV3 FHD
-http://11121314.org:8000/dede/112233445566778899dede/396430
-#EXTINF:-1,PT: SPORT TV3 HD
-http://11121314.org:8000/dede/112233445566778899dede/396431
-#EXTINF:-1,PT: SPORT TV3 SD
-http://11121314.org:8000/dede/112233445566778899dede/396432
-#EXTINF:-1,PT: SPORT TV4 FHD
-http://11121314.org:8000/dede/112233445566778899dede/396433
-#EXTINF:-1,PT: SPORT TV4 HD
-http://11121314.org:8000/dede/112233445566778899dede/396434
-#EXTINF:-1,PT: SPORT TV4 SD
-http://11121314.org:8000/dede/112233445566778899dede/396435
-#EXTINF:-1,PT: SPORT TV5 FHD
-http://11121314.org:8000/dede/112233445566778899dede/396436
-#EXTINF:-1,PT: SPORT TV5 HD
-http://11121314.org:8000/dede/112233445566778899dede/396437
-#EXTINF:-1,PT: SPORT TV5 SD
-http://11121314.org:8000/dede/112233445566778899dede/396438
-#EXTINF:-1,PT: BENFICA TV HD
-http://11121314.org:8000/dede/112233445566778899dede/396439
-#EXTINF:-1,PT: BENFICA TV
-http://11121314.org:8000/dede/112233445566778899dede/396440
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
-http://11121314.org:8000/dede/112233445566778899dede/396441
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-http://11121314.org:8000/dede/112233445566778899dede/396442
-#EXTINF:-1,PT: ELEVEN SPORTS 1 SD
-http://11121314.org:8000/dede/112233445566778899dede/396443
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-http://11121314.org:8000/dede/112233445566778899dede/396444
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://11121314.org:8000/dede/112233445566778899dede/396445
-#EXTINF:-1,PT: ELEVEN SPORTS 2 SD
-http://11121314.org:8000/dede/112233445566778899dede/396446
-#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
-http://11121314.org:8000/dede/112233445566778899dede/396447
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
-http://11121314.org:8000/dede/112233445566778899dede/396448
-#EXTINF:-1,PT: ELEVEN SPORTS 3 SD
-http://11121314.org:8000/dede/112233445566778899dede/396449
-#EXTINF:-1,PT: ELEVENS SPORTS 4 FHD
-http://11121314.org:8000/dede/112233445566778899dede/396450
-#EXTINF:-1,PT: ELEVENS SPORTS 4 HD
-http://11121314.org:8000/dede/112233445566778899dede/396451
-#EXTINF:-1,PT: ELEVEN SPORTS 4 SD
-http://11121314.org:8000/dede/112233445566778899dede/396452
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
-http://11121314.org:8000/dede/112233445566778899dede/396453
-#EXTINF:-1,PT: ELEVEN SPORTS 5 SD
-http://11121314.org:8000/dede/112233445566778899dede/396454
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
-http://11121314.org:8000/dede/112233445566778899dede/396455
-#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
-http://11121314.org:8000/dede/112233445566778899dede/396456
-#EXTINF:-1,PT: ELEVEN SPORTS 6 SD
-http://11121314.org:8000/dede/112233445566778899dede/396457
-#EXTINF:-1,PT: SPORTING TV HD
-http://11121314.org:8000/dede/112233445566778899dede/396458
-#EXTINF:-1,PT: EUROSPORT 1 HD
-http://11121314.org:8000/dede/112233445566778899dede/396459
-#EXTINF:-1,PT: EUROSPORT 2 HD
-http://11121314.org:8000/dede/112233445566778899dede/396460
-#EXTINF:-1,PT: FUEL TV HD
-http://11121314.org:8000/dede/112233445566778899dede/396461
-#EXTINF:-1,PT: KOMBAT SPORT
-http://11121314.org:8000/dede/112233445566778899dede/396462
-#EXTINF:-1,PT: MOTOR SPORT HD
-http://11121314.org:8000/dede/112233445566778899dede/396463
-#EXTINF:-1,PT: MOTORVISION HD
-http://11121314.org:8000/dede/112233445566778899dede/396464
-#EXTINF:-1,PT: TVC EMOTION HD
-http://11121314.org:8000/dede/112233445566778899dede/396465
-#EXTINF:-1,PT: TVC EDITION
-http://11121314.org:8000/dede/112233445566778899dede/396466
-#EXTINF:-1,PT: TV CINE 1 HD
-http://11121314.org:8000/dede/112233445566778899dede/396467
-#EXTINF:-1,PT: TV CINE 1
-http://11121314.org:8000/dede/112233445566778899dede/396468
-#EXTINF:-1,PT: TV CINE 2 HD
-http://11121314.org:8000/dede/112233445566778899dede/396469
-#EXTINF:-1,PT: TV CINE 2
-http://11121314.org:8000/dede/112233445566778899dede/396470
-#EXTINF:-1,PT: TV CINE 3 HD
-http://11121314.org:8000/dede/112233445566778899dede/396471
-#EXTINF:-1,PT: TV CINE 3
-http://11121314.org:8000/dede/112233445566778899dede/396472
-#EXTINF:-1,PT: TV CINE 4 HD
-http://11121314.org:8000/dede/112233445566778899dede/396473
-#EXTINF:-1,PT: TV CINE 4
-http://11121314.org:8000/dede/112233445566778899dede/396474
-#EXTINF:-1,PT: NOS STUDIOS HD
-http://11121314.org:8000/dede/112233445566778899dede/396475
-#EXTINF:-1,PT: HOLLYWOOD HD
-http://11121314.org:8000/dede/112233445566778899dede/396476
-#EXTINF:-1,PT: HOLLYWOOD
-http://11121314.org:8000/dede/112233445566778899dede/396477
-#EXTINF:-1,PT: FOX MOVIES HD
-http://11121314.org:8000/dede/112233445566778899dede/396478
-#EXTINF:-1,PT: FOX LIFE HD
-http://11121314.org:8000/dede/112233445566778899dede/396479
-#EXTINF:-1,PT: FOX LIFE
-http://11121314.org:8000/dede/112233445566778899dede/396480
-#EXTINF:-1,PT: FOX HD
-http://11121314.org:8000/dede/112233445566778899dede/396481
-#EXTINF:-1,PT: FOX
-http://11121314.org:8000/dede/112233445566778899dede/396482
-#EXTINF:-1,PT: FOX CRIME HD
-http://11121314.org:8000/dede/112233445566778899dede/396483
-#EXTINF:-1,PT: FOX CRIME
-http://11121314.org:8000/dede/112233445566778899dede/396484
-#EXTINF:-1,PT: FOX COMEDY HD
-http://11121314.org:8000/dede/112233445566778899dede/396485
-#EXTINF:-1,PT: FOX COMEDY
-http://11121314.org:8000/dede/112233445566778899dede/396486
-#EXTINF:-1,PT: AXN WHITE HD
-http://11121314.org:8000/dede/112233445566778899dede/396487
-#EXTINF:-1,PT: AXN WHITE
-http://11121314.org:8000/dede/112233445566778899dede/396488
-#EXTINF:-1,PT: AXN HD
-http://11121314.org:8000/dede/112233445566778899dede/396489
-#EXTINF:-1,PT: AXN
-http://11121314.org:8000/dede/112233445566778899dede/396490
-#EXTINF:-1,PT: AXN BLACK HD
-http://11121314.org:8000/dede/112233445566778899dede/396491
-#EXTINF:-1,PT: AXN BLACK
-http://11121314.org:8000/dede/112233445566778899dede/396492
-#EXTINF:-1,PT: AMC HD
-http://11121314.org:8000/dede/112233445566778899dede/396493
+
+
+
+
+#EXTINF:-1,PT: 24 Kitchen
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2025
+#EXTINF:-1,PT: A Bola TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1420
+#EXTINF:-1,PT: A&E
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/279741
+#EXTINF:-1,PT: Afro Music Channel
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1536
+#EXTINF:-1,PT: Alma Lusa
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/264642
 #EXTINF:-1,PT: AMC
-http://11121314.org:8000/dede/112233445566778899dede/396494
-#EXTINF:-1,PT: SYFY HD
-http://11121314.org:8000/dede/112233445566778899dede/396495
-#EXTINF:-1,PT: SYFY
-http://11121314.org:8000/dede/112233445566778899dede/396496
-#EXTINF:-1,PT: CINEMUNDO HD
-http://11121314.org:8000/dede/112233445566778899dede/396497
-#EXTINF:-1,PT: CINEMUNDO
-http://11121314.org:8000/dede/112233445566778899dede/396498
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1473
+#EXTINF:-1,PT: AR TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9629
+#EXTINF:-1,PT: AXN
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1469
+#EXTINF:-1,PT: AXN Black
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/278653
+#EXTINF:-1,PT: AXN Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1471
+#EXTINF:-1,PT: AXN White
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1467
+#EXTINF:-1,PT: Baby TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1441
+#EXTINF:-1,PT: Benfica TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1497
+#EXTINF:-1,PT: Biggs
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1439
+#EXTINF:-1,PT: Blaze
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3996
+#EXTINF:-1,PT: Bloomberg
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5933
+#EXTINF:-1,PT: Boomerang
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/24529
+#EXTINF:-1,PT: Canal 11
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1480
+#EXTINF:-1,PT: CANAL 180
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146057
+#EXTINF:-1,PT: Canal Hollywood
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1455
+#EXTINF:-1,PT: Canal Macau
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197872
+#EXTINF:-1,PT: Canal Nos
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/278550
+#EXTINF:-1,PT: Canal Panda
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1438
+#EXTINF:-1,PT: Canal Q
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1430
+#EXTINF:-1,PT: Canção Nova
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290766
+#EXTINF:-1,PT: Cartoon Network
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1440
+#EXTINF:-1,PT: Casa e Cozinha
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/6097
+#EXTINF:-1,PT: Caçavision
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/13956
+#EXTINF:-1,PT: CBS Reality
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1528
+#EXTINF:-1,PT: Cine Mundo
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1477
+#EXTINF:-1,PT: CM TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1412
+#EXTINF:-1,PT: CNN Portugal
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1414
+#EXTINF:-1,PT: Crime+ Investigation
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5928
+#EXTINF:-1,PT: Discovery World
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296226
+#EXTINF:-1,PT: Disney Channel
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1434
+#EXTINF:-1,PT: Disney Junior
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1435
+#EXTINF:-1,PT: Disney+
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/226084
+#EXTINF:-1,PT: E!
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1526
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1512
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1515
+#EXTINF:-1,PT: euronews
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4007
+#EXTINF:-1,PT: EUROSPORT 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1517
+#EXTINF:-1,PT: EUROSPORT 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1518
+#EXTINF:-1,PT: Food Network
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2044
+#EXTINF:-1,PT: FOX
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1461
+#EXTINF:-1,PT: Fox Comedy
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1465
+#EXTINF:-1,PT: Fox Crime
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1463
+#EXTINF:-1,PT: Fox Life
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1459
+#EXTINF:-1,PT: FOX Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1457
+#EXTINF:-1,PT: FOX SPORTS
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/40345
+#EXTINF:-1,PT: Fuel TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1521
+#EXTINF:-1,PT: HBO Portugal
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/201073
+#EXTINF:-1,PT: Historia
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1525
+#EXTINF:-1,PT: Investigation Discovery
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5914
+#EXTINF:-1,PT: JimJam
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1442
+#EXTINF:-1,PT: Kuriakos Kids
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/10828
+#EXTINF:-1,PT: Kuriakos TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9697
+#EXTINF:-1,PT: MEO Videoclube
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/265255
+#EXTINF:-1,PT: Motorvision TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4012
+#EXTINF:-1,PT: MTV Portugal
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1534
+#EXTINF:-1,PT: NAT GEO
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1530
+#EXTINF:-1,PT: NAT GEO Wild
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1531
+#EXTINF:-1,PT: NBA TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296750
+#EXTINF:-1,PT: Nick Junior
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9693
+#EXTINF:-1,PT: nickelodeon
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1436
+#EXTINF:-1,PT: Nos Studios
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1454
+#EXTINF:-1,PT: Odisseia
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1532
+#EXTINF:-1,PT: PANDA Kids
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290678
+#EXTINF:-1,PT: Porto Canal
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1419
+#EXTINF:-1,PT: RTP 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1404
+#EXTINF:-1,PT: RTP 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1406
+#EXTINF:-1,PT: RTP 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1418
+#EXTINF:-1,PT: RTP Açores
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2055
+#EXTINF:-1,PT: RTP Madeira
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/278558
+#EXTINF:-1,PT: RTP Memória
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1425
+#EXTINF:-1,PT: RTP África
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1424
+#EXTINF:-1,PT: SAUDE+
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/81973
+#EXTINF:-1,PT: SIC
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1408
+#EXTINF:-1,PT: SIC Caras
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5910
+#EXTINF:-1,PT: SIC K
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4021
+#EXTINF:-1,PT: SIC Mulher
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1427
+#EXTINF:-1,PT: SIC Noticias
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1416
+#EXTINF:-1,PT: SIC Radical
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1429
+#EXTINF:-1,PT: SPORT TV +
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1481
+#EXTINF:-1,PT: SPORT TV 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281487
+#EXTINF:-1,PT: SPORT TV NBA
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2051
+#EXTINF:-1,PT: Sporting TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1519
+#EXTINF:-1,PT: SYFY Portugal
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1475
 #EXTINF:-1,PT: TLC
-http://11121314.org:8000/dede/112233445566778899dede/396499
-#EXTINF:-1,PT: CAÇA PESCA HD
-http://11121314.org:8000/dede/112233445566778899dede/396500
-#EXTINF:-1,PT: TOROS TV
-http://11121314.org:8000/dede/112233445566778899dede/396501
-#EXTINF:-1,PT: CACAVISION
-http://11121314.org:8000/dede/112233445566778899dede/396502
-#EXTINF:-1,PT: HISTORIA HD
-http://11121314.org:8000/dede/112233445566778899dede/396503
-#EXTINF:-1,PT: E! ENTERTAINMENT
-http://11121314.org:8000/dede/112233445566778899dede/396504
-#EXTINF:-1,PT: DISCOVERY CHANNEL HD
-http://11121314.org:8000/dede/112233445566778899dede/396505
-#EXTINF:-1,PT: CBS REALITY
-http://11121314.org:8000/dede/112233445566778899dede/396506
-#EXTINF:-1,PT: TRAVEL CHANNEL HD
-http://11121314.org:8000/dede/112233445566778899dede/396507
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://11121314.org:8000/dede/112233445566778899dede/396508
-#EXTINF:-1,PT: NAT GEO WILD
-http://11121314.org:8000/dede/112233445566778899dede/396509
-#EXTINF:-1,PT: ODISSEIA HD
-http://11121314.org:8000/dede/112233445566778899dede/396510
-#EXTINF:-1,PT: VH1
-http://11121314.org:8000/dede/112233445566778899dede/396511
-#EXTINF:-1,PT: MTV
-http://11121314.org:8000/dede/112233445566778899dede/396512
-#EXTINF:-1,PT: MCM POP
-http://11121314.org:8000/dede/112233445566778899dede/396513
-#EXTINF:-1,PT: AFRO MUSIC
-http://11121314.org:8000/dede/112233445566778899dede/396514
-#EXTINF:-1,PT: TRACE URBAN
-http://11121314.org:8000/dede/112233445566778899dede/396515
-#EXTINF:-1,PT: MCM TOP
-http://11121314.org:8000/dede/112233445566778899dede/396516
-#EXTINF:-1,PT: TRACE TOCA
-http://11121314.org:8000/dede/112233445566778899dede/396517
-#EXTINF:-1,PT: RTP INTERNACIONAL
-http://11121314.org:8000/dede/112233445566778899dede/396518
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1479
+#EXTINF:-1,PT: Travel Channel
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1529
+#EXTINF:-1,PT: TVCine Action
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1452
+#EXTINF:-1,PT: TVCine Edition
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82254
+#EXTINF:-1,PT: TVCine Emotion
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1448
+#EXTINF:-1,PT: TVCine Top
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1446
+#EXTINF:-1,PT: TVI
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1410
+#EXTINF:-1,PT: TVI Ficção
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1421
+#EXTINF:-1,PT: TVI Reality
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1423
+
 
