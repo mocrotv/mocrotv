@@ -80,8 +80,8 @@ https://b85ef8a9a5.s3.amazonaws.com/26df1b01/live.m3u8
 https://ohko6tahx7ti.cfd/
 
 
-
-
+https://53b65111b6.s3.amazonaws.com/47de557305/live.m3u8
+https://ukuzamail.online/
 
 
 
@@ -112,7 +112,38 @@ https://c785b188c2.s3.amazonaws.com/70b74e875/live_240p30.m3u8|Referer=https://e
 
 
 
+
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 2 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://53b65111b6.s3.amazonaws.com/47de557305/live.m3u8|Referer=https://ukuzamail.online/
+#EXTINF:0,بث المباراة 1 FHD
+https://53b65111b6.s3.amazonaws.com/47de557305/live_1080p60.m3u8|Referer=https://ukuzamail.online/
+#EXTINF:0,بث المباراة 1 HD+
+https://53b65111b6.s3.amazonaws.com/47de557305/live_720p60.m3u8|Referer=https://ukuzamail.online/
+#EXTINF:0,بث المباراة 1 HD
+https://53b65111b6.s3.amazonaws.com/47de557305/live_720p30.m3u8|Referer=https://ukuzamail.online/
+#EXTINF:0,بث المباراة 1 SD
+https://53b65111b6.s3.amazonaws.com/47de557305/live_480p30.m3u8|Referer=https://ukuzamail.online/
+#EXTINF:0,بث المباراة 1 LOW
+https://53b65111b6.s3.amazonaws.com/47de557305/live_240p30.m3u8|Referer=https://ukuzamail.online/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
@@ -134,7 +165,7 @@ https://b85ef8a9a5.s3.amazonaws.com/26df1b01/live_240p30.m3u8|Referer=https://oh
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 3 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 4 بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
