@@ -18,11 +18,27 @@ https://i.imgur.com/5Wiki1T.jpg
 https://alaraby.cdn.octivid.com/vod/_definst_/smil:2023-03-23/vidgHSREzqsWf.smil/chunklist.m3u8
 
 
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢  (مقابلة مع السيد آدم) ♢ [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3p4rnJM" group-title="001م السوري رمضان2023مقابلة مع السيد آدم",الحلقةS02E01
+https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-03-21/vidWL5CfnEmws.smil/chunklist.m3u8?/ss/
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢  (خريف عمر) ♢ [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3K3620c" group-title="001م السوري رمضان2023خريف عمر",الحلقةS01E01
+https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-03-21/vidFaZJtpod5X.smil/chunklist.m3u8?/ss/
+
+
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢  (العربجي) ♢ [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3lzgXoV" group-title="001م السوري رمضان2023العربجي",الحلقةS01E01
-https://cdn.alarab.com/h264/176213_480p.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/h264/176213_480p.mp4/index-v1-a1.m3u8?/ss/
 
 
 
@@ -39,6 +55,8 @@ https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/40fx3D9" group-title="001م السوري رمضان2023للموت",الحلقةS03E01
 https://cdn.alarab.com/h264/176204_480p.mp4/index-v1-a1.m3u8?/ss/
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/40fx3D9" group-title="001م السوري رمضان2023للموت",الحلقةS03E02
+https://cdn.alarab.com/h264/176237_480p.mp4/index-v1-a1.m3u8?/ss/
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢  (زقاق الجن) ♢ [/color]
@@ -107,18 +125,6 @@ https://fvideo6.ddns.me/vod5nn/wa-akheeran-1.mp4/chunk.m3u8
 https://fvideo6.ddns.me/vod5nn/wa-akheeran-2.mp4/chunk.m3u8
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢  (خريف عمر) ♢ [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3K3620c" group-title="001م السوري رمضان2023خريف عمر",الحلقةS01E01
-https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-03-21/vidFaZJtpod5X.smil/chunklist.m3u8?/ss/
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢  (مقابلة مع السيد آدم) ♢ [/color]
-https://i.imgur.com/5Wiki1T.jpg
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3p4rnJM" group-title="001م السوري رمضان2023مقابلة مع السيد آدم",الحلقةS02E01
-https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-03-21/vidWL5CfnEmws.smil/chunklist.m3u8?/ss/
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢  (صبايا) ♢ [/color]
@@ -254,6 +260,19 @@ https://i.imgur.com/5Wiki1T.jpg
 https://fvideo6.ddns.me/vod5nn/alkber-awe-7-1.mp4/chunk.m3u8
 
 
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢  (سقط سهوا) ♢ [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3TBN6IZ" group-title="001م المصري رمضان2023سقط سهوا",الحلقةS01E01
+https://fvideo6.ddns.me/vod5nn/saqata-sahwan-1.mp4/chunk.m3u8?/ss/
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢  (رشيد) ♢ [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3JDiMJj" group-title="001م المصري رمضان2023رشيد",الحلقةS01E01
+https://fvideo6.ddns.me/vod5nn/rashed-1.mp4/chunk.m3u8?/ss/
+
+
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢  (الكتيبة 101) ♢ [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
@@ -349,7 +368,7 @@ https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-03-21/vid8L14jAdTV9.smil/
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3TDjISx" group-title="001م الخليجي رمضان2023النكران",الحلقةS01E01
-https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-03-21/vidWPsFm1ftoA.smil/chunklist_b938586.m3u8
+https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2023-03-21/vidWPsFm1ftoA.smil/chunklist.m3u8
 
 
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]♢  (قفص مخملي) ♢ [/color]
