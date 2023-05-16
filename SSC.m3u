@@ -13,22 +13,14 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-
-
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match SSC بث المباراة [/color]
 https://i.imgur.com/5Wiki1T.jpg
 
 #EXTINF:0,بث المباراة 1
-https://6f7fea04dd.s3.amazonaws.com/150bd21x/live.m3u8|Referer=https://coastalengineer.sbs/
-#EXTINF:0,بث المباراة 1 HD+
-https://6f7fea04dd.s3.amazonaws.com/150bd21x/live_720p60.m3u8|Referer=https://coastalengineer.sbs/
-#EXTINF:0,بث المباراة 1 HD
-https://6f7fea04dd.s3.amazonaws.com/150bd21x/live_720p30.m3u8|Referer=https://coastalengineer.sbs/
-#EXTINF:0,بث المباراة 1 SD
-https://6f7fea04dd.s3.amazonaws.com/150bd21x/live_480p30.m3u8|Referer=https://coastalengineer.sbs/
-#EXTINF:0,بث المباراة 1 LOW
-https://6f7fea04dd.s3.amazonaws.com/150bd21x/live_240p30.m3u8|Referer=https://coastalengineer.sbs/
+https://live5-slivertv.akamaized.net/hls/live/2015857/hls_streamer_us_central_0002/playlist.m3u8|Referer=https://damnitbitch.cfd/
 
+#EXTINF:0,بث المباراة 2
+https://live5-slivertv.akamaized.net/hls/live/2015957/hls_streamer_us_central_0098/playlist.m3u8|Referer=https://damnitbitch.cfd/
 
 
 
