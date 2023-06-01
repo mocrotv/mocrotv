@@ -8,532 +8,159 @@ https://i.imgur.com/5Wiki1T.jpg
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Ten TV " tvg-logo="https://www.ten.tv/frontend/assets/images/ten.png" group-title="المصرية Egypt",Ten TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3G2eF8Q" group-title="🇪🇬المصرية Egypt",🇪🇬قناه السلام
+http://95.216.180.111:1935/live/24/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/3hNP5ax" group-title="🇪🇬المصرية Egypt",Ten TV🇪🇬
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hNP5ax" group-title="المصرية Egypt",Ten TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3hNP5ax" group-title="🇪🇬المصرية Egypt",Ten TV🇪🇬
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4Vq87" group-title="المصرية Egypt",Mekameleen مكملين
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3KjGEn1" group-title="🇪🇬المصرية Egypt",Mekameleen 🇪🇬مكملين
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPX0qZ" group-title="المصرية Egypt",Watan TV
-https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3t7UYG3" group-title="المصرية Egypt",ajyal
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2MHeJ" group-title="المصرية Egypt",elsharqtv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3M5VrCW" group-title="🇪🇬المصرية Egypt",elsharqtv🇪🇬
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:0 tvg-id="cbc" group-title="المصرية Egypt",CBC
-http://185.217.90.110:1097/play/a00e
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="المصرية Egypt",CBC Drama
-http://185.217.90.110:1097/play/a00g
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",CBC Sofra
-http://185.217.90.110:1097/play/a00f
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40rl71g" group-title="🇪🇬المصرية Egypt",Mawda TV🇪🇬
+http://82.212.74.98:8000/live/hls/7821.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40LjRWx" group-title="🇪🇬المصرية Egypt",🇪🇬الفتح
+https://alfat7-q.com:5443/LiveApp/streams/117655467302550619118331.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3M5UNW3" group-title="🇪🇬المصرية Egypt",Alfath Sonnah TV🇪🇬
+https://alfat7-q.com:5443/LiveApp/streams/713332814575062108399616.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42T6kxM" group-title="🇪🇬المصرية Egypt",Watan TV🇪🇬
+https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3JWpf2d" group-title="🇪🇬المصرية Egypt",Huda TV🇪🇬
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/VZmLIY2.png" group-title="🇪🇬المصرية Egypt",CBC
+https://ythls.onrender.com/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3TY9QmO" group-title="🇪🇬المصرية Egypt",CBC sofra🇪🇬
+https://ythls.onrender.com/channel/UC--UtxrU7FWNCp0l7AG9EIw.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/40ymKug" group-title="🇪🇬المصرية Egypt",🇪🇬القاهرة والناس
+https://ythls.onrender.com/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/42OJck9" group-title="🇪🇬المصرية Egypt",eXtra News🇪🇬
+https://ythls.onrender.com/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3U9ASrv" group-title="🇪🇬المصرية Egypt",🇪🇬قناة النهار
+https://ythls.onrender.com/channel/UCzKamNFKCvzLOrqfBUAsD6Q.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="🇪🇬المصرية Egypt",🇪🇬بث مباشر افلام عربي
+https://ythls.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3nvtA4S" group-title="🇪🇬المصرية Egypt",Al Qahera News🇪🇬
+https://ythls.onrender.com/channel/UCcu3RolEOalAMef4Lt3uZLg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alshoub.tv/wp-content/uploads/2022/11/logo-red.png" group-title="🇪🇬المصرية Egypt",🇪🇬الشّعوب
+https://cdg8.edge.technocdn.com/alshoobtv/live/chunks.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Madani TV🇪🇬
+http://185.236.229.50:8002/play/a00v
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Madrastna 1🇪🇬
+http://185.236.229.50:8002/play/a00m
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Makkah TV🇪🇬
+http://185.236.229.50:8002/play/a015
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Mokafahat Al erhab🇪🇬
+http://185.236.229.50:8002/play/a03i
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nessma Ejdida🇪🇬
+http://185.236.229.50:8002/play/a04k
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS 3🇪🇬
+http://185.236.229.50:8002/play/a00p
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ONTIME SPORTS 3 HD🇪🇬
+http://185.236.229.50:8002/play/a00o
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ZILZAL CLASSIC🇪🇬
+http://185.236.229.50:8002/play/a02c
+
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad
-http://185.217.88.44:1084/play/a0x6
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada El Balad 2
-http://185.217.88.44:1084/play/a0x7
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sada ElBalad 3
-http://185.217.88.44:1084/play/a0x5
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Saout alaqila
-http://185.217.88.44:1084/play/a0tp
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK AFLAM
-http://185.217.88.44:1084/play/a0sp
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",TOKTOK CIMA
-http://185.217.88.44:1084/play/a0sq
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Melody Aflam
-http://185.217.88.44:1084/play/a0wr
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Melody Drama
-http://185.217.88.44:1084/play/a0wu
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Misr Quran Kareem
-http://185.217.88.44:1084/play/a0zc
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Culture
-http://185.217.88.44:1084/play/a0yz
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Family
-http://185.217.88.44:1084/play/a0yy
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E
-http://185.217.88.44:1084/play/a0z9
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E HD
-http://185.217.88.44:1084/play/a0z6
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON Drama
-http://185.217.88.44:1084/play/a0zb
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS
-http://185.217.88.44:1084/play/a0za
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS HD
-http://185.217.88.44:1084/play/a0z7
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2
-http://185.217.88.44:1084/play/a0z8
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2 HD
-http://185.217.88.44:1084/play/a0z5
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Melody Aflam
-http://185.217.90.110:1084/play/a0wr
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Melody Drama
-http://185.217.90.110:1084/play/a0wu
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Misr Quran Kareem
-http://185.217.90.110:1084/play/a0zc
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Culture
-http://185.217.90.110:1084/play/a0yz
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile Family
-http://185.217.90.110:1084/play/a0yy
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E
-http://185.217.90.110:1084/play/a0z9
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON  E HD
-http://185.217.90.110:1084/play/a0z6
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ON Drama
-http://185.217.90.110:1084/play/a0zb
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS
-http://185.217.90.110:1084/play/a0za
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS HD
-http://185.217.90.110:1084/play/a0z7
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2
-http://185.217.90.110:1084/play/a0z8
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",ONTIME SPORTS2 HD
-http://185.217.90.110:1084/play/a0z5
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar Drama
-http://185.217.90.110:1097/play/a00d
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Nahar One
-http://185.217.90.110:1097/play/a05z
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Alhayat 2
-http://185.217.90.110:1097/play/a01o
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Alhayat Muslsalat
-http://185.217.90.110:1097/play/a00i
+#EXTINF:0 tvg-id="ATV.tr" group-title="🇪🇬المصرية Egypt",A TV🇪🇬
+http://185.236.229.50:8003/play/a03i
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",AL Oula EGYPTE HD🇪🇬
+http://185.236.229.50:8003/play/a00k
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",AL oula - EGYPTE🇪🇬
+http://185.236.229.50:8003/play/a00j
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALFATH TV🇪🇬
+http://185.236.229.50:8003/play/a01n
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALISTIQAMA TV🇪🇬
+http://185.236.229.50:8003/play/a027
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALSahraa🇪🇬
+http://185.236.229.50:8003/play/a03k
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALSeha Waljamal🇪🇬
+http://185.236.229.50:8003/play/a01e
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALhayah ALaan🇪🇬
+http://185.236.229.50:8003/play/a03l
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",ALhayat🇪🇬
+http://185.236.229.50:8003/play/a03a
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al Ahly HD🇪🇬
+http://185.236.229.50:8003/play/a007
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al Ahly SD🇪🇬
+http://185.236.229.50:8003/play/a00d
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al Aoula inter - Maroc🇪🇬
+http://185.236.229.50:8003/play/a03g
+#EXTINF:0 tvg-id="AlArabiya.nws" group-title="🇪🇬المصرية Egypt",Al Arabiya🇪🇬
+http://185.236.229.50:8003/play/a008
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al Fath Sonnah TV🇪🇬
+http://185.236.229.50:8003/play/a01q
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al Forat🇪🇬
+http://185.236.229.50:8003/play/a00e
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al Ghad HD🇪🇬
+http://185.236.229.50:8003/play/a01w
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al Ghad SD🇪🇬
+http://185.236.229.50:8003/play/a01x
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al Kahera Wal Nas🇪🇬
+http://185.236.229.50:8003/play/a00h
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al Mawsleya🇪🇬
+http://185.236.229.50:8003/play/a01d
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al-Arabiya Alhadath🇪🇬
+http://185.236.229.50:8003/play/a009
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al-EKhbaria🇪🇬
+http://185.236.229.50:8003/play/a031
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al-Nahar Cinema🇪🇬
+http://185.236.229.50:8003/play/a00b
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al-Nahar Drama🇪🇬
+http://185.236.229.50:8003/play/a00x
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Al-Nahar One🇪🇬
+http://185.236.229.50:8003/play/a00w
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",AlHadath Alyoum🇪🇬
+http://185.236.229.50:8003/play/a01g
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",AlHayat HD🇪🇬
+http://185.236.229.50:8003/play/a03e
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",AlSaeedah🇪🇬
+http://185.236.229.50:8003/play/a01r
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Alhayat Muslsalat🇪🇬
+http://185.236.229.50:8003/play/a012
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Alhayat We Alnas🇪🇬
+http://185.236.229.50:8003/play/a03d
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Azhari🇪🇬
+http://185.236.229.50:8003/play/a00r
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",CBC🇪🇬
+http://185.236.229.50:8003/play/a00y
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",CBC Drama🇪🇬
+http://185.236.229.50:8003/play/a010
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",CBC Sofra🇪🇬
+http://185.236.229.50:8003/play/a00z
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",AL NADA TV
-http://149.100.10.163:8012/play/s306
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Masryia
-http://149.100.10.163:8012/play/s298
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al Nas
-http://149.100.10.163:8012/play/s305
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Al-Majd3
-http://149.100.10.163:8012/play/s307
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Althanya
-http://149.100.10.163:8012/play/s300
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Bedaya
-http://149.100.10.163:8012/play/s297
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Mega FM
-http://149.100.10.163:8012/play/s309
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nagham FM
-http://149.100.10.163:8012/play/s310
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Nile TV
-http://149.100.10.163:8012/play/s299
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Drama
-http://149.100.10.163:8012/play/s301
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Drama 2
-http://149.100.10.163:8012/play/s302
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Film
-http://149.100.10.163:8012/play/s303
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Panorama Food
-http://149.100.10.163:8012/play/s304
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Radio Hits
-http://149.100.10.163:8012/play/s308
-#EXTINF:0 tvg-id="ext" group-title="المصرية Egypt",Sha3by FM
-http://149.100.10.163:8012/play/s311
-
-
-
-
-
-
-
-
-#EXTINF:0,[EGYPT] ELMOLED
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2264
-#EXTINF:0,[EGYPT] AL oula
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2263
-#EXTINF:0,[EGYPT] Mehwer
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2262
-#EXTINF:0,[EGYPT] SHARO5AN HINDI
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2261
-#EXTINF:0,[EGYPT] Zee Zaman
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2260
-#EXTINF:0,[EGYPT] ZILZAL CLASSIC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2259
-#EXTINF:0,[EGYPT] TOP MOVIES
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2258
-#EXTINF:0,[EGYPT] TOKTOK CIMA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2257
-#EXTINF:0,[EGYPT] M CLASSIC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2256
-#EXTINF:0,[EGYPT] EDUC 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2255
-#EXTINF:0,[EGYPT] Sada ElBalad 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2254
-#EXTINF:0,[EGYPT] Egyptian TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2253
-#EXTINF:0,[EGYPT] Sada El Balad 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2252
-#EXTINF:0,[EGYPT] ALSeha Waljamal
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2251
-#EXTINF:0,Panorama Drama 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2250
-#EXTINF:0,Misr ELBald
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2249
-#EXTINF:0,Misr Quran Kareem
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2248
-#EXTINF:0,[EGYPT] NourSat CHRISTIAN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2247
-#EXTINF:0,[EGYPT] Oscar TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2246
-#EXTINF:0,[EGYPT] SAT 7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2245
-#EXTINF:0,[EGYPT] SCARE TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2244
-#EXTINF:0,[EGYPT] Mara7 TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2243
-#EXTINF:0,[EGYPT] Al Ahly TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2242
-#EXTINF:0,[EGYPT] FUNoon
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2241
-#EXTINF:0,[EGYPT] Hawacom
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2240
-#EXTINF:0,[EGYPT] MAZAZIKH TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2239
-#EXTINF:0,[EGYPT] Mazzika
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2238
-#EXTINF:0,[EGYPT]  Nogoum_FM_TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2237
-#EXTINF:0,[EGYPT]  Wanasah
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2236
-#EXTINF:0,[EGYPT]  Free_TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2235
-#EXTINF:0,[EGYPT] Aghani Aghani TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2234
-#EXTINF:0,[EGYPT] Al Basira
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2233
-#EXTINF:0,[EGYPT]  AL masriya
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2232
-#EXTINF:0,[EGYPT] WATAN TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2231
-#EXTINF:0,[EGYPT] Arabica TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2230
-#EXTINF:0,[EGYPT] Azhari
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2229
-#EXTINF:0,[EGYPT] TEBA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2228
-#EXTINF:0,[EGYPT] AL SA3A MASRA7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2227
-#EXTINF:0,[EGYPT] AL SA3AA MOSALSALATE
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2226
-#EXTINF:0,[EGYPT] AL SHASHA CINEMA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2225
-#EXTINF:0,[EGYPT]  LCD_MOVIES
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2224
-#EXTINF:0,[EGYPT] Maspero Zaman
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2223
-#EXTINF:0,[EGYPT] STAR CINEMA 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2222
-#EXTINF:0,[EGYPT] TOKTOK AFLAM
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2221
-#EXTINF:0,[EGYPT] CLICK_AFLAM
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2220
-#EXTINF:0,[EGYPT] BELODY AFLAM
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2219
-#EXTINF:0,[EGYPT] FAMILY DRAMA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2218
-#EXTINF:0,[EGYPT] DRAMA ALWAN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2217
-#EXTINF:0,[EGYPT] CIMA ALIBABA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2216
-#EXTINF:0,[EGYPT] CINEMA PRO
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2215
-#EXTINF:0,[EGYPT] CINEMA 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2214
-#EXTINF:0,[EGYPT] Cima
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2213
-#EXTINF:0,[EGYPT] Melody_CINEMA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2212
-#EXTINF:0,[EGYPT] AL YOOM ZAMAN
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2211
-#EXTINF:0,[EGYPT] Mix
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2210
-#EXTINF:0,[EGYPT] One
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2209
-#EXTINF:0,Panoramafm HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2208
-#EXTINF:0,[EGYPT]  Panorama DRAMA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2207
-#EXTINF:0,[EGYPT]  Panorama Film
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2206
-#EXTINF:0,[EGYPT]  Panorama Food
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2205
-#EXTINF:0,[EGYPT] Al Kahera Wal Nas  2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2204
-#EXTINF:0,[EGYPT] Al Kahera Wal Nas
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2203
-#EXTINF:0,[EGYPT] Sada El Balad
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2202
-#EXTINF:0,[EGYPT] Sada ElBalad Drama
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2201
-#EXTINF:0,[EGYPT] TeN TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2200
-#EXTINF:0,[EGYPT] Al-Nahar Drama
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2199
-#EXTINF:0,[EGYPT] Al-Nahar One
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2198
-#EXTINF:0,[EGYPT] ALASKANDRIA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2197
-#EXTINF:0,[EGYPT] AlHadath Alyoum
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2196
-#EXTINF:0,[EGYPT] Alhayat Muslsalat
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2195
-#EXTINF:0,[EGYPT] Alhayat 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2194
-#EXTINF:0,[EGYPT] ALhayat
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2193
-#EXTINF:0,[EGYPT] Alhayat We Alnas
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2192
-#EXTINF:0,[EGYPT] Extra News
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2191
-#EXTINF:0,[EGYPT] CBC Extra
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2190
-#EXTINF:0,[EGYPT]  CBC Sofra
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2189
-#EXTINF:0,[EGYPT] dmc News
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2188
-#EXTINF:0,[EGYPT]  Nile Cinema
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2187
-#EXTINF:0,[EGYPT] Nile Comedy
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2186
-#EXTINF:0,[EGYPT] Nile Culture
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2185
-#EXTINF:0,[EGYPT] Nile Drama
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2184
-#EXTINF:0,[EGYPT]  Nile Family and Kids
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2183
-#EXTINF:0,[EGYPT]  Nile Life
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2182
-#EXTINF:0,[EGYPT]  Nile_News
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2181
-#EXTINF:0,[EGYPT] Nile Sport
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2180
-#EXTINF:0,[EGYPT]  Nile_TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2179
-#EXTINF:0,[EGYPT] ON  Sport
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2178
-#EXTINF:0,[EGYPT] ON Drama
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2177
-#EXTINF:0,[EGYPT] ON  E
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2176
-#EXTINF:0,|EGY|Mix Bel Araby
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2175
-#EXTINF:0,[EGYPT] ON  Live
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2174
-#EXTINF:0,[EGYPT] Althanya
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2173
-#EXTINF:0,[EGYPT] AL MASSAR AL OULA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2172
-#EXTINF:0,[EGYPT] ON  Sport
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2171
-#EXTINF:0,[EGYPT] ON  Live
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2170
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,[RotanaI]  Rotana Music HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2015
-#EXTINF:0,|AR| Rotana Clip
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2014
-#EXTINF:0,|AR| Rotana Aflam HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2013
-#EXTINF:0,[RotanaI]  Rotana Classic HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2012
-#EXTINF:0,|AR| Rotana Classic
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2011
-#EXTINF:0,[RotanaI]  Rotana Khalijia HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2010
-#EXTINF:0,|AR| Rotana Khalijiah
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2009
-#EXTINF:0,[RotanaI] Rotana Masriya HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2008
-#EXTINF:0,|AR| Rotana Masriya
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2007
-#EXTINF:0,[RotanaI] Rotana Cinema HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2006
-#EXTINF:0,|AR| Rotana Cinema EGY
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2005
-#EXTINF:0,|AR| Rotana Cinema KSA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2004
-#EXTINF:0,[EGYPT] ART HEKAYAT 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2003
-#EXTINF:0,[EGYPT] ART HEKAYAT 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2002
-#EXTINF:0,[EGYPT]  ART Aflam 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2001
-#EXTINF:0,[EGYPT] ART Aflam 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/2000
-#EXTINF:0,[EGYPT] ON Drama
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1999
-#EXTINF:0,[EGYPT] ON  E
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1998
-#EXTINF:0,[EGYPT] dmc drama
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1997
-#EXTINF:0,[EGYPT] dmc
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1996
-#EXTINF:0,[EGYPT] CBC DRAMA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1995
-#EXTINF:0,[EGYPT] CBC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1994
-
-
-
-
-
-
-
-
-#EXTINF:0,Zamalek Sports
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/7520
-#EXTINF:0,Al Ahly TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/7519
-
-#EXTINF:0,|AR| ONTIME SPORTS3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1977
-#EXTINF:0,|AR| ONTIME SPORTS3 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1976
-#EXTINF:0,|AR| ONTIME SPORTS2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1975
-#EXTINF:0,|AR| ONTIME SPORTS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1974
-#EXTINF:0,ON  Sport
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1973
-#EXTINF:0,Nile Sports
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1972
-#EXTINF:0,Zamalek Sports
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1971
-#EXTINF:0,Al Ahly TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
-http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1970
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",MBC Masr 2🇪🇬
+http://185.236.229.50:8003/play/a01c
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",MBN Alhurra HD🇪🇬
+http://185.236.229.50:8003/play/a019
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",MDEEH🇪🇬
+http://185.236.229.50:8003/play/a00a
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Madrastna 3🇪🇬
+http://185.236.229.50:8003/play/a03m
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Mazzika🇪🇬
+http://185.236.229.50:8003/play/a01p
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Misr Al Zera3eya🇪🇬
+http://185.236.229.50:8003/play/a01o
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Mix🇪🇬
+http://185.236.229.50:8003/play/a014
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",NESSMA TV🇪🇬
+http://185.236.229.50:8003/play/a03j
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile Culture🇪🇬
+http://185.236.229.50:8003/play/a00n
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nile Family🇪🇬
+http://185.236.229.50:8003/play/a00m
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Nogoum FM TV🇪🇬
+http://185.236.229.50:8003/play/a01v
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",OSN HD🇪🇬
+http://185.236.229.50:8003/play/a02f
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Sada El Balad🇪🇬
+http://185.236.229.50:8003/play/a01i
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Sada El Balad 2🇪🇬
+http://185.236.229.50:8003/play/a01j
+#EXTINF:0 tvg-id="ext" group-title="🇪🇬المصرية Egypt",Sada ElBalad 3🇪🇬
+http://185.236.229.50:8003/play/a01h
 
 
 
