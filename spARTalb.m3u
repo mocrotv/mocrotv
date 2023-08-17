@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,|AL| ART SPORT 1 4K
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439577
+#EXTINF:0,|ALB| ART Sport 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439574
+#EXTINF:0,|AL| ART SPORT 2 4K
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439578
+#EXTINF:0,|ALB| ART Sport 2 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439575
+#EXTINF:0,|AL| ART SPORT 3 4K
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439579
+#EXTINF:0,|ALB| ART Sport 3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/439576

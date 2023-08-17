@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,|SW|Viasat Sport Ultra FHD SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243013
+#EXTINF:0,|SW|Viasat Sport Ultra 4K SE [Only On 4K Devices]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243012
+#EXTINF:0,|SW|Viasat Sport SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243011
+#EXTINF:0,|SW| V Sport Premium HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243089
+#EXTINF:0,|SW|Viasat Sport Premium SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243010
+#EXTINF:0,|SW|Viasat Sport Premium HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243009
+#EXTINF:0,|SW|Viasat Sport Premium FHD SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243008
+#EXTINF:0,|SW|Viasat Sport Premium FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243007
+#EXTINF:0,|SW|Viasat Sport FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243086
+#EXTINF:0,|SW|Viasat Sport FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243006
+#EXTINF:0,|SW| V Sport 1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243090
+#EXTINF:0,|SW|Viasat Motor SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243005
+#EXTINF:0,|SW| V Sport Motor HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243087
+#EXTINF:0,|SW|Viasat Motor HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243004
+#EXTINF:0,|SW|Viasat Motor FHD SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243003
+#EXTINF:0,|SW|Viasat Hockey SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243002
+#EXTINF:0,|SW|Viasat Hockey FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243001
+#EXTINF:0,|SW|Viasat Golf SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/243000
+#EXTINF:0,|SW|Viasat Golf FHD SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242999
+#EXTINF:0,|SW|Viasat Fotboll SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242998
+#EXTINF:0,|SW|Viasat Fotboll FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242997
+#EXTINF:0,|SW|Sportkanalen SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242996
+#EXTINF:0,|SW|Sportkanalen HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242995
+#EXTINF:0,|SW|Sportkanalen FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242994
+#EXTINF:0,|SW|SportExpressen TV HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242993
+#EXTINF:0,|SW|NFL Network FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242992
+#EXTINF:0,|SW|Extreme Sports HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242991
+#EXTINF:0,|SW|EuroSport 2 SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242990
+#EXTINF:0,|SW|EuroSport 2 FHD SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242989
+#EXTINF:0,|SW|EuroSport 1 SE [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242988
+#EXTINF:0,|SW|EuroSport 1 FHD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242987
+#EXTINF:0,|SW|ESport TV HD SE
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/242986
+
+#EXTINF:0,|NO|Viasat Golf FHD NO [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/202021
+#EXTINF:0,|NO|Viasat Hockey FHD NO [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/202023
+
+#EXTINF:0,|FI| Viasat Urheilu FHD FI
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19573
+#EXTINF:0,|FI| Viasat Sport Ultra FHD FI [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19574
+#EXTINF:0,|FI| Viasat Sport Ultra 4K FI [Only On 4K Devices]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19575
+#EXTINF:0,|FI| Viasat Jalkapallo FHD FI
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19576
+#EXTINF:0,|FI| Viasat Jkiekko FHD FI
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19577
+#EXTINF:0,|FI| Viasat Hockey FHD FI [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19578
+#EXTINF:0,|FI| Liiga TV UHD 4K FI [Only On 4K Devices]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19595
+#EXTINF:0,|FI| Hero FI [Live During Events Only]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19600
+#EXTINF:0,|FI| Viasat Golf FHD FI [Multi-Audio]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/19580

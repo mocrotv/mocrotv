@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️مرحبا بك في تطبيق Adrar TV[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color yellow]♦️ Welcome to Adrar TV App[/color]
+https://i.imgur.com/5Wiki1T.jpg
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green] 👉 https://bit.ly/AdrarTV [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i.imgur.com/Rd0O1Ka.png" group-title="",[color green]Live Match 1 بث المباراة [/color]
+https://i.imgur.com/5Wiki1T.jpg
+
+#EXTINF:0,بث المباراة 1
+https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b637b953959302cefb614f968c9d0b65/live.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 FHD
+https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b637b953959302cefb614f968c9d0b65/live_1080p60.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 HD+
+https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b637b953959302cefb614f968c9d0b65/live_720p60.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 HD
+https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b637b953959302cefb614f968c9d0b65/live_720p30.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 SD
+https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b637b953959302cefb614f968c9d0b65/live_480p30.m3u8|Referer=https://davorcdn.com/
+#EXTINF:0,بث المباراة 1 LOW
+https://be05801a853fb5ac99208110b1918ed3.s3.eu-central-1.amazonaws.com/b637b953959302cefb614f968c9d0b65/live_240p30.m3u8|Referer=https://davorcdn.com/
+
+
+
+
+
+
+
+
+
+#EXTINF:0,|AR| ONTIME SPORTS3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1977
+#EXTINF:0,|AR| ONTIME SPORTS3 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1976
+#EXTINF:0,|AR| ONTIME SPORTS2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1975
+#EXTINF:0,|AR| ONTIME SPORTS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1974
+#EXTINF:0,ON  Sport
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1973
+#EXTINF:0,Nile Sports
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1972
+#EXTINF:0,Zamalek Sports
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1971
+#EXTINF:0,Al Ahly TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT_DM_650HD_PRO V3
+http://dreamsat.h2t.cx:8080/SP_ARABIC/dgKUEDcq/1970
+
